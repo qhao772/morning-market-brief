@@ -1,15 +1,26 @@
 """
-Fetches fresh market data from free, no-key public sources and writes it into
-data.json. This script is run once a day by the GitHub Actions workflow at
+Fetches fresh market data from public sources and writes it into data.json.
+This script is run once a day by the GitHub Actions workflow at
 .github/workflows/update-data.yml — you should not normally need to run it
 yourself, but you can (`python scripts/update_data.py`) to test changes.
 
-Sources used (all free, no API key/account required):
-  - FRED (Federal Reserve Bank of St. Louis) CSV export: 10yr/30yr Treasury
-    yields and the Fed funds target range.
+Sources used:
+  - FRED (Federal Reserve Bank of St. Louis) official API: 10yr/30yr
+    Treasury yields and the Fed funds target range. Requires a free API key
+    (see the FRED_API_KEY note below) — without one, these fields are left
+    unchanged from the previous data.json.
   - Frankfurter.app: USD/KRW, USD/JPY, JPY/KRW exchange rates (based on ECB
-    reference rates).
-  - Google News RSS: top Korean-language "미국 증시" headlines.
+    reference rates). Free, no key needed.
+  - Google News RSS: top Korean-language "미국 증시" headlines. Free, no key
+    needed, but Google will reject requests that look automated, so we send
+    a realistic browser User-Agent header.
+
+FRED_API_KEY: get a free key at https://fred.stlouisfed.org/docs/api/api_key.html
+(just needs an email address), then add it as a repository secret named
+FRED_API_KEY (repo Settings > Secrets and variables > Actions > New repository
+secret). The workflow passes it to this script as an environment variable.
+Until that secret exists, the treasury-yield and Fed-funds fields simply stay
+at whatever they were last set to.
 
 Korea's base rate (krBase) is NOT auto-fetched, because there is no reliable
 no-key public API for it and it only changes a handful of times a year at
@@ -18,36 +29,48 @@ scheduled Bank of Korea meetings. Update it by hand in data.json (the
 """
 
 import json
+import os
 import datetime
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
 DATA_FILE = "data.json"
+FRED_API_KEY = os.environ.get("FRED_API_KEY", "").strip()
+
+# A realistic desktop-browser User-Agent. Some services (Google News among
+# them) return errors for requests that look like they come from a script
+# rather than a browser.
+BROWSER_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+)
 
 
-def http_get(url, timeout=20):
-    req = urllib.request.Request(
-        url, headers={"User-Agent": "Mozilla/5.0 (compatible; MorningMarketBrief/1.0)"}
-    )
+def http_get(url, timeout=25):
+    req = urllib.request.Request(url, headers={"User-Agent": BROWSER_UA})
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read().decode("utf-8", errors="replace")
 
 
 def fred_latest(series_id, default=None):
-    """Returns the most recent non-missing value for a FRED series, using the
-    public, no-key CSV export endpoint."""
+    """Returns the most recent non-missing value for a FRED series using the
+    official, documented FRED API. Needs FRED_API_KEY; without it, returns
+    `default` unchanged (see module docstring)."""
+    if not FRED_API_KEY:
+        print(f"[info] FRED_API_KEY not set — keeping previous value for {series_id}")
+        return default
     try:
-        csv_text = http_get(f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={series_id}")
-        lines = [l.strip() for l in csv_text.strip().splitlines() if l.strip()]
-        for line in reversed(lines[1:]):  # skip header row, walk backwards from today
-            parts = line.split(",")
-            if len(parts) < 2:
-                continue
-            value = parts[-1].strip()
-            if value in ("", "."):
-                continue  # FRED marks non-trading days with "."
-            return float(value)
+        url = (
+            "https://api.stlouisfed.org/fred/series/observations"
+            f"?series_id={series_id}&api_key={FRED_API_KEY}&file_type=json"
+            "&sort_order=desc&limit=5"
+        )
+        payload = json.loads(http_get(url))
+        for obs in payload.get("observations", []):
+            value = obs.get("value")
+            if value and value != ".":
+                return float(value)
     except Exception as exc:
         print(f"[warn] fred_latest({series_id}) failed: {exc}")
     return default

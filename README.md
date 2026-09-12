@@ -46,6 +46,16 @@
 
 바로 테스트해보고 싶다면 저장소의 **Actions** 탭 → **Update market data** 워크플로우 → **Run workflow** 버튼을 눌러 즉시 한 번 실행해볼 수 있습니다.
 
+## 3-1. 국채금리·기준금리가 갱신되게 하려면: 무료 FRED 키 등록
+
+환율과 뉴스는 키 없이 자동으로 갱신되지만, 미국 국채금리·연준 기준금리는 연준의 공식 API를 쓰는데 이건 무료 키가 하나 필요합니다. (안 하셔도 사이트는 정상 작동하지만, 이 두 값만 처음 값에서 갱신되지 않습니다.)
+
+1. [fred.stlouisfed.org/docs/api/api_key.html](https://fred.stlouisfed.org/docs/api/api_key.html) 에서 무료 계정을 만들고 API 키를 발급받습니다 (이메일만 있으면 됩니다).
+2. 저장소 **Settings** → 왼쪽 메뉴 **Secrets and variables** → **Actions** 클릭.
+3. **New repository secret** 클릭.
+4. Name에 `FRED_API_KEY` 입력 (정확히 이 이름이어야 합니다), Value에 발급받은 키를 붙여넣고 **Add secret**.
+5. **Actions** 탭 → **Update market data** 워크플로우 → **Run workflow**로 한 번 실행해서 확인합니다.
+
 ## 4. 손으로 가끔 관리해야 하는 부분
 
 자동으로 안 되는(할 수 없는) 두 가지가 있습니다. 1년에 몇 번 정도만 신경 쓰면 됩니다.

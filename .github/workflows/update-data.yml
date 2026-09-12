@@ -28,6 +28,8 @@ jobs:
           python-version: "3.12"
 
       - name: Fetch fresh market data into data.json
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
         run: python scripts/update_data.py
 
       - name: Commit and push data.json if it changed
