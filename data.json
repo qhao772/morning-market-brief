@@ -1,22 +1,47 @@
 {
-  "updatedAtISO": "2026-09-11T20:00:00Z",
-  "updatedAtLabel": "기준 2026.09.11 미국 동부시간 종가 (한국시간 09.12 06:00 확인, 이후 매일 자동 갱신)",
+  "updatedAtISO": "2026-09-12T06:59:39Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.12 15:59 (한국시간)",
   "us10y": 4.97,
-  "us30y": 5.30,
-  "fedFundsLow": 3.50,
+  "us30y": 5.3,
+  "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "fedNote": "9/16 FOMC 인상 확률 86%",
-  "krBase": 3.00,
+  "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1339.00,
-  "jpyKrw100": 871.00,
-  "usdJpy": 153.40,
+  "usdKrw": 1342.79,
+  "usdJpy": 154.04,
+  "jpyKrw100": 871.73,
   "issues": [
-    { "tag": "시장 뉴스", "title": "Stock market news for Sept. 11, 2026", "source": "CNBC", "link": "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html" },
-    { "tag": "시장 뉴스", "title": "Stock Market Midday, Sept. 11: Stocks Rise as Falling Oil Prices Outweigh Sticky Inflation", "source": "Yahoo Finance", "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-11-165319326.html" },
-    { "tag": "시장 뉴스", "title": "Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets", "source": "CNBC", "link": "https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html" },
-    { "tag": "시장 뉴스", "title": "Treasury Rates Today: September 10, 2026", "source": "Forbes Advisor", "link": "https://www.forbes.com/advisor/investing/treasury-rates/" },
-    { "tag": "시장 뉴스", "title": "Fed Rate Probability | FOMC Meeting Odds & Rate Cut Forecast 2026", "source": "centralbank.watch", "link": "https://centralbank.watch/federal-reserve/" }
+    {
+      "tag": "시장 뉴스",
+      "title": "Stock market news for Sept. 11, 2026",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "Stock Market Midday, Sept. 11: Stocks Rise as Falling Oil Prices Outweigh Sticky Inflation",
+      "source": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-11-165319326.html"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "Treasury Rates Today: September 10, 2026",
+      "source": "Forbes Advisor",
+      "link": "https://www.forbes.com/advisor/investing/treasury-rates/"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "Fed Rate Probability | FOMC Meeting Odds & Rate Cut Forecast 2026",
+      "source": "centralbank.watch",
+      "link": "https://centralbank.watch/federal-reserve/"
+    }
   ],
   "sourceNote": "자료: FRED(연준), Frankfurter(환율), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
 }
