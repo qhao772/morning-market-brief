@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-12T20:16:07Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.13 05:16 (한국시간)",
+  "updatedAtISO": "2026-09-12T21:16:26Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.13 06:16 (한국시간)",
   "us10y": 4.95,
   "us30y": 5.37,
   "fedFundsLow": 3.5,
@@ -54,15 +54,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시, 기술주 강세에 일제히 상승 마감…반도체지수 1%대 상승 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXZmxscmppYmNhV1g0VEpsNXMxc3lEQWl4SXRxVllrdUJfWktUekZWMHFmTzFvSmlfZlBrdDFXR3I2YjRTRUZIcTE1bXFVQjE2ZmFPb2NMN002Qk9YSDdSNkxBQmNoT3BwM2RQR3Vtdw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "[3분증시] 뉴욕증시, 유가·금리 부담에 사흘째 하락 - 연합뉴스",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uZHVMeDRuMTVTWVliRFRkelJmTXFBT3JYVzFOTnMtZ3cyaEdSOU02bFdaUVI2LUxCRm50SXpyTWw5UWhtcEdvZDhKVXF3OWRBalY1UUpTd3lWQ1I5Q2QzQdIBYEFVX3lxTE1uZHVMeDRuMTVTWVliRFRkelJmTXFBT3JYVzFOTnMtZ3cyaEdSOU02bFdaUVI2LUxCRm50SXpyTWw5UWhtcEdvZDhKVXF3OWRBalY1UUpTd3lWQ1I5Q2QzQQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[서울데이터랩]미국 증시, 기술주 강세에 일제히 상승 마감…반도체지수 1%대 상승 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXZmxscmppYmNhV1g0VEpsNXMxc3lEQWl4SXRxVllrdUJfWktUekZWMHFmTzFvSmlfZlBrdDFXR3I2YjRTRUZIcTE1bXFVQjE2ZmFPb2NMN002Qk9YSDdSNkxBQmNoT3BwM2RQR3Vtdw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Frankfurter(환율), Yahoo Finance(지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
