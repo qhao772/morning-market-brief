@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-12T16:16:45Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.13 01:16 (한국시간)",
+  "updatedAtISO": "2026-09-12T17:14:40Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.13 02:14 (한국시간)",
   "us10y": 4.95,
   "us30y": 5.37,
   "fedFundsLow": 3.5,
@@ -42,8 +42,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시, 기술주 강세에 일제히 상승 마감…반도체지수 1%대 상승 - 서울신문",
-      "source": "서울신문",
+      "title": "[서울데이터랩]미국 증시, 기술주 강세에 일제히 상승 마감…반도체지수 1%대 상승 - seoul.co.kr",
+      "source": "seoul.co.kr",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXZmxscmppYmNhV1g0VEpsNXMxc3lEQWl4SXRxVllrdUJfWktUekZWMHFmTzFvSmlfZlBrdDFXR3I2YjRTRUZIcTE1bXFVQjE2ZmFPb2NMN002Qk9YSDdSNkxBQmNoT3BwM2RQR3Vtdw?oc=5"
     },
     {
@@ -54,15 +54,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국 특징주] 미국 증시서 자금 이탈 가속…BofA \"변동성 확대 경고\" - 뉴스핌",
-      "source": "뉴스핌",
+      "title": "[미국 특징주] 미국 증시서 자금 이탈 가속…BofA \"변동성 확대 경고\" - newspim.com",
+      "source": "newspim.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mb1dkakdOT0lXb2pRYWl1bzdYbTFjMXBmVjZ5d3J3TURCS0MzSHVfMW9DT1Z3SFJWNWhfd05NY0VFdFdKTVdsV19aOG5lLS13MVVRVnJqdDJRcm53?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "아서 헤이즈 \"기술적 지표보다 거시적 상황이 더 중요\" - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6dTdEcXFuZHZnbUpDVUVIcWZCM2FiajJhOHJmZDlEc05zTUM4REpkenB0WngxYzVwU2ltcGo1Rm5ycVhpSE9pUzZDYlVDY1Qy?oc=5"
+      "title": "[3분증시] 뉴욕증시, 유가·금리 부담에 사흘째 하락 - 연합뉴스",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uZHVMeDRuMTVTWVliRFRkelJmTXFBT3JYVzFOTnMtZ3cyaEdSOU02bFdaUVI2LUxCRm50SXpyTWw5UWhtcEdvZDhKVXF3OWRBalY1UUpTd3lWQ1I5Q2QzQdIBYEFVX3lxTE1uZHVMeDRuMTVTWVliRFRkelJmTXFBT3JYVzFOTnMtZ3cyaEdSOU02bFdaUVI2LUxCRm50SXpyTWw5UWhtcEdvZDhKVXF3OWRBalY1UUpTd3lWQ1I5Q2QzQQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Frankfurter(환율), Yahoo Finance(지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
