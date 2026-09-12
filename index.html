@@ -1,0 +1,440 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>모닝 마켓 브리프</title>
+<style>
+  :root {
+    --bg: #eef1f4;
+    --surface: #ffffff;
+    --surface-2: #e4e9ee;
+    --border: #d3dae1;
+    --ink: #10161d;
+    --ink-soft: #3a4653;
+    --muted: #5c6773;
+    --accent: #1b4b6b;
+    --on-accent: #ffffff;
+    --accent-soft: #dde8ee;
+    --accent-2: #b9793a;
+    --accent-2-soft: #f3e6d4;
+    --good: #2f7a4f;
+    --shadow: 0 1px 2px rgba(16,22,29,.06), 0 8px 24px -16px rgba(16,22,29,.25);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0c1116;
+      --surface: #141b23;
+      --surface-2: #1b2430;
+      --border: #2a3542;
+      --ink: #e9edf1;
+      --ink-soft: #c2cad3;
+      --muted: #8b96a3;
+      --accent: #6fb3d9;
+      --on-accent: #0c1116;
+      --accent-soft: #1c3140;
+      --accent-2: #d9a054;
+      --accent-2-soft: #362a17;
+      --good: #4fae78;
+      --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px -16px rgba(0,0,0,.6);
+    }
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: "IBM Plex Sans", "Noto Sans KR", system-ui, sans-serif;
+    padding-inline: max(16px, calc((100% - 1080px) / 2));
+    padding-block: 28px 56px;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; display: flex; flex-direction: column; gap: 32px; }
+  .num { font-family: "IBM Plex Mono", ui-monospace, monospace; font-variant-numeric: tabular-nums; }
+  h1, h2, h3 { text-wrap: balance; margin: 0; }
+
+  .masthead {
+    display: flex; justify-content: space-between; align-items: flex-end;
+    gap: 16px; flex-wrap: wrap;
+    border-bottom: 2px solid var(--ink);
+    padding-bottom: 16px;
+  }
+  .brand-eyebrow {
+    font-size: 12px; letter-spacing: .12em; text-transform: uppercase;
+    color: var(--accent-2); font-weight: 600; margin-bottom: 6px;
+  }
+  .brand-title {
+    font-family: "Fraunces", Georgia, serif;
+    font-size: clamp(28px, 4.5vw, 40px);
+    font-weight: 600; font-optical-sizing: auto;
+    color: var(--ink); letter-spacing: -.01em;
+  }
+  .masthead-meta { text-align: right; display: flex; flex-direction: column; gap: 6px; align-items: flex-end; }
+  .freshness { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--good); flex: none; }
+  .dot.stale { background: var(--accent-2); }
+  .updated-at { font-size: 13px; color: var(--ink-soft); }
+  .next-update { font-size: 12px; color: var(--muted); }
+
+  .section-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 14px; flex-wrap: wrap; }
+  .section-title { font-family: "Fraunces", Georgia, serif; font-size: 21px; font-weight: 600; color: var(--ink); }
+  .section-sub { font-size: 13px; color: var(--muted); }
+
+  .grid { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); }
+  .card {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+    padding: 16px 18px; box-shadow: var(--shadow);
+    display: flex; flex-direction: column; gap: 6px; min-width: 0;
+  }
+  .card-label { font-size: 12px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+  .card-value { font-size: 26px; font-weight: 600; color: var(--ink); line-height: 1.15; }
+  .card-sub { font-size: 12.5px; color: var(--ink-soft); }
+  .pill {
+    display: inline-flex; align-items: center; gap: 4px; font-size: 12px; font-weight: 600;
+    padding: 2px 8px; border-radius: 999px; width: fit-content; background: var(--accent-soft); color: var(--accent);
+  }
+
+  .schedule-grid { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); margin-top: 12px; }
+  .schedule-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 16px 18px; box-shadow: var(--shadow); display: flex; flex-direction: column; gap: 10px; }
+  .chip-list { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip {
+    font-family: "IBM Plex Mono", ui-monospace, monospace; font-variant-numeric: tabular-nums;
+    font-size: 12.5px; padding: 4px 9px; border-radius: 999px;
+    background: var(--surface-2); color: var(--ink-soft);
+  }
+  .chip.past { opacity: .45; text-decoration: line-through; }
+  .chip.next { background: var(--accent); color: var(--on-accent); font-weight: 600; }
+  .chip-inline.next { display: inline-flex; background: var(--accent); color: var(--on-accent); font-weight: 600; padding: 1px 7px; border-radius: 999px; font-size: 11.5px; }
+
+  .tv-heatmap-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; box-shadow: var(--shadow); }
+  .tv-note { margin-top: 10px; font-size: 12.5px; color: var(--muted); }
+
+  .issues { display: flex; flex-direction: column; gap: 10px; }
+  .issue {
+    display: grid; grid-template-columns: 34px 1fr; gap: 14px;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+    padding: 14px 16px; box-shadow: var(--shadow);
+  }
+  .issue-rank { font-family: "Fraunces", serif; font-size: 22px; font-weight: 600; color: var(--accent-2); line-height: 1.4; }
+  .issue-body { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+  .issue-top { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .issue-tag { font-size: 11px; letter-spacing: .04em; text-transform: uppercase; font-weight: 700; color: var(--accent); background: var(--accent-soft); padding: 2px 7px; border-radius: 5px; flex: none; }
+  .issue-title { font-size: 15.5px; font-weight: 600; color: var(--ink); text-decoration: none; }
+  .issue-title:hover { text-decoration: underline; }
+  .issue-desc { font-size: 13px; color: var(--muted); }
+
+  footer { border-top: 1px solid var(--border); padding-top: 16px; display: flex; flex-direction: column; gap: 6px; }
+  footer p { margin: 0; font-size: 12.5px; color: var(--muted); line-height: 1.6; }
+  footer a { color: var(--accent); }
+
+  @media (max-width: 480px) {
+    .bar-row { grid-template-columns: 84px 1fr 52px; gap: 8px; }
+    .masthead { flex-direction: column; align-items: flex-start; }
+    .masthead-meta { align-items: flex-start; text-align: left; }
+  }
+</style>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+</head>
+<body>
+
+<div class="wrap">
+
+  <div class="masthead">
+    <div>
+      <div class="brand-eyebrow">Daily Macro Brief · 데일리 매크로 브리핑</div>
+      <h1 class="brand-title">모닝 마켓 브리프</h1>
+    </div>
+    <div class="masthead-meta">
+      <div class="freshness"><span class="dot" id="freshDot"></span><span id="freshLabel">데이터 불러오는 중…</span></div>
+      <div class="updated-at num" id="updatedAt">—</div>
+      <div class="next-update">매일 한국시간 새벽 6시, GitHub Actions가 자동으로 데이터를 갱신합니다</div>
+    </div>
+  </div>
+
+  <section>
+    <div class="section-head">
+      <div class="section-title">채권 · 정책금리</div>
+      <div class="section-sub">국채금리 · 기준금리 · 발표 일정</div>
+    </div>
+
+    <div class="grid">
+      <div class="card">
+        <div class="card-label">미국 10년물 국채금리</div>
+        <div class="card-value num" id="us10y">—</div>
+        <span class="card-sub">전일 종가 기준</span>
+      </div>
+      <div class="card">
+        <div class="card-label">미국 30년물 국채금리</div>
+        <div class="card-value num" id="us30y">—</div>
+        <span class="card-sub">전일 종가 기준</span>
+      </div>
+      <div class="card">
+        <div class="card-label">미국 기준금리 (FOMC 목표범위)</div>
+        <div class="card-value num" id="fedFunds">—</div>
+        <span class="pill" id="fedNote">—</span>
+        <span class="card-sub">미국은 1999년부터 기준금리를 한 숫자가 아닌 상단·하단 범위로 발표합니다</span>
+      </div>
+      <div class="card">
+        <div class="card-label">한국 기준금리</div>
+        <div class="card-value num" id="krBase">—</div>
+        <span class="pill" id="krBaseNote">한국은행 금융통화위원회</span>
+      </div>
+    </div>
+
+    <div class="schedule-grid">
+      <div class="schedule-card">
+        <div class="card-label">FOMC 회의 일정</div>
+        <div class="chip-list" id="fomcSchedule"></div>
+      </div>
+      <div class="schedule-card">
+        <div class="card-label">CPI (소비자물가지수) 발표일</div>
+        <div class="chip-list" id="cpiSchedule"></div>
+      </div>
+      <div class="schedule-card">
+        <div class="card-label">PPI (생산자물가지수) 발표일</div>
+        <div class="chip-list" id="ppiSchedule"></div>
+      </div>
+    </div>
+    <p class="tv-note"><span id="scheduleYearTitle">2026년</span> 공식 일정이며 <span class="chip-inline next">파란 배지</span>가 다음 발표일입니다. 자료: <a href="https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm" target="_blank" rel="noopener">연방준비제도</a>, <a href="https://fred.stlouisfed.org/releases/calendar?rid=10" target="_blank" rel="noopener">FRED 경제지표 캘린더</a></p>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <div class="section-title">환율</div>
+      <div class="section-sub">원/달러 · 원/엔 · 달러/엔 (매일 자동 갱신)</div>
+    </div>
+    <div class="grid">
+      <div class="card">
+        <div class="card-label">원 / 달러</div>
+        <div class="card-value num" id="usdKrw">—</div>
+        <span class="card-sub">USD/KRW</span>
+      </div>
+      <div class="card">
+        <div class="card-label">원 / 100엔</div>
+        <div class="card-value num" id="jpyKrw">—</div>
+        <span class="card-sub">JPY/KRW ×100</span>
+      </div>
+      <div class="card">
+        <div class="card-label">달러 / 엔</div>
+        <div class="card-value num" id="usdJpy">—</div>
+        <span class="card-sub">USD/JPY</span>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <div class="section-title">미국 증시 섹터 히트맵</div>
+      <div class="section-sub">S&amp;P 500 · TradingView 실시간 위젯</div>
+    </div>
+    <div class="tv-heatmap-card">
+      <div id="tvHeatmap"></div>
+    </div>
+    <p class="tv-note">이 지도는 TradingView가 실시간으로 제공하는 공식 위젯입니다 (핀비즈와 같은 방식의 섹터별 시가총액 히트맵). 클릭하면 종목별로 확대해서 볼 수 있습니다.</p>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <div class="section-title">오늘의 미국 증시 헤드라인 5</div>
+      <div class="section-sub">최신순 자동 수집</div>
+    </div>
+    <div class="issues" id="issues"></div>
+  </section>
+
+  <footer>
+    <p id="sourceNote">자료: FRED(연준), Frankfurter(환율), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요.</p>
+    <p>이 페이지는 <code>data.json</code> 파일을 읽어 화면을 채웁니다. 그 파일은 GitHub Actions가 매일 한국시간 새벽 6시에 자동으로 새로 만들어 이 저장소에 커밋합니다. 컴퓨터를 꺼두거나 Claude를 열지 않아도 계속 갱신됩니다.</p>
+  </footer>
+</div>
+
+<script>
+  // ---- Fallback data, shown immediately and whenever data.json can't be loaded
+  // (for example when this file is opened directly by double-clicking it) ----
+  var SEED = {
+    updatedAtISO: "2026-09-11T20:00:00Z",
+    updatedAtLabel: "기준 2026.09.11 (data.json을 아직 불러오지 못했습니다 — 예시 값)",
+    us10y: 4.97,
+    us30y: 5.30,
+    fedFundsLow: 3.50,
+    fedFundsHigh: 3.75,
+    fedNote: "9/16 FOMC 인상 확률 86%",
+    krBase: 3.00,
+    krBaseNote: "한국은행 금융통화위원회",
+    usdKrw: 1339.00,
+    jpyKrw100: 871.00,
+    usdJpy: 153.40,
+    issues: [
+      { tag: "시장 뉴스", title: "Stock market news for Sept. 11, 2026", source: "CNBC", link: "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html" },
+      { tag: "시장 뉴스", title: "Stock Market Midday, Sept. 11: Stocks Rise as Falling Oil Prices Outweigh Sticky Inflation", source: "Yahoo Finance", link: "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-11-165319326.html" },
+      { tag: "시장 뉴스", title: "Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets", source: "CNBC", link: "https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html" },
+      { tag: "시장 뉴스", title: "Treasury Rates Today: September 10, 2026", source: "Forbes Advisor", link: "https://www.forbes.com/advisor/investing/treasury-rates/" },
+      { tag: "시장 뉴스", title: "Fed Rate Probability | FOMC Meeting Odds & Rate Cut Forecast 2026", source: "centralbank.watch", link: "https://centralbank.watch/federal-reserve/" }
+    ],
+    sourceNote: "자료: FRED(연준), Frankfurter(환율), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
+  };
+
+  function fmt(n, d) {
+    if (n === null || n === undefined || isNaN(n)) return "—";
+    return Number(n).toLocaleString("ko-KR", { minimumFractionDigits: d, maximumFractionDigits: d });
+  }
+
+  function render(d) {
+    document.getElementById("updatedAt").textContent = d.updatedAtLabel || "—";
+    document.getElementById("us10y").textContent = fmt(d.us10y, 2) + "%";
+    document.getElementById("us30y").textContent = fmt(d.us30y, 2) + "%";
+    document.getElementById("fedFunds").textContent = fmt(d.fedFundsLow, 2) + "–" + fmt(d.fedFundsHigh, 2) + "%";
+    document.getElementById("fedNote").textContent = d.fedNote || "FOMC 목표범위";
+    document.getElementById("krBase").textContent = fmt(d.krBase, 2) + "%";
+    document.getElementById("krBaseNote").textContent = d.krBaseNote || "한국은행 금융통화위원회";
+    document.getElementById("usdKrw").textContent = fmt(d.usdKrw, 2);
+    document.getElementById("jpyKrw").textContent = fmt(d.jpyKrw100, 2);
+    document.getElementById("usdJpy").textContent = fmt(d.usdJpy, 2);
+    document.getElementById("sourceNote").textContent = d.sourceNote || SEED.sourceNote;
+
+    var issuesEl = document.getElementById("issues");
+    issuesEl.innerHTML = "";
+    (d.issues || []).forEach(function (it, i) {
+      var row = document.createElement("div");
+      row.className = "issue";
+      row.innerHTML =
+        '<div class="issue-rank num">' + (i + 1) + '</div>' +
+        '<div class="issue-body">' +
+        '<div class="issue-top"><span class="issue-tag">' + (it.tag || "시장 뉴스") + '</span>' +
+        '<a class="issue-title" href="' + it.link + '" target="_blank" rel="noopener">' + it.title + '</a></div>' +
+        '<div class="issue-desc">출처: ' + (it.source || "") + '</div>' +
+        '</div>';
+      issuesEl.appendChild(row);
+    });
+
+    try {
+      var ageHrs = (Date.now() - new Date(d.updatedAtISO).getTime()) / 36e5;
+      var dot = document.getElementById("freshDot");
+      var label = document.getElementById("freshLabel");
+      if (ageHrs <= 30) {
+        dot.classList.remove("stale");
+        label.textContent = "최신 데이터";
+      } else {
+        dot.classList.add("stale");
+        label.textContent = "업데이트 지연 (" + Math.round(ageHrs) + "시간 전 기준)";
+      }
+    } catch (e) {}
+  }
+
+  render(SEED);
+
+  fetch("./data.json", { cache: "no-store" })
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (data) { if (data) render(data); })
+    .catch(function () { /* offline or opened as a local file: SEED stays on screen */ });
+
+  // ---- TradingView live widgets ----
+  function tvColorTheme() {
+    return (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
+  }
+  function mountTV(containerId, file, config) {
+    var host = document.getElementById(containerId);
+    if (!host) return;
+    var wrap = document.createElement("div");
+    wrap.className = "tradingview-widget-container";
+    var inner = document.createElement("div");
+    wrap.appendChild(inner);
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "https://s3.tradingview.com/external-embedding/embed-widget-" + file + ".js";
+    script.async = true;
+    var full = Object.assign({ colorTheme: tvColorTheme() }, config);
+    script.text = JSON.stringify(full);
+    wrap.appendChild(script);
+    host.appendChild(wrap);
+  }
+  mountTV("tvHeatmap", "stock-heatmap", { exchanges: [], dataSource: "SPX500", grouping: "sector", blockSize: "market_cap_basic", blockColor: "change", locale: "kr", symbolUrl: "", hasTopBar: true, isDataSetEnabled: false, isZoomEnabled: true, isMonoSize: false, width: "100%", height: 480 });
+
+  // ---- FOMC / CPI / PPI schedules ----
+  // Official dates from federalreserve.gov (FOMC) and the BLS/FRED release calendars (CPI, PPI).
+  // This list only needs a manual update once a year, whenever the Fed and BLS publish the
+  // next year's calendar (usually mid-to-late in the prior year).
+  var SCHEDULES = {
+    fomc: [
+      { year: 2026, start: "2026-01-27", end: "2026-01-28" },
+      { year: 2026, start: "2026-03-17", end: "2026-03-18" },
+      { year: 2026, start: "2026-04-28", end: "2026-04-29" },
+      { year: 2026, start: "2026-06-16", end: "2026-06-17" },
+      { year: 2026, start: "2026-07-28", end: "2026-07-29" },
+      { year: 2026, start: "2026-09-15", end: "2026-09-16" },
+      { year: 2026, start: "2026-10-27", end: "2026-10-28" },
+      { year: 2026, start: "2026-12-08", end: "2026-12-09" },
+      { year: 2027, start: "2027-01-26", end: "2027-01-27" },
+      { year: 2027, start: "2027-03-16", end: "2027-03-17" },
+      { year: 2027, start: "2027-04-27", end: "2027-04-28" },
+      { year: 2027, start: "2027-06-08", end: "2027-06-09" },
+      { year: 2027, start: "2027-07-27", end: "2027-07-28" },
+      { year: 2027, start: "2027-09-14", end: "2027-09-15" },
+      { year: 2027, start: "2027-10-26", end: "2027-10-27" },
+      { year: 2027, start: "2027-12-07", end: "2027-12-08" }
+    ],
+    cpi: [
+      { year: 2026, date: "2026-01-13" }, { year: 2026, date: "2026-02-13" }, { year: 2026, date: "2026-03-11" },
+      { year: 2026, date: "2026-04-10" }, { year: 2026, date: "2026-05-12" }, { year: 2026, date: "2026-06-10" },
+      { year: 2026, date: "2026-07-14" }, { year: 2026, date: "2026-08-12" }, { year: 2026, date: "2026-09-11" },
+      { year: 2026, date: "2026-10-14" }, { year: 2026, date: "2026-11-10" }, { year: 2026, date: "2026-12-10" }
+    ],
+    ppi: [
+      { year: 2026, date: "2026-01-14" }, { year: 2026, date: "2026-01-30" }, { year: 2026, date: "2026-02-27" },
+      { year: 2026, date: "2026-03-18" }, { year: 2026, date: "2026-04-14" }, { year: 2026, date: "2026-05-13" },
+      { year: 2026, date: "2026-06-11" }, { year: 2026, date: "2026-07-15" }, { year: 2026, date: "2026-08-13" },
+      { year: 2026, date: "2026-09-10" }, { year: 2026, date: "2026-10-15" }, { year: 2026, date: "2026-11-13" },
+      { year: 2026, date: "2026-12-15" }
+    ]
+  };
+
+  function scheduleLabel(item) {
+    if (item.start) {
+      var s = new Date(item.start + "T00:00:00");
+      var e = new Date(item.end + "T00:00:00");
+      return (s.getMonth() + 1) + "." + s.getDate() + "–" + e.getDate();
+    }
+    var d = new Date(item.date + "T00:00:00");
+    return (d.getMonth() + 1) + "." + d.getDate();
+  }
+
+  function renderScheduleList(containerId, items) {
+    var el = document.getElementById(containerId);
+    if (!el) return;
+    var today = new Date(); today.setHours(0, 0, 0, 0);
+    var year = today.getFullYear();
+    var list = items
+      .filter(function (it) { return it.year === year; })
+      .sort(function (a, b) { return (a.start || a.date) < (b.start || b.date) ? -1 : 1; });
+
+    el.innerHTML = "";
+    if (!list.length) {
+      var none = document.createElement("span");
+      none.className = "chip";
+      none.textContent = year + "년 일정이 아직 발표되지 않았습니다";
+      el.appendChild(none);
+      return;
+    }
+    var nextIdx = list.findIndex(function (it) {
+      var end = new Date((it.end || it.date) + "T23:59:59");
+      return end >= today;
+    });
+    list.forEach(function (it, i) {
+      var chip = document.createElement("span");
+      var isNext = i === nextIdx;
+      var isPast = nextIdx === -1 || i < nextIdx;
+      chip.className = "chip" + (isNext ? " next" : (isPast ? " past" : ""));
+      chip.textContent = scheduleLabel(it) + (isNext ? " · 다음" : "");
+      el.appendChild(chip);
+    });
+  }
+
+  var scheduleYear = new Date().getFullYear();
+  var scheduleYearEl = document.getElementById("scheduleYearTitle");
+  if (scheduleYearEl) scheduleYearEl.textContent = scheduleYear + "년";
+  renderScheduleList("fomcSchedule", SCHEDULES.fomc);
+  renderScheduleList("cpiSchedule", SCHEDULES.cpi);
+  renderScheduleList("ppiSchedule", SCHEDULES.ppi);
+</script>
+</body>
+</html>
