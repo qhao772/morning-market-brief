@@ -1,11 +1,12 @@
 name: Update market data
 
-# Runs automatically every day at 21:00 UTC, which is 06:00 the next day in
-# Korea (KST = UTC+9). You can also trigger it manually from the "Actions"
-# tab on GitHub using the "Run workflow" button (workflow_dispatch).
+# Runs automatically at the top of every hour (24 times a day), so the site
+# stays close to current whenever it's opened. You can also trigger it
+# manually from the "Actions" tab on GitHub using the "Run workflow" button
+# (workflow_dispatch).
 on:
   schedule:
-    - cron: "0 21 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch: {}
 
 # Needed so this workflow is allowed to commit the updated data.json back to
