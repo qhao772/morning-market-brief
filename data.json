@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-12T06:59:39Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.12 15:59 (한국시간)",
+  "updatedAtISO": "2026-09-12T07:03:30Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.12 16:03 (한국시간)",
   "us10y": 4.97,
   "us30y": 5.3,
   "fedFundsLow": 3.5,
@@ -14,33 +14,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "Stock market news for Sept. 11, 2026",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html"
+      "title": "[EBN 데이터센터] 미국 증시, 기술주 강세에 일제히 상승 마감…필라델피아 반도체 1.81% 올라 - ebn.co.kr",
+      "source": "ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GcFNCcDg3Z2VhYjdIQ3ZKNUZKbkdtalRLYW9nWHZaSlFqOWZtT0FEX243ajBWSHRTN3pvWUZUai1tWE5ycGtJRXFiTVM4MW44cnF4Nmc1YTgwd0ZRRldzSWI0a2toWVo5?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "Stock Market Midday, Sept. 11: Stocks Rise as Falling Oil Prices Outweigh Sticky Inflation",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-11-165319326.html"
+      "title": "[서울데이터랩]미국 증시, 기술주 강세에 일제히 상승 마감…반도체지수 1%대 상승 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXZmxscmppYmNhV1g0VEpsNXMxc3lEQWl4SXRxVllrdUJfWktUekZWMHFmTzFvSmlfZlBrdDFXR3I2YjRTRUZIcTE1bXFVQjE2ZmFPb2NMN002Qk9YSDdSNkxBQmNoT3BwM2RQR3Vtdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets",
-      "source": "CNBC",
-      "link": "https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html"
+      "title": "안전벨트 매고 레버리지로 가속페달…‘양면 베팅’으로 갈아탄 서학개미들 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OaWtZbEViZFlmVFhVenctS01zNTN3Y0pCUWhNdlhicGxnbE1yVmotTjEzODhtMFhlOGZSUXVFcFJWUG8xY3p1cXB3X2dqei0wUXc?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "Treasury Rates Today: September 10, 2026",
-      "source": "Forbes Advisor",
-      "link": "https://www.forbes.com/advisor/investing/treasury-rates/"
+      "title": "[미국 특징주] 미국 증시서 자금 이탈 가속…BofA \"변동성 확대 경고\" - 뉴스핌",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mb1dkakdOT0lXb2pRYWl1bzdYbTFjMXBmVjZ5d3J3TURCS0MzSHVfMW9DT1Z3SFJWNWhfd05NY0VFdFdKTVdsV19aOG5lLS13MVVRVnJqdDJRcm53?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "Fed Rate Probability | FOMC Meeting Odds & Rate Cut Forecast 2026",
-      "source": "centralbank.watch",
-      "link": "https://centralbank.watch/federal-reserve/"
+      "title": "미국 증시 선물, 주요 인플레이션 데이터 앞두고 혼조세 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HQmVvanRIaUd4YThYa003WElSbXMwam1qWEs2ZV9TOTZ6SDVkdmNSdXFMRVlrRmZTNEdJMVd4NXpLWHMwUm11RWRFYUxhV1J6TTlGd21vY3RSN1NyQjR2QXNha042YTVSZUE2R3RhbDU?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Frankfurter(환율), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
