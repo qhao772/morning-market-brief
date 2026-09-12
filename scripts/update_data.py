@@ -14,6 +14,9 @@ Sources used:
   - Google News RSS: top Korean-language "미국 증시" headlines. Free, no key
     needed, but Google will reject requests that look automated, so we send
     a realistic browser User-Agent header.
+  - Yahoo Finance's public quote endpoint: KOSPI, KOSDAQ, S&P 500, Nasdaq
+    Composite, and the Philadelphia Semiconductor Index (SOX). Free, no key
+    needed.
 
 FRED_API_KEY: get a free key at https://fred.stlouisfed.org/docs/api/api_key.html
 (just needs an email address), then add it as a repository secret named
@@ -85,6 +88,44 @@ def frankfurter_rates(base, symbols):
         return {}
 
 
+YAHOO_INDEX_SYMBOLS = {
+    "kospi": "%5EKS11",
+    "kosdaq": "%5EKQ11",
+    "sp500": "%5EGSPC",
+    "nasdaq": "%5EIXIC",
+    "sox": "%5ESOX",
+}
+
+
+def yahoo_quote(symbol_encoded):
+    """Returns (price, changePercent) for a Yahoo Finance chart-API symbol,
+    or (None, None) on any failure."""
+    try:
+        url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol_encoded}?range=1d&interval=1d"
+        meta = json.loads(http_get(url))["chart"]["result"][0]["meta"]
+        price = meta.get("regularMarketPrice")
+        change_pct = meta.get("regularMarketChangePercent")
+        prev_close = meta.get("chartPreviousClose")
+        if change_pct is None and price is not None and prev_close:
+            change_pct = (price - prev_close) / prev_close * 100
+        return price, change_pct
+    except Exception as exc:
+        print(f"[warn] yahoo_quote({symbol_encoded}) failed: {exc}")
+        return None, None
+
+
+def fetch_indices(prev_indices):
+    indices = {}
+    for key, symbol in YAHOO_INDEX_SYMBOLS.items():
+        price, change_pct = yahoo_quote(symbol)
+        prev_entry = prev_indices.get(key, {})
+        indices[key] = {
+            "value": round(price, 2) if price is not None else prev_entry.get("value"),
+            "changePct": round(change_pct, 2) if change_pct is not None else prev_entry.get("changePct"),
+        }
+    return indices
+
+
 def fetch_headlines(limit=5):
     try:
         query = urllib.parse.quote("미국 증시")
@@ -124,6 +165,8 @@ def main():
     jpy_krw_raw = jpy_rates.get("KRW")
     jpy_krw_100 = jpy_krw_raw * 100 if jpy_krw_raw else prev.get("jpyKrw100")
 
+    indices = fetch_indices(prev.get("indices", {}))
+
     issues = fetch_headlines() or prev.get("issues", [])
 
     now_utc = datetime.datetime.utcnow()
@@ -144,10 +187,11 @@ def main():
         "usdKrw": round(usd_krw, 2) if usd_krw is not None else None,
         "usdJpy": round(usd_jpy, 2) if usd_jpy is not None else None,
         "jpyKrw100": round(jpy_krw_100, 2) if jpy_krw_100 is not None else None,
+        "indices": indices,
         "issues": issues,
         "sourceNote": (
-            "자료: FRED(연준), Frankfurter(환율), 구글 뉴스 등 공개 데이터를 자동으로 모은 "
-            "참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
+            "자료: FRED(연준), Frankfurter(환율), Yahoo Finance(지수), 구글 뉴스 등 공개 데이터를 "
+            "자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
         ),
     }
 

@@ -19,6 +19,10 @@
     --accent-2: #b9793a;
     --accent-2-soft: #f3e6d4;
     --good: #2f7a4f;
+    --up: #c23b32;
+    --up-soft: #f6dbd8;
+    --down: #2458b0;
+    --down-soft: #dbe6f7;
     --shadow: 0 1px 2px rgba(16,22,29,.06), 0 8px 24px -16px rgba(16,22,29,.25);
   }
   @media (prefers-color-scheme: dark) {
@@ -36,6 +40,10 @@
       --accent-2: #d9a054;
       --accent-2-soft: #362a17;
       --good: #4fae78;
+      --up: #e2665b;
+      --up-soft: #3a201d;
+      --down: #6f9fe8;
+      --down-soft: #1d2b45;
       --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px -16px rgba(0,0,0,.6);
     }
   }
@@ -93,6 +101,8 @@
     display: inline-flex; align-items: center; gap: 4px; font-size: 12px; font-weight: 600;
     padding: 2px 8px; border-radius: 999px; width: fit-content; background: var(--accent-soft); color: var(--accent);
   }
+  .pill.up { background: var(--up-soft); color: var(--up); }
+  .pill.down { background: var(--down-soft); color: var(--down); }
 
   .schedule-grid { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); margin-top: 12px; }
   .schedule-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 16px 18px; box-shadow: var(--shadow); display: flex; flex-direction: column; gap: 10px; }
@@ -202,7 +212,7 @@
   <section>
     <div class="section-head">
       <div class="section-title">환율</div>
-      <div class="section-sub">원/달러 · 원/엔 · 달러/엔 (매일 자동 갱신)</div>
+      <div class="section-sub">원/달러 · 원/엔 · 달러/엔 (매시간 자동 갱신)</div>
     </div>
     <div class="grid">
       <div class="card">
@@ -225,6 +235,41 @@
 
   <section>
     <div class="section-head">
+      <div class="section-title">국내외 주요 지수</div>
+      <div class="section-sub">코스피 · 코스닥 · S&amp;P 500 · 나스닥 · 필라델피아반도체 (매시간 자동 갱신)</div>
+    </div>
+    <div class="grid">
+      <div class="card">
+        <div class="card-label">코스피</div>
+        <div class="card-value num" id="kospiValue">—</div>
+        <span class="pill" id="kospiPct">—</span>
+      </div>
+      <div class="card">
+        <div class="card-label">코스닥</div>
+        <div class="card-value num" id="kosdaqValue">—</div>
+        <span class="pill" id="kosdaqPct">—</span>
+      </div>
+      <div class="card">
+        <div class="card-label">S&amp;P 500</div>
+        <div class="card-value num" id="sp500Value">—</div>
+        <span class="pill" id="sp500Pct">—</span>
+      </div>
+      <div class="card">
+        <div class="card-label">나스닥종합지수</div>
+        <div class="card-value num" id="nasdaqValue">—</div>
+        <span class="pill" id="nasdaqPct">—</span>
+      </div>
+      <div class="card">
+        <div class="card-label">필라델피아 반도체지수</div>
+        <div class="card-value num" id="soxValue">—</div>
+        <span class="pill" id="soxPct">—</span>
+      </div>
+    </div>
+    <p class="tv-note">색·기호는 한국식 표기(빨강=상승, 파랑=하락)를 따릅니다. 자료: Yahoo Finance</p>
+  </section>
+
+  <section>
+    <div class="section-head">
       <div class="section-title">미국 증시 섹터 히트맵</div>
       <div class="section-sub">S&amp;P 500 · TradingView 실시간 위젯</div>
     </div>
@@ -243,7 +288,7 @@
   </section>
 
   <footer>
-    <p id="sourceNote">자료: FRED(연준), Frankfurter(환율), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요.</p>
+    <p id="sourceNote">자료: FRED(연준), Frankfurter(환율), Yahoo Finance(지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요.</p>
     <p>이 페이지는 <code>data.json</code> 파일을 읽어 화면을 채웁니다. 그 파일은 GitHub Actions가 매시 정각마다 자동으로 새로 만들어 이 저장소에 커밋합니다. 컴퓨터를 꺼두거나 Claude를 열지 않아도 계속 갱신됩니다.</p>
   </footer>
 </div>
@@ -264,6 +309,13 @@
     usdKrw: 1339.00,
     jpyKrw100: 871.00,
     usdJpy: 153.40,
+    indices: {
+      kospi: { value: 6909.91, changePct: -1.76 },
+      kosdaq: { value: 820.64, changePct: -1.95 },
+      sp500: { value: 7656.98, changePct: 0.86 },
+      nasdaq: { value: 26333.04, changePct: 0.96 },
+      sox: { value: 11824.00, changePct: 1.81 }
+    },
     issues: [
       { tag: "시장 뉴스", title: "Stock market news for Sept. 11, 2026", source: "CNBC", link: "https://www.cnbc.com/2026/09/10/stock-market-today-live-updates.html" },
       { tag: "시장 뉴스", title: "Stock Market Midday, Sept. 11: Stocks Rise as Falling Oil Prices Outweigh Sticky Inflation", source: "Yahoo Finance", link: "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-11-165319326.html" },
@@ -271,12 +323,30 @@
       { tag: "시장 뉴스", title: "Treasury Rates Today: September 10, 2026", source: "Forbes Advisor", link: "https://www.forbes.com/advisor/investing/treasury-rates/" },
       { tag: "시장 뉴스", title: "Fed Rate Probability | FOMC Meeting Odds & Rate Cut Forecast 2026", source: "centralbank.watch", link: "https://centralbank.watch/federal-reserve/" }
     ],
-    sourceNote: "자료: FRED(연준), Frankfurter(환율), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
+    sourceNote: "자료: FRED(연준), Frankfurter(환율), Yahoo Finance(지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
   };
 
   function fmt(n, d) {
     if (n === null || n === undefined || isNaN(n)) return "—";
     return Number(n).toLocaleString("ko-KR", { minimumFractionDigits: d, maximumFractionDigits: d });
+  }
+
+  function renderIndex(key, indices) {
+    var entry = (indices || {})[key] || {};
+    var valueEl = document.getElementById(key + "Value");
+    var pctEl = document.getElementById(key + "Pct");
+    if (!valueEl || !pctEl) return;
+    valueEl.textContent = fmt(entry.value, 2);
+    var pct = entry.changePct;
+    if (pct === null || pct === undefined || isNaN(pct)) {
+      pctEl.className = "pill";
+      pctEl.textContent = "—";
+      return;
+    }
+    var isUp = pct > 0;
+    var isFlat = Math.abs(pct) < 0.005;
+    pctEl.className = "pill" + (isFlat ? "" : (isUp ? " up" : " down"));
+    pctEl.textContent = (isFlat ? "" : (isUp ? "▲ " : "▼ ")) + (isUp && !isFlat ? "+" : "") + fmt(pct, 2) + "%";
   }
 
   function render(d) {
@@ -291,6 +361,12 @@
     document.getElementById("jpyKrw").textContent = fmt(d.jpyKrw100, 2);
     document.getElementById("usdJpy").textContent = fmt(d.usdJpy, 2);
     document.getElementById("sourceNote").textContent = d.sourceNote || SEED.sourceNote;
+
+    renderIndex("kospi", d.indices);
+    renderIndex("kosdaq", d.indices);
+    renderIndex("sp500", d.indices);
+    renderIndex("nasdaq", d.indices);
+    renderIndex("sox", d.indices);
 
     var issuesEl = document.getElementById("issues");
     issuesEl.innerHTML = "";
