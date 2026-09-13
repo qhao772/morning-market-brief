@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-13T04:17:13Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.13 13:17 (한국시간)",
+  "updatedAtISO": "2026-09-13T05:15:45Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.13 14:15 (한국시간)",
   "us10y": 4.95,
   "us30y": 5.37,
   "fedFundsLow": 3.5,
@@ -60,9 +60,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "환율 내려도 美주식 ‘팔자’…서학개미, ‘속슬’ 대량 매도에 방향 틀었다 - kbmaeil.com",
-      "source": "kbmaeil.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oRkZQUVpiRTFreFgzNHNkS3d5bExQY191Y2JhRW53N2UxejBhTnN1NDEzY09yWmlLb1I1SHJ5Z2xsdl93ck9FZ2Vob0hpSHh6LU1hd0FUNURldw?oc=5"
+      "title": "[미국 특징주] 미국 증시서 자금 이탈 가속…BofA \"변동성 확대 경고\" - 뉴스핌",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mb1dkakdOT0lXb2pRYWl1bzdYbTFjMXBmVjZ5d3J3TURCS0MzSHVfMW9DT1Z3SFJWNWhfd05NY0VFdFdKTVdsV19aOG5lLS13MVVRVnJqdDJRcm53?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Frankfurter(환율), Yahoo Finance(지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
