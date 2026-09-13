@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-13T15:16:04Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.14 00:16 (한국시간)",
+  "updatedAtISO": "2026-09-13T16:17:07Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.14 01:17 (한국시간)",
   "us10y": 4.95,
   "us30y": 5.37,
   "fedFundsLow": 3.5,
@@ -54,15 +54,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "“AI 거품 터지면 미국증시·나스닥 폭락?”…삼성전자·SK하이닉스까지 흔들릴까 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RRUdrU1VSQ04tdWZKUDRxc245YlR6YmJlVUxHSEpGdTgxTUNienFzTzYySkttNS10NXBrSVdFVUpQcC1KeGlJcThkZ0hhQWwzQlhhN0lOOEV0aWRGTTJDZk4tcTZtc0RtM2haVnIyWGpGZw?oc=5"
+      "title": "[밤 8시 증시 시대] KRX 애프터마켓 출범…유동성 확대 시험대 - etnews.com",
+      "source": "etnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kRDNkb1RMbS14T2tTSm1aV3pHNWpZaUc5SnVxZlp4SnF3Qk5wbVhEQlkzSXdzaFJXMjl4Z0UwTzFjQk0xN210cF9VZGx5dw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[밤 8시 증시 시대] KRX 애프터마켓 출범…유동성 확대 시험대 - 전자신문",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kRDNkb1RMbS14T2tTSm1aV3pHNWpZaUc5SnVxZlp4SnF3Qk5wbVhEQlkzSXdzaFJXMjl4Z0UwTzFjQk0xN210cF9VZGx5dw?oc=5"
+      "title": "“AI 거품 터지면 미국증시·나스닥 폭락?”…삼성전자·SK하이닉스까지 흔들릴까 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RRUdrU1VSQ04tdWZKUDRxc245YlR6YmJlVUxHSEpGdTgxTUNienFzTzYySkttNS10NXBrSVdFVUpQcC1KeGlJcThkZ0hhQWwzQlhhN0lOOEV0aWRGTTJDZk4tcTZtc0RtM2haVnIyWGpGZw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Frankfurter(환율), Yahoo Finance(지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
