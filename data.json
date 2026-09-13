@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-13T21:15:29Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.14 06:15 (한국시간)",
+  "updatedAtISO": "2026-09-13T22:16:19Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.14 07:16 (한국시간)",
   "us10y": 4.95,
   "us30y": 5.37,
   "fedFundsLow": 3.5,
@@ -60,9 +60,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[밤 8시 증시 시대] KRX 애프터마켓 출범…유동성 확대 시험대 - 전자신문",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kRDNkb1RMbS14T2tTSm1aV3pHNWpZaUc5SnVxZlp4SnF3Qk5wbVhEQlkzSXdzaFJXMjl4Z0UwTzFjQk0xN210cF9VZGx5dw?oc=5"
+      "title": "\"환율 강세라고 무조건 미국 주식? 그러다 큰코다친다\"…증시 전문가 경고 - 뉴시스",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUFc2Wkd3QWNQYkVWaFNhUzhTc2VCZGViTDN2Y1IxS1pyMFZkdkpxNnB6bi1YTkpIdW9mTlNVczVuOGNiWWRKZWdhRzllZEdTeGd5RVJjaE5Uc1FqY0FWatIBeEFVX3lxTE9yMFdiVlJRN3M3R3ZiR1I2M2UxVHhlX2ZNWVJzNGZKT1ZCM1Ewc2tfSlNTcnY1Z05QTnYxZVVTbFZuSU1CLUVBUDlNMTM2Q2NVb1BGeXdTNjNWNmF5eXV1dFdkZzhlaVgxOUgxeWR1VVl0elo5WHhjVg?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Frankfurter(환율), Yahoo Finance(지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
