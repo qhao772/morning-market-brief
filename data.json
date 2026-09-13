@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-13T08:17:33Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.13 17:17 (한국시간)",
+  "updatedAtISO": "2026-09-13T09:43:27Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.13 18:43 (한국시간)",
   "us10y": 4.95,
   "us30y": 5.37,
   "fedFundsLow": 3.5,
@@ -36,6 +36,12 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "[미국 주식 돋보기] 국제유가 100달러 시대 … 美정유주 신고가 행진 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tUUpWcEk3RFdXRnpBM1Q3R2Fjbm1PTTZyaHZocnN5YTBjY2l0V0ViV2xjd18zY3E3UUJtOTd0TnNZbFpHcTVvWThJazFsMDRPMXc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[밤 8시 증시 시대] KRX 애프터마켓 출범…유동성 확대 시험대 - 전자신문",
       "source": "전자신문",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kRDNkb1RMbS14T2tTSm1aV3pHNWpZaUc5SnVxZlp4SnF3Qk5wbVhEQlkzSXdzaFJXMjl4Z0UwTzFjQk0xN210cF9VZGx5dw?oc=5"
@@ -48,21 +54,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "9월 15~16일 FOMC 회의, 금리 인상할까? 다음주 국내증시, 미국증시 전망 - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEk5NlM1VWMtOVljV052X0NuaDFGclExMzNCazUxd2FBcHQ1UHZtLWQ1Rm9GZjl0V0EzalllNTBNZ3l1SXNZSXdGdklNQy1jdUtBa0ZobHF2TG1waTVKWWRCUXg3bDZ3ZlpHNHh1b1NqVFM0R3NOTmJJZjB6dm4tMzlPNA?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "미국 증시 선물, 주요 인플레이션 데이터 앞두고 혼조세 - Investing.com 한국어",
       "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HQmVvanRIaUd4YThYa003WElSbXMwam1qWEs2ZV9TOTZ6SDVkdmNSdXFMRVlrRmZTNEdJMVd4NXpLWHMwUm11RWRFYUxhV1J6TTlGd21vY3RSN1NyQjR2QXNha042YTVSZUE2R3RhbDU?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국 특징주] 미국 증시서 자금 이탈 가속…BofA \"변동성 확대 경고\" - 뉴스핌",
-      "source": "뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mb1dkakdOT0lXb2pRYWl1bzdYbTFjMXBmVjZ5d3J3TURCS0MzSHVfMW9DT1Z3SFJWNWhfd05NY0VFdFdKTVdsV19aOG5lLS13MVVRVnJqdDJRcm53?oc=5"
+      "title": "9월 15~16일 FOMC 회의, 금리 인상할까? 다음주 국내증시, 미국증시 전망 - 네이버 프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdEk5NlM1VWMtOVljV052X0NuaDFGclExMzNCazUxd2FBcHQ1UHZtLWQ1Rm9GZjl0V0EzalllNTBNZ3l1SXNZSXdGdklNQy1jdUtBa0ZobHF2TG1waTVKWWRCUXg3bDZ3ZlpHNHh1b1NqVFM0R3NOTmJJZjB6dm4tMzlPNA?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Frankfurter(환율), Yahoo Finance(지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
