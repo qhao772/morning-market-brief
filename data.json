@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-13T02:17:06Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.13 11:17 (한국시간)",
+  "updatedAtISO": "2026-09-13T03:16:44Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.13 12:16 (한국시간)",
   "us10y": 4.95,
   "us30y": 5.37,
   "fedFundsLow": 3.5,
@@ -48,21 +48,21 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "환율 내려도 美주식 ‘팔자’…서학개미, ‘속슬’ 대량 매도에 방향 틀었다 - 경북매일",
-      "source": "경북매일",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oRkZQUVpiRTFreFgzNHNkS3d5bExQY191Y2JhRW53N2UxejBhTnN1NDEzY09yWmlLb1I1SHJ5Z2xsdl93ck9FZ2Vob0hpSHh6LU1hd0FUNURldw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "환율 떨어졌는데 美주식 판 서학개미…9월 들어 '이것' 담았다 - 이코노미스트",
       "source": "이코노미스트",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oVVNkOGx0NEE2UDBTLVQ5eTRzV2czWW0xdlBEWGlvcHFmUHRQSkVYMHVtNUFNV0duQnJKRXdRUFhYQkZFamViQUY4d3A5WmMxS2lXRVY1Sm50U3NZQXQ4N3d3?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 선물, 주요 인플레이션 데이터 앞두고 혼조세 - kr.investing.com",
-      "source": "kr.investing.com",
+      "title": "미국 증시 선물, 주요 인플레이션 데이터 앞두고 혼조세 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HQmVvanRIaUd4YThYa003WElSbXMwam1qWEs2ZV9TOTZ6SDVkdmNSdXFMRVlrRmZTNEdJMVd4NXpLWHMwUm11RWRFYUxhV1J6TTlGd21vY3RSN1NyQjR2QXNha042YTVSZUE2R3RhbDU?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "환율 내려도 美주식 ‘팔자’…서학개미, ‘속슬’ 대량 매도에 방향 틀었다 - kbmaeil.com",
+      "source": "kbmaeil.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oRkZQUVpiRTFreFgzNHNkS3d5bExQY191Y2JhRW53N2UxejBhTnN1NDEzY09yWmlLb1I1SHJ5Z2xsdl93ck9FZ2Vob0hpSHh6LU1hd0FUNURldw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Frankfurter(환율), Yahoo Finance(지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
