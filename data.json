@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-13T11:15:22Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.13 20:15 (한국시간)",
+  "updatedAtISO": "2026-09-13T12:20:44Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.13 21:20 (한국시간)",
   "us10y": 4.95,
   "us30y": 5.37,
   "fedFundsLow": 3.5,
@@ -48,6 +48,12 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "“AI 거품 터지면 미국증시·나스닥 폭락?”…삼성전자·SK하이닉스까지 흔들릴까 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RRUdrU1VSQ04tdWZKUDRxc245YlR6YmJlVUxHSEpGdTgxTUNienFzTzYySkttNS10NXBrSVdFVUpQcC1KeGlJcThkZ0hhQWwzQlhhN0lOOEV0aWRGTTJDZk4tcTZtc0RtM2haVnIyWGpGZw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "\"환율 강세라고 무조건 미국 주식? 그러다 큰코다친다\"…증시 전문가 경고 - 뉴시스",
       "source": "뉴시스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUFc2Wkd3QWNQYkVWaFNhUzhTc2VCZGViTDN2Y1IxS1pyMFZkdkpxNnB6bi1YTkpIdW9mTlNVczVuOGNiWWRKZWdhRzllZEdTeGd5RVJjaE5Uc1FqY0FWatIBeEFVX3lxTE9yMFdiVlJRN3M3R3ZiR1I2M2UxVHhlX2ZNWVJzNGZKT1ZCM1Ewc2tfSlNTcnY1Z05QTnYxZVVTbFZuSU1CLUVBUDlNMTM2Q2NVb1BGeXdTNjNWNmF5eXV1dFdkZzhlaVgxOUgxeWR1VVl0elo5WHhjVg?oc=5"
@@ -57,12 +63,6 @@
       "title": "서학개미의 변심?…환율 하락에도 이달 美증시 순매도 전환 - v.daum.net",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XSzhEZ01zN0pNYjhrVnB6UHdjLVFKWllVb3o2d09CM2ZkZ0dzMXNwYWRVOVMzZlBXT05ma0FGUzZUbmJleFRWdXNnVnhEWTA?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국 증시 선물, 주요 인플레이션 데이터 앞두고 혼조세 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HQmVvanRIaUd4YThYa003WElSbXMwam1qWEs2ZV9TOTZ6SDVkdmNSdXFMRVlrRmZTNEdJMVd4NXpLWHMwUm11RWRFYUxhV1J6TTlGd21vY3RSN1NyQjR2QXNha042YTVSZUE2R3RhbDU?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Frankfurter(환율), Yahoo Finance(지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
