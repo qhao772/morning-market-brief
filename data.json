@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-14T13:20:23Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.14 22:20 (한국시간)",
+  "updatedAtISO": "2026-09-14T14:19:30Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.14 23:19 (한국시간)",
   "us10y": 4.95,
   "us30y": 5.37,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1348.88,
-  "usdJpy": 154.81,
-  "jpyKrw100": 871.29,
+  "usdKrw": 1347.82,
+  "usdJpy": 154.75,
+  "jpyKrw100": 870.96,
   "indices": {
     "kospi": {
       "value": 6684.37,
@@ -20,16 +20,16 @@
       "changePct": -1.69
     },
     "sp500": {
-      "value": 7656.98,
-      "changePct": 0.86
+      "value": 7612.41,
+      "changePct": -0.58
     },
     "nasdaq": {
-      "value": 26333.03,
-      "changePct": 0.96
+      "value": 26098.69,
+      "changePct": -0.89
     },
     "sox": {
-      "value": 11824.0,
-      "changePct": 1.81
+      "value": 11247.12,
+      "changePct": -4.88
     }
   },
   "issues": [
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "금리 불확실성 해소에 미 증시 반등 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvS0ZFdE9Pc2xobC03emtLZkxvalJWUjZzWVVlTlkycEg5dm1qS01vU0lKS3R5bFJLdnBjZHdybXNaWFZmVHRPTlNHV01YSUlqUUl4OFRrNkpJZ096N19JLVVlbHN5VXZGSlVWZQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "고금리에도 버틸 종목은 바로 ‘그것’ - v.daum.net",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAybm5HdURRWmZ6MlFYQzRkYUVuNk12RGVHSzRWcmcxMTI0Y3B2Nnk0cTNRMUlWRHJJT0JVWHhTeEdVVEdZak1VRjlna3Y2T00?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "금리 불확실성 해소에 미 증시 반등 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvS0ZFdE9Pc2xobC03emtLZkxvalJWUjZzWVVlTlkycEg5dm1qS01vU0lKS3R5bFJLdnBjZHdybXNaWFZmVHRPTlNHV01YSUlqUUl4OFRrNkpJZ096N19JLVVlbHN5VXZGSlVWZQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
