@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-14T20:17:37Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.15 05:17 (한국시간)",
+  "updatedAtISO": "2026-09-14T21:16:13Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.15 06:16 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.35,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1347.94,
-  "usdJpy": 154.39,
-  "jpyKrw100": 873.07,
+  "usdKrw": 1345.97,
+  "usdJpy": 154.3,
+  "jpyKrw100": 872.31,
   "indices": {
     "kospi": {
       "value": 6684.37,
@@ -35,6 +35,12 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "[뉴욕증시] AI 속도 조절론에 '화들짝'…필리 지수 6% 급락 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUmQxTGgwWGlkcGgta2tGZ3Z0eHg0dTVnOF82cm9sXy1nMFA1LVpTdXc4UGs3ZG1YYm9ZdHZjeHdvN0czNXBCZzhfV05fUFBYc2EtVWE3bGN3SGV1VEV2cGJBcW1mMmpDOXlaRFNlUkpEQQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "500조 큰손 美 운용사 \"日 키옥시아 미국 증시 상장, AI 투자 촉매제\" - 더구루",
       "source": "더구루",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9seFBjV2JIcDNYeE43dDRZVU9BYXhpUWdkSllZd0dRbWxuY3ZIZlRwa3FqckZLRlFoUWphd2JFMDZwc01LMnV2Y0p6V2U2LUwtV0UxakFGb3ZzZEdRTjhFWlpKRQ?oc=5"
@@ -53,15 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국 특징주] \"금리 올려도 강세장 계속\"…월가, 증시 낙관론 재확인 - newspim.com",
-      "source": "newspim.com",
+      "title": "[미국 특징주] \"금리 올려도 강세장 계속\"…월가, 증시 낙관론 재확인 - 뉴스핌",
+      "source": "뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDckEyN2plNkw5VExxRDFYSUk1N1dSazd2NGVmYXVVUkFiWFBrVWtEYWJ6UERoSnFLUmpwZmlQOTRLR1UyV0hwdno0Xy1lekFneE5CMzdkbHRmWG03?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시, AI 속도조절론·유가 급등에 기술주 매도…엔비디아 3%↓ - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UYVFhX0szV1FTekttRmNPTnRsamtYLUlHNVVXWFlJSEJ2WGFFRWVQTktLT2g3Yzk3dFdjUlF3VFpudG1NZ2Q5bVhrZUlfblI5cVYwYk43c0hwdnpGRVdPdEpQdGlvY01IM2RzZDR0bkc5dw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
