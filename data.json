@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-14T01:16:36Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.14 10:16 (한국시간)",
+  "updatedAtISO": "2026-09-14T02:17:16Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.14 11:17 (한국시간)",
   "us10y": 4.95,
   "us30y": 5.37,
   "fedFundsLow": 3.5,
@@ -17,8 +17,8 @@
       "changePct": 0.0
     },
     "kosdaq": {
-      "value": 807.8,
-      "changePct": -1.56
+      "value": 810.22,
+      "changePct": -1.27
     },
     "sp500": {
       "value": 7656.98,
@@ -42,14 +42,14 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "연준 금리 인상 전망에 미국 주식 ETF서 45억 달러 유출 - kr.investing.com",
-      "source": "kr.investing.com",
+      "title": "연준 금리 인상 전망에 미국 주식 ETF서 45억 달러 유출 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kbktPZnZhNnhidGdxV05zbXZYYWhjdU1OcEZvRVZEbFQ4QzVWbzdjSlprNm9CUkpiSWMtd3RjdFJnYkxzZmZSYi1ud0laSjhwMk4tSnc0UVhwTndHYWhZMDhmazBxUVBHYmlRem1sUzg?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "금리 동결이 더 악재?…워시 신뢰 시험대, 점도표에 쏠린 눈[이번주 美 증시는] - 머니투데이 - 머니투데이",
-      "source": "머니투데이",
+      "title": "금리 동결이 더 악재?…워시 신뢰 시험대, 점도표에 쏠린 눈[이번주 美 증시는] - 머니투데이 - mt.co.kr",
+      "source": "mt.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Kd0psQUNfT05HcmhxelRFd3FWMXh5YVZ3M0VuZy1TTlI5bXh0R0RNTGxUVTJjX3o4MjI2UV9Dc19oVzJYWUJlV0l4UVQ0LUhNV29LVG5VT2Y1eXFzeFpPMDVOamtfTXd60gFuQVVfeXFMTWdJa3RTR3RjdEt2eXNKRWlrSGx2SnQ2Z3hFODg0WDVRbmFVVnRXb2ZiVENOS2Q0OWVsOW05Ynk1cUp5cEx0bHQwZm12RlBTNFVSYS16d0RoRm1VUEFqelE5V0VoUUZXNmxpQlR0M3c?oc=5"
     },
     {
@@ -60,8 +60,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국증시] 속도 조절론에 트럼프 \"이기는 쪽이 이긴다\"…시진핑은 브릭스 AI - 자본시장뉴스",
-      "source": "자본시장뉴스",
+      "title": "[미국증시] 속도 조절론에 트럼프 \"이기는 쪽이 이긴다\"…시진핑은 브릭스 AI - jabon.co.kr",
+      "source": "jabon.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wajFTaHpRVXlGZENaaU54b2d0TW5xSXVIbTY2b3cxMjQtQk96ZVhsai1MQkxYcjdQQ1JQSFltTzJyU2FSU3lTcjNnVnVBLWUxTUJPZDE3c1hKUXpVRWFSNHF4alZoNUE?oc=5"
     }
   ],
