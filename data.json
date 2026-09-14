@@ -1,16 +1,15 @@
 {
-  "updatedAtISO": "2026-09-14T10:17:51Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.14 19:17 (한국시간)",
+  "updatedAtISO": "2026-09-14T10:52:26Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.14 19:52 (한국시간)",
   "us10y": 4.95,
   "us30y": 5.37,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
-  "fedNote": "9/16 FOMC 인상 확률 86%",
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1342.79,
-  "usdJpy": 154.04,
-  "jpyKrw100": 871.73,
+  "usdKrw": 1346.41,
+  "usdJpy": 154.62,
+  "jpyKrw100": 870.78,
   "indices": {
     "kospi": {
       "value": 6684.37,
@@ -65,5 +64,5 @@
       "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPb2dQaW5RM0pSWTlremhmdU5hS29DWDhfQ2RfNXBQdmU0dnFFUXNheUJEajVGZG1EOHlNeWd0cFhyOXlfMmltVl9xb190VEtoQUh0YUVXNUoyVU93YWNPQ3A3MnNIbFYyUGlxZGo2OHlpQl9pUlk1T0tUUFZZYS1XTmhheXV5THU4dE1VTEdaRFI1bnE5RVA2S3FPZUZ1aUFjamsxbS13eUQtaXFpSlpVVjVqX0h1ODBKWWpUNW9ObERGaTJJZnNkM05SMVlsRkRvZ1A4TGtMTEZGdHIyYndhSFhhdkRHeUNRRlNyX3ItRzNoTW9DUEY0OWNyNTQzUzZycW1kLS1FUUR2ZnhKNFpxMC1RUkJrR0FuRnZzbGRzcEp0dWNfbGs3VjZHUWNpeDZO?oc=5"
     }
   ],
-  "sourceNote": "자료: FRED(연준), Frankfurter(환율), Yahoo Finance(지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
+  "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
 }
