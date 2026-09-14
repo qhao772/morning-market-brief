@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-14T11:17:41Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.14 20:17 (한국시간)",
+  "updatedAtISO": "2026-09-14T12:23:19Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.14 21:23 (한국시간)",
   "us10y": 4.95,
   "us30y": 5.37,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1345.88,
-  "usdJpy": 154.53,
-  "jpyKrw100": 870.95,
+  "usdKrw": 1345.78,
+  "usdJpy": 154.59,
+  "jpyKrw100": 870.53,
   "indices": {
     "kospi": {
       "value": 6684.37,
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 랠리에서 소외된 S&P 500 저평가주 3종목 - kr.benzinga.com",
-      "source": "kr.benzinga.com",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPb2dQaW5RM0pSWTlremhmdU5hS29DWDhfQ2RfNXBQdmU0dnFFUXNheUJEajVGZG1EOHlNeWd0cFhyOXlfMmltVl9xb190VEtoQUh0YUVXNUoyVU93YWNPQ3A3MnNIbFYyUGlxZGo2OHlpQl9pUlk1T0tUUFZZYS1XTmhheXV5THU4dE1VTEdaRFI1bnE5RVA2S3FPZUZ1aUFjamsxbS13eUQtaXFpSlpVVjVqX0h1ODBKWWpUNW9ObERGaTJJZnNkM05SMVlsRkRvZ1A4TGtMTEZGdHIyYndhSFhhdkRHeUNRRlNyX3ItRzNoTW9DUEY0OWNyNTQzUzZycW1kLS1FUUR2ZnhKNFpxMC1RUkJrR0FuRnZzbGRzcEp0dWNfbGs3VjZHUWNpeDZO?oc=5"
+      "title": "고금리에도 버틸 종목은 바로 ‘그것’ - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAybm5HdURRWmZ6MlFYQzRkYUVuNk12RGVHSzRWcmcxMTI0Y3B2Nnk0cTNRMUlWRHJJT0JVWHhTeEdVVEdZak1VRjlna3Y2T00?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
