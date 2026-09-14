@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-14T19:17:57Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.15 04:17 (한국시간)",
-  "us10y": 4.95,
-  "us30y": 5.37,
+  "updatedAtISO": "2026-09-14T20:17:37Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.15 05:17 (한국시간)",
+  "us10y": 4.96,
+  "us30y": 5.35,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1346.14,
-  "usdJpy": 154.19,
-  "jpyKrw100": 873.03,
+  "usdKrw": 1347.94,
+  "usdJpy": 154.39,
+  "jpyKrw100": 873.07,
   "indices": {
     "kospi": {
       "value": 6684.37,
@@ -20,16 +20,16 @@
       "changePct": -1.69
     },
     "sp500": {
-      "value": 7631.38,
-      "changePct": -0.33
+      "value": 7619.98,
+      "changePct": -0.48
     },
     "nasdaq": {
-      "value": 26251.02,
-      "changePct": -0.31
+      "value": 26186.41,
+      "changePct": -0.56
     },
     "sox": {
-      "value": 11220.88,
-      "changePct": -5.1
+      "value": 11131.28,
+      "changePct": -5.86
     }
   },
   "issues": [
@@ -53,8 +53,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국 특징주] \"금리 올려도 강세장 계속\"…월가, 증시 낙관론 재확인 - 뉴스핌",
-      "source": "뉴스핌",
+      "title": "[미국 특징주] \"금리 올려도 강세장 계속\"…월가, 증시 낙관론 재확인 - newspim.com",
+      "source": "newspim.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDckEyN2plNkw5VExxRDFYSUk1N1dSazd2NGVmYXVVUkFiWFBrVWtEYWJ6UERoSnFLUmpwZmlQOTRLR1UyV0hwdno0Xy1lekFneE5CMzdkbHRmWG03?oc=5"
     },
     {
