@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-14T08:19:25Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.14 17:19 (한국시간)",
+  "updatedAtISO": "2026-09-14T09:19:17Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.14 18:19 (한국시간)",
   "us10y": 4.95,
   "us30y": 5.37,
   "fedFundsLow": 3.5,
@@ -42,7 +42,13 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "'결국 미국이지' 개미들 몰려갔는데…한 달 만에 '대반전' - 한국경제",
+      "title": "[미국 주식 돋보기] 반도체 검사장비에 로봇까지 … 테라다인 '질주' - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBweFVNcXk1SlllcWxMeG5PdWZaRGl1VHotWmlUWi1ycDMtSWl1bWs4dmpzWk9Hd2dYWVBxSl9EVUVWSWgwWk43WFNXTnVDanpVc1E?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "\"美 가야 돈 번다\" 국장 탈출한 개미…한 달 뒤 '반전 성적표' - 한국경제",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xLWJtbURraU40ZlFodkprOEI0Rl9qNk1INzhZSzFUb2dDN2NNUEIyaU1wWmxWU0E1Yk1HcENqWlVNLVY4U0Z3dTB3WlRPcUIwZ3ZqUFdta3BtQQ?oc=5"
     },
@@ -57,12 +63,6 @@
       "title": "미국 증시 랠리에서 소외된 S&P 500 저평가주 3종목 - Benzinga",
       "source": "Benzinga",
       "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPb2dQaW5RM0pSWTlremhmdU5hS29DWDhfQ2RfNXBQdmU0dnFFUXNheUJEajVGZG1EOHlNeWd0cFhyOXlfMmltVl9xb190VEtoQUh0YUVXNUoyVU93YWNPQ3A3MnNIbFYyUGlxZGo2OHlpQl9pUlk1T0tUUFZZYS1XTmhheXV5THU4dE1VTEdaRFI1bnE5RVA2S3FPZUZ1aUFjamsxbS13eUQtaXFpSlpVVjVqX0h1ODBKWWpUNW9ObERGaTJJZnNkM05SMVlsRkRvZ1A4TGtMTEZGdHIyYndhSFhhdkRHeUNRRlNyX3ItRzNoTW9DUEY0OWNyNTQzUzZycW1kLS1FUUR2ZnhKNFpxMC1RUkJrR0FuRnZzbGRzcEp0dWNfbGs3VjZHUWNpeDZO?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국 금리결정 경계감…AI·중동 정세·유가 주목 - 머니투데이 - 머니투데이",
-      "source": "머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nZHBTLW9GRzdSdUhjTW9ES2FBa0taMFI5a2k4b1R1RFQ1TWdJa3dVSFFxT0pnWXNpdzZKbVlNTjlaelpfb1VQMDFuWkVOYU5EdlZEQW9tUDhzM05iWTYxY2laODBTbmdz0gFuQVVfeXFMUEdxWVA5UkdYb0lXYTB0cjUtanJJXzhNeDhmUVI3bHNHRGVPVGpkNmluTFdXRkFLMmlkRlZTdzFtc2tfelVabDZBb3BseXg3c000RndqMjdndEM3M2V1RnVyMVZKRks3d3ZlTTZKUHc?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Frankfurter(환율), Yahoo Finance(지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
