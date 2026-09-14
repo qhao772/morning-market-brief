@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-14T22:17:26Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.15 07:17 (한국시간)",
+  "updatedAtISO": "2026-09-14T23:15:14Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.15 08:15 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.35,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1346.24,
-  "usdJpy": 154.35,
-  "jpyKrw100": 872.22,
+  "usdKrw": 1345.96,
+  "usdJpy": 154.31,
+  "jpyKrw100": 872.26,
   "indices": {
     "kospi": {
       "value": 6684.37,
@@ -35,9 +35,21 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "[서울데이터랩] 미국 증시, 반도체 급락에 일제히 하락 마감…다우 0.29%↓ - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QZGYybzlzY2RSVXJON3FvZmtKWDQ0c051NXhYYzJsdUVWUjdYOFhpck5JeUxsaFNPLWNNTDNna0kxWDlsRGdlVjlNTDJRWFU2SGM1dGphWkRnY0d3TEtVUXl4LTlXQVExeTJfcmUwaw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[뉴욕증시] AI 속도 조절론에 '화들짝'…필리 지수 6% 급락 - KB Think",
       "source": "KB Think",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUmQxTGgwWGlkcGgta2tGZ3Z0eHg0dTVnOF82cm9sXy1nMFA1LVpTdXc4UGs3ZG1YYm9ZdHZjeHdvN0czNXBCZzhfV05fUFBYc2EtVWE3bGN3SGV1VEV2cGJBcW1mMmpDOXlaRFNlUkpEQQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "\"키옥시아 미국 ADR 상장 검토…최소 100억달러 조달\" - 연합뉴스",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aSXBTYWo2cmJEMHlTNjJJOVpsX3RKRXVDRjdjZGp4WHFVaEtsRHd2c1BzS1M2YUItQ0xzT0Q4b0dnanhDLWdSRldlMFNXQ2h6YzVjLTZVYXM0eG_SAWBBVV95cUxNcGd2UGxtbDdOLWtQQ1A3NFc0ZHlmNG9MZkVLSG02Y0x4VWc0TTVFZVh5b0l2VFp0S2NFWl9xZzJnMTZFdlZYal9jOGpabkUzVUpiVU9VWGVqZlR1Ulp2bmY?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -50,18 +62,6 @@
       "title": "美 증시, 중간선거 앞 ‘약세 구간’…AI·유가 겹쳤다 - 글로벌이코노믹",
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQnJPN1BKZzdsYVktY0FDQmdQUWJfOElsVVZaWGtWOXp1N1pDamV3UWgxRXFhWkdpM0Z0Ym5GSy1GTFlJSFRLQ0QzYXM2WGpPZHc2SEpvaFJQVUN5N1RxTFJ3MElQU0IyM1h4R1VQRzlnZmJRR0k3am83TlNtUGJrV0tSM25CNWpG?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[미국 주식 돋보기] 반도체 검사장비에 로봇까지 … 테라다인 '질주' - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBweFVNcXk1SlllcWxMeG5PdWZaRGl1VHotWmlUWi1ycDMtSWl1bWs4dmpzWk9Hd2dYWVBxSl9EVUVWSWgwWk43WFNXTnVDanpVc1E?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 반도체 급락에 일제히 하락 마감…다우 0.29%↓ - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QZGYybzlzY2RSVXJON3FvZmtKWDQ0c051NXhYYzJsdUVWUjdYOFhpck5JeUxsaFNPLWNNTDNna0kxWDlsRGdlVjlNTDJRWFU2SGM1dGphWkRnY0d3TEtVUXl4LTlXQVExeTJfcmUwaw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
