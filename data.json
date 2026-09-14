@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-14T12:23:19Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.14 21:23 (한국시간)",
+  "updatedAtISO": "2026-09-14T13:20:23Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.14 22:20 (한국시간)",
   "us10y": 4.95,
   "us30y": 5.37,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1345.78,
-  "usdJpy": 154.59,
-  "jpyKrw100": 870.53,
+  "usdKrw": 1348.88,
+  "usdJpy": 154.81,
+  "jpyKrw100": 871.29,
   "indices": {
     "kospi": {
       "value": 6684.37,
