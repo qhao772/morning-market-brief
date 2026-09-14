@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-14T03:18:05Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.14 12:18 (한국시간)",
+  "updatedAtISO": "2026-09-14T04:18:12Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.14 13:18 (한국시간)",
   "us10y": 4.95,
   "us30y": 5.37,
   "fedFundsLow": 3.5,
@@ -13,12 +13,12 @@
   "jpyKrw100": 871.73,
   "indices": {
     "kospi": {
-      "value": 6766.6,
-      "changePct": -2.07
+      "value": 6737.81,
+      "changePct": -2.49
     },
     "kosdaq": {
-      "value": 813.84,
-      "changePct": -0.83
+      "value": 813.29,
+      "changePct": -0.9
     },
     "sp500": {
       "value": 7656.98,
@@ -36,9 +36,21 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "500조 큰손 美 운용사 \"日 키옥시아 미국 증시 상장, AI 투자 촉매제\" - theguru.co.kr",
+      "source": "theguru.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9seFBjV2JIcDNYeE43dDRZVU9BYXhpUWdkSllZd0dRbWxuY3ZIZlRwa3FqckZLRlFoUWphd2JFMDZwc01LMnV2Y0p6V2U2LUwtV0UxakFGb3ZzZEdRTjhFWlpKRQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "금리 불확실성 해소에 미 증시 반등 - KB Think",
       "source": "KB Think",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvS0ZFdE9Pc2xobC03emtLZkxvalJWUjZzWVVlTlkycEg5dm1qS01vU0lKS3R5bFJLdnBjZHdybXNaWFZmVHRPTlNHV01YSUlqUUl4OFRrNkpJZ096N19JLVVlbHN5VXZGSlVWZQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 증시 랠리에서 소외된 S&P 500 저평가주 3종목 - Benzinga",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPb2dQaW5RM0pSWTlremhmdU5hS29DWDhfQ2RfNXBQdmU0dnFFUXNheUJEajVGZG1EOHlNeWd0cFhyOXlfMmltVl9xb190VEtoQUh0YUVXNUoyVU93YWNPQ3A3MnNIbFYyUGlxZGo2OHlpQl9pUlk1T0tUUFZZYS1XTmhheXV5THU4dE1VTEdaRFI1bnE5RVA2S3FPZUZ1aUFjamsxbS13eUQtaXFpSlpVVjVqX0h1ODBKWWpUNW9ObERGaTJJZnNkM05SMVlsRkRvZ1A4TGtMTEZGdHIyYndhSFhhdkRHeUNRRlNyX3ItRzNoTW9DUEY0OWNyNTQzUzZycW1kLS1FUUR2ZnhKNFpxMC1RUkJrR0FuRnZzbGRzcEp0dWNfbGs3VjZHUWNpeDZO?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -51,18 +63,6 @@
       "title": "금리 동결이 더 악재?…워시 신뢰 시험대, 점도표에 쏠린 눈[이번주 美 증시는] - 머니투데이 - 머니투데이",
       "source": "머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Kd0psQUNfT05HcmhxelRFd3FWMXh5YVZ3M0VuZy1TTlI5bXh0R0RNTGxUVTJjX3o4MjI2UV9Dc19oVzJYWUJlV0l4UVQ0LUhNV29LVG5VT2Y1eXFzeFpPMDVOamtfTXd60gFuQVVfeXFMTWdJa3RTR3RjdEt2eXNKRWlrSGx2SnQ2Z3hFODg0WDVRbmFVVnRXb2ZiVENOS2Q0OWVsOW05Ynk1cUp5cEx0bHQwZm12RlBTNFVSYS16d0RoRm1VUEFqelE5V0VoUUZXNmxpQlR0M3c?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국 증시 랠리에서 소외된 S&P 500 저평가주 3종목 - Benzinga",
-      "source": "Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPb2dQaW5RM0pSWTlremhmdU5hS29DWDhfQ2RfNXBQdmU0dnFFUXNheUJEajVGZG1EOHlNeWd0cFhyOXlfMmltVl9xb190VEtoQUh0YUVXNUoyVU93YWNPQ3A3MnNIbFYyUGlxZGo2OHlpQl9pUlk1T0tUUFZZYS1XTmhheXV5THU4dE1VTEdaRFI1bnE5RVA2S3FPZUZ1aUFjamsxbS13eUQtaXFpSlpVVjVqX0h1ODBKWWpUNW9ObERGaTJJZnNkM05SMVlsRkRvZ1A4TGtMTEZGdHIyYndhSFhhdkRHeUNRRlNyX3ItRzNoTW9DUEY0OWNyNTQzUzZycW1kLS1FUUR2ZnhKNFpxMC1RUkJrR0FuRnZzbGRzcEp0dWNfbGs3VjZHUWNpeDZO?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[미국 주식 돋보기] 국제유가 100달러 시대 … 美정유주 신고가 행진 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tUUpWcEk3RFdXRnpBM1Q3R2Fjbm1PTTZyaHZocnN5YTBjY2l0V0ViV2xjd18zY3E3UUJtOTd0TnNZbFpHcTVvWThJazFsMDRPMXc?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Frankfurter(환율), Yahoo Finance(지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
