@@ -9,8 +9,9 @@ Sources used:
     Treasury yields and the Fed funds target range. Requires a free API key
     (see the FRED_API_KEY note below) — without one, these fields are left
     unchanged from the previous data.json.
-  - Frankfurter.app: USD/KRW, USD/JPY, JPY/KRW exchange rates (based on ECB
-    reference rates). Free, no key needed.
+  - Yahoo Finance's public quote endpoint: USD/KRW and USD/JPY intraday
+    exchange rates (KRW/100 JPY is derived from those two). Free, no key
+    needed. (Previously Frankfurter/ECB, which only updates once per weekday.)
   - Google News RSS: top Korean-language "미국 증시" headlines. Free, no key
     needed, but Google will reject requests that look automated, so we send
     a realistic browser User-Agent header.
@@ -79,13 +80,10 @@ def fred_latest(series_id, default=None):
     return default
 
 
-def frankfurter_rates(base, symbols):
-    try:
-        payload = json.loads(http_get(f"https://api.frankfurter.app/latest?from={base}&to={symbols}"))
-        return payload.get("rates", {})
-    except Exception as exc:
-        print(f"[warn] frankfurter({base}->{symbols}) failed: {exc}")
-        return {}
+YAHOO_FX_SYMBOLS = {
+    "usdKrw": "KRW%3DX",
+    "usdJpy": "JPY%3DX",
+}
 
 
 YAHOO_INDEX_SYMBOLS = {
@@ -157,13 +155,17 @@ def main():
     fed_low = fred_latest("DFEDTARL", prev.get("fedFundsLow"))
     fed_high = fred_latest("DFEDTARU", prev.get("fedFundsHigh"))
 
-    usd_rates = frankfurter_rates("USD", "KRW,JPY")
-    usd_krw = usd_rates.get("KRW", prev.get("usdKrw"))
-    usd_jpy = usd_rates.get("JPY", prev.get("usdJpy"))
-
-    jpy_rates = frankfurter_rates("JPY", "KRW")
-    jpy_krw_raw = jpy_rates.get("KRW")
-    jpy_krw_100 = jpy_krw_raw * 100 if jpy_krw_raw else prev.get("jpyKrw100")
+    usd_krw, _ = yahoo_quote(YAHOO_FX_SYMBOLS["usdKrw"])
+    usd_jpy, _ = yahoo_quote(YAHOO_FX_SYMBOLS["usdJpy"])
+    # Yahoo's direct JPYKRW=X quote only has 2 decimals, so derive it instead.
+    if usd_krw and usd_jpy:
+        jpy_krw_100 = usd_krw / usd_jpy * 100
+    else:
+        jpy_krw_100 = prev.get("jpyKrw100")
+    if usd_krw is None:
+        usd_krw = prev.get("usdKrw")
+    if usd_jpy is None:
+        usd_jpy = prev.get("usdJpy")
 
     indices = fetch_indices(prev.get("indices", {}))
 
@@ -179,7 +181,6 @@ def main():
         "us30y": round(us30y, 2) if us30y is not None else None,
         "fedFundsLow": fed_low,
         "fedFundsHigh": fed_high,
-        "fedNote": prev.get("fedNote", "FOMC 정책금리 목표범위"),
         "krBase": prev.get("krBase", 3.00),
         "krBaseNote": prev.get(
             "krBaseNote", "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)"
@@ -190,7 +191,7 @@ def main():
         "indices": indices,
         "issues": issues,
         "sourceNote": (
-            "자료: FRED(연준), Frankfurter(환율), Yahoo Finance(지수), 구글 뉴스 등 공개 데이터를 "
+            "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 "
             "자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
         ),
     }
