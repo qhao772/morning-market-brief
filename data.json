@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-15T20:17:17Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.16 05:17 (한국시간)",
+  "updatedAtISO": "2026-09-15T21:16:21Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.16 06:16 (한국시간)",
   "us10y": 4.97,
   "us30y": 5.34,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1362.2,
-  "usdJpy": 155.12,
-  "jpyKrw100": 878.13,
+  "usdKrw": 1363.18,
+  "usdJpy": 155.09,
+  "jpyKrw100": 878.96,
   "indices": {
     "kospi": {
       "value": 6627.26,
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, AI 속도조절론에 약세…반도체주 급락 - 연합뉴스TV",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HYXAyZ19DcHhjSTdERGpQcHlJWGZ0RkdVMThCQld6Ql81U2FMc1ZFaUVCTGt6b1lTU0Z1bnVmMkdWR2lLREtKSVptZWFBVEVEb1BVQnBFY0FkMEVHVm5ySTJKOFYyTlk?oc=5"
+      "title": "500조 큰손 美 운용사 \"日 키옥시아 미국 증시 상장, AI 투자 촉매제\" - 더구루",
+      "source": "더구루",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9seFBjV2JIcDNYeE43dDRZVU9BYXhpUWdkSllZd0dRbWxuY3ZIZlRwa3FqckZLRlFoUWphd2JFMDZwc01LMnV2Y0p6V2U2LUwtV0UxakFGb3ZzZEdRTjhFWlpKRQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
