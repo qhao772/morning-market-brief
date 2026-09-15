@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-15T00:25:40Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.15 09:25 (한국시간)",
+  "updatedAtISO": "2026-09-15T01:18:33Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.15 10:18 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.35,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1348.68,
-  "usdJpy": 154.53,
-  "jpyKrw100": 872.75,
+  "usdKrw": 1347.88,
+  "usdJpy": 154.63,
+  "jpyKrw100": 871.69,
   "indices": {
     "kospi": {
-      "value": 6630.82,
-      "changePct": -0.8
+      "value": 6661.71,
+      "changePct": -0.34
     },
     "kosdaq": {
-      "value": 803.46,
-      "changePct": -0.41
+      "value": 815.4,
+      "changePct": 1.07
     },
     "sp500": {
       "value": 7619.98,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "[3분증시] 뉴욕증시, AI 속도조절론에 약세…반도체주 급락 - yonhapnewstv.co.kr",
+      "source": "yonhapnewstv.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HYXAyZ19DcHhjSTdERGpQcHlJWGZ0RkdVMThCQld6Ql81U2FMc1ZFaUVCTGt6b1lTU0Z1bnVmMkdWR2lLREtKSVptZWFBVEVEb1BVQnBFY0FkMEVHVm5ySTJKOFYyTlk?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[서울데이터랩] 미국 증시, 반도체 급락에 일제히 하락 마감…다우 0.29%↓ - 서울신문",
       "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QZGYybzlzY2RSVXJON3FvZmtKWDQ0c051NXhYYzJsdUVWUjdYOFhpck5JeUxsaFNPLWNNTDNna0kxWDlsRGdlVjlNTDJRWFU2SGM1dGphWkRnY0d3TEtVUXl4LTlXQVExeTJfcmUwaw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[뉴욕증시] AI 속도 조절론에 '화들짝'…필리 지수 6% 급락 - KB Think",
+      "title": "[굿모닝 증시]美, 낙폭 축소 마감…韓 증시도 전일 급락분 만회 전망 - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2X1FRZXlfN3FWSXR3S0xuVzRjZjQwaFBRUlEwZ0hwMld2VEs1eEpwdFV4dDN1OFpnNGJZUkFYdlBoamR4ZGhsRWc4cDJCTXM?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 FOMC에 주목해야 할 한 주 - KB Think",
       "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUmQxTGgwWGlkcGgta2tGZ3Z0eHg0dTVnOF82cm9sXy1nMFA1LVpTdXc4UGs3ZG1YYm9ZdHZjeHdvN0czNXBCZzhfV05fUFBYc2EtVWE3bGN3SGV1VEV2cGJBcW1mMmpDOXlaRFNlUkpEQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLbG0yT1IwTkdlY3NjYV8yYnQ4bHoyNmlSWUdrTnBBajZuYUlNME5IZHF4M2pMdFFacEtmdHNWZG1hT3ZPeWt5akJwbWNYdkotRU9DRFpFME16OTYxeFlKeVhKd21oQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "\"키옥시아 미국 ADR 상장 검토…최소 100억달러 조달\" - 연합뉴스",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aSXBTYWo2cmJEMHlTNjJJOVpsX3RKRXVDRjdjZGp4WHFVaEtsRHd2c1BzS1M2YUItQ0xzT0Q4b0dnanhDLWdSRldlMFNXQ2h6YzVjLTZVYXM0eG_SAWBBVV95cUxNcGd2UGxtbDdOLWtQQ1A3NFc0ZHlmNG9MZkVLSG02Y0x4VWc0TTVFZVh5b0l2VFp0S2NFWl9xZzJnMTZFdlZYal9jOGpabkUzVUpiVU9VWGVqZlR1Ulp2bmY?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "500조 큰손 美 운용사 \"日 키옥시아 미국 증시 상장, AI 투자 촉매제\" - 더구루",
-      "source": "더구루",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9seFBjV2JIcDNYeE43dDRZVU9BYXhpUWdkSllZd0dRbWxuY3ZIZlRwa3FqckZLRlFoUWphd2JFMDZwc01LMnV2Y0p6V2U2LUwtV0UxakFGb3ZzZEdRTjhFWlpKRQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "美 증시, 중간선거 앞 ‘약세 구간’…AI·유가 겹쳤다 - 글로벌이코노믹",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQnJPN1BKZzdsYVktY0FDQmdQUWJfOElsVVZaWGtWOXp1N1pDamV3UWgxRXFhWkdpM0Z0Ym5GSy1GTFlJSFRLQ0QzYXM2WGpPZHc2SEpvaFJQVUN5N1RxTFJ3MElQU0IyM1h4R1VQRzlnZmJRR0k3am83TlNtUGJrV0tSM25CNWpG?oc=5"
+      "title": "\"SK하이닉스처럼\"...키옥시아 미국 ADR 상장 검토 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FUVBwUDR4M1FQR00xZUhzVEFoQmVqSGprQWw2TVROUWE4SnpJMGF1dC1fTm9OV3pkUVZkcHhVUm4wY0hyTXNNNUgtZTQxejdydTZ0YjlvMFNjcXJWeEE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
