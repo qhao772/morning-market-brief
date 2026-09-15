@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-15T01:18:33Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.15 10:18 (한국시간)",
+  "updatedAtISO": "2026-09-15T02:18:59Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.15 11:18 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.35,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1347.88,
-  "usdJpy": 154.63,
-  "jpyKrw100": 871.69,
+  "usdKrw": 1353.48,
+  "usdJpy": 154.82,
+  "jpyKrw100": 874.23,
   "indices": {
     "kospi": {
-      "value": 6661.71,
-      "changePct": -0.34
+      "value": 6677.96,
+      "changePct": -0.1
     },
     "kosdaq": {
-      "value": 815.4,
-      "changePct": 1.07
+      "value": 822.49,
+      "changePct": 1.95
     },
     "sp500": {
       "value": 7619.98,
@@ -35,8 +35,8 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, AI 속도조절론에 약세…반도체주 급락 - yonhapnewstv.co.kr",
-      "source": "yonhapnewstv.co.kr",
+      "title": "[3분증시] 뉴욕증시, AI 속도조절론에 약세…반도체주 급락 - 연합뉴스TV",
+      "source": "연합뉴스TV",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HYXAyZ19DcHhjSTdERGpQcHlJWGZ0RkdVMThCQld6Ql81U2FMc1ZFaUVCTGt6b1lTU0Z1bnVmMkdWR2lLREtKSVptZWFBVEVEb1BVQnBFY0FkMEVHVm5ySTJKOFYyTlk?oc=5"
     },
     {
