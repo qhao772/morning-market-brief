@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-15T12:22:00Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.15 21:22 (한국시간)",
+  "updatedAtISO": "2026-09-15T13:18:56Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.15 22:18 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.35,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1359.38,
-  "usdJpy": 155.07,
-  "jpyKrw100": 876.65,
+  "usdKrw": 1358.38,
+  "usdJpy": 154.93,
+  "jpyKrw100": 876.76,
   "indices": {
     "kospi": {
       "value": 6627.26,
@@ -41,7 +41,7 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시에 월스트리트 증권가 전망 엇갈려, 기업 실적 '호재'와 유가 상승 리스크 공존 - 비즈니스포스트",
+      "title": "미국 증시 향배 놓고 월스트리트 증권가 전망 엇갈려, 기업 실적 '호재'와 유가 상승 리스크 공존 - 비즈니스포스트",
       "source": "비즈니스포스트",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWcUhOTzlhdmQ2VldITmJzamxndnZrYTZKRWJmNUdfSXVTdzg3b3FneWZ4MnZmTDQtU0RhRTJMTnBUNnEzWG9KeUg1MnJyYjg5TlRKek5KcFF3MzRTbmtIbllxVWUzdWFoSDZVS1E0QjRZOUU?oc=5"
     },
