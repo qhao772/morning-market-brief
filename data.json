@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-15T02:18:59Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.15 11:18 (한국시간)",
+  "updatedAtISO": "2026-09-15T03:18:29Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.15 12:18 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.35,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1353.48,
-  "usdJpy": 154.82,
-  "jpyKrw100": 874.23,
+  "usdKrw": 1353.58,
+  "usdJpy": 154.71,
+  "jpyKrw100": 874.9,
   "indices": {
     "kospi": {
-      "value": 6677.96,
-      "changePct": -0.1
+      "value": 6699.85,
+      "changePct": 0.23
     },
     "kosdaq": {
-      "value": 822.49,
-      "changePct": 1.95
+      "value": 820.52,
+      "changePct": 1.7
     },
     "sp500": {
       "value": 7619.98,
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 FOMC에 주목해야 할 한 주 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLbG0yT1IwTkdlY3NjYV8yYnQ4bHoyNmlSWUdrTnBBajZuYUlNME5IZHF4M2pMdFFacEtmdHNWZG1hT3ZPeWt5akJwbWNYdkotRU9DRFpFME16OTYxeFlKeVhKd21oQQ?oc=5"
+      "title": "코스피, 하락 출발 후 보합권…코스닥은 1%대 상승 - 뉴스토마토",
+      "source": "뉴스토마토",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02T2wwajdsOEZoZHFlZHFndFZUWmpSTldLUjJ4eTBxd0ZQMFQ3bExZU2NHUWhmV2M4WXFMSDR5NVFWT1VGaThyYThKVVA3NEhGMXlXS2YxRXhNNWpYMGFKTg?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "\"SK하이닉스처럼\"...키옥시아 미국 ADR 상장 검토 - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FUVBwUDR4M1FQR00xZUhzVEFoQmVqSGprQWw2TVROUWE4SnpJMGF1dC1fTm9OV3pkUVZkcHhVUm4wY0hyTXNNNUgtZTQxejdydTZ0YjlvMFNjcXJWeEE?oc=5"
+      "title": "미국 FOMC에 주목해야 할 한 주 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLbG0yT1IwTkdlY3NjYV8yYnQ4bHoyNmlSWUdrTnBBajZuYUlNME5IZHF4M2pMdFFacEtmdHNWZG1hT3ZPeWt5akJwbWNYdkotRU9DRFpFME16OTYxeFlKeVhKd21oQQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
