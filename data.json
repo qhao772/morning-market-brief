@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-15T17:15:31Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.16 02:15 (한국시간)",
+  "updatedAtISO": "2026-09-15T18:18:40Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.16 03:18 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.35,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1361.5,
-  "usdJpy": 155.07,
-  "jpyKrw100": 877.96,
+  "usdKrw": 1359.87,
+  "usdJpy": 155.16,
+  "jpyKrw100": 876.45,
   "indices": {
     "kospi": {
       "value": 6627.26,
@@ -20,16 +20,16 @@
       "changePct": 0.7
     },
     "sp500": {
-      "value": 7582.02,
-      "changePct": -0.5
+      "value": 7587.1,
+      "changePct": -0.43
     },
     "nasdaq": {
-      "value": 25980.13,
-      "changePct": -0.79
+      "value": 25993.72,
+      "changePct": -0.74
     },
     "sox": {
-      "value": 11138.74,
-      "changePct": 0.07
+      "value": 11159.47,
+      "changePct": 0.25
     }
   },
   "issues": [
@@ -47,15 +47,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, AI 속도조절론에 약세…반도체주 급락 - 연합뉴스TV",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HYXAyZ19DcHhjSTdERGpQcHlJWGZ0RkdVMThCQld6Ql81U2FMc1ZFaUVCTGt6b1lTU0Z1bnVmMkdWR2lLREtKSVptZWFBVEVEb1BVQnBFY0FkMEVHVm5ySTJKOFYyTlk?oc=5"
+      "title": "외국인 자금, 美 국채보다 주식으로 몰린다 - 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORlhkdXk2ZjJPMDF4eVJ0cXp0aUxWS0tmdmNVV1p3SUp5dnU4UUJjanFuTWRPVXBsbGduMWNyR0hzRE5Fb1dadzNTYnc5M2U0ZEl6R05JZURNWXFONmx3VDVoQjhfN3lnVkFnY290UkdfeDA3S3d0VEthTkVGaGROY2tJcGtTNkJs?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 반도체 급락에 일제히 하락 마감…다우 0.29%↓ - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QZGYybzlzY2RSVXJON3FvZmtKWDQ0c051NXhYYzJsdUVWUjdYOFhpck5JeUxsaFNPLWNNTDNna0kxWDlsRGdlVjlNTDJRWFU2SGM1dGphWkRnY0d3TEtVUXl4LTlXQVExeTJfcmUwaw?oc=5"
+      "title": "[3분증시] 뉴욕증시, AI 속도조절론에 약세…반도체주 급락 - 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HYXAyZ19DcHhjSTdERGpQcHlJWGZ0RkdVMThCQld6Ql81U2FMc1ZFaUVCTGt6b1lTU0Z1bnVmMkdWR2lLREtKSVptZWFBVEVEb1BVQnBFY0FkMEVHVm5ySTJKOFYyTlk?oc=5"
     },
     {
       "tag": "시장 뉴스",
