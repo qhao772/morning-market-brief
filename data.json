@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-15T14:18:23Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.15 23:18 (한국시간)",
+  "updatedAtISO": "2026-09-15T15:16:35Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.16 00:16 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.35,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1358.98,
-  "usdJpy": 155.01,
-  "jpyKrw100": 876.72,
+  "usdKrw": 1361.28,
+  "usdJpy": 155.13,
+  "jpyKrw100": 877.52,
   "indices": {
     "kospi": {
       "value": 6627.26,
@@ -20,16 +20,16 @@
       "changePct": 0.7
     },
     "sp500": {
-      "value": 7594.93,
-      "changePct": -0.33
+      "value": 7581.45,
+      "changePct": -0.51
     },
     "nasdaq": {
-      "value": 26063.75,
-      "changePct": -0.47
+      "value": 26003.08,
+      "changePct": -0.7
     },
     "sox": {
-      "value": 11253.8,
-      "changePct": 1.1
+      "value": 11184.12,
+      "changePct": 0.47
     }
   },
   "issues": [
@@ -53,8 +53,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 반도체 급락에 일제히 하락 마감…다우 0.29%↓ - seoul.co.kr",
-      "source": "seoul.co.kr",
+      "title": "[서울데이터랩] 미국 증시, 반도체 급락에 일제히 하락 마감…다우 0.29%↓ - 서울신문",
+      "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QZGYybzlzY2RSVXJON3FvZmtKWDQ0c051NXhYYzJsdUVWUjdYOFhpck5JeUxsaFNPLWNNTDNna0kxWDlsRGdlVjlNTDJRWFU2SGM1dGphWkRnY0d3TEtVUXl4LTlXQVExeTJfcmUwaw?oc=5"
     },
     {
