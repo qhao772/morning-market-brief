@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-15T18:18:40Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.16 03:18 (한국시간)",
+  "updatedAtISO": "2026-09-15T19:15:26Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.16 04:15 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.35,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1359.87,
-  "usdJpy": 155.16,
-  "jpyKrw100": 876.45,
+  "usdKrw": 1361.9,
+  "usdJpy": 155.11,
+  "jpyKrw100": 878.02,
   "indices": {
     "kospi": {
       "value": 6627.26,
@@ -20,15 +20,15 @@
       "changePct": 0.7
     },
     "sp500": {
-      "value": 7587.1,
-      "changePct": -0.43
+      "value": 7582.63,
+      "changePct": -0.49
     },
     "nasdaq": {
-      "value": 25993.72,
-      "changePct": -0.74
+      "value": 25970.38,
+      "changePct": -0.82
     },
     "sox": {
-      "value": 11159.47,
+      "value": 11158.62,
       "changePct": 0.25
     }
   },
@@ -41,15 +41,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 향배 놓고 월스트리트 증권가 전망 엇갈려, 기업 실적 '호재'와 유가 상승 리스크 공존 - 비즈니스포스트",
-      "source": "비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWcUhOTzlhdmQ2VldITmJzamxndnZrYTZKRWJmNUdfSXVTdzg3b3FneWZ4MnZmTDQtU0RhRTJMTnBUNnEzWG9KeUg1MnJyYjg5TlRKek5KcFF3MzRTbmtIbllxVWUzdWFoSDZVS1E0QjRZOUU?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "외국인 자금, 美 국채보다 주식으로 몰린다 - 글로벌이코노믹",
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORlhkdXk2ZjJPMDF4eVJ0cXp0aUxWS0tmdmNVV1p3SUp5dnU4UUJjanFuTWRPVXBsbGduMWNyR0hzRE5Fb1dadzNTYnc5M2U0ZEl6R05JZURNWXFONmx3VDVoQjhfN3lnVkFnY290UkdfeDA3S3d0VEthTkVGaGROY2tJcGtTNkJs?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 증시 향배 놓고 월스트리트 증권가 전망 엇갈려, 기업 실적 '호재'와 유가 상승 리스크 공존 - 비즈니스포스트",
+      "source": "비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWcUhOTzlhdmQ2VldITmJzamxndnZrYTZKRWJmNUdfSXVTdzg3b3FneWZ4MnZmTDQtU0RhRTJMTnBUNnEzWG9KeUg1MnJyYjg5TlRKek5KcFF3MzRTbmtIbllxVWUzdWFoSDZVS1E0QjRZOUU?oc=5"
     },
     {
       "tag": "시장 뉴스",
