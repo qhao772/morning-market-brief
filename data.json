@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-15T16:17:14Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.16 01:17 (한국시간)",
+  "updatedAtISO": "2026-09-15T17:15:31Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.16 02:15 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.35,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1362.58,
-  "usdJpy": 155.12,
-  "jpyKrw100": 878.42,
+  "usdKrw": 1361.5,
+  "usdJpy": 155.07,
+  "jpyKrw100": 877.96,
   "indices": {
     "kospi": {
       "value": 6627.26,
@@ -20,16 +20,16 @@
       "changePct": 0.7
     },
     "sp500": {
-      "value": 7580.43,
-      "changePct": -0.52
+      "value": 7582.02,
+      "changePct": -0.5
     },
     "nasdaq": {
-      "value": 25986.44,
-      "changePct": -0.76
+      "value": 25980.13,
+      "changePct": -0.79
     },
     "sox": {
-      "value": 11149.49,
-      "changePct": 0.16
+      "value": 11138.74,
+      "changePct": 0.07
     }
   },
   "issues": [
@@ -47,8 +47,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, AI 속도조절론에 약세…반도체주 급락 - yonhapnewstv.co.kr",
-      "source": "yonhapnewstv.co.kr",
+      "title": "[3분증시] 뉴욕증시, AI 속도조절론에 약세…반도체주 급락 - 연합뉴스TV",
+      "source": "연합뉴스TV",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HYXAyZ19DcHhjSTdERGpQcHlJWGZ0RkdVMThCQld6Ql81U2FMc1ZFaUVCTGt6b1lTU0Z1bnVmMkdWR2lLREtKSVptZWFBVEVEb1BVQnBFY0FkMEVHVm5ySTJKOFYyTlk?oc=5"
     },
     {
