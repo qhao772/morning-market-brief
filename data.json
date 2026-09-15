@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-15T07:19:49Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.15 16:19 (한국시간)",
+  "updatedAtISO": "2026-09-15T08:20:19Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.15 17:20 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.35,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1360.68,
-  "usdJpy": 154.88,
-  "jpyKrw100": 878.52,
+  "usdKrw": 1362.38,
+  "usdJpy": 154.93,
+  "jpyKrw100": 879.33,
   "indices": {
     "kospi": {
       "value": 6627.26,
@@ -35,6 +35,12 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "미국 증시에 월스트리트 증권가 전망 엇갈려, 기업 실적 '호재'와 유가 상승 리스크 공존 - 비즈니스포스트",
+      "source": "비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWcUhOTzlhdmQ2VldITmJzamxndnZrYTZKRWJmNUdfSXVTdzg3b3FneWZ4MnZmTDQtU0RhRTJMTnBUNnEzWG9KeUg1MnJyYjg5TlRKek5KcFF3MzRTbmtIbllxVWUzdWFoSDZVS1E0QjRZOUU?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[3분증시] 뉴욕증시, AI 속도조절론에 약세…반도체주 급락 - 연합뉴스TV",
       "source": "연합뉴스TV",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HYXAyZ19DcHhjSTdERGpQcHlJWGZ0RkdVMThCQld6Ql81U2FMc1ZFaUVCTGt6b1lTU0Z1bnVmMkdWR2lLREtKSVptZWFBVEVEb1BVQnBFY0FkMEVHVm5ySTJKOFYyTlk?oc=5"
@@ -56,12 +62,6 @@
       "title": "[굿모닝 증시]美, 낙폭 축소 마감…韓 증시도 전일 급락분 만회 전망 - v.daum.net",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2X1FRZXlfN3FWSXR3S0xuVzRjZjQwaFBRUlEwZ0hwMld2VEs1eEpwdFV4dDN1OFpnNGJZUkFYdlBoamR4ZGhsRWc4cDJCTXM?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "유가 100달러 이후의 증시…美·日은 긴축하고 中은 부양하고 [글로벌 레이더] - 에너지경제신문",
-      "source": "에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vcGYwT2ZNYzcyTWpxWFpHUHBqVkUyVklheHQzbzVUZnh0al9oZ3E4RGdjMWxvald2UDNVc0dPVk92YWxTdm5TM09vNjBlZFNUOFVOVUpMRXRJZlE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
