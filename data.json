@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-15T19:15:26Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.16 04:15 (한국시간)",
-  "us10y": 4.96,
-  "us30y": 5.35,
+  "updatedAtISO": "2026-09-15T20:17:17Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.16 05:17 (한국시간)",
+  "us10y": 4.97,
+  "us30y": 5.34,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1361.9,
-  "usdJpy": 155.11,
-  "jpyKrw100": 878.02,
+  "usdKrw": 1362.2,
+  "usdJpy": 155.12,
+  "jpyKrw100": 878.13,
   "indices": {
     "kospi": {
       "value": 6627.26,
@@ -20,24 +20,24 @@
       "changePct": 0.7
     },
     "sp500": {
-      "value": 7582.63,
-      "changePct": -0.49
+      "value": 7585.73,
+      "changePct": -0.45
     },
     "nasdaq": {
-      "value": 25970.38,
-      "changePct": -0.82
+      "value": 25981.57,
+      "changePct": -0.78
     },
     "sox": {
-      "value": 11158.62,
-      "changePct": 0.25
+      "value": 11175.55,
+      "changePct": 0.4
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[미국 주식 돋보기] 'AI 속도 조절론' 덕분에 … 美사이버보안주 급등 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxSzM1ZENVTkU4ZDdndnNJdmZFNmI2U05CbXBQUXlCTjV1TnV0Q0thdURsMzhXdnVyZFBuTVBQQ1dZejJpTTlCSFFheUtrYjBnWlE?oc=5"
+      "title": "해외 큰손들, 美 국채보다 주식으로 몰린다 - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4OUhUNVBhZVlGZUdpUjM3d1B2QkRLTkt3S2pVbmRXbWdSOUg2UnpGUTJHSFRXNTk2QnlOdngwVGlxVW94S2JUSkYya2pzVWM?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, AI 속도조절론에 약세…반도체주 급락 - 연합뉴스TV",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HYXAyZ19DcHhjSTdERGpQcHlJWGZ0RkdVMThCQld6Ql81U2FMc1ZFaUVCTGt6b1lTU0Z1bnVmMkdWR2lLREtKSVptZWFBVEVEb1BVQnBFY0FkMEVHVm5ySTJKOFYyTlk?oc=5"
+      "title": "뉴욕증시, 하락세로 전환…나스닥 0.69%↓ - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xZmd6Y2pMRlZhRjJNcy1DRFV4RVlzQXFqcW8wU3kzN2tvVVJsUTdtb2xOajhPUWtkbThNbmxiMWVXMjFDaUlyX1ExcmNCcFBs?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시, 국채금리 5%·유가 상승에 하락…FOMC 앞두고 기술주 흔들 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iTU93S3Ztb0NkOVNkcURBMUQ0bWFYc3BVSWU4bW9Tc3hucmhjaVY4OWVPOEtVNWNyaEdxVEdwNDM2akFUVC1TNEhneXY5eWpodTF0WUJ6di1tSDNJUEpYMENmUExDdWxSMUhjZXFHclJIQQ?oc=5"
+      "title": "[3분증시] 뉴욕증시, AI 속도조절론에 약세…반도체주 급락 - 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HYXAyZ19DcHhjSTdERGpQcHlJWGZ0RkdVMThCQld6Ql81U2FMc1ZFaUVCTGt6b1lTU0Z1bnVmMkdWR2lLREtKSVptZWFBVEVEb1BVQnBFY0FkMEVHVm5ySTJKOFYyTlk?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
