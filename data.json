@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-15T08:20:19Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.15 17:20 (한국시간)",
+  "updatedAtISO": "2026-09-15T09:19:44Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.15 18:19 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.35,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1362.38,
-  "usdJpy": 154.93,
-  "jpyKrw100": 879.33,
+  "usdKrw": 1362.85,
+  "usdJpy": 154.98,
+  "jpyKrw100": 879.37,
   "indices": {
     "kospi": {
       "value": 6627.26,
@@ -35,6 +35,12 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "[미국 주식 돋보기] 'AI 속도 조절론' 덕분에 … 美사이버보안주 급등 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxSzM1ZENVTkU4ZDdndnNJdmZFNmI2U05CbXBQUXlCTjV1TnV0Q0thdURsMzhXdnVyZFBuTVBQQ1dZejJpTTlCSFFheUtrYjBnWlE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "미국 증시에 월스트리트 증권가 전망 엇갈려, 기업 실적 '호재'와 유가 상승 리스크 공존 - 비즈니스포스트",
       "source": "비즈니스포스트",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWcUhOTzlhdmQ2VldITmJzamxndnZrYTZKRWJmNUdfSXVTdzg3b3FneWZ4MnZmTDQtU0RhRTJMTnBUNnEzWG9KeUg1MnJyYjg5TlRKek5KcFF3MzRTbmtIbllxVWUzdWFoSDZVS1E0QjRZOUU?oc=5"
@@ -47,8 +53,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 반도체 급락에 일제히 하락 마감…다우 0.29%↓ - 서울신문",
-      "source": "서울신문",
+      "title": "[서울데이터랩] 미국 증시, 반도체 급락에 일제히 하락 마감…다우 0.29%↓ - seoul.co.kr",
+      "source": "seoul.co.kr",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QZGYybzlzY2RSVXJON3FvZmtKWDQ0c051NXhYYzJsdUVWUjdYOFhpck5JeUxsaFNPLWNNTDNna0kxWDlsRGdlVjlNTDJRWFU2SGM1dGphWkRnY0d3TEtVUXl4LTlXQVExeTJfcmUwaw?oc=5"
     },
     {
@@ -56,12 +62,6 @@
       "title": "환율 급락에 서학개미 매수 쇄도…마케팅 자제령에 증권사만 '발 동동' - 인베스트조선",
       "source": "인베스트조선",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS2dINElnVl9CbHdMZnN0T1NzTlpoLVVYQVN5NHk0VW5Xd19Samtta0pEdWFtWDRNYVRZZm9ETmdWOEs1SGcxb3ZRVkpLczYzN0xtYzhHcHJGajJmZzZ2ZHh5eTBkTmtibVZzVi1PNkYya2diMUFubmN0MlJvM2J6VDdiQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[굿모닝 증시]美, 낙폭 축소 마감…韓 증시도 전일 급락분 만회 전망 - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2X1FRZXlfN3FWSXR3S0xuVzRjZjQwaFBRUlEwZ0hwMld2VEs1eEpwdFV4dDN1OFpnNGJZUkFYdlBoamR4ZGhsRWc4cDJCTXM?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
