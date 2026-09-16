@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-16T21:17:07Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.17 06:17 (한국시간)",
+  "updatedAtISO": "2026-09-16T22:16:07Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.17 07:16 (한국시간)",
   "us10y": 5.0,
   "us30y": 5.36,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1376.55,
-  "usdJpy": 156.21,
-  "jpyKrw100": 881.2,
+  "usdKrw": 1377.09,
+  "usdJpy": 156.27,
+  "jpyKrw100": 881.21,
   "indices": {
     "kospi": {
       "value": 6717.97,
@@ -53,8 +53,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "美 대신 코스닥 문 두드리는 해외기업들… 비용·진입장벽 낮아 - 조선비즈 - Chosunbiz",
-      "source": "Chosunbiz",
+      "title": "美 대신 코스닥 문 두드리는 해외기업들… 비용·진입장벽 낮아 - 조선비즈 - biz.chosun.com",
+      "source": "biz.chosun.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY2dSX1NsZ01XZWJ4dTR3b0xUSl8zaUNKeDJBSWVMN0pCVnFBQmxyakYtOXFpUjJDRkhZYmJVemM4Wmd0VjU1cXhlRlJYd2xWVjA2ZXVHSFFXaW9IaEFrYURtNXl2UWtFa2gxSzlQRGhZTWVvQ1BVRmZpTGJhbEVzdkdNbzJ6RGfSAZsBQVVfeXFMTXZiSk9PWUU0dkFPVkF2NnZXMVZFTUVoemtNaVBSV2xJZy1aLXVyeUV4UkZQRXNiRHh1MGctQVk2WEFtbXo4Njc2WmVQd0pKWUlIOHZhLU5KRjlyMHBGWlNuek90RS1oSkpMQ1Y3TWlXMjYwdWttWWZpcVhsMEtBMWFYbGdmaHJNYXJsM2xCVVpUZ0NxYWhzWjBZSGs?oc=5"
     },
     {
