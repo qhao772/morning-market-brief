@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-16T15:17:05Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.17 00:17 (한국시간)",
+  "updatedAtISO": "2026-09-16T16:17:36Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.17 01:17 (한국시간)",
   "us10y": 4.97,
   "us30y": 5.34,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1366.81,
-  "usdJpy": 155.04,
-  "jpyKrw100": 881.6,
+  "usdKrw": 1367.5,
+  "usdJpy": 155.22,
+  "jpyKrw100": 881.02,
   "indices": {
     "kospi": {
       "value": 6717.97,
@@ -20,24 +20,24 @@
       "changePct": 0.44
     },
     "sp500": {
-      "value": 7615.37,
-      "changePct": 0.39
+      "value": 7614.52,
+      "changePct": 0.38
     },
     "nasdaq": {
-      "value": 26192.74,
-      "changePct": 0.81
+      "value": 26171.88,
+      "changePct": 0.73
     },
     "sox": {
-      "value": 11371.3,
-      "changePct": 1.75
+      "value": 11376.76,
+      "changePct": 1.8
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "'투자유치 검토' 솔리다임의 몸값 가늠자 될 키옥시아 ADR - 인베스트조선",
-      "source": "인베스트조선",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXBQSXFZU0QtYXlIRzd3d0dsUkY5TURhX3Iya3A4T3Jnb3hBZHpMZERCSU9ReExxVGdNQVF3bDZUSTNwLW1oZzdqOVJtRjc0ZVJuOVFTb3pWcWJLQjMtYUxzWENqbFFsY1BGT05PbVZPMkFDSHlNdHFjU1N3aW43bThIdw?oc=5"
+      "title": "세계최고수익률 국부펀드,\"미국증시 조정 가능성\"경고 - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SZTRiMmd1V0s0V2lfU1l2cExEdEFWX3RNQnBGeGZqN193T0FCSU5mRFlrOEgyenNqTi1KYTE2VkdIQzNpS010d181LXRNd2lvVUxyV09XN0tkZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시, 기술주 약세에 일제 하락 마감…반도체 지수는 소폭 상승 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mUmVkcW9NM0RJdW0zbFJvRHBqQlVzc2NNRU02ak5NTEtIN0cwQzhjRWg5ZTlDY09heFJtQU1Eby05YzloSHdxcWtTZnY1XzRITGFGR2t3dFZhWGVXWkR6R2NlTERlOEN5cG5lc19rNzg3Nkt2Sm9RQ0ZDLXQ2UQ?oc=5"
+      "title": "미국증시 10년물 5%·유가 106달러에 하락…연준 앞두고 엔비디아는 반등 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45YVEyM1ZhTHd3OTQzSzREdlRXSEwyNXJUNi1PcVFKQkhFcGpsX0N1YXJOdnVfc3RJamptY0w3V0FNWXhldW04YXp6T2w4eFMzY0FEaU9EN1diQk44WmNuejdxemh2dWJLNW5VQjNpSXMwdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "국채금리 5.0% 도달에 미 증시↓ - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0azFhUXQ4QXM3UnYtRnZNcmxuMmMyanZyZ0ROYWRUTXlRTDd6UjNJbWlOVktubWhXMWJYLVFmUDNoQTdqNUxqTks2MTgwdEktM3RTRjAxWHhGckkzVzlDYkRKYjg4UmRuUHF2bw?oc=5"
+      "title": "미국증시, 국채금리 5%·유가 상승에 하락…FOMC 앞두고 기술주 흔들 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iTU93S3Ztb0NkOVNkcURBMUQ0bWFYc3BVSWU4bW9Tc3hucmhjaVY4OWVPOEtVNWNyaEdxVEdwNDM2akFUVC1TNEhneXY5eWpodTF0WUJ6di1tSDNJUEpYMENmUExDdWxSMUhjZXFHclJIQQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
