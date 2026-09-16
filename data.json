@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-16T05:16:17Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.16 14:16 (한국시간)",
+  "updatedAtISO": "2026-09-16T06:22:47Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.16 15:22 (한국시간)",
   "us10y": 4.97,
   "us30y": 5.34,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1363.62,
-  "usdJpy": 155.31,
-  "jpyKrw100": 877.98,
+  "usdKrw": 1366.48,
+  "usdJpy": 155.05,
+  "jpyKrw100": 881.33,
   "indices": {
     "kospi": {
-      "value": 6672.93,
-      "changePct": 0.69
+      "value": 6682.27,
+      "changePct": 0.83
     },
     "kosdaq": {
-      "value": 809.31,
-      "changePct": -0.38
+      "value": 813.56,
+      "changePct": 0.14
     },
     "sp500": {
       "value": 7585.73,
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "해외 큰손들, 美 국채보다 주식으로 몰린다 - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4OUhUNVBhZVlGZUdpUjM3d1B2QkRLTkt3S2pVbmRXbWdSOUg2UnpGUTJHSFRXNTk2QnlOdngwVGlxVW94S2JUSkYya2pzVWM?oc=5"
+      "title": "[미국주식] 월스트리트 장세 분석 (9월16일) - 파이낸스투데이",
+      "source": "파이낸스투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZelRDRHhTOVhHSEY0WG5sMWNTYU45blhyVmZfTENBSWtWRlAtdGNEZ2Y2V0VTN2lzUEpsRGtDOXFVcXZpWjlMY2I5d2syXzYtRldhcnZEczlJMERqMWU0ZFpBN2JmR3BKalZCYQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
