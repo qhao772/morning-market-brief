@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-16T04:17:20Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.16 13:17 (한국시간)",
+  "updatedAtISO": "2026-09-16T05:16:17Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.16 14:16 (한국시간)",
   "us10y": 4.97,
   "us30y": 5.34,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1363.54,
-  "usdJpy": 155.35,
-  "jpyKrw100": 877.7,
+  "usdKrw": 1363.62,
+  "usdJpy": 155.31,
+  "jpyKrw100": 877.98,
   "indices": {
     "kospi": {
-      "value": 6698.81,
-      "changePct": 1.08
+      "value": 6672.93,
+      "changePct": 0.69
     },
     "kosdaq": {
-      "value": 810.21,
-      "changePct": -0.27
+      "value": 809.31,
+      "changePct": -0.38
     },
     "sp500": {
       "value": 7585.73,
@@ -33,6 +33,12 @@
     }
   },
   "issues": [
+    {
+      "tag": "시장 뉴스",
+      "title": "'투자유치 검토' 솔리다임의 몸값 가늠자 될 키옥시아 ADR - 인베스트조선",
+      "source": "인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXBQSXFZU0QtYXlIRzd3d0dsUkY5TURhX3Iya3A4T3Jnb3hBZHpMZERCSU9ReExxVGdNQVF3bDZUSTNwLW1oZzdqOVJtRjc0ZVJuOVFTb3pWcWJLQjMtYUxzWENqbFFsY1BGT05PbVZPMkFDSHlNdHFjU1N3aW43bThIdw?oc=5"
+    },
     {
       "tag": "시장 뉴스",
       "title": "[EBN 데이터센터] 미국 증시, 대형 기술주 약세에 일제히 하락 마감...반도체만 선별 강세 - ebn.co.kr",
@@ -56,12 +62,6 @@
       "title": "해외 큰손들, 美 국채보다 주식으로 몰린다 - v.daum.net",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4OUhUNVBhZVlGZUdpUjM3d1B2QkRLTkt3S2pVbmRXbWdSOUg2UnpGUTJHSFRXNTk2QnlOdngwVGlxVW94S2JUSkYya2pzVWM?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[미국증시] 월가 '연내 2~3회 인상' 매파 선회…미란 \"자충수\" - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02N1BTdXltdHpmLTJVM2s4Z3NzRjRXTzVkVXRSWUNJNmxRRWROTGtGcm9Md1V1WHVlaVMtNzdMLVFERmxMal84RjFVc2VOQzlhRjJuU0JlOGZtbU1SU3VpWnVpdklKZjg?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
