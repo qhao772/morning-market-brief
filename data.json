@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-16T02:17:29Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.16 11:17 (한국시간)",
+  "updatedAtISO": "2026-09-16T03:17:19Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.16 12:17 (한국시간)",
   "us10y": 4.97,
   "us30y": 5.34,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1369.48,
-  "usdJpy": 155.3,
-  "jpyKrw100": 881.85,
+  "usdKrw": 1366.98,
+  "usdJpy": 155.26,
+  "jpyKrw100": 880.42,
   "indices": {
     "kospi": {
-      "value": 6626.81,
-      "changePct": -0.01
+      "value": 6656.64,
+      "changePct": 0.44
     },
     "kosdaq": {
-      "value": 802.14,
-      "changePct": -1.26
+      "value": 806.83,
+      "changePct": -0.69
     },
     "sp500": {
       "value": 7585.73,
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, 국채금리·유가 급등에 이틀째 동반 하락 - 연합뉴스 한민족센터",
-      "source": "연합뉴스 한민족센터",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVZElkQ0JqcXhtcE11VDNqQWw0T0hmaGlJdExqRmt6cTFFOXBXZ2hhbS1LWFd2Y1ZkNk1FQ0I4dTZNTzQwVlc5czJIZ0lPUUFQYUVkNGpRckt6TGdiMmJIajhRRE82THFfR3VtVmVsM2tHXzI4?oc=5"
+      "title": "[미국증시] 월가 '연내 2~3회 인상' 매파 선회…미란 \"자충수\" - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02N1BTdXltdHpmLTJVM2s4Z3NzRjRXTzVkVXRSWUNJNmxRRWROTGtGcm9Md1V1WHVlaVMtNzdMLVFERmxMal84RjFVc2VOQzlhRjJuU0JlOGZtbU1SU3VpWnVpdklKZjg?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
