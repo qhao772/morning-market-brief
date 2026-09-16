@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-15T23:15:07Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.16 08:15 (한국시간)",
+  "updatedAtISO": "2026-09-16T00:23:20Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.16 09:23 (한국시간)",
   "us10y": 4.97,
   "us30y": 5.34,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1362.51,
+  "usdKrw": 1365.28,
   "usdJpy": 155.18,
-  "jpyKrw100": 878.03,
+  "jpyKrw100": 879.79,
   "indices": {
     "kospi": {
-      "value": 6627.26,
-      "changePct": -0.85
+      "value": 6613.44,
+      "changePct": -0.21
     },
     "kosdaq": {
-      "value": 812.41,
-      "changePct": 0.7
+      "value": 806.37,
+      "changePct": -0.74
     },
     "sp500": {
       "value": 7585.73,
@@ -35,9 +35,21 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "[EBN 데이터센터] 미국 증시, 대형 기술주 약세에 일제히 하락 마감...반도체만 선별 강세 - ebn.co.kr",
+      "source": "ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQTW9ubFhmTEQzQ2JocWZReWEtWFQ3ZjBBc0pJcFhsVWhKRXhFc1cxaDlZNldHclZ3ZUgwcjY5TlVSeTZNemJ3SEhYWHZ6czdMSHhiZWpJR0I0S2t1QzBMLXo3QWdLcDE4?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[서울데이터랩]미국 증시, 기술주 약세에 일제 하락 마감…반도체 지수는 소폭 상승 - 서울신문",
       "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mUmVkcW9NM0RJdW0zbFJvRHBqQlVzc2NNRU02ak5NTEtIN0cwQzhjRWg5ZTlDY09heFJtQU1Eby05YzloSHdxcWtTZnY1XzRITGFGR2t3dFZhWGVXWkR6R2NlTERlOEN5cG5lc19rNzg3Nkt2Sm9RQ0ZDLXQ2UQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "국채금리 5.0% 도달에 미 증시↓ - kbthink.com",
+      "source": "kbthink.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0azFhUXQ4QXM3UnYtRnZNcmxuMmMyanZyZ0ROYWRUTXlRTDd6UjNJbWlOVktubWhXMWJYLVFmUDNoQTdqNUxqTks2MTgwdEktM3RTRjAxWHhGckkzVzlDYkRKYjg4UmRuUHF2bw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,21 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 10년물 5%·유가 106달러에 하락…연준 앞두고 엔비디아는 반등 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45YVEyM1ZhTHd3OTQzSzREdlRXSEwyNXJUNi1PcVFKQkhFcGpsX0N1YXJOdnVfc3RJamptY0w3V0FNWXhldW04YXp6T2w4eFMzY0FEaU9EN1diQk44WmNuejdxemh2dWJLNW5VQjNpSXMwdw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "유가 109달러 육박·미국 국채 금리 5%…‘더블 쇼크’에 뉴욕증시 이틀째 하락 - 조선일보",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORG1BX3Q3Qm1tOEE3d195OHozMUxTS1Y2RzZqSDc2V1FoWmJiS1ZMUGk3b3BJN084MjlnMVVEcC1IRk5ENl9aOEh2RE1nbnpGVVBaOEJyWmNmdnBtalhQN1pua0hsV3pmeGxkS0pYZHRJTkRQcUM4OFZvVVpPZmRDbkRYOEFBbDZ1?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "외국인 자금, 美 국채보다 주식으로 몰린다 - 글로벌이코노믹",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORlhkdXk2ZjJPMDF4eVJ0cXp0aUxWS0tmdmNVV1p3SUp5dnU4UUJjanFuTWRPVXBsbGduMWNyR0hzRE5Fb1dadzNTYnc5M2U0ZEl6R05JZURNWXFONmx3VDVoQjhfN3lnVkFnY290UkdfeDA3S3d0VEthTkVGaGROY2tJcGtTNkJs?oc=5"
+      "title": "[3분증시] 뉴욕증시, 국채금리·유가 급등에 이틀째 동반 하락 - 연합뉴스 한민족센터",
+      "source": "연합뉴스 한민족센터",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVZElkQ0JqcXhtcE11VDNqQWw0T0hmaGlJdExqRmt6cTFFOXBXZ2hhbS1LWFd2Y1ZkNk1FQ0I4dTZNTzQwVlc5czJIZ0lPUUFQYUVkNGpRckt6TGdiMmJIajhRRE82THFfR3VtVmVsM2tHXzI4?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
