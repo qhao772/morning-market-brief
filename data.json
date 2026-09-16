@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-16T18:19:40Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.17 03:19 (한국시간)",
+  "updatedAtISO": "2026-09-16T19:15:55Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.17 04:15 (한국시간)",
   "us10y": 4.97,
   "us30y": 5.34,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1369.71,
-  "usdJpy": 155.52,
-  "jpyKrw100": 880.75,
+  "usdKrw": 1374.1,
+  "usdJpy": 155.95,
+  "jpyKrw100": 881.1,
   "indices": {
     "kospi": {
       "value": 6717.97,
@@ -20,16 +20,16 @@
       "changePct": 0.44
     },
     "sp500": {
-      "value": 7609.48,
-      "changePct": 0.31
+      "value": 7525.51,
+      "changePct": -0.79
     },
     "nasdaq": {
-      "value": 26160.85,
-      "changePct": 0.69
+      "value": 25868.81,
+      "changePct": -0.43
     },
     "sox": {
-      "value": 11341.49,
-      "changePct": 1.49
+      "value": 11154.11,
+      "changePct": -0.19
     }
   },
   "issues": [
@@ -41,9 +41,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시, FOMC 금리인상 경계에도 상승…유가 하락에 반도체 반등 - 톱스타뉴스",
+      "title": "미국증시 10년물 5%·유가 106달러에 하락…연준 앞두고 엔비디아는 반등 - 톱스타뉴스",
       "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IdGJkbm5KaGNqQXlRc3JTRElPMTR5OVpmOHFhLUJPRG50ZnJMcEpjYmtLZ3g3S0dWRzJ5VkVRdTIxN1M4ekp0SVViOTlvSzA4eEFoUmV3QmlzWW1IMUlENGZ2bTdTSC1sQmZSWEUtZFFHZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45YVEyM1ZhTHd3OTQzSzREdlRXSEwyNXJUNi1PcVFKQkhFcGpsX0N1YXJOdnVfc3RJamptY0w3V0FNWXhldW04YXp6T2w4eFMzY0FEaU9EN1diQk44WmNuejdxemh2dWJLNW5VQjNpSXMwdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,9 +53,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 10년물 5%·유가 106달러에 하락…연준 앞두고 엔비디아는 반등 - 톱스타뉴스",
+      "title": "미국증시, FOMC 금리인상 경계에도 상승…유가 하락에 반도체 반등 - 톱스타뉴스",
       "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45YVEyM1ZhTHd3OTQzSzREdlRXSEwyNXJUNi1PcVFKQkhFcGpsX0N1YXJOdnVfc3RJamptY0w3V0FNWXhldW04YXp6T2w4eFMzY0FEaU9EN1diQk44WmNuejdxemh2dWJLNW5VQjNpSXMwdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IdGJkbm5KaGNqQXlRc3JTRElPMTR5OVpmOHFhLUJPRG50ZnJMcEpjYmtLZ3g3S0dWRzJ5VkVRdTIxN1M4ekp0SVViOTlvSzA4eEFoUmV3QmlzWW1IMUlENGZ2bTdTSC1sQmZSWEUtZFFHZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
