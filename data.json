@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-17T09:18:20Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.17 18:18 (한국시간)",
+  "updatedAtISO": "2026-09-17T10:17:28Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.17 19:17 (한국시간)",
   "us10y": 5.0,
   "us30y": 5.36,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1384.96,
-  "usdJpy": 155.65,
-  "jpyKrw100": 889.82,
+  "usdKrw": 1385.65,
+  "usdJpy": 155.68,
+  "jpyKrw100": 890.07,
   "indices": {
     "kospi": {
       "value": 6715.41,
@@ -59,8 +59,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[Why] 美中 갈등 속에도 돈은 월가로… 中 서학개미 몰리는 이유 - 조선비즈 - biz.chosun.com",
-      "source": "biz.chosun.com",
+      "title": "[Why] 美中 갈등 속에도 돈은 월가로… 中 서학개미 몰리는 이유 - 조선비즈 - Chosunbiz",
+      "source": "Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVDFqZkR6S0gyUU9tUXQ3TFRpY0dnVXVkYmVzNGVxaExHM1B1WVIycWdqMEZFRVV5dnpRZFZ5cnRvM2hybVZYaWJwX1VUbHJTcDV0S0JYaXd2ZkhFRFo2WTBJVm11NVp4TWpCd1h0R2cza2FnWE5RRll2QmJuV29nUXlEWHp3d01GTllaeDJucVVoSnpyTVJHZlZ6ejdXd9IBsgFBVV95cUxPZV9RVk9PU3FnS0dOQ05rQ2R4WEtmVXF3MUYxMEtTdWdSanBSRzJwNmNwbVRXMUttdEVJS3J3bnVWVUEybXZRMHlBQTJ2bWdQcEhJTTlBSHRkei1OOGpmRFVmQTJNOVFKMWdzOFJveEcySGY4U3plVTVQWkZPOTZFYm9YckYtR0p0OTZtTlJSVEFBZUpDZ2xJUTlpaGxFRzh5YlgwblRWRGRmNWQ3eF8tMjF3?oc=5"
     }
   ],
