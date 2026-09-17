@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-17T02:17:06Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.17 11:17 (한국시간)",
+  "updatedAtISO": "2026-09-17T03:17:33Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.17 12:17 (한국시간)",
   "us10y": 5.0,
   "us30y": 5.36,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1381.41,
-  "usdJpy": 156.13,
-  "jpyKrw100": 884.75,
+  "usdKrw": 1379.31,
+  "usdJpy": 156.07,
+  "jpyKrw100": 883.79,
   "indices": {
     "kospi": {
-      "value": 6730.49,
-      "changePct": 0.19
+      "value": 6733.07,
+      "changePct": 0.23
     },
     "kosdaq": {
-      "value": 820.39,
-      "changePct": 0.54
+      "value": 821.84,
+      "changePct": 0.72
     },
     "sp500": {
       "value": 7551.81,
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[시황] 미국증시, 워시의 매파적 발언에 3대 지수 사흘째 동반 하락 - 버핏연구소",
-      "source": "버핏연구소",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fVVNiQkZDcVlhd1lyV1NZcFRwZy1WaUJ5aGc2M00zTzQyM1VFaWxIaXUyTXY3RWNSSjBmV3FIOWk3STEtRHpXMUIzWnNDbFZucUFGV2FPeFJmd2RyZXVqSHhB?oc=5"
+      "title": "AI 속도 조절하자는 미국...'삼전닉스'가 왕인 코스피에 끼칠 영향? [이슈톺] - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrVURYd19ocDFDYzRsclQ1QmVacHBTcHZmcGFCM3F4c2NwaEQzY2lmYVN2aFZjSXdpV1dhUEgzQ2pIeFBtUTBsdW9TTDJMQ2hWSjFEeS1SbmNGQVc1MHc?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
