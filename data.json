@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-17T18:20:37Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.18 03:20 (한국시간)",
+  "updatedAtISO": "2026-09-17T19:15:07Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.18 04:15 (한국시간)",
   "us10y": 5.0,
   "us30y": 5.36,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1380.92,
-  "usdJpy": 156.03,
-  "jpyKrw100": 885.02,
+  "usdKrw": 1380.34,
+  "usdJpy": 155.99,
+  "jpyKrw100": 884.89,
   "indices": {
     "kospi": {
       "value": 6715.41,
@@ -20,16 +20,16 @@
       "changePct": 0.76
     },
     "sp500": {
-      "value": 7639.96,
-      "changePct": 1.17
+      "value": 7639.42,
+      "changePct": 1.16
     },
     "nasdaq": {
-      "value": 26402.22,
-      "changePct": 1.63
+      "value": 26416.45,
+      "changePct": 1.69
     },
     "sox": {
-      "value": 11604.59,
-      "changePct": 3.19
+      "value": 11600.83,
+      "changePct": 3.15
     }
   },
   "issues": [
@@ -41,8 +41,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "매파적 연준 발언에 흔들린 월가, 미국 증시 선물 반등 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
+      "title": "매파적 연준 발언에 흔들린 월가, 미국 증시 선물 반등 - kr.investing.com",
+      "source": "kr.investing.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Da05ZWkhibW4tUDNUZWVyX2VwbFFuN2dxR3psNHRwWWFESjhqYnVCVW9RMk1pOVRZSG9jbGFhbEJkSFpibEZfajRDdnFialpzUG1OM3AtOUdDdHJua0ZsQ0dtbzU4MEcyWGJTdG9ZTWU?oc=5"
     },
     {
