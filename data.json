@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-17T15:17:39Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.18 00:17 (한국시간)",
+  "updatedAtISO": "2026-09-17T16:18:32Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.18 01:18 (한국시간)",
   "us10y": 5.0,
   "us30y": 5.36,
-  "fedFundsLow": 3.5,
-  "fedFundsHigh": 3.75,
+  "fedFundsLow": 3.75,
+  "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1380.62,
-  "usdJpy": 155.74,
-  "jpyKrw100": 886.51,
+  "usdKrw": 1380.88,
+  "usdJpy": 155.87,
+  "jpyKrw100": 885.9,
   "indices": {
     "kospi": {
       "value": 6715.41,
@@ -20,19 +20,25 @@
       "changePct": 0.76
     },
     "sp500": {
-      "value": 7623.65,
-      "changePct": 0.95
+      "value": 7634.99,
+      "changePct": 1.1
     },
     "nasdaq": {
-      "value": 26360.45,
-      "changePct": 1.47
+      "value": 26398.18,
+      "changePct": 1.62
     },
     "sox": {
-      "value": 11568.74,
-      "changePct": 2.87
+      "value": 11586.33,
+      "changePct": 3.02
     }
   },
   "issues": [
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 증시, 12월부터 평일 23시간 거래 확대…연중무휴 가능성도 - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BcURRbFMwclZKNmZseEpYa3NUOHVuclp2LUNXRy16YUVOaGY1UnEwMzBoM3pqTjJpWmNiUHgxbDhmTXJxdUs1eWV6SncwM05M?oc=5"
+    },
     {
       "tag": "시장 뉴스",
       "title": "매파적 연준 발언에 흔들린 월가, 미국 증시 선물 반등 - Investing.com 한국어",
@@ -56,12 +62,6 @@
       "title": "[서울데이터랩] 미국 증시, 다우 1% 넘게 하락…기술주 선방에 나스닥은 약보합 마감 - 서울신문",
       "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmWnpfTUc1Qk1hNFlBQmhUdm1XUTlnbi13OTlrVVYzdDhWalF6QVVIMFp4OVFKVldZZXhrcXhsLTg4MktsTnl6ZmNreW9haDlWSnhhYWt4MUtwQUVZSDJWejAxN1dFVHdqT1JjZ05CTQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[Why] 美中 갈등 속에도 돈은 월가로… 中 서학개미 몰리는 이유 - 조선비즈 - Chosunbiz",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVDFqZkR6S0gyUU9tUXQ3TFRpY0dnVXVkYmVzNGVxaExHM1B1WVIycWdqMEZFRVV5dnpRZFZ5cnRvM2hybVZYaWJwX1VUbHJTcDV0S0JYaXd2ZkhFRFo2WTBJVm11NVp4TWpCd1h0R2cza2FnWE5RRll2QmJuV29nUXlEWHp3d01GTllaeDJucVVoSnpyTVJHZlZ6ejdXd9IBsgFBVV95cUxPZV9RVk9PU3FnS0dOQ05rQ2R4WEtmVXF3MUYxMEtTdWdSanBSRzJwNmNwbVRXMUttdEVJS3J3bnVWVUEybXZRMHlBQTJ2bWdQcEhJTTlBSHRkei1OOGpmRFVmQTJNOVFKMWdzOFJveEcySGY4U3plVTVQWkZPOTZFYm9YckYtR0p0OTZtTlJSVEFBZUpDZ2xJUTlpaGxFRzh5YlgwblRWRGRmNWQ3eF8tMjF3?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
