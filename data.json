@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-17T21:16:49Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.18 06:16 (한국시간)",
+  "updatedAtISO": "2026-09-17T22:16:21Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.18 07:16 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.35,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1380.11,
-  "usdJpy": 155.92,
-  "jpyKrw100": 885.14,
+  "usdKrw": 1379.64,
+  "usdJpy": 155.98,
+  "jpyKrw100": 884.5,
   "indices": {
     "kospi": {
       "value": 6715.41,
@@ -41,6 +41,12 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "[서울데이터랩] 미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1.69%↑ - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TWXZ0MFY5b1c2UUhkMWZ6VTdXRHh3amRQSG93UUlIWkxmaE8yVEtEdzNaVTJCQzNCcHAtOWtXRHNBUm93WFRhcDdNUXBta19QdDdXeDBVcGtneWd6QzB5WFVjWnpPclJ5aThZZjhRZw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "매파적 연준 발언에 흔들린 월가, 미국 증시 선물 반등 - Investing.com 한국어",
       "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Da05ZWkhibW4tUDNUZWVyX2VwbFFuN2dxR3psNHRwWWFESjhqYnVCVW9RMk1pOVRZSG9jbGFhbEJkSFpibEZfajRDdnFialpzUG1OM3AtOUdDdHJua0ZsQ0dtbzU4MEcyWGJTdG9ZTWU?oc=5"
@@ -56,12 +62,6 @@
       "title": "[미국 주식 돋보기] 빅파마 뒤에서 웃는다 … 질주하는 써모피셔 - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QaUFvT2FiSm8xQW42LTFlWjI4dG9OR1lZWktMVGFsSjdIVXdZSExzYlhfT0dueFBJUGI0aWVXVTREVzhraHdZZVNJNjdjMDRucmc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "지금 미국 주식이 급등하는 이유는? - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWN6WE9MY3ozQ0lwam1jRXdZcmFpUmdDb0xRMlZnWF9SRFhEc0FXQ1N1cHNpcU15eTNhcFVtR1NwQXdGTVNQTWxIT2Q1TElremxWOGYwRkF2eUJOcVNsb0VSc2ZBZklPSzducUl2ZGRMNEgwT0NlMlBJbG1xcF9OMXk1Q2N4Q09QMlln?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
