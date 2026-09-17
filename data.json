@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-17T05:16:32Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.17 14:16 (한국시간)",
+  "updatedAtISO": "2026-09-17T06:23:08Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.17 15:23 (한국시간)",
   "us10y": 5.0,
   "us30y": 5.36,
   "fedFundsLow": 3.5,
   "fedFundsHigh": 3.75,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1382.54,
-  "usdJpy": 155.98,
-  "jpyKrw100": 886.35,
+  "usdKrw": 1381.84,
+  "usdJpy": 155.58,
+  "jpyKrw100": 888.17,
   "indices": {
     "kospi": {
-      "value": 6774.14,
-      "changePct": 0.84
+      "value": 6709.94,
+      "changePct": -0.12
     },
     "kosdaq": {
-      "value": 825.68,
-      "changePct": 1.19
+      "value": 820.66,
+      "changePct": 0.57
     },
     "sp500": {
       "value": 7551.81,
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[Why] 美中 갈등 속에도 돈은 월가로… 中 서학개미 몰리는 이유 - 조선비즈 - Chosunbiz",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVDFqZkR6S0gyUU9tUXQ3TFRpY0dnVXVkYmVzNGVxaExHM1B1WVIycWdqMEZFRVV5dnpRZFZ5cnRvM2hybVZYaWJwX1VUbHJTcDV0S0JYaXd2ZkhFRFo2WTBJVm11NVp4TWpCd1h0R2cza2FnWE5RRll2QmJuV29nUXlEWHp3d01GTllaeDJucVVoSnpyTVJHZlZ6ejdXd9IBsgFBVV95cUxPZV9RVk9PU3FnS0dOQ05rQ2R4WEtmVXF3MUYxMEtTdWdSanBSRzJwNmNwbVRXMUttdEVJS3J3bnVWVUEybXZRMHlBQTJ2bWdQcEhJTTlBSHRkei1OOGpmRFVmQTJNOVFKMWdzOFJveEcySGY4U3plVTVQWkZPOTZFYm9YckYtR0p0OTZtTlJSVEFBZUpDZ2xJUTlpaGxFRzh5YlgwblRWRGRmNWQ3eF8tMjF3?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "AI 속도 조절하자는 미국...'삼전닉스'가 왕인 코스피에 끼칠 영향? [이슈톺] - YTN",
       "source": "YTN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrVURYd19ocDFDYzRsclQ1QmVacHBTcHZmcGFCM3F4c2NwaEQzY2lmYVN2aFZjSXdpV1dhUEgzQ2pIeFBtUTBsdW9TTDJMQ2hWSjFEeS1SbmNGQVc1MHc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[Why] 美中 갈등 속에도 돈은 월가로… 中 서학개미 몰리는 이유 - 조선비즈 - Chosunbiz",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVDFqZkR6S0gyUU9tUXQ3TFRpY0dnVXVkYmVzNGVxaExHM1B1WVIycWdqMEZFRVV5dnpRZFZ5cnRvM2hybVZYaWJwX1VUbHJTcDV0S0JYaXd2ZkhFRFo2WTBJVm11NVp4TWpCd1h0R2cza2FnWE5RRll2QmJuV29nUXlEWHp3d01GTllaeDJucVVoSnpyTVJHZlZ6ejdXd9IBsgFBVV95cUxPZV9RVk9PU3FnS0dOQ05rQ2R4WEtmVXF3MUYxMEtTdWdSanBSRzJwNmNwbVRXMUttdEVJS3J3bnVWVUEybXZRMHlBQTJ2bWdQcEhJTTlBSHRkei1OOGpmRFVmQTJNOVFKMWdzOFJveEcySGY4U3plVTVQWkZPOTZFYm9YckYtR0p0OTZtTlJSVEFBZUpDZ2xJUTlpaGxFRzh5YlgwblRWRGRmNWQ3eF8tMjF3?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
