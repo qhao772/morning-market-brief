@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-17T17:14:35Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.18 02:14 (한국시간)",
+  "updatedAtISO": "2026-09-17T18:20:37Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.18 03:20 (한국시간)",
   "us10y": 5.0,
   "us30y": 5.36,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1381.29,
-  "usdJpy": 156.07,
-  "jpyKrw100": 885.06,
+  "usdKrw": 1380.92,
+  "usdJpy": 156.03,
+  "jpyKrw100": 885.02,
   "indices": {
     "kospi": {
       "value": 6715.41,
@@ -20,16 +20,16 @@
       "changePct": 0.76
     },
     "sp500": {
-      "value": 7635.26,
-      "changePct": 1.1
+      "value": 7639.96,
+      "changePct": 1.17
     },
     "nasdaq": {
-      "value": 26400.21,
-      "changePct": 1.62
+      "value": 26402.22,
+      "changePct": 1.63
     },
     "sox": {
-      "value": 11602.9,
-      "changePct": 3.17
+      "value": 11604.59,
+      "changePct": 3.19
     }
   },
   "issues": [
@@ -47,21 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국 주식 돋보기] 빅파마 뒤에서 웃는다 … 질주하는 써모피셔 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QaUFvT2FiSm8xQW42LTFlWjI4dG9OR1lZWktMVGFsSjdIVXdZSExzYlhfT0dueFBJUGI0aWVXVTREVzhraHdZZVNJNjdjMDRucmc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "세계최고수익률 국부펀드 \"미국증시 조정 가능성\" 경고 - 한국경제",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SZTRiMmd1V0s0V2lfU1l2cExEdEFWX3RNQnBGeGZqN193T0FCSU5mRFlrOEgyenNqTi1KYTE2VkdIQzNpS010d181LXRNd2lvVUxyV09XN0tkZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 다우 1% 넘게 하락…기술주 선방에 나스닥은 약보합 마감 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmWnpfTUc1Qk1hNFlBQmhUdm1XUTlnbi13OTlrVVYzdDhWalF6QVVIMFp4OVFKVldZZXhrcXhsLTg4MktsTnl6ZmNreW9haDlWSnhhYWt4MUtwQUVZSDJWejAxN1dFVHdqT1JjZ05CTQ?oc=5"
+      "title": "[미국 주식 돋보기] 빅파마 뒤에서 웃는다 … 질주하는 써모피셔 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QaUFvT2FiSm8xQW42LTFlWjI4dG9OR1lZWktMVGFsSjdIVXdZSExzYlhfT0dueFBJUGI0aWVXVTREVzhraHdZZVNJNjdjMDRucmc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "지금 미국 주식이 급등하는 이유는? - 네이버 프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWN6WE9MY3ozQ0lwam1jRXdZcmFpUmdDb0xRMlZnWF9SRFhEc0FXQ1N1cHNpcU15eTNhcFVtR1NwQXdGTVNQTWxIT2Q1TElremxWOGYwRkF2eUJOcVNsb0VSc2ZBZklPSzducUl2ZGRMNEgwT0NlMlBJbG1xcF9OMXk1Q2N4Q09QMlln?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
