@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-18T01:16:03Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.18 10:16 (한국시간)",
+  "updatedAtISO": "2026-09-18T02:17:02Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.18 11:17 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.35,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1383.48,
-  "usdJpy": 156.25,
-  "jpyKrw100": 885.43,
+  "usdKrw": 1385.68,
+  "usdJpy": 156.29,
+  "jpyKrw100": 886.59,
   "indices": {
     "kospi": {
-      "value": 6864.37,
-      "changePct": 2.22
+      "value": 6850.85,
+      "changePct": 2.02
     },
     "kosdaq": {
-      "value": 828.46,
-      "changePct": 0.76
+      "value": 827.4,
+      "changePct": 0.64
     },
     "sp500": {
       "value": 7637.76,
@@ -35,9 +35,9 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q1NDZ3J6MnV3b0Fjc3lPTmdSZDJJX1pLWXB4OU9RbjlJQXhYb3p6THFpOGNNMUZYRUlSS3BVaVl5RDdXc1RPUHRPcUNMbkRsTlRuSDZlUWpiWmpHV3c?oc=5"
+      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - ytn.co.kr",
+      "source": "ytn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCVVNPUE9wcGtkcmdkSWlTVm90VWg1UmtXR0hqT3VORFE2NEN3eHN6TS1EOEN3UmVOSUdSUFk0c3FPblQ3enRUUHZ3Q25BNktCNk5kRThod1RYM3pGWHpiR3JSbm91WW1obW9PVnJ5Zw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "불확실성 해소로 미 증시 4일만에 반등 - KB Think",
-      "source": "KB Think",
+      "title": "불확실성 해소로 미 증시 4일만에 반등 - kbthink.com",
+      "source": "kbthink.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xTjRhS3Z4WmR6NEhaQkZtbHZaeVdWQXhOU2JyeXZaWjBKZDJFbU5iRWZaaVlEQkUxTFIxcW1CMEtTT1dFUi1tMDBYVDZHU0VVaUR6clJTaGZRMXpfcUJ6U3FGb0YtYTFsVENsaw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[시황] 미국증시, 금리·유가 안정에 AI 반도체 중심 상승 - 버핏연구소",
-      "source": "버핏연구소",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrOFhCRWJQTXhxUjVDMHhFbF9kZ2tSRG4yS0t6SnpwbkRRTEYxUXJJbjUxcDZTdm9vS1pGaVNkMUpxVENMT24wa0FtdWxMTFo0LWlXR0RpZndfQkJDYVlyaFRB?oc=5"
+      "title": "美 SEC, 토큰화 주식 전격 허용…24시간 주식거래 시대 열렸다 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PM1RqSWpTbDRKXy1sSE0zeEJuNU9Yem5mS3hpZUItYkRVcHhmR0hla1huRzB5LTl1eTJaTDNELTZ6SU1IeUtSUHZ2OXZrWGRULVE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
