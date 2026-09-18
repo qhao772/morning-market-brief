@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-18T21:16:06Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.19 06:16 (한국시간)",
+  "updatedAtISO": "2026-09-18T22:16:17Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.19 07:16 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
@@ -35,8 +35,8 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - ytn.co.kr",
-      "source": "ytn.co.kr",
+      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
+      "source": "YTN",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43QzlFUUJOUUlGRzQzNG55Vm5YTHZEYTVkYkRrLV9wZk9OSUR0N0g5dzVmMlNmUkVFeE5PQl91MTJtOWJsMUs3WFNBdFlFSlluTUZmQVBxRE1xZWtSWTgtS0dRZGNZUGJMamFiMWZWcTFlbFdreFE?oc=5"
     },
     {
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[시황] 미국증시, 금리·유가 안정에 AI 반도체 중심 상승 - 버핏연구소",
-      "source": "버핏연구소",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrOFhCRWJQTXhxUjVDMHhFbF9kZ2tSRG4yS0t6SnpwbkRRTEYxUXJJbjUxcDZTdm9vS1pGaVNkMUpxVENMT24wa0FtdWxMTFo0LWlXR0RpZndfQkJDYVlyaFRB?oc=5"
+      "title": "간밤 미국증시 강세에 장 초반 코스피 2%↑ - 대한경제",
+      "source": "대한경제",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aOVNzSFpsYTVxeVZtUzFScHdCZWFmLW9kdGNPaEZ0UUItTVljcVJWcVRTYXlFbHE5NGwzbXBxajM5QUJ0NEhRWk5xbjRPUk4teTU5WkxXci04Zm9jSTVhcmFBcmoxaWZBS3RkY09oOWRuUzFO?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
