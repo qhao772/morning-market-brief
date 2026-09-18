@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-18T02:17:02Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.18 11:17 (한국시간)",
+  "updatedAtISO": "2026-09-18T03:16:45Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.18 12:16 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.35,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1385.68,
-  "usdJpy": 156.29,
-  "jpyKrw100": 886.59,
+  "usdKrw": 1384.32,
+  "usdJpy": 156.88,
+  "jpyKrw100": 882.4,
   "indices": {
     "kospi": {
-      "value": 6850.85,
-      "changePct": 2.02
+      "value": 6858.64,
+      "changePct": 2.13
     },
     "kosdaq": {
-      "value": 827.4,
-      "changePct": 0.64
+      "value": 828.08,
+      "changePct": 0.72
     },
     "sp500": {
       "value": 7637.76,
@@ -35,8 +35,8 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - ytn.co.kr",
-      "source": "ytn.co.kr",
+      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
+      "source": "YTN",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCVVNPUE9wcGtkcmdkSWlTVm90VWg1UmtXR0hqT3VORFE2NEN3eHN6TS1EOEN3UmVOSUdSUFk0c3FPblQ3enRUUHZ3Q25BNktCNk5kRThod1RYM3pGWHpiR3JSbm91WW1obW9PVnJ5Zw?oc=5"
     },
     {
@@ -47,14 +47,14 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "간밤 미국증시 강세에 장 초반 코스피 2%↑ - 대한경제",
-      "source": "대한경제",
+      "title": "간밤 미국증시 강세에 장 초반 코스피 2%↑ - dnews.co.kr",
+      "source": "dnews.co.kr",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aOVNzSFpsYTVxeVZtUzFScHdCZWFmLW9kdGNPaEZ0UUItTVljcVJWcVRTYXlFbHE5NGwzbXBxajM5QUJ0NEhRWk5xbjRPUk4teTU5WkxXci04Zm9jSTVhcmFBcmoxaWZBS3RkY09oOWRuUzFO?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "불확실성 해소로 미 증시 4일만에 반등 - kbthink.com",
-      "source": "kbthink.com",
+      "title": "불확실성 해소로 미 증시 4일만에 반등 - KB Think",
+      "source": "KB Think",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xTjRhS3Z4WmR6NEhaQkZtbHZaeVdWQXhOU2JyeXZaWjBKZDJFbU5iRWZaaVlEQkUxTFIxcW1CMEtTT1dFUi1tMDBYVDZHU0VVaUR6clJTaGZRMXpfcUJ6U3FGb0YtYTFsVENsaw?oc=5"
     },
     {
