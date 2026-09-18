@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-17T23:14:13Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.18 08:14 (한국시간)",
+  "updatedAtISO": "2026-09-18T00:23:26Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.18 09:23 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.35,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1380.37,
-  "usdJpy": 155.88,
-  "jpyKrw100": 885.55,
+  "usdKrw": 1380.03,
+  "usdJpy": 156.16,
+  "jpyKrw100": 883.71,
   "indices": {
     "kospi": {
-      "value": 6715.41,
-      "changePct": -0.04
+      "value": 6877.45,
+      "changePct": 2.41
     },
     "kosdaq": {
-      "value": 822.18,
-      "changePct": 0.76
+      "value": 831.03,
+      "changePct": 1.08
     },
     "sp500": {
       "value": 7637.76,
@@ -35,9 +35,21 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시, 12월부터 평일 23시간 거래 확대…연중무휴 가능성도 - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BcURRbFMwclZKNmZseEpYa3NUOHVuclp2LUNXRy16YUVOaGY1UnEwMzBoM3pqTjJpWmNiUHgxbDhmTXJxdUs1eWV6SncwM05M?oc=5"
+      "title": "[서울데이터랩] 미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1.69%↑ - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TWXZ0MFY5b1c2UUhkMWZ6VTdXRHh3amRQSG93UUlIWkxmaE8yVEtEdzNaVTJCQzNCcHAtOWtXRHNBUm93WFRhcDdNUXBta19QdDdXeDBVcGtneWd6QzB5WFVjWnpPclJ5aThZZjhRZw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "불확실성 해소로 미 증시 4일만에 반등 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xTjRhS3Z4WmR6NEhaQkZtbHZaeVdWQXhOU2JyeXZaWjBKZDJFbU5iRWZaaVlEQkUxTFIxcW1CMEtTT1dFUi1tMDBYVDZHU0VVaUR6clJTaGZRMXpfcUJ6U3FGb0YtYTFsVENsaw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[시황] 미국증시, 금리·유가 안정에 AI 반도체 중심 상승 - 버핏연구소",
+      "source": "버핏연구소",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrOFhCRWJQTXhxUjVDMHhFbF9kZ2tSRG4yS0t6SnpwbkRRTEYxUXJJbjUxcDZTdm9vS1pGaVNkMUpxVENMT24wa0FtdWxMTFo0LWlXR0RpZndfQkJDYVlyaFRB?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,21 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1.69%↑ - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TWXZ0MFY5b1c2UUhkMWZ6VTdXRHh3amRQSG93UUlIWkxmaE8yVEtEdzNaVTJCQzNCcHAtOWtXRHNBUm93WFRhcDdNUXBta19QdDdXeDBVcGtneWd6QzB5WFVjWnpPclJ5aThZZjhRZw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "금리 인상 충격 딛고 뉴욕증시 반등…국내 증시도 상승 출발 전망[굿모닝 증시] - 아시아경제",
-      "source": "아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04aDhzMjVPcUFCTzVnUFlYZ1pOaHpPLVA1Q3ZXZVdycEtJajUzQ0wyTG9GV09YdFRTQkJzS0psV1I0Z3hmeVVVU0dCSVNKOTZGRFVmNDhBeS1tZ3JCUDJnbQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, 금리인상 불확실성 해소에 반등 - koreancenter.or.kr",
-      "source": "koreancenter.or.kr",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pSDRCN3lsSHZ1MUo3Z2puWlp0YXdYbjl6Z3FSRnNqMHpnV0hWdzc4WkRKak5zUU5TU2Vtd19lUmxUQVg0ZlFzVG9DZERnNVZrdHdaM0tOYkhXdURxMG9xdWswWUl3WTIwMTQtU2pQNnQyblNh?oc=5"
+      "title": "[마켓뷰] 美증시 긴축 소화하며 반등…코스피도 이어받을까 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sRWQwREQ2NGY0WmZ4TjR0UHo2amFJWk9sWnRsYUNLZkdqbjRVQWRmY29ScFdZYVJhMWtKWDhiamRFMHR6YW5FZ2tJT3gwWFlLTGc?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
