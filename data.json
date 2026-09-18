@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-18T13:16:09Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.18 22:16 (한국시간)",
+  "updatedAtISO": "2026-09-18T14:17:21Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.18 23:17 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.35,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1388.02,
-  "usdJpy": 157.74,
-  "jpyKrw100": 879.97,
+  "usdKrw": 1389.53,
+  "usdJpy": 157.81,
+  "jpyKrw100": 880.52,
   "indices": {
     "kospi": {
       "value": 6894.23,
@@ -20,16 +20,16 @@
       "changePct": 1.36
     },
     "sp500": {
-      "value": 7637.76,
-      "changePct": 1.14
+      "value": 7619.38,
+      "changePct": -0.24
     },
     "nasdaq": {
-      "value": 26418.3,
-      "changePct": 1.69
+      "value": 26365.69,
+      "changePct": -0.2
     },
     "sox": {
-      "value": 11599.49,
-      "changePct": 3.14
+      "value": 11738.77,
+      "changePct": 1.2
     }
   },
   "issues": [
@@ -53,8 +53,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박 - 경북매일",
-      "source": "경북매일",
+      "title": "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박 - kbmaeil.com",
+      "source": "kbmaeil.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiZUtzYWdsdUFXQ19FeTJCNFNtaWQwc3ZIa2c5Z0RpYm03ekpKNTZyZi12Q1dybUlfbEE2YW5nM3JiMnZqREFJRDJZN3FPLWc5VVB1V3J2Y3NFdw?oc=5"
     },
     {
