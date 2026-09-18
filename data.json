@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-18T06:21:58Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.18 15:21 (한국시간)",
+  "updatedAtISO": "2026-09-18T07:17:17Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.18 16:17 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.35,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1381.73,
-  "usdJpy": 157.12,
-  "jpyKrw100": 879.41,
+  "usdKrw": 1382.75,
+  "usdJpy": 156.94,
+  "jpyKrw100": 881.09,
   "indices": {
     "kospi": {
-      "value": 6876.53,
-      "changePct": 2.4
+      "value": 6894.23,
+      "changePct": 2.66
     },
     "kosdaq": {
-      "value": 826.68,
-      "changePct": 0.55
+      "value": 827.12,
+      "changePct": 0.6
     },
     "sp500": {
       "value": 7637.76,
@@ -47,6 +47,12 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "키옥시아, 미국 증시 상장해 100억 달러 조달 방안 추진 - 아세안익스프레스",
+      "source": "아세안익스프레스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlclNsSG1FT1d6S0RUc3N4YmdRdEZpeVhXbUFJeEJ2ekpydm1uQ1UtNmtIS25RMHA5UTB4Qzh3Q09fY2o2ZDU0YVN6Nm9HQnNsSU5fQzh0SENONndUMkVOcU5GOXRxdEo2?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박 - 경북매일",
       "source": "경북매일",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiZUtzYWdsdUFXQ19FeTJCNFNtaWQwc3ZIa2c5Z0RpYm03ekpKNTZyZi12Q1dybUlfbEE2YW5nM3JiMnZqREFJRDJZN3FPLWc5VVB1V3J2Y3NFdw?oc=5"
@@ -56,12 +62,6 @@
       "title": "간밤 미국증시 강세에 장 초반 코스피 2%↑ - 대한경제",
       "source": "대한경제",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aOVNzSFpsYTVxeVZtUzFScHdCZWFmLW9kdGNPaEZ0UUItTVljcVJWcVRTYXlFbHE5NGwzbXBxajM5QUJ0NEhRWk5xbjRPUk4teTU5WkxXci04Zm9jSTVhcmFBcmoxaWZBS3RkY09oOWRuUzFO?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "불확실성 해소로 미 증시 4일만에 반등 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xTjRhS3Z4WmR6NEhaQkZtbHZaeVdWQXhOU2JyeXZaWjBKZDJFbU5iRWZaaVlEQkUxTFIxcW1CMEtTT1dFUi1tMDBYVDZHU0VVaUR6clJTaGZRMXpfcUJ6U3FGb0YtYTFsVENsaw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
