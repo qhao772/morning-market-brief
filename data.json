@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-18T10:17:25Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.18 19:17 (한국시간)",
+  "updatedAtISO": "2026-09-18T11:15:51Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.18 20:15 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.35,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1384.58,
-  "usdJpy": 157.88,
-  "jpyKrw100": 877.0,
+  "usdKrw": 1386.94,
+  "usdJpy": 157.75,
+  "jpyKrw100": 879.2,
   "indices": {
     "kospi": {
       "value": 6894.23,
@@ -59,8 +59,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박 - 경북매일",
-      "source": "경북매일",
+      "title": "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박 - kbmaeil.com",
+      "source": "kbmaeil.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiZUtzYWdsdUFXQ19FeTJCNFNtaWQwc3ZIa2c5Z0RpYm03ekpKNTZyZi12Q1dybUlfbEE2YW5nM3JiMnZqREFJRDJZN3FPLWc5VVB1V3J2Y3NFdw?oc=5"
     }
   ],
