@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-18T14:17:21Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.18 23:17 (한국시간)",
+  "updatedAtISO": "2026-09-18T15:16:33Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.19 00:16 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.35,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1389.53,
-  "usdJpy": 157.81,
-  "jpyKrw100": 880.52,
+  "usdKrw": 1388.88,
+  "usdJpy": 157.13,
+  "jpyKrw100": 883.89,
   "indices": {
     "kospi": {
       "value": 6894.23,
@@ -20,16 +20,16 @@
       "changePct": 1.36
     },
     "sp500": {
-      "value": 7619.38,
-      "changePct": -0.24
+      "value": 7626.78,
+      "changePct": -0.14
     },
     "nasdaq": {
-      "value": 26365.69,
-      "changePct": -0.2
+      "value": 26402.51,
+      "changePct": -0.06
     },
     "sox": {
-      "value": 11738.77,
-      "changePct": 1.2
+      "value": 11739.76,
+      "changePct": 1.21
     }
   },
   "issues": [
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "美 토큰화 주식 전격 허용 … 24시간 거래 시대 열렸다 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YSl9STXVkaXNXOXJ6eEhTZmJlZUJmazBSQWRMeVhyMnlLRkd1dXV4TVA0Q0RuOE9MdHRmRWpmb2F2eUdvakg3N1JlTlVyNV9zNkE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "[서울데이터랩] 미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1.69%↑ - 서울신문",
       "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TWXZ0MFY5b1c2UUhkMWZ6VTdXRHh3amRQSG93UUlIWkxmaE8yVEtEdzNaVTJCQzNCcHAtOWtXRHNBUm93WFRhcDdNUXBta19QdDdXeDBVcGtneWd6QzB5WFVjWnpPclJ5aThZZjhRZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박 - kbmaeil.com",
-      "source": "kbmaeil.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiZUtzYWdsdUFXQ19FeTJCNFNtaWQwc3ZIa2c5Z0RpYm03ekpKNTZyZi12Q1dybUlfbEE2YW5nM3JiMnZqREFJRDJZN3FPLWc5VVB1V3J2Y3NFdw?oc=5"
+      "title": "美 토큰화 주식 전격 허용 … 24시간 거래 시대 열렸다 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YSl9STXVkaXNXOXJ6eEhTZmJlZUJmazBSQWRMeVhyMnlLRkd1dXV4TVA0Q0RuOE9MdHRmRWpmb2F2eUdvakg3N1JlTlVyNV9zNkE?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "간밤 미국증시 강세에 장 초반 코스피 2%↑ - 대한경제",
       "source": "대한경제",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aOVNzSFpsYTVxeVZtUzFScHdCZWFmLW9kdGNPaEZ0UUItTVljcVJWcVRTYXlFbHE5NGwzbXBxajM5QUJ0NEhRWk5xbjRPUk4teTU5WkxXci04Zm9jSTVhcmFBcmoxaWZBS3RkY09oOWRuUzFO?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시, 일본 금리인상에 장초반 반락…국채금리 5%·반도체는 선별 강세 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mMllQdzM4QzRzRFF2TzVMUklnVmE1TTBtMGRZd3lnMXVfdG02Qi1ndGNnYzZYR1JBTTdoYUdhdS1ZSVp3Q1RTbDBpOU11YWFmaDJTQkpudThVQUtLUUxDbkp5OUQtLTJ2Nk9zOE5CaEZVZw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
