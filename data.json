@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-18T12:21:14Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.18 21:21 (한국시간)",
+  "updatedAtISO": "2026-09-18T13:16:09Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.18 22:16 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.35,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1388.53,
-  "usdJpy": 157.88,
-  "jpyKrw100": 879.5,
+  "usdKrw": 1388.02,
+  "usdJpy": 157.74,
+  "jpyKrw100": 879.97,
   "indices": {
     "kospi": {
       "value": 6894.23,
@@ -17,7 +17,7 @@
     },
     "kosdaq": {
       "value": 827.12,
-      "changePct": 0.6
+      "changePct": 1.36
     },
     "sp500": {
       "value": 7637.76,
@@ -35,8 +35,8 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - ytn.co.kr",
-      "source": "ytn.co.kr",
+      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
+      "source": "YTN",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43QzlFUUJOUUlGRzQzNG55Vm5YTHZEYTVkYkRrLV9wZk9OSUR0N0g5dzVmMlNmUkVFeE5PQl91MTJtOWJsMUs3WFNBdFlFSlluTUZmQVBxRE1xZWtSWTgtS0dRZGNZUGJMamFiMWZWcTFlbFdreFE?oc=5"
     },
     {
@@ -47,21 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1.69%↑ - seoul.co.kr",
-      "source": "seoul.co.kr",
+      "title": "[서울데이터랩] 미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1.69%↑ - 서울신문",
+      "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TWXZ0MFY5b1c2UUhkMWZ6VTdXRHh3amRQSG93UUlIWkxmaE8yVEtEdzNaVTJCQzNCcHAtOWtXRHNBUm93WFRhcDdNUXBta19QdDdXeDBVcGtneWd6QzB5WFVjWnpPclJ5aThZZjhRZw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "키옥시아, 미국 증시 상장해 100억 달러 조달 방안 추진 - 아세안익스프레스",
-      "source": "아세안익스프레스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlclNsSG1FT1d6S0RUc3N4YmdRdEZpeVhXbUFJeEJ2ekpydm1uQ1UtNmtIS25RMHA5UTB4Qzh3Q09fY2o2ZDU0YVN6Nm9HQnNsSU5fQzh0SENONndUMkVOcU5GOXRxdEo2?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "미국 금리 오르면 한국은 어디부터 흔들리나…대출·환율·증시 동시 압박 - 경북매일",
       "source": "경북매일",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiZUtzYWdsdUFXQ19FeTJCNFNtaWQwc3ZIa2c5Z0RpYm03ekpKNTZyZi12Q1dybUlfbEE2YW5nM3JiMnZqREFJRDJZN3FPLWc5VVB1V3J2Y3NFdw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "간밤 미국증시 강세에 장 초반 코스피 2%↑ - 대한경제",
+      "source": "대한경제",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aOVNzSFpsYTVxeVZtUzFScHdCZWFmLW9kdGNPaEZ0UUItTVljcVJWcVRTYXlFbHE5NGwzbXBxajM5QUJ0NEhRWk5xbjRPUk4teTU5WkxXci04Zm9jSTVhcmFBcmoxaWZBS3RkY09oOWRuUzFO?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
