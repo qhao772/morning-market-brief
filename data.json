@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-18T07:17:17Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.18 16:17 (한국시간)",
+  "updatedAtISO": "2026-09-18T08:17:50Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.18 17:17 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.35,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1382.75,
-  "usdJpy": 156.94,
-  "jpyKrw100": 881.09,
+  "usdKrw": 1384.09,
+  "usdJpy": 157.76,
+  "jpyKrw100": 877.33,
   "indices": {
     "kospi": {
       "value": 6894.23,
@@ -35,9 +35,9 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCVVNPUE9wcGtkcmdkSWlTVm90VWg1UmtXR0hqT3VORFE2NEN3eHN6TS1EOEN3UmVOSUdSUFk0c3FPblQ3enRUUHZ3Q25BNktCNk5kRThod1RYM3pGWHpiR3JSbm91WW1obW9PVnJ5Zw?oc=5"
+      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - ytn.co.kr",
+      "source": "ytn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43QzlFUUJOUUlGRzQzNG55Vm5YTHZEYTVkYkRrLV9wZk9OSUR0N0g5dzVmMlNmUkVFeE5PQl91MTJtOWJsMUs3WFNBdFlFSlluTUZmQVBxRE1xZWtSWTgtS0dRZGNZUGJMamFiMWZWcTFlbFdreFE?oc=5"
     },
     {
       "tag": "시장 뉴스",
