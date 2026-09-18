@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-18T05:15:29Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.18 14:15 (한국시간)",
+  "updatedAtISO": "2026-09-18T06:21:58Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.18 15:21 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.35,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1385.14,
-  "usdJpy": 157.25,
-  "jpyKrw100": 880.88,
+  "usdKrw": 1381.73,
+  "usdJpy": 157.12,
+  "jpyKrw100": 879.41,
   "indices": {
     "kospi": {
-      "value": 6892.62,
-      "changePct": 2.64
+      "value": 6876.53,
+      "changePct": 2.4
     },
     "kosdaq": {
-      "value": 827.93,
-      "changePct": 0.7
+      "value": 826.68,
+      "changePct": 0.55
     },
     "sp500": {
       "value": 7637.76,
@@ -41,8 +41,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1.69%↑ - seoul.co.kr",
-      "source": "seoul.co.kr",
+      "title": "[서울데이터랩] 미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1.69%↑ - 서울신문",
+      "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TWXZ0MFY5b1c2UUhkMWZ6VTdXRHh3amRQSG93UUlIWkxmaE8yVEtEdzNaVTJCQzNCcHAtOWtXRHNBUm93WFRhcDdNUXBta19QdDdXeDBVcGtneWd6QzB5WFVjWnpPclJ5aThZZjhRZw?oc=5"
     },
     {
