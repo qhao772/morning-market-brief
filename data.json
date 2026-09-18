@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-18T20:16:41Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.19 05:16 (한국시간)",
+  "updatedAtISO": "2026-09-18T21:16:06Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.19 06:16 (한국시간)",
   "us10y": 4.94,
-  "us30y": 5.35,
+  "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1384.58,
-  "usdJpy": 156.76,
-  "jpyKrw100": 883.27,
+  "usdKrw": 1385.95,
+  "usdJpy": 156.85,
+  "jpyKrw100": 883.59,
   "indices": {
     "kospi": {
       "value": 6894.23,
@@ -47,21 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "뉴욕증시, 하락세로 전환…나스닥 0.15%↓ - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rYTF5QldhRGJtcktrcFRyS082OE0wLVRvRUwtSWJ5eVBXSGxWaDdET3BGckZkVHhKTTgwMDIwc0JPTkxUdl9SNmEtYlhyNUZY?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "美 토큰화 주식 전격 허용 … 24시간 거래 시대 열렸다 - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YSl9STXVkaXNXOXJ6eEhTZmJlZUJmazBSQWRMeVhyMnlLRkd1dXV4TVA0Q0RuOE9MdHRmRWpmb2F2eUdvakg3N1JlTlVyNV9zNkE?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "간밤 미국증시 강세에 장 초반 코스피 2%↑ - 대한경제",
-      "source": "대한경제",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aOVNzSFpsYTVxeVZtUzFScHdCZWFmLW9kdGNPaEZ0UUItTVljcVJWcVRTYXlFbHE5NGwzbXBxajM5QUJ0NEhRWk5xbjRPUk4teTU5WkxXci04Zm9jSTVhcmFBcmoxaWZBS3RkY09oOWRuUzFO?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1.69%↑ - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TWXZ0MFY5b1c2UUhkMWZ6VTdXRHh3amRQSG93UUlIWkxmaE8yVEtEdzNaVTJCQzNCcHAtOWtXRHNBUm93WFRhcDdNUXBta19QdDdXeDBVcGtneWd6QzB5WFVjWnpPclJ5aThZZjhRZw?oc=5"
+      "title": "[시황] 미국증시, 금리·유가 안정에 AI 반도체 중심 상승 - 버핏연구소",
+      "source": "버핏연구소",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrOFhCRWJQTXhxUjVDMHhFbF9kZ2tSRG4yS0t6SnpwbkRRTEYxUXJJbjUxcDZTdm9vS1pGaVNkMUpxVENMT24wa0FtdWxMTFo0LWlXR0RpZndfQkJDYVlyaFRB?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
