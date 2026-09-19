@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-19T07:15:29Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.19 16:15 (한국시간)",
+  "updatedAtISO": "2026-09-19T08:17:44Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.19 17:17 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
@@ -17,7 +17,7 @@
     },
     "kosdaq": {
       "value": 827.12,
-      "changePct": 1.36
+      "changePct": 0.6
     },
     "sp500": {
       "value": 7650.5,
