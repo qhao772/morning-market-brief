@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-19T18:18:33Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.20 03:18 (한국시간)",
+  "updatedAtISO": "2026-09-19T19:13:30Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.20 04:13 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
@@ -17,7 +17,7 @@
     },
     "kosdaq": {
       "value": 827.12,
-      "changePct": 0.6
+      "changePct": 1.36
     },
     "sp500": {
       "value": 7650.5,
@@ -47,8 +47,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "세계최고수익률 국부펀드 \"미국증시 조정 가능성\" 경고 - 한국경제",
-      "source": "한국경제",
+      "title": "세계최고수익률 국부펀드 \"미국증시 조정 가능성\" 경고 - hankyung.com",
+      "source": "hankyung.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SZTRiMmd1V0s0V2lfU1l2cExEdEFWX3RNQnBGeGZqN193T0FCSU5mRFlrOEgyenNqTi1KYTE2VkdIQzNpS010d181LXRNd2lvVUxyV09XN0tkZw?oc=5"
     },
     {
@@ -59,8 +59,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1.69%↑ - 서울신문",
-      "source": "서울신문",
+      "title": "[서울데이터랩] 미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1.69%↑ - seoul.co.kr",
+      "source": "seoul.co.kr",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TWXZ0MFY5b1c2UUhkMWZ6VTdXRHh3amRQSG93UUlIWkxmaE8yVEtEdzNaVTJCQzNCcHAtOWtXRHNBUm93WFRhcDdNUXBta19QdDdXeDBVcGtneWd6QzB5WFVjWnpPclJ5aThZZjhRZw?oc=5"
     }
   ],
