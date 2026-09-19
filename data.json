@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-19T14:15:51Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.19 23:15 (한국시간)",
+  "updatedAtISO": "2026-09-19T15:15:30Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.20 00:15 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
@@ -41,8 +41,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
-      "source": "YTN",
+      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - ytn.co.kr",
+      "source": "ytn.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q1NDZ3J6MnV3b0Fjc3lPTmdSZDJJX1pLWXB4OU9RbjlJQXhYb3p6THFpOGNNMUZYRUlSS3BVaVl5RDdXc1RPUHRPcUNMbkRsTlRuSDZlUWpiWmpHV3c?oc=5"
     },
     {
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국증시] 버핏 회장직 내려놓고…AI 속도조절론은 흔들렸다 - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85MDl0aEhWYm95dWxPUl9RMmdDTGtPUVprX1NELWhxVWQtdzFxYXlJQXJDbFM0cjN3NEJFQnc1eFVvUzd2STNYLVNwZEZRQXhOaFV0ZlQ2MjZuYUZpTWdXdFRmUGNiV1E?oc=5"
+      "title": "[서울데이터랩] 미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1.69%↑ - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TWXZ0MFY5b1c2UUhkMWZ6VTdXRHh3amRQSG93UUlIWkxmaE8yVEtEdzNaVTJCQzNCcHAtOWtXRHNBUm93WFRhcDdNUXBta19QdDdXeDBVcGtneWd6QzB5WFVjWnpPclJ5aThZZjhRZw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
