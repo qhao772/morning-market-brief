@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-19T08:17:44Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.19 17:17 (한국시간)",
+  "updatedAtISO": "2026-09-19T09:16:18Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.19 18:16 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
@@ -17,7 +17,7 @@
     },
     "kosdaq": {
       "value": 827.12,
-      "changePct": 0.6
+      "changePct": 1.36
     },
     "sp500": {
       "value": 7650.5,
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국증시] 버핏 회장직 내려놓고…AI 속도조절론은 흔들렸다 - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85MDl0aEhWYm95dWxPUl9RMmdDTGtPUVprX1NELWhxVWQtdzFxYXlJQXJDbFM0cjN3NEJFQnc1eFVvUzd2STNYLVNwZEZRQXhOaFV0ZlQ2MjZuYUZpTWdXdFRmUGNiV1E?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "세계최고수익률 국부펀드 \"미국증시 조정 가능성\" 경고 - 한국경제",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SZTRiMmd1V0s0V2lfU1l2cExEdEFWX3RNQnBGeGZqN193T0FCSU5mRFlrOEgyenNqTi1KYTE2VkdIQzNpS010d181LXRNd2lvVUxyV09XN0tkZw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[미국증시] 버핏 회장직 내려놓고…AI 속도조절론은 흔들렸다 - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85MDl0aEhWYm95dWxPUl9RMmdDTGtPUVprX1NELWhxVWQtdzFxYXlJQXJDbFM0cjN3NEJFQnc1eFVvUzd2STNYLVNwZEZRQXhOaFV0ZlQ2MjZuYUZpTWdXdFRmUGNiV1E?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
