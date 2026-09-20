@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-20T08:17:05Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.20 17:17 (한국시간)",
+  "updatedAtISO": "2026-09-20T09:16:21Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.20 18:16 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
@@ -35,6 +35,12 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "레버리지 ETF의 몰락 … 美증시 73개 줄상폐 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hS09ocFZiZ05jSUQ4b1FHUmpITW5FRVJWNXd2aFZUV1V1VUdpeEktRWZPRHZlbVZ2RGQ0c1lDMGVyc1djT2g2TFB3M3pocFRWR1E?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
       "source": "YTN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q1NDZ3J6MnV3b0Fjc3lPTmdSZDJJX1pLWXB4OU9RbjlJQXhYb3p6THFpOGNNMUZYRUlSS3BVaVl5RDdXc1RPUHRPcUNMbkRsTlRuSDZlUWpiWmpHV3c?oc=5"
@@ -47,21 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "美주식 팔아치우더니…돌아온 서학개미 '1.5조 순매수' 돌변 - hankyung.com",
-      "source": "hankyung.com",
+      "title": "美주식 팔아치우더니…돌아온 서학개미 '1.5조 순매수' 돌변 - 한국경제",
+      "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnQ2lvdEp1ZXQzM2NHWFFkTU4yLVUwcWxtUHR4UGl4UEJfdXozSVhOb2d1YXhZc081eVNQS2JndFZBTURCcUZUS2s4VzdlZDNweEFkTExpa0ctUQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "‘속슬’ 효과에... 서학 개미, 미국 주식 순매수 전환 - 조선일보",
-      "source": "조선일보",
+      "title": "‘속슬’ 효과에... 서학 개미, 미국 주식 순매수 전환 - chosun.com",
+      "source": "chosun.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEhpRnh5S3NaMnFkT0xobEZpVVdYZ1Y3VzR2Qk5XRC1zNF9jbkVlYkNtT3ZqdGpabnhHTWdyQUxVSkxFcnJLNnpKZThDSWtuQW1xTjBWeDJxb1NITUZWUG13Tmw2Wmd6ZkJqbElZRDlJYllsODNhZVp0VEs0MWxsV0hhV3ZmYV9teHh6dHJB?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "美 반도체 고공행진에…내다팔던 서학개미, 순매수 돌아섰다 - 뉴스1",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YY2Y2ck1SMHZadTVic3M4cXI2Y2VWVEd4R3ZRLWtNS3ZJRnhwbjVERDBQcDdBZWVLWnVQSVNrV01GNlJxNFpWZEV5clhxQlJMXzBEaTB1RDU2NEJicF9j0gFkQVVfeXFMTy1rckVsVVpSWVAxRG14VF9iOWU1ZHlmX2dEMW1BY0E1VlVDQmcyVWQwYkZNZFNmTl9fYll0UVVxZ21BMUxGb1hrMnNFQ1ZCdTRXeVU0dEJqNDA4bXRZQzBLRHl3Nw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
