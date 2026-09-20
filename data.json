@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-20T12:20:34Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.20 21:20 (한국시간)",
+  "updatedAtISO": "2026-09-20T13:15:47Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.20 22:15 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
@@ -17,7 +17,7 @@
     },
     "kosdaq": {
       "value": 827.12,
-      "changePct": 0.6
+      "changePct": 1.36
     },
     "sp500": {
       "value": 7650.5,
@@ -47,8 +47,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[마켓인사이트] 미중회담 빅이벤트·추석연휴…韓증시 어디로 - yna.co.kr",
-      "source": "yna.co.kr",
+      "title": "[마켓인사이트] 미중회담 빅이벤트·추석연휴…韓증시 어디로 - 연합뉴스",
+      "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kYmJPR0dwVzF6NG1Uc1dmczhDZkpqVWFPb0tQVk5vd2Rmc05SUlFJdnhkb1liVm8xbGlKZEhQZU0zRmFwMVJhaXRQU1RraVp4ejRIX0hzN0RuU0HSAWBBVV95cUxObkZtUENxcldRdzBVSS1XTkk4R3A3YjNiUlBoZFI1OTJnSEVqd2tBQmFsUlF4d1lHdnl3bFJoMllUSjI5WXItb3BqTVpqaEM0WmVROW5OYUlMdGUtVUdzN2Q?oc=5"
     },
     {
@@ -59,8 +59,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "‘속슬’ 효과에... 서학 개미, 미국 주식 순매수 전환 - chosun.com",
-      "source": "chosun.com",
+      "title": "‘속슬’ 효과에... 서학 개미, 미국 주식 순매수 전환 - 조선일보",
+      "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEhpRnh5S3NaMnFkT0xobEZpVVdYZ1Y3VzR2Qk5XRC1zNF9jbkVlYkNtT3ZqdGpabnhHTWdyQUxVSkxFcnJLNnpKZThDSWtuQW1xTjBWeDJxb1NITUZWUG13Tmw2Wmd6ZkJqbElZRDlJYllsODNhZVp0VEs0MWxsV0hhV3ZmYV9teHh6dHJB?oc=5"
     }
   ],
