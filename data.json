@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-20T22:15:23Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.21 07:15 (한국시간)",
+  "updatedAtISO": "2026-09-20T23:15:08Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.21 08:15 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1384.6,
-  "usdJpy": 156.87,
-  "jpyKrw100": 882.65,
+  "usdKrw": 1385.17,
+  "usdJpy": 156.92,
+  "jpyKrw100": 882.71,
   "indices": {
     "kospi": {
       "value": 6894.23,
@@ -47,15 +47,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국 주식 돋보기] AI모델 사용량 추적 … 데이터독 주가 반등 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBicmJrSkNjRUFaX3lBNk1xbWRWMzNCMTlpMFRldl8yWHVQTTM4NDlNYUphellfY3Nfc3MxOVhLaF9ydjFuaERrUmZuVVBuWGZDVGc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
       "source": "YTN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q1NDZ3J6MnV3b0Fjc3lPTmdSZDJJX1pLWXB4OU9RbjlJQXhYb3p6THFpOGNNMUZYRUlSS3BVaVl5RDdXc1RPUHRPcUNMbkRsTlRuSDZlUWpiWmpHV3c?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[미국 주식 돋보기] AI모델 사용량 추적 … 데이터독 주가 반등 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBicmJrSkNjRUFaX3lBNk1xbWRWMzNCMTlpMFRldl8yWHVQTTM4NDlNYUphellfY3Nfc3MxOVhLaF9ydjFuaERrUmZuVVBuWGZDVGc?oc=5"
     },
     {
       "tag": "시장 뉴스",
