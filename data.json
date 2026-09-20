@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-20T19:13:43Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.21 04:13 (한국시간)",
+  "updatedAtISO": "2026-09-20T20:15:42Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.21 05:15 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
@@ -35,15 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[미국 주식 돋보기] AI모델 사용량 추적 … 데이터독 주가 반등 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBicmJrSkNjRUFaX3lBNk1xbWRWMzNCMTlpMFRldl8yWHVQTTM4NDlNYUphellfY3Nfc3MxOVhLaF9ydjFuaERrUmZuVVBuWGZDVGc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "다음주 국내증시, 미국증시 전망 : 반도체 상승 지속 이어갈까? - 네이버 프리미엄콘텐츠",
       "source": "네이버 프리미엄콘텐츠",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVktXTjYwN1FkTTJuQkRrSEh0SEVBRjN4LVlGaDZTcF9JU3BLZ21VZ1dVQ0lSTnM3ZXByN3ZWdnA5cFFPbHFnT19wVWtfcU1kQzh3em1sdjkwNGxxN1BiaVVRbUVrMUg1Z09YM202ZElMLVFwV3gyTWJVb0xPTXpma0lTSQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[미국 주식 돋보기] AI모델 사용량 추적 … 데이터독 주가 반등 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBicmJrSkNjRUFaX3lBNk1xbWRWMzNCMTlpMFRldl8yWHVQTTM4NDlNYUphellfY3Nfc3MxOVhLaF9ydjFuaERrUmZuVVBuWGZDVGc?oc=5"
     },
     {
       "tag": "시장 뉴스",
