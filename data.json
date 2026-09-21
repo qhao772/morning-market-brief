@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-21T21:16:18Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.22 06:16 (한국시간)",
+  "updatedAtISO": "2026-09-21T22:16:32Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.22 07:16 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.34,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1374.2,
-  "usdJpy": 157.26,
-  "jpyKrw100": 873.84,
+  "usdKrw": 1374.88,
+  "usdJpy": 157.34,
+  "jpyKrw100": 873.85,
   "indices": {
     "kospi": {
       "value": 7007.72,
@@ -35,9 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 기술주·반도체 강세에 일제히 상승 마감…나스닥 급등 - 서울신문",
-      "source": "서울신문",
+      "title": "[서울데이터랩] 미국 증시, 기술주·반도체 강세에 일제히 상승 마감…나스닥 급등 - seoul.co.kr",
+      "source": "seoul.co.kr",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IMHVLbnBPakdJd2xDQzU0aHdoby1ER0RWYUN3bS1Dend4MWRneGNKOHFPeXB5VFNXcTBndVloMTVoSDhHLVVseFY0SnZuZmhoeFZ5bnc1Um13dkNGVHlrMnZWVHZoTlFoZ2F2MGlmQQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시, 유가 급락·메타 AI에 급등…CPU 반도체 랠리로 나스닥 최고치 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53c2ozNGxpXzMydWpLNjVtQjJIVl9nd0RrNmpuMjlJcmpreVlOVTFkaEJZMVpxLThWUjdfbmxFR1JNV0ZvUzB4NXc5VVdNZURlOUUyTUJPSEc3OThRU3JhUVBaNHNhN2VWZW5DVWhudl8yUQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,21 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "뉴욕증시 3대 지수 동반 상승 마감... 나스닥 사상 최고치 경신 - 조선비즈 - Chosunbiz",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeGJpMU43QW95MmVtRWJKWHpsaWkyV3E4ZE8wSXNLOHZsLWNLS0JJWU1yYW96UG1uZWlBaTFXa3J4YkRGOFdXVGxwTkVLVGdBN01pby1sM18waEdVQ18yOW05M1JIZVpsMkVtM2ctNmNvbl8xcTdtblNoQzdRLXdvb18zQmpORU5Xenk1a19lMkl2NFRPVllLYmVrSE9WUdIBsgFBVV95cUxQM0ZxZ2tDckpwV3Y5TThWZjdaMEtONm1CWXJOLV9hSTRzamlBMFJmR2taQm4xbkQ2QkRUc2h3em42cHZSc2dJbHRndWxhR3NuUWhiX3pEc3hZZS1FZ25SQzZvbkNEMTJZaUE2MlE2NVRJYkJGc1gyOUFyQmx0UjZHZDZvbmJZTnlMM1ZHM2NvdFRsd2c2TG1NVVE0Sk1pOWJjLTZCVWdSWjk3MzVYdzVZSzd3?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
       "source": "YTN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q1NDZ3J6MnV3b0Fjc3lPTmdSZDJJX1pLWXB4OU9RbjlJQXhYb3p6THFpOGNNMUZYRUlSS3BVaVl5RDdXc1RPUHRPcUNMbkRsTlRuSDZlUWpiWmpHV3c?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "뉴욕증시, 상승세로 전환…나스닥 1.83%↑ - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMajJzMmFDYmg0cEUzcUhJSUVZeldIdDdpbEZGME9GZW92M1RDb3RTdHJCQkQyQWhjMXVtNFRDT0hjTC1MYzFOYVJuUkZ2MFVx?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "‘아직 안 늦었지?’ 환율 슬금슬금 오르니…일주일만에 미국 주식 ‘1.5조’ 순매수[투자360] - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2T1dXNHV0UU11RGlielAxQVhIX1FDbFRvV3VFVWpwTGZiNEtia2NvRTAyc0tPN0JhYzNBbUM5WThkSWxxNVE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
