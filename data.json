@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-21T17:14:13Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.22 02:14 (한국시간)",
+  "updatedAtISO": "2026-09-21T18:19:21Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.22 03:19 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1373.93,
-  "usdJpy": 157.42,
-  "jpyKrw100": 872.79,
+  "usdKrw": 1374.52,
+  "usdJpy": 157.49,
+  "jpyKrw100": 872.78,
   "indices": {
     "kospi": {
       "value": 7007.72,
@@ -20,16 +20,16 @@
       "changePct": 1.11
     },
     "sp500": {
-      "value": 7757.76,
-      "changePct": 1.4
+      "value": 7763.5,
+      "changePct": 1.48
     },
     "nasdaq": {
-      "value": 27058.07,
-      "changePct": 2.02
+      "value": 27092.31,
+      "changePct": 2.15
     },
     "sox": {
-      "value": 12367.44,
-      "changePct": 3.74
+      "value": 12396.86,
+      "changePct": 3.99
     }
   },
   "issues": [
@@ -38,6 +38,12 @@
       "title": "고금리 버티는 글로벌 증시…美中 정상회담이 변곡점 [글로벌 레이더] - 에너지경제신문",
       "source": "에너지경제신문",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BRHlla1FEWlBOaVNJLWZRM2N0aFY4YXBJLXpwcHczZjVKbFJWQkc4VVNzMnJHVHZjWndIamRZMHFpRDVVdU9fQmFsbXR3V1BLaW1maFZlMGhxUGc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "‘아직 안 늦었지?’ 환율 슬금슬금 오르니…일주일만에 미국 주식 ‘1.5조’ 순매수[투자360] - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2T1dXNHV0UU11RGlielAxQVhIX1FDbFRvV3VFVWpwTGZiNEtia2NvRTAyc0tPN0JhYzNBbUM5WThkSWxxNVE?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -56,12 +62,6 @@
       "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
       "source": "YTN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q1NDZ3J6MnV3b0Fjc3lPTmdSZDJJX1pLWXB4OU9RbjlJQXhYb3p6THFpOGNNMUZYRUlSS3BVaVl5RDdXc1RPUHRPcUNMbkRsTlRuSDZlUWpiWmpHV3c?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "뉴욕증시, 상승세로 전환…나스닥 1.83%↑ - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMajJzMmFDYmg0cEUzcUhJSUVZeldIdDdpbEZGME9GZW92M1RDb3RTdHJCQkQyQWhjMXVtNFRDT0hjTC1MYzFOYVJuUkZ2MFVx?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
