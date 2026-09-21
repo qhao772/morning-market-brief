@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-21T09:18:08Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.21 18:18 (한국시간)",
+  "updatedAtISO": "2026-09-21T10:17:41Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.21 19:17 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1372.38,
-  "usdJpy": 157.19,
-  "jpyKrw100": 873.08,
+  "usdKrw": 1372.07,
+  "usdJpy": 157.22,
+  "jpyKrw100": 872.68,
   "indices": {
     "kospi": {
       "value": 7007.72,
@@ -41,12 +41,6 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "“추석 전 주식 팔아야 하나?”…지난 5년 ‘명절 수익률’ 뜯어보니 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PMldtaXRra0YyX1hraGszZWFLSWsxa0RJU3UwNWdQa2FmeGQtalBISjNidUkwYXNWUEM0TjNETVNrbVkyV3NrRmNRdGFubzZSbGc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "국제유가 다시 100달러 위, 월요일 미국증시에 중요한 이유 - 네이버 프리미엄콘텐츠",
       "source": "네이버 프리미엄콘텐츠",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM3p2bVdBbkxNbVhEZFF4YzVxc0s1dFJUaE5WQVFaTXRoSXJtN2hzdERWRXotN0d6U0ZsR3Z0Ry1Sc0ZraHlGaU0weUlPejM5ODB2SWozM0tyMHdHRURSNnhUNk40NEl0aEhZeUlwRU13SXYxejBzYUJLaUd0R2dIaDlLeVlVeHJUX1FFUi0tRnQ?oc=5"
@@ -59,9 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국서도 한국서도…SK하이닉스 ADR, ETF 편입 연이어 - sisajournal.com",
-      "source": "sisajournal.com",
+      "title": "미국서도 한국서도…SK하이닉스 ADR, ETF 편입 연이어 - 시사저널",
+      "source": "시사저널",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jcG9waHhxUVNncEMycm9fYWZvUFY1QUJWazhnd2ZRSS00UDVDWVliT2RWMk5yUjhucjZLdkRBOERWU0xjM2x1RGk0RTVNRF9lR3BSVzcyV1JPbnBPNXlQQ1lXVER0RGo3Vm1iS1VfY9IBc0FVX3lxTE96OGd5REs0RGFETVpoUHFRd2phdkdBWTFuQkpJMjl3dWlVREdJVVpKSldlZk5pbGNENDRLWjFhMXp6VUkwdThyZVNLZnlOYXdyZ09wdGREOEg0TXBoVm4tRDk3ZkhabWV2SklVc2lDUllaUGs?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "“추석 전 주식 팔아야 하나?”…지난 5년 ‘명절 수익률’ 뜯어보니 - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mX3VQWk8wS0NwR2VSRmxQblVpRDBPTWRMRXUzOWRSaGg1TTNIM1J4V3p0c2NYTHpKTy12RnRYT0ppT1lIS3lWRTRNbWpKd1E?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
