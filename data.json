@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-21T13:16:34Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.21 22:16 (한국시간)",
+  "updatedAtISO": "2026-09-21T14:17:29Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.21 23:17 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1372.46,
-  "usdJpy": 157.33,
-  "jpyKrw100": 872.35,
+  "usdKrw": 1372.92,
+  "usdJpy": 157.38,
+  "jpyKrw100": 872.34,
   "indices": {
     "kospi": {
       "value": 7007.72,
@@ -20,25 +20,19 @@
       "changePct": 1.11
     },
     "sp500": {
-      "value": 7650.5,
-      "changePct": 0.17
+      "value": 7713.4,
+      "changePct": 0.82
     },
     "nasdaq": {
-      "value": 26522.54,
-      "changePct": 0.4
+      "value": 26884.45,
+      "changePct": 1.36
     },
     "sox": {
-      "value": 11921.69,
-      "changePct": 2.78
+      "value": 12215.75,
+      "changePct": 2.47
     }
   },
   "issues": [
-    {
-      "tag": "시장 뉴스",
-      "title": "‘아직 안 늦었지?’ 환율 슬금슬금 오르니…일주일만에 미국 주식 ‘1.5조’ 순매수[투자360] - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43YW1MelEtRDRTQW5aQkZBRndsT0xUZ2t0MHlzdWlCY01ELTNaRklEbkdqbDJmcl9vQnVYY1d5dGFiQzVKTlBJcnQxOHV2RWM?oc=5"
-    },
     {
       "tag": "시장 뉴스",
       "title": "고금리 버티는 글로벌 증시…美中 정상회담이 변곡점 [글로벌 레이더] - 에너지경제신문",
@@ -62,6 +56,12 @@
       "title": "국제유가 다시 100달러 위, 월요일 미국증시에 중요한 이유 - 네이버 프리미엄콘텐츠",
       "source": "네이버 프리미엄콘텐츠",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM3p2bVdBbkxNbVhEZFF4YzVxc0s1dFJUaE5WQVFaTXRoSXJtN2hzdERWRXotN0d6U0ZsR3Z0Ry1Sc0ZraHlGaU0weUlPejM5ODB2SWozM0tyMHdHRURSNnhUNk40NEl0aEhZeUlwRU13SXYxejBzYUJLaUd0R2dIaDlLeVlVeHJUX1FFUi0tRnQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q1NDZ3J6MnV3b0Fjc3lPTmdSZDJJX1pLWXB4OU9RbjlJQXhYb3p6THFpOGNNMUZYRUlSS3BVaVl5RDdXc1RPUHRPcUNMbkRsTlRuSDZlUWpiWmpHV3c?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
