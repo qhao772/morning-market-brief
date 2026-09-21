@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-21T03:17:32Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.21 12:17 (한국시간)",
+  "updatedAtISO": "2026-09-21T04:17:44Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.21 13:17 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1383.08,
-  "usdJpy": 156.9,
-  "jpyKrw100": 881.52,
+  "usdKrw": 1383.73,
+  "usdJpy": 157.01,
+  "jpyKrw100": 881.27,
   "indices": {
     "kospi": {
-      "value": 7001.63,
-      "changePct": 1.56
+      "value": 7020.01,
+      "changePct": 1.82
     },
     "kosdaq": {
-      "value": 835.69,
-      "changePct": 1.04
+      "value": 835.77,
+      "changePct": 1.05
     },
     "sp500": {
       "value": 7650.5,
@@ -47,15 +47,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q1NDZ3J6MnV3b0Fjc3lPTmdSZDJJX1pLWXB4OU9RbjlJQXhYb3p6THFpOGNNMUZYRUlSS3BVaVl5RDdXc1RPUHRPcUNMbkRsTlRuSDZlUWpiWmpHV3c?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "美 10년물 5% 뚫었는데 나스닥은 올랐다…미 증시 버틴 진짜 이유 [김주완의 글로벌머니 X파일] - 한국경제",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OT2lBUjBPWUZheHoyWW80cmRqd2M4NXYyenVrVHBUdFFZTXhQbjFfVEhtWXdzSEFnMHIzYkl5eGU5UWFQRjFLQVdpR0tDVUZzX1U3bHQyOFVkdw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q1NDZ3J6MnV3b0Fjc3lPTmdSZDJJX1pLWXB4OU9RbjlJQXhYb3p6THFpOGNNMUZYRUlSS3BVaVl5RDdXc1RPUHRPcUNMbkRsTlRuSDZlUWpiWmpHV3c?oc=5"
     },
     {
       "tag": "시장 뉴스",
