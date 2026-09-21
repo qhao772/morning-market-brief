@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-21T05:17:03Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.21 14:17 (한국시간)",
+  "updatedAtISO": "2026-09-21T06:24:27Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.21 15:24 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1383.58,
-  "usdJpy": 157.02,
-  "jpyKrw100": 881.14,
+  "usdKrw": 1380.88,
+  "usdJpy": 157.05,
+  "jpyKrw100": 879.28,
   "indices": {
     "kospi": {
-      "value": 7006.31,
-      "changePct": 1.63
+      "value": 6989.4,
+      "changePct": 1.38
     },
     "kosdaq": {
-      "value": 833.9,
-      "changePct": 0.82
+      "value": 834.41,
+      "changePct": 0.88
     },
     "sp500": {
       "value": 7650.5,
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q1NDZ3J6MnV3b0Fjc3lPTmdSZDJJX1pLWXB4OU9RbjlJQXhYb3p6THFpOGNNMUZYRUlSS3BVaVl5RDdXc1RPUHRPcUNMbkRsTlRuSDZlUWpiWmpHV3c?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "S&P 500·다우존스 주요 촉매 4가지···이번 주 미국 증시 핵심 체크포인트 - Benzinga",
       "source": "Benzinga",
       "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNX3A3d0JXcFJMUllvekJ6NHpJbkw0TzFPcEUtRThCRk53VTJvVDdLdFZScmptZkRPeS1EcGIzeHZoMWVJdUQtOXpSOU9Pamp1U0dFUkVEX3ZYaEgzTzhZWGhVNDVtZ1YyZ2lqUm5oZlJQMWt4YkhvUlBPcW13QUdjMmdKcVQ0SmtweFRKS3prLWVkQVlFRVpWeHowTUxaNE1EaVpwbWZZVlF4SXlVVEdaRURuMVlRbllUZzZ0U01vNGtkZTgyM0NnOFJXVlFwTFNueXNXUVViUUZTLU1Yc0Q5bzhaNzB4b0Y5Y1FLMXJXNTNEMGt1OXVYX3BCOVJkdmpYX3pUVWszLXJLWnEyRjY2cThHeFdTZjZOOUZPN01teldCdXlINWRiZ3ZpQUZTQldneGc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q1NDZ3J6MnV3b0Fjc3lPTmdSZDJJX1pLWXB4OU9RbjlJQXhYb3p6THFpOGNNMUZYRUlSS3BVaVl5RDdXc1RPUHRPcUNMbkRsTlRuSDZlUWpiWmpHV3c?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
