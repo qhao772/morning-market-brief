@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-21T16:18:06Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.22 01:18 (한국시간)",
+  "updatedAtISO": "2026-09-21T17:14:13Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.22 02:14 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1373.86,
-  "usdJpy": 157.35,
-  "jpyKrw100": 873.11,
+  "usdKrw": 1373.93,
+  "usdJpy": 157.42,
+  "jpyKrw100": 872.79,
   "indices": {
     "kospi": {
       "value": 7007.72,
@@ -20,16 +20,16 @@
       "changePct": 1.11
     },
     "sp500": {
-      "value": 7746.34,
-      "changePct": 1.25
+      "value": 7757.76,
+      "changePct": 1.4
     },
     "nasdaq": {
-      "value": 27013.6,
-      "changePct": 1.85
+      "value": 27058.07,
+      "changePct": 2.02
     },
     "sox": {
-      "value": 12341.42,
-      "changePct": 3.52
+      "value": 12367.44,
+      "changePct": 3.74
     }
   },
   "issues": [
@@ -41,15 +41,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시, 유가·국채금리 하락에 반등…나스닥 1%대·반도체주 강세 - 톱스타뉴스",
-      "source": "톱스타뉴스",
+      "title": "미국증시, 유가·국채금리 하락에 반등…나스닥 1%대·반도체주 강세 - topstarnews.net",
+      "source": "topstarnews.net",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fOGVkWUgwUmZHUkI4MnVoZlZ6TG9TcFZFbnhPQmtvblV5bWFwUHRsZmFMYlh2ZnE1VHVvUVctLUVFcHpDbVFmTXgtNXZ5OUVhbFpUMEhlQUlhMVZ4NHFpXzBRNmZGNWd0b2Z2VGZDQkJGQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q1NDZ3J6MnV3b0Fjc3lPTmdSZDJJX1pLWXB4OU9RbjlJQXhYb3p6THFpOGNNMUZYRUlSS3BVaVl5RDdXc1RPUHRPcUNMbkRsTlRuSDZlUWpiWmpHV3c?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "금리 인상에도 AI·반도체는 올랐다… 이번 주 미국증시 뒤흔들 변수는?[이번주 美 증시는] - 머니투데이",
-      "source": "머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pNWg3ek8tWDdhWUZhVjBmRjFjNDdoaGVsa2pweUdkeENvMWdZVUxhT2pZUTdLNzk1OVdyZEJ2QnEtWmVvS3dnLU9jQlgxWUJTMzdlbnJWRkNYNzhETkdYUA?oc=5"
+      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q1NDZ3J6MnV3b0Fjc3lPTmdSZDJJX1pLWXB4OU9RbjlJQXhYb3p6THFpOGNNMUZYRUlSS3BVaVl5RDdXc1RPUHRPcUNMbkRsTlRuSDZlUWpiWmpHV3c?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "뉴욕증시, 상승세로 전환…나스닥 1.83%↑ - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMajJzMmFDYmg0cEUzcUhJSUVZeldIdDdpbEZGME9GZW92M1RDb3RTdHJCQkQyQWhjMXVtNFRDT0hjTC1MYzFOYVJuUkZ2MFVx?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
