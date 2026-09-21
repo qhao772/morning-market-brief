@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-21T15:15:48Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.22 00:15 (한국시간)",
+  "updatedAtISO": "2026-09-21T16:18:06Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.22 01:18 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1374.69,
-  "usdJpy": 157.44,
-  "jpyKrw100": 873.15,
+  "usdKrw": 1373.86,
+  "usdJpy": 157.35,
+  "jpyKrw100": 873.11,
   "indices": {
     "kospi": {
       "value": 7007.72,
@@ -20,16 +20,16 @@
       "changePct": 1.11
     },
     "sp500": {
-      "value": 7728.87,
-      "changePct": 1.02
+      "value": 7746.34,
+      "changePct": 1.25
     },
     "nasdaq": {
-      "value": 26949.11,
-      "changePct": 1.61
+      "value": 27013.6,
+      "changePct": 1.85
     },
     "sox": {
-      "value": 12328.95,
-      "changePct": 3.42
+      "value": 12341.42,
+      "changePct": 3.52
     }
   },
   "issues": [
@@ -47,15 +47,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "추석 연휴, 소중한 내 주식 팔까? 말까? - 영남경제",
-      "source": "영남경제",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZQlFOaUo4bmRkVDBHelFtX3dHbzBPVkU2ZF9jZTF6aFZ0Qi1rN0c2Z3RLNkNfZmNTZjl6SzA0b1YwWHoxNElySXNWVjA0V3FMOWNjY3JaMVdQX3hqVnlTTDNKQk1hN2M?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
       "source": "YTN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q1NDZ3J6MnV3b0Fjc3lPTmdSZDJJX1pLWXB4OU9RbjlJQXhYb3p6THFpOGNNMUZYRUlSS3BVaVl5RDdXc1RPUHRPcUNMbkRsTlRuSDZlUWpiWmpHV3c?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "추석 연휴, 소중한 내 주식 팔까? 말까? - 영남경제",
+      "source": "영남경제",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZQlFOaUo4bmRkVDBHelFtX3dHbzBPVkU2ZF9jZTF6aFZ0Qi1rN0c2Z3RLNkNfZmNTZjl6SzA0b1YwWHoxNElySXNWVjA0V3FMOWNjY3JaMVdQX3hqVnlTTDNKQk1hN2M?oc=5"
     },
     {
       "tag": "시장 뉴스",
