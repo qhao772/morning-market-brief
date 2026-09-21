@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-21T01:16:00Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.21 10:16 (한국시간)",
+  "updatedAtISO": "2026-09-21T02:17:05Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.21 11:17 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1383.95,
-  "usdJpy": 156.72,
-  "jpyKrw100": 883.04,
+  "usdKrw": 1385.38,
+  "usdJpy": 156.79,
+  "jpyKrw100": 883.57,
   "indices": {
     "kospi": {
-      "value": 6960.58,
-      "changePct": 0.96
+      "value": 6984.28,
+      "changePct": 1.31
     },
     "kosdaq": {
-      "value": 832.31,
-      "changePct": 0.63
+      "value": 836.41,
+      "changePct": 1.12
     },
     "sp500": {
       "value": 7650.5,
@@ -47,21 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "[특징주] 삼성전자·SK하이닉스 동반 강세…코스피 7000선 회복 - 에너지경제신문",
+      "source": "에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oRUFwVXNiVUZpNVNzNm1HaUFzb3Q5ZjJ6UkRfQ3JoUGpsWWxQdkVJeXZ3SFlRS3lOYTl0MmFQOUluVGtva2JmUDJGVlJNcXV5LWpwQ3RkeUZ1ODZKT0hTTi1PYw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "서학개미가 돌아왔다…1.5조 순매수, 반도체 `집중 베팅` - 매일신문",
+      "source": "매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtaEtBbENkQ0MwLXE4MzJ5OTJLeWVsOTlnVDQ3ejY0WWhVZ1A0emdpWVRHOWZHSFExZmVEb1FNeW84ZXpfaVBoWlQxSFQ4bVhnQUxGS29hb0k5OFF1TXRsMTdn?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "美 10년물 5% 뚫었는데 나스닥은 올랐다…미 증시 버틴 진짜 이유 [김주완의 글로벌머니 X파일] - 한국경제",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OT2lBUjBPWUZheHoyWW80cmRqd2M4NXYyenVrVHBUdFFZTXhQbjFfVEhtWXdzSEFnMHIzYkl5eGU5UWFQRjFLQVdpR0tDVUZzX1U3bHQyOFVkdw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q1NDZ3J6MnV3b0Fjc3lPTmdSZDJJX1pLWXB4OU9RbjlJQXhYb3p6THFpOGNNMUZYRUlSS3BVaVl5RDdXc1RPUHRPcUNMbkRsTlRuSDZlUWpiWmpHV3c?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "다음주 국내증시, 미국증시 전망 : 반도체 상승 지속 이어갈까? - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVktXTjYwN1FkTTJuQkRrSEh0SEVBRjN4LVlGaDZTcF9JU3BLZ21VZ1dVQ0lSTnM3ZXByN3ZWdnA5cFFPbHFnT19wVWtfcU1kQzh3em1sdjkwNGxxN1BiaVVRbUVrMUg1Z09YM202ZElMLVFwV3gyTWJVb0xPTXpma0lTSQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
