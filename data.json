@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-21T04:17:44Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.21 13:17 (한국시간)",
+  "updatedAtISO": "2026-09-21T05:17:03Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.21 14:17 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1383.73,
-  "usdJpy": 157.01,
-  "jpyKrw100": 881.27,
+  "usdKrw": 1383.58,
+  "usdJpy": 157.02,
+  "jpyKrw100": 881.14,
   "indices": {
     "kospi": {
-      "value": 7020.01,
-      "changePct": 1.82
+      "value": 7006.31,
+      "changePct": 1.63
     },
     "kosdaq": {
-      "value": 835.77,
-      "changePct": 1.05
+      "value": 833.9,
+      "changePct": 0.82
     },
     "sp500": {
       "value": 7650.5,
@@ -35,21 +35,21 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "금리 인상에도 반도체주 강세…미중 정상회담·메타 행사 주목[이번주 美 증시는] - 머니투데이 - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXVHN1TDY4bHRaT29TZTFzYU5FRmRHNy1GbnhaN0N3dm5zOTd3T1pUa0hzV3lhTjhaNkZ2eFI5T0pHTVYtXzlPMGZ6Rk56QnRhMjEwbUNIODU5TGNCRVJiODl5WjdHNnpW0gFuQVVfeXFMTkhTSHhkOHpKSnRrSHlHUHk1SGx3S3VzbVpZNC15MnNTS2ltaUl3UUJ4ZkRzLUdjdk1feXRXZ0RFSVVGbzlOamlCQjdKak1pd19qb2pPWGlNMGRzZk5UXzhtTEtIbVhwUFVVeDVJSnc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "국채금리 5% 재진입에도 나스닥 반등 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ONXlpRGZDV2pzaXU2SFdpMGZCdEY2MVA1LTNjLUtvanh3ZHpRSU1KZjctY01FbzVScGpzTDA4MDh6YXZCN1RvclZHNUdpYWpzYWJCTUR0dktyamtobk5GblQxZTh6SXNoSnBPXw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[시황] 미국증시, 반도체 강세에 S&P500·나스닥 상승, 다우는 하락하는 혼조세 마감 - 버핏연구소",
       "source": "버핏연구소",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WSHpHY015b1VsWlUzOF92c1FXdWRPQkd0SzN6eXFZV3VRc2tRNHVpdjZKZlcyVW9LZzQySlZuMDFIUExXNHlBRVFEMS1nRDgyNDRhZk5aSjJUUmpNLUZVT21B?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "S&P 500·다우존스 주요 촉매 4가지···이번 주 미국 증시 핵심 체크포인트 - Benzinga",
-      "source": "Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNX3A3d0JXcFJMUllvekJ6NHpJbkw0TzFPcEUtRThCRk53VTJvVDdLdFZScmptZkRPeS1EcGIzeHZoMWVJdUQtOXpSOU9Pamp1U0dFUkVEX3ZYaEgzTzhZWGhVNDVtZ1YyZ2lqUm5oZlJQMWt4YkhvUlBPcW13QUdjMmdKcVQ0SmtweFRKS3prLWVkQVlFRVpWeHowTUxaNE1EaVpwbWZZVlF4SXlVVEdaRURuMVlRbllUZzZ0U01vNGtkZTgyM0NnOFJXVlFwTFNueXNXUVViUUZTLU1Yc0Q5bzhaNzB4b0Y5Y1FLMXJXNTNEMGt1OXVYX3BCOVJkdmpYX3pUVWszLXJLWnEyRjY2cThHeFdTZjZOOUZPN01teldCdXlINWRiZ3ZpQUZTQldneGc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "美 10년물 5% 뚫었는데 나스닥은 올랐다…미 증시 버틴 진짜 이유 [김주완의 글로벌머니 X파일] - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OT2lBUjBPWUZheHoyWW80cmRqd2M4NXYyenVrVHBUdFFZTXhQbjFfVEhtWXdzSEFnMHIzYkl5eGU5UWFQRjFLQVdpR0tDVUZzX1U3bHQyOFVkdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "서학개미가 돌아왔다…1.5조 순매수, 반도체 `집중 베팅` - 매일신문",
-      "source": "매일신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtaEtBbENkQ0MwLXE4MzJ5OTJLeWVsOTlnVDQ3ejY0WWhVZ1A0emdpWVRHOWZHSFExZmVEb1FNeW84ZXpfaVBoWlQxSFQ4bVhnQUxGS29hb0k5OFF1TXRsMTdn?oc=5"
+      "title": "S&P 500·다우존스 주요 촉매 4가지···이번 주 미국 증시 핵심 체크포인트 - Benzinga",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNX3A3d0JXcFJMUllvekJ6NHpJbkw0TzFPcEUtRThCRk53VTJvVDdLdFZScmptZkRPeS1EcGIzeHZoMWVJdUQtOXpSOU9Pamp1U0dFUkVEX3ZYaEgzTzhZWGhVNDVtZ1YyZ2lqUm5oZlJQMWt4YkhvUlBPcW13QUdjMmdKcVQ0SmtweFRKS3prLWVkQVlFRVpWeHowTUxaNE1EaVpwbWZZVlF4SXlVVEdaRURuMVlRbllUZzZ0U01vNGtkZTgyM0NnOFJXVlFwTFNueXNXUVViUUZTLU1Yc0Q5bzhaNzB4b0Y5Y1FLMXJXNTNEMGt1OXVYX3BCOVJkdmpYX3pUVWszLXJLWnEyRjY2cThHeFdTZjZOOUZPN01teldCdXlINWRiZ3ZpQUZTQldneGc?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
