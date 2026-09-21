@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-21T08:18:58Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.21 17:18 (한국시간)",
+  "updatedAtISO": "2026-09-21T09:18:08Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.21 18:18 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1373.62,
-  "usdJpy": 157.18,
-  "jpyKrw100": 873.9,
+  "usdKrw": 1372.38,
+  "usdJpy": 157.19,
+  "jpyKrw100": 873.08,
   "indices": {
     "kospi": {
       "value": 7007.72,
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "국채금리 5% 재진입에도 나스닥 반등 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ONXlpRGZDV2pzaXU2SFdpMGZCdEY2MVA1LTNjLUtvanh3ZHpRSU1KZjctY01FbzVScGpzTDA4MDh6YXZCN1RvclZHNUdpYWpzYWJCTUR0dktyamtobk5GblQxZTh6SXNoSnBPXw?oc=5"
+      "title": "미국서도 한국서도…SK하이닉스 ADR, ETF 편입 연이어 - sisajournal.com",
+      "source": "sisajournal.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jcG9waHhxUVNncEMycm9fYWZvUFY1QUJWazhnd2ZRSS00UDVDWVliT2RWMk5yUjhucjZLdkRBOERWU0xjM2x1RGk0RTVNRF9lR3BSVzcyV1JPbnBPNXlQQ1lXVER0RGo3Vm1iS1VfY9IBc0FVX3lxTE96OGd5REs0RGFETVpoUHFRd2phdkdBWTFuQkpJMjl3dWlVREdJVVpKSldlZk5pbGNENDRLWjFhMXp6VUkwdThyZVNLZnlOYXdyZ09wdGREOEg0TXBoVm4tRDk3ZkhabWV2SklVc2lDUllaUGs?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
