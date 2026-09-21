@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-21T20:16:33Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.22 05:16 (한국시간)",
-  "us10y": 4.94,
-  "us30y": 5.29,
+  "updatedAtISO": "2026-09-21T21:16:18Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.22 06:16 (한국시간)",
+  "us10y": 5.01,
+  "us30y": 5.34,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1375.24,
-  "usdJpy": 157.43,
-  "jpyKrw100": 873.56,
+  "usdKrw": 1374.2,
+  "usdJpy": 157.26,
+  "jpyKrw100": 873.84,
   "indices": {
     "kospi": {
       "value": 7007.72,
@@ -35,21 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "[서울데이터랩] 미국 증시, 기술주·반도체 강세에 일제히 상승 마감…나스닥 급등 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IMHVLbnBPakdJd2xDQzU0aHdoby1ER0RWYUN3bS1Dend4MWRneGNKOHFPeXB5VFNXcTBndVloMTVoSDhHLVVseFY0SnZuZmhoeFZ5bnc1Um13dkNGVHlrMnZWVHZoTlFoZ2F2MGlmQQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "고금리 버티는 글로벌 증시…美中 정상회담이 변곡점 [글로벌 레이더] - 에너지경제신문",
       "source": "에너지경제신문",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BRHlla1FEWlBOaVNJLWZRM2N0aFY4YXBJLXpwcHczZjVKbFJWQkc4VVNzMnJHVHZjWndIamRZMHFpRDVVdU9fQmFsbXR3V1BLaW1maFZlMGhxUGc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "‘아직 안 늦었지?’ 환율 슬금슬금 오르니…일주일만에 미국 주식 ‘1.5조’ 순매수[투자360] - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2T1dXNHV0UU11RGlielAxQVhIX1FDbFRvV3VFVWpwTGZiNEtia2NvRTAyc0tPN0JhYzNBbUM5WThkSWxxNVE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "뉴욕증시, 상승세로 전환…나스닥 1.83%↑ - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMajJzMmFDYmg0cEUzcUhJSUVZeldIdDdpbEZGME9GZW92M1RDb3RTdHJCQkQyQWhjMXVtNFRDT0hjTC1MYzFOYVJuUkZ2MFVx?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시, 유가·국채금리 하락에 반등…나스닥 1%대·반도체주 강세 - topstarnews.net",
-      "source": "topstarnews.net",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fOGVkWUgwUmZHUkI4MnVoZlZ6TG9TcFZFbnhPQmtvblV5bWFwUHRsZmFMYlh2ZnE1VHVvUVctLUVFcHpDbVFmTXgtNXZ5OUVhbFpUMEhlQUlhMVZ4NHFpXzBRNmZGNWd0b2Z2VGZDQkJGQQ?oc=5"
+      "title": "뉴욕증시, 상승세로 전환…나스닥 1.83%↑ - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMajJzMmFDYmg0cEUzcUhJSUVZeldIdDdpbEZGME9GZW92M1RDb3RTdHJCQkQyQWhjMXVtNFRDT0hjTC1MYzFOYVJuUkZ2MFVx?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "‘아직 안 늦었지?’ 환율 슬금슬금 오르니…일주일만에 미국 주식 ‘1.5조’ 순매수[투자360] - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2T1dXNHV0UU11RGlielAxQVhIX1FDbFRvV3VFVWpwTGZiNEtia2NvRTAyc0tPN0JhYzNBbUM5WThkSWxxNVE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
