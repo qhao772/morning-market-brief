@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-21T06:24:27Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.21 15:24 (한국시간)",
+  "updatedAtISO": "2026-09-21T07:18:52Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.21 16:18 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1380.88,
-  "usdJpy": 157.05,
-  "jpyKrw100": 879.28,
+  "usdKrw": 1379.7,
+  "usdJpy": 157.24,
+  "jpyKrw100": 877.45,
   "indices": {
     "kospi": {
-      "value": 6989.4,
-      "changePct": 1.38
+      "value": 7007.72,
+      "changePct": 1.65
     },
     "kosdaq": {
-      "value": 834.41,
-      "changePct": 0.88
+      "value": 836.27,
+      "changePct": 1.11
     },
     "sp500": {
       "value": 7650.5,
@@ -35,6 +35,24 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "고금리 버티는 글로벌 증시…美中 정상회담이 변곡점 [글로벌 레이더] - 에너지경제신문",
+      "source": "에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BRHlla1FEWlBOaVNJLWZRM2N0aFY4YXBJLXpwcHczZjVKbFJWQkc4VVNzMnJHVHZjWndIamRZMHFpRDVVdU9fQmFsbXR3V1BLaW1maFZlMGhxUGc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "“추석 전 주식 팔아야 하나?”…지난 5년 ‘명절 수익률’ 뜯어보니 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PMldtaXRra0YyX1hraGszZWFLSWsxa0RJU3UwNWdQa2FmeGQtalBISjNidUkwYXNWUEM0TjNETVNrbVkyV3NrRmNRdGFubzZSbGc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "국제유가 다시 100달러 위, 월요일 미국증시에 중요한 이유 - 네이버 프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM3p2bVdBbkxNbVhEZFF4YzVxc0s1dFJUaE5WQVFaTXRoSXJtN2hzdERWRXotN0d6U0ZsR3Z0Ry1Sc0ZraHlGaU0weUlPejM5ODB2SWozM0tyMHdHRURSNnhUNk40NEl0aEhZeUlwRU13SXYxejBzYUJLaUd0R2dIaDlLeVlVeHJUX1FFUi0tRnQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "금리 인상에도 반도체주 강세…미중 정상회담·메타 행사 주목[이번주 美 증시는] - 머니투데이 - 머니투데이",
       "source": "머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXVHN1TDY4bHRaT29TZTFzYU5FRmRHNy1GbnhaN0N3dm5zOTd3T1pUa0hzV3lhTjhaNkZ2eFI5T0pHTVYtXzlPMGZ6Rk56QnRhMjEwbUNIODU5TGNCRVJiODl5WjdHNnpW0gFuQVVfeXFMTkhTSHhkOHpKSnRrSHlHUHk1SGx3S3VzbVpZNC15MnNTS2ltaUl3UUJ4ZkRzLUdjdk1feXRXZ0RFSVVGbzlOamlCQjdKak1pd19qb2pPWGlNMGRzZk5UXzhtTEtIbVhwUFVVeDVJSnc?oc=5"
@@ -44,24 +62,6 @@
       "title": "국채금리 5% 재진입에도 나스닥 반등 - KB Think",
       "source": "KB Think",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ONXlpRGZDV2pzaXU2SFdpMGZCdEY2MVA1LTNjLUtvanh3ZHpRSU1KZjctY01FbzVScGpzTDA4MDh6YXZCN1RvclZHNUdpYWpzYWJCTUR0dktyamtobk5GblQxZTh6SXNoSnBPXw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[시황] 미국증시, 반도체 강세에 S&P500·나스닥 상승, 다우는 하락하는 혼조세 마감 - 버핏연구소",
-      "source": "버핏연구소",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WSHpHY015b1VsWlUzOF92c1FXdWRPQkd0SzN6eXFZV3VRc2tRNHVpdjZKZlcyVW9LZzQySlZuMDFIUExXNHlBRVFEMS1nRDgyNDRhZk5aSjJUUmpNLUZVT21B?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "S&P 500·다우존스 주요 촉매 4가지···이번 주 미국 증시 핵심 체크포인트 - Benzinga",
-      "source": "Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNX3A3d0JXcFJMUllvekJ6NHpJbkw0TzFPcEUtRThCRk53VTJvVDdLdFZScmptZkRPeS1EcGIzeHZoMWVJdUQtOXpSOU9Pamp1U0dFUkVEX3ZYaEgzTzhZWGhVNDVtZ1YyZ2lqUm5oZlJQMWt4YkhvUlBPcW13QUdjMmdKcVQ0SmtweFRKS3prLWVkQVlFRVpWeHowTUxaNE1EaVpwbWZZVlF4SXlVVEdaRURuMVlRbllUZzZ0U01vNGtkZTgyM0NnOFJXVlFwTFNueXNXUVViUUZTLU1Yc0Q5bzhaNzB4b0Y5Y1FLMXJXNTNEMGt1OXVYX3BCOVJkdmpYX3pUVWszLXJLWnEyRjY2cThHeFdTZjZOOUZPN01teldCdXlINWRiZ3ZpQUZTQldneGc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국 증시 반등 영향에 코스피 2.5% 상승 개장 - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14Q1NDZ3J6MnV3b0Fjc3lPTmdSZDJJX1pLWXB4OU9RbjlJQXhYb3p6THFpOGNNMUZYRUlSS3BVaVl5RDdXc1RPUHRPcUNMbkRsTlRuSDZlUWpiWmpHV3c?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
