@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-22T22:15:50Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.23 07:15 (한국시간)",
+  "updatedAtISO": "2026-09-22T23:14:35Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.23 08:14 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1355.33,
-  "usdJpy": 157.44,
-  "jpyKrw100": 860.85,
+  "usdKrw": 1355.14,
+  "usdJpy": 157.46,
+  "jpyKrw100": 860.62,
   "indices": {
     "kospi": {
       "value": 7017.91,
@@ -35,9 +35,21 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "AI 랠리와 유가 하락에 힘입어 미국 증시 선물 강세 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OcDdMamZzeFVCMVFYYU9WV3FPMk1mTlRmb04zSVJ3N1FfZTZJaEY0bWF3QnJxWm1LLUtWbTFpak5Jbnk0RzJuajJnZktQYTFYQzNRZmo4LTlQUnRqWGt3Qk9PQ0JpUG9ETFE1SjRNNF8?oc=5"
+      "title": "[서울데이터랩]미국 증시 혼조 마감…반도체 강세에 나스닥 상승, 다우는 금융주 약세에 하락 - seoul.co.kr",
+      "source": "seoul.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aQ3BoaUdJb213N1Rfc2Q1Uk92UWxzRmFVT3hicHJsaERPNWlUUFMxMnpTU0dUYXF5NmEwSHNyWlJqeVM2cGE1TXFiMU9fVlZGTzBBSkc2dFg3TFlxcVc1RHNaTG02TkR6SDROc0xudk1XdU82MG03YmpnS3U5dw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[3분증시] 뉴욕증시, 미·이란 대면 협상 속 혼조 마감 - 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxT0loUzZUOU96SUFkRWVNS196VFVRcUxqVXhDX0JYUnJlQnVtTWJmMEhJeDFhSkl1TGFzS2xQWWpTMjhWNXcyTFFfUENfT2dOQ29IVA?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[굿모닝 증시]美 반도체주 강세…코스피 상승 출발 전망 - 아시아경제",
+      "source": "아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42dGtSTUl5cFdiQ29ianR2WktCaVEyVEZVMHZLdkJ3b0NLd0VQX1diWWVMOWlrODRJdmlCa2E3TlZhdnJsZXk1cUZ4VF92Qmt3bTRTeXNwMHU0NUtMdjZkOEd3?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,21 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시 프리뷰, 주가 선물 혼조… 호르무즈 재개방 기대에 유가 급락 - 뉴스핌",
-      "source": "뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pYTd2M2VxVFBTM0s5ZVptNTNuUmVsUS1LUWtUc0FpSGxPdVNRZElvLXNrQmVfdnRVYko4RUt5eEFYekkzazdkbzJYRHl0MGcxd19RbmJSNzd2Qzkx?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시 혼조마감, 유가·금리 하락에 나스닥 상승…마이크론·SK하이닉스 강세 - topstarnews.net",
-      "source": "topstarnews.net",
+      "title": "미국증시 혼조마감, 유가·금리 하락에 나스닥 상승…마이크론·SK하이닉스 강세 - 톱스타뉴스",
+      "source": "톱스타뉴스",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tSy1sZVhzNVpPc2JJMEUwcEJnLVVZNDgwUzYxalhHNGhYZlFsajVucHFRcjVOck55clhzLXFaOTl2TEd6bGwyWk1CTEMzOWI0RzFDNUxUWnJvS092VXRVSnFXQnFhc0lKeUxxaDlzeFdFUQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 기술주·반도체 강세에 일제히 상승 마감…나스닥 급등 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IMHVLbnBPakdJd2xDQzU0aHdoby1ER0RWYUN3bS1Dend4MWRneGNKOHFPeXB5VFNXcTBndVloMTVoSDhHLVVseFY0SnZuZmhoeFZ5bnc1Um13dkNGVHlrMnZWVHZoTlFoZ2F2MGlmQQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
