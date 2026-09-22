@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-22T03:17:15Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.22 12:17 (한국시간)",
+  "updatedAtISO": "2026-09-22T04:16:53Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.22 13:16 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.34,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1359.28,
-  "usdJpy": 157.5,
-  "jpyKrw100": 863.05,
+  "usdKrw": 1357.78,
+  "usdJpy": 157.51,
+  "jpyKrw100": 862.01,
   "indices": {
     "kospi": {
-      "value": 7130.33,
-      "changePct": 1.75
+      "value": 7111.59,
+      "changePct": 1.48
     },
     "kosdaq": {
-      "value": 843.06,
-      "changePct": 0.81
+      "value": 840.91,
+      "changePct": 0.56
     },
     "sp500": {
       "value": 7764.7,
@@ -35,8 +35,8 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "AI 랠리와 유가 하락에 힘입어 미국 증시 선물 강세 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
+      "title": "AI 랠리와 유가 하락에 힘입어 미국 증시 선물 강세 - kr.investing.com",
+      "source": "kr.investing.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OcDdMamZzeFVCMVFYYU9WV3FPMk1mTlRmb04zSVJ3N1FfZTZJaEY0bWF3QnJxWm1LLUtWbTFpak5Jbnk0RzJuajJnZktQYTFYQzNRZmo4LTlQUnRqWGt3Qk9PQ0JpUG9ETFE1SjRNNF8?oc=5"
     },
     {
