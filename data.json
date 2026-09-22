@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-22T16:17:33Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.23 01:17 (한국시간)",
+  "updatedAtISO": "2026-09-22T17:15:40Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.23 02:15 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.34,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1359.25,
-  "usdJpy": 157.59,
-  "jpyKrw100": 862.52,
+  "usdKrw": 1358.31,
+  "usdJpy": 157.51,
+  "jpyKrw100": 862.36,
   "indices": {
     "kospi": {
       "value": 7017.91,
@@ -20,16 +20,16 @@
       "changePct": -0.23
     },
     "sp500": {
-      "value": 7763.01,
-      "changePct": -0.02
+      "value": 7762.74,
+      "changePct": -0.03
     },
     "nasdaq": {
-      "value": 27193.72,
-      "changePct": 0.26
+      "value": 27209.16,
+      "changePct": 0.32
     },
     "sox": {
-      "value": 12581.34,
-      "changePct": 1.19
+      "value": 12599.09,
+      "changePct": 1.33
     }
   },
   "issues": [
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시 프리뷰, 주가 선물 혼조… 호르무즈 재개방 기대에 유가 급락 - newspim.com",
-      "source": "newspim.com",
+      "title": "뉴욕증시 프리뷰, 주가 선물 혼조… 호르무즈 재개방 기대에 유가 급락 - 뉴스핌",
+      "source": "뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pYTd2M2VxVFBTM0s5ZVptNTNuUmVsUS1LUWtUc0FpSGxPdVNRZElvLXNrQmVfdnRVYko4RUt5eEFYekkzazdkbzJYRHl0MGcxd19RbmJSNzd2Qzkx?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "코스피 미국 증시 훈풍에 장중 1%대 강세 7130선, 코스닥도 1%대 올라 - 비즈니스포스트",
-      "source": "비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kZHhRV2ZKSEdXWDNCWUJxRWdEazJfTkoyVzZScEt0T20yc1pDMXg4aFgyTzlxQl9KaWY2MzRBT2JMVFQtUkNhanh4LUI5dFl1dnZJNDBoZG00XzktRlZUbFBvVURZSDNpWHpOZ0MxUDBleFE?oc=5"
+      "title": "연속 유가 하락에 美증시 상승…나스닥 개장초 사상최고 경신 - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55ZXphejJCaDR4WFBKTERRQS1TUDNVT1lJc2dhYk1DRE96RGY3WFNXWmplejJuYXk1YUgyaDFyN0VoOTFHTm9fR25xT0VJbmQ0TUlXXzNKajNMZw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
