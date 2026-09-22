@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-22T06:21:50Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.22 15:21 (한국시간)",
+  "updatedAtISO": "2026-09-22T07:17:32Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.22 16:17 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.34,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1359.74,
-  "usdJpy": 157.63,
-  "jpyKrw100": 862.62,
+  "usdKrw": 1359.63,
+  "usdJpy": 157.72,
+  "jpyKrw100": 862.08,
   "indices": {
     "kospi": {
-      "value": 7038.48,
-      "changePct": 0.44
+      "value": 7017.91,
+      "changePct": 0.14
     },
     "kosdaq": {
-      "value": 835.92,
-      "changePct": -0.04
+      "value": 834.38,
+      "changePct": -0.23
     },
     "sp500": {
       "value": 7764.7,
@@ -47,6 +47,12 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "“밤새 주가 안 봐도 된다”…대신증권, 미국주식 자동주문 서비스 출시 - ddaily.co.kr",
+      "source": "ddaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11S056c0xXWEhncExVXzE0OVZTRGFzMnJZMlhVYmNhTFI1X3B1d2EzSTV2X3JYNm90UHpIZmZpUWtVMnpVMUhmR0V5XzNueVloWlh3WWFSMzBQaUQ4S2NMVld2RVA?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "대신증권, 미국주식 자동주문 서비스 도입…목표가 도달하면 자동 매매 - 뉴스핌",
       "source": "뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYYmtMUjRIeVRHYURGaDdIU0VKUzFlS3JMSzluV09BY29peXY4ZXNHYkJLSW9Cd3NsUkJGbUc1N0llUjU3TjYyc1NmeWkyV3VqVG96TURpakF1djNa?oc=5"
@@ -56,12 +62,6 @@
       "title": "코스피 미국 증시 훈풍에 장중 1%대 강세 7130선, 코스닥도 1%대 올라 - 비즈니스포스트",
       "source": "비즈니스포스트",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kZHhRV2ZKSEdXWDNCWUJxRWdEazJfTkoyVzZScEt0T20yc1pDMXg4aFgyTzlxQl9KaWY2MzRBT2JMVFQtUkNhanh4LUI5dFl1dnZJNDBoZG00XzktRlZUbFBvVURZSDNpWHpOZ0MxUDBleFE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "“밤새 주가 안 봐도 된다”…대신증권, 미국주식 자동주문 서비스 출시 - 디지털데일리",
-      "source": "디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11S056c0xXWEhncExVXzE0OVZTRGFzMnJZMlhVYmNhTFI1X3B1d2EzSTV2X3JYNm90UHpIZmZpUWtVMnpVMUhmR0V5XzNueVloWlh3WWFSMzBQaUQ4S2NMVld2RVA?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
