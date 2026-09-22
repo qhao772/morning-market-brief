@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-22T17:15:40Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.23 02:15 (한국시간)",
+  "updatedAtISO": "2026-09-22T18:21:04Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.23 03:21 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.34,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1358.31,
-  "usdJpy": 157.51,
-  "jpyKrw100": 862.36,
+  "usdKrw": 1358.21,
+  "usdJpy": 157.41,
+  "jpyKrw100": 862.85,
   "indices": {
     "kospi": {
       "value": 7017.91,
@@ -20,16 +20,16 @@
       "changePct": -0.23
     },
     "sp500": {
-      "value": 7762.74,
-      "changePct": -0.03
+      "value": 7771.75,
+      "changePct": 0.09
     },
     "nasdaq": {
-      "value": 27209.16,
-      "changePct": 0.32
+      "value": 27249.65,
+      "changePct": 0.47
     },
     "sox": {
-      "value": 12599.09,
-      "changePct": 1.33
+      "value": 12632.49,
+      "changePct": 1.6
     }
   },
   "issues": [
@@ -41,15 +41,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 기술주·반도체 강세에 일제히 상승 마감…나스닥 급등 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IMHVLbnBPakdJd2xDQzU0aHdoby1ER0RWYUN3bS1Dend4MWRneGNKOHFPeXB5VFNXcTBndVloMTVoSDhHLVVseFY0SnZuZmhoeFZ5bnc1Um13dkNGVHlrMnZWVHZoTlFoZ2F2MGlmQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "레버리지 ETF의 '몰락'…美증시에서 73개 줄상폐 - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hS09ocFZiZ05jSUQ4b1FHUmpITW5FRVJWNXd2aFZUV1V1VUdpeEktRWZPRHZlbVZ2RGQ0c1lDMGVyc1djT2g2TFB3M3pocFRWR1E?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[서울데이터랩] 미국 증시, 기술주·반도체 강세에 일제히 상승 마감…나스닥 급등 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IMHVLbnBPakdJd2xDQzU0aHdoby1ER0RWYUN3bS1Dend4MWRneGNKOHFPeXB5VFNXcTBndVloMTVoSDhHLVVseFY0SnZuZmhoeFZ5bnc1Um13dkNGVHlrMnZWVHZoTlFoZ2F2MGlmQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
