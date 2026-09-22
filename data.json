@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-22T12:21:57Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.22 21:21 (한국시간)",
+  "updatedAtISO": "2026-09-22T13:18:04Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.22 22:18 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.34,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1357.46,
-  "usdJpy": 157.19,
-  "jpyKrw100": 863.56,
+  "usdKrw": 1358.98,
+  "usdJpy": 157.27,
+  "jpyKrw100": 864.11,
   "indices": {
     "kospi": {
       "value": 7017.91,
@@ -47,9 +47,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "“밤새 주가 안 봐도 된다”…대신증권, 미국주식 자동주문 서비스 출시 - 디지털데일리",
-      "source": "디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11S056c0xXWEhncExVXzE0OVZTRGFzMnJZMlhVYmNhTFI1X3B1d2EzSTV2X3JYNm90UHpIZmZpUWtVMnpVMUhmR0V5XzNueVloWlh3WWFSMzBQaUQ4S2NMVld2RVA?oc=5"
+      "title": "레버리지 ETF의 '몰락'…美증시에서 73개 줄상폐 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hS09ocFZiZ05jSUQ4b1FHUmpITW5FRVJWNXd2aFZUV1V1VUdpeEktRWZPRHZlbVZ2RGQ0c1lDMGVyc1djT2g2TFB3M3pocFRWR1E?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "레버리지 ETF의 '몰락'…美증시에서 73개 줄상폐 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hS09ocFZiZ05jSUQ4b1FHUmpITW5FRVJWNXd2aFZUV1V1VUdpeEktRWZPRHZlbVZ2RGQ0c1lDMGVyc1djT2g2TFB3M3pocFRWR1E?oc=5"
+      "title": "“밤새 주가 안 봐도 된다”…대신증권, 미국주식 자동주문 서비스 출시 - 디지털데일리",
+      "source": "디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11S056c0xXWEhncExVXzE0OVZTRGFzMnJZMlhVYmNhTFI1X3B1d2EzSTV2X3JYNm90UHpIZmZpUWtVMnpVMUhmR0V5XzNueVloWlh3WWFSMzBQaUQ4S2NMVld2RVA?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
