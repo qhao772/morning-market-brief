@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-22T11:16:34Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.22 20:16 (한국시간)",
+  "updatedAtISO": "2026-09-22T12:21:57Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.22 21:21 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.34,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1356.1,
-  "usdJpy": 157.16,
-  "jpyKrw100": 862.88,
+  "usdKrw": 1357.46,
+  "usdJpy": 157.19,
+  "jpyKrw100": 863.56,
   "indices": {
     "kospi": {
       "value": 7017.91,
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "카카오, 카카오모빌리티 美상장 제동…TPG '엑시트' 방식에 반대 - 디일렉",
-      "source": "디일렉",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Ocmx4MmdVN1ZVSnhKZDcwZFhZWHR1Q2lUU3MyNGVDcVZmbEZqeTVoR080LWJBXzNTWXlKVXgxUktpd3AxVUpRYi05Y3g3T0U4NTU2MmxkVmZ5aEkzQjBnYkFIbkVBdw?oc=5"
+      "title": "레버리지 ETF의 '몰락'…美증시에서 73개 줄상폐 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hS09ocFZiZ05jSUQ4b1FHUmpITW5FRVJWNXd2aFZUV1V1VUdpeEktRWZPRHZlbVZ2RGQ0c1lDMGVyc1djT2g2TFB3M3pocFRWR1E?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
