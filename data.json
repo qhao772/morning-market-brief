@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-21T23:15:20Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.22 08:15 (한국시간)",
+  "updatedAtISO": "2026-09-22T00:23:06Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.22 09:23 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.34,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1374.81,
-  "usdJpy": 157.35,
-  "jpyKrw100": 873.71,
+  "usdKrw": 1366.48,
+  "usdJpy": 157.36,
+  "jpyKrw100": 868.39,
   "indices": {
     "kospi": {
-      "value": 7007.72,
-      "changePct": 1.65
+      "value": 7166.77,
+      "changePct": 2.27
     },
     "kosdaq": {
-      "value": 836.27,
-      "changePct": 1.11
+      "value": 846.4,
+      "changePct": 1.21
     },
     "sp500": {
       "value": 7764.7,
@@ -41,6 +41,18 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "\"미국 주식 더 사자\"…중국인들 '우르르' 안달난 까닭 [김주완의 글로벌머니 X파일] - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CMnY2T2s4VGoyakhSbDFlMFhRRm9uWVkwSGtnN19UbjdDWmRtd1FLb0tWRnl6dnhaUnNicU8xY0dIN1ROSEtkdmZLQVo3NkRjTUFVbjRzZmgtdw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[굿모닝 증시]美 나스닥 신고가…'메타 AI' 훈풍에 국내증시도 상승 전망 - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qS2lCdGs5VU5QMUF6bjI3VFVhR29BdURWRW5DYUpSTnZkVUNsRGtlWFVaZ2M0NTNDOWZPME5fOEtoOE5FdWVGSkFWc1FsVm8?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[3분증시] 뉴욕증시, 미·이란 협상기대감에 급등…나스닥최고치 - 연합뉴스TV",
       "source": "연합뉴스TV",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SNy1JbmFQZmUyMDF4MWMyYTBTVnVpa3ViZnBMRDM1MjR1Umw3Z2NWLWxYRC1PdWoxOVdFWjUtQklDOEp0cWxZMFZVS1B3dkdoVkc5Mw?oc=5"
@@ -50,18 +62,6 @@
       "title": "[시황] 미국증시, 유가·금리 동반 하락·AI 훈풍에 나스닥 사상 최고치 경신 - 버핏연구소",
       "source": "버핏연구소",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2cGpYQlpiSnlXRkRYSnhySkhwS0MzS3A4R0xOMlVLMnU5X2FWZ01qYmF5RjFpWVpDbmpsM0hocXNWYk14Zk1aUmtzclI3ekZMa1FvcHpYWHYwNUltV3dzVFBB?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국 기술주 100원어치에 127원…중국 투자자들이 웃돈 내는 이유 [김주완의 글로벌머니 X파일] - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CMnY2T2s4VGoyakhSbDFlMFhRRm9uWVkwSGtnN19UbjdDWmRtd1FLb0tWRnl6dnhaUnNicU8xY0dIN1ROSEtkdmZLQVo3NkRjTUFVbjRzZmgtdw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시, 유가 급락·메타 AI에 급등…CPU 반도체 랠리로 나스닥 최고치 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53c2ozNGxpXzMydWpLNjVtQjJIVl9nd0RrNmpuMjlJcmpreVlOVTFkaEJZMVpxLThWUjdfbmxFR1JNV0ZvUzB4NXc5VVdNZURlOUUyTUJPSEc3OThRU3JhUVBaNHNhN2VWZW5DVWhudl8yUQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
