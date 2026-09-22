@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-22T18:21:04Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.23 03:21 (한국시간)",
+  "updatedAtISO": "2026-09-22T19:14:45Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.23 04:14 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.34,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1358.21,
-  "usdJpy": 157.41,
-  "jpyKrw100": 862.85,
+  "usdKrw": 1358.12,
+  "usdJpy": 157.47,
+  "jpyKrw100": 862.44,
   "indices": {
     "kospi": {
       "value": 7017.91,
@@ -20,16 +20,16 @@
       "changePct": -0.23
     },
     "sp500": {
-      "value": 7771.75,
-      "changePct": 0.09
+      "value": 7770.2,
+      "changePct": 0.07
     },
     "nasdaq": {
-      "value": 27249.65,
+      "value": 27249.33,
       "changePct": 0.47
     },
     "sox": {
-      "value": 12632.49,
-      "changePct": 1.6
+      "value": 12645.01,
+      "changePct": 1.7
     }
   },
   "issues": [
@@ -47,15 +47,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 기술주·반도체 강세에 일제히 상승 마감…나스닥 급등 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IMHVLbnBPakdJd2xDQzU0aHdoby1ER0RWYUN3bS1Dend4MWRneGNKOHFPeXB5VFNXcTBndVloMTVoSDhHLVVseFY0SnZuZmhoeFZ5bnc1Um13dkNGVHlrMnZWVHZoTlFoZ2F2MGlmQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "뉴욕증시 프리뷰, 주가 선물 혼조… 호르무즈 재개방 기대에 유가 급락 - 뉴스핌",
       "source": "뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pYTd2M2VxVFBTM0s5ZVptNTNuUmVsUS1LUWtUc0FpSGxPdVNRZElvLXNrQmVfdnRVYko4RUt5eEFYekkzazdkbzJYRHl0MGcxd19RbmJSNzd2Qzkx?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[서울데이터랩] 미국 증시, 기술주·반도체 강세에 일제히 상승 마감…나스닥 급등 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IMHVLbnBPakdJd2xDQzU0aHdoby1ER0RWYUN3bS1Dend4MWRneGNKOHFPeXB5VFNXcTBndVloMTVoSDhHLVVseFY0SnZuZmhoeFZ5bnc1Um13dkNGVHlrMnZWVHZoTlFoZ2F2MGlmQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
