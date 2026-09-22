@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-22T20:16:12Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.23 05:16 (한국시간)",
-  "us10y": 5.01,
-  "us30y": 5.34,
+  "updatedAtISO": "2026-09-22T21:15:00Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.23 06:15 (한국시간)",
+  "us10y": 4.96,
+  "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1354.07,
-  "usdJpy": 157.38,
-  "jpyKrw100": 860.37,
+  "usdKrw": 1354.89,
+  "usdJpy": 157.36,
+  "jpyKrw100": 861.02,
   "indices": {
     "kospi": {
       "value": 7017.91,
@@ -47,21 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시 프리뷰, 주가 선물 혼조… 호르무즈 재개방 기대에 유가 급락 - newspim.com",
-      "source": "newspim.com",
+      "title": "뉴욕증시 프리뷰, 주가 선물 혼조… 호르무즈 재개방 기대에 유가 급락 - 뉴스핌",
+      "source": "뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pYTd2M2VxVFBTM0s5ZVptNTNuUmVsUS1LUWtUc0FpSGxPdVNRZElvLXNrQmVfdnRVYko4RUt5eEFYekkzazdkbzJYRHl0MGcxd19RbmJSNzd2Qzkx?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 기술주·반도체 강세에 일제히 상승 마감…나스닥 급등 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IMHVLbnBPakdJd2xDQzU0aHdoby1ER0RWYUN3bS1Dend4MWRneGNKOHFPeXB5VFNXcTBndVloMTVoSDhHLVVseFY0SnZuZmhoeFZ5bnc1Um13dkNGVHlrMnZWVHZoTlFoZ2F2MGlmQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "연속 유가 하락에 美증시 상승…나스닥 개장초 사상최고 경신 - 한국경제",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55ZXphejJCaDR4WFBKTERRQS1TUDNVT1lJc2dhYk1DRE96RGY3WFNXWmplejJuYXk1YUgyaDFyN0VoOTFHTm9fR25xT0VJbmQ0TUlXXzNKajNMZw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "바이낸스 리서치 \"RWA 무기한 선물, 미국 정규장 외 거래 수요 흡수\" - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wRDMtNUVmME5RLXJLS2xVLW1yTF9SaU8xdTd3MExlOEZVeDFNa05WNU9vTW16VTRaemNmMDk5ZFVSU0JQbzNMU09uaUtmUU5K?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
