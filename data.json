@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-22T10:18:18Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.22 19:18 (한국시간)",
+  "updatedAtISO": "2026-09-22T11:16:34Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.22 20:16 (한국시간)",
   "us10y": 5.01,
   "us30y": 5.34,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1355.78,
-  "usdJpy": 157.06,
-  "jpyKrw100": 863.23,
+  "usdKrw": 1356.1,
+  "usdJpy": 157.16,
+  "jpyKrw100": 862.88,
   "indices": {
     "kospi": {
       "value": 7017.91,
@@ -59,8 +59,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "카카오, 카카오모빌리티 美상장 제동…TPG '엑시트' 방식에 반대 - thelec.kr",
-      "source": "thelec.kr",
+      "title": "카카오, 카카오모빌리티 美상장 제동…TPG '엑시트' 방식에 반대 - 디일렉",
+      "source": "디일렉",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Ocmx4MmdVN1ZVSnhKZDcwZFhZWHR1Q2lUU3MyNGVDcVZmbEZqeTVoR080LWJBXzNTWXlKVXgxUktpd3AxVUpRYi05Y3g3T0U4NTU2MmxkVmZ5aEkzQjBnYkFIbkVBdw?oc=5"
     }
   ],
