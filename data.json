@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-23T02:17:18Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.23 11:17 (한국시간)",
+  "updatedAtISO": "2026-09-23T03:17:09Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.23 12:17 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1352.08,
+  "usdKrw": 1351.49,
   "usdJpy": 157.62,
-  "jpyKrw100": 857.79,
+  "jpyKrw100": 857.46,
   "indices": {
     "kospi": {
-      "value": 7029.65,
-      "changePct": 0.17
+      "value": 7036.97,
+      "changePct": 0.27
     },
     "kosdaq": {
-      "value": 835.53,
-      "changePct": 0.14
+      "value": 839.58,
+      "changePct": 0.62
     },
     "sp500": {
       "value": 7764.64,
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, 미·이란 대면 협상 속 혼조 마감 - yonhapnewstv.co.kr",
-      "source": "yonhapnewstv.co.kr",
+      "title": "[3분증시] 뉴욕증시, 미·이란 대면 협상 속 혼조 마감 - 연합뉴스TV",
+      "source": "연합뉴스TV",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxT0loUzZUOU96SUFkRWVNS196VFVRcUxqVXhDX0JYUnJlQnVtTWJmMEhJeDFhSkl1TGFzS2xQWWpTMjhWNXcyTFFfUENfT2dOQ29IVA?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "레버리지 ETF의 '몰락'…美증시에서 73개 줄상폐 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hS09ocFZiZ05jSUQ4b1FHUmpITW5FRVJWNXd2aFZUV1V1VUdpeEktRWZPRHZlbVZ2RGQ0c1lDMGVyc1djT2g2TFB3M3pocFRWR1E?oc=5"
+      "title": "뉴욕증시 받치는 미국의 백만장자들[박신영의 월가 아나토미] - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VN1BQU0pDVVMtOExiSlNzOXd0eUZuOFRBTzl5Z1NWLUZBSWMtMkY1UnV4VnVMRkFocHhjNmRzbE01VXJ1X0ZRaHFScWpRallVemhxdHVURzgzUQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
