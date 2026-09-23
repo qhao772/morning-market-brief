@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-23T17:16:53Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.24 02:16 (한국시간)",
+  "updatedAtISO": "2026-09-23T18:21:07Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.24 03:21 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1369.49,
-  "usdJpy": 158.38,
-  "jpyKrw100": 864.67,
+  "usdKrw": 1366.29,
+  "usdJpy": 158.24,
+  "jpyKrw100": 863.44,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -17,33 +17,27 @@
     },
     "kosdaq": {
       "value": 844.48,
-      "changePct": 1.21
+      "changePct": 0.98
     },
     "sp500": {
-      "value": 7701.59,
-      "changePct": -0.81
+      "value": 7714.45,
+      "changePct": -0.65
     },
     "nasdaq": {
-      "value": 26898.21,
-      "changePct": -1.27
+      "value": 26954.69,
+      "changePct": -1.06
     },
     "sox": {
-      "value": 12418.93,
-      "changePct": -2.13
+      "value": 12512.05,
+      "changePct": -1.4
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "카카오, 카카오모빌리티 미국 ADR 상장에 제동 - yonhapnewstv.co.kr",
-      "source": "yonhapnewstv.co.kr",
+      "title": "카카오, 카카오모빌리티 미국 ADR 상장에 제동 - 연합뉴스TV",
+      "source": "연합뉴스TV",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OTXlBMUNkTHhaSFYwV3pEUE1sVmVqTTZUdDBjR1FNRHFqcE1wazhZdVJ2ZFNmQTFxdl9XUnJtZFJuMjVaWGQ1dVQtUGI3b0JSdHJBREFSREJZWkZxRUd1bGNIVmZ5Y0E?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "이란 협상·AI 낙관론 속 미국 증시 선물 보합세 - kr.investing.com",
-      "source": "kr.investing.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51MndvOGRzMzQ0UmFVc2RDRWlQQ3FLRjB2QVRsQUpBMndMd3Vudk1Kd1lRSDJZOXVWMWtCekZkMUVhbFZPZ3pGTGJNU0ZQMWZMQzlSRTdKRF9fMkVaV1JBSm1xb0ktZjJBekpBakl2amY?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -62,6 +56,12 @@
       "title": "레버리지 ETF의 '몰락'…美증시에서 73개 줄상폐 - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hS09ocFZiZ05jSUQ4b1FHUmpITW5FRVJWNXd2aFZUV1V1VUdpeEktRWZPRHZlbVZ2RGQ0c1lDMGVyc1djT2g2TFB3M3pocFRWR1E?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시, 유가 내려도 장초반 하락…SK하이닉스·반도체 숨고르기 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YamV1STJfRG50cmNqX2NlMm9EUEZRbWhpaU9yb29TX2JZNnpWcERMY1I2cGpJbG12ZTFtNEVlODBKNlZ0a3oySG9BT1poTHY0RFUtb2NSbGZKY0FVTms1LTBJNTVYelZ2X3ljb1NVdTJTZw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
