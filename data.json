@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-23T09:17:07Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.23 18:17 (한국시간)",
+  "updatedAtISO": "2026-09-23T10:17:17Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.23 19:17 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1364.34,
-  "usdJpy": 157.87,
-  "jpyKrw100": 864.22,
+  "usdKrw": 1364.48,
+  "usdJpy": 157.8,
+  "jpyKrw100": 864.68,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "카카오, 카카오모빌리티 미국 ADR 상장에 제동 - 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OTXlBMUNkTHhaSFYwV3pEUE1sVmVqTTZUdDBjR1FNRHFqcE1wazhZdVJ2ZFNmQTFxdl9XUnJtZFJuMjVaWGQ1dVQtUGI3b0JSdHJBREFSREJZWkZxRUd1bGNIVmZ5Y0E?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "추석마다 美증시 찾은 서학개미…올해도 '미국 여행' 떠날까 - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9LTkVlOHlMOTNyMUJmQ3dmZkVSRnBqLS1iU1h0YlhUQlFjWWtVWkJDMi1yd29SdDdHWWZiLTBkMlFDYU1DSXc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "서울대병원, 미국 주식 2억원 상당 기부 받아 - 메디칼업저버",
       "source": "메디칼업저버",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Mc1pIVzhHdFJEemlkSi1jSUs4WXQwQm9vR1kwQ2xkT1BmQkd4WHBGUGhUZGVKbTVaUnFHMXJlODk2M1pKUFJIQ2xWbmEwdGc1UzcwajdqTGNYa2pSVjh0N2NjWExSenViLWdr?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "카카오, 카카오모빌리티 미국 ADR 상장에 제동 - yonhapnewstv.co.kr",
-      "source": "yonhapnewstv.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OTXlBMUNkTHhaSFYwV3pEUE1sVmVqTTZUdDBjR1FNRHFqcE1wazhZdVJ2ZFNmQTFxdl9XUnJtZFJuMjVaWGQ1dVQtUGI3b0JSdHJBREFSREJZWkZxRUd1bGNIVmZ5Y0E?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "[게시판] 서울대병원, 후원인에게 미국 주식 2억원 기부 받아 - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XckRYeGM0dHNfYV92YXU2NDNtZ1h2NXhaOUsxMGd2WU1xb29MTTY4MEtCNjZUdTlGTVNwSFJPci1QSHF1VzVHdTJfUXg3bXpXeWc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[미국증시] SOXX도 하이닉스 ADR 담았다…프리미엄 44% - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82ODY3MmpIQ3RPOTJtSzRrUi1MbGV6OXMzU3RsdGZocHhHcjNkRWxmVnVOanZHQ3ZnX08zczF2N2d6X0Ryek5qUXBtMEVXX0hZWjNnN2ZzQl9GUjh2SzJMUXJFZkJpeUk?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
