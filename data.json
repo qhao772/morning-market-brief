@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-22T23:14:35Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.23 08:14 (한국시간)",
+  "updatedAtISO": "2026-09-23T00:22:26Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.23 09:22 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1355.14,
-  "usdJpy": 157.46,
-  "jpyKrw100": 860.62,
+  "usdKrw": 1348.88,
+  "usdJpy": 157.54,
+  "jpyKrw100": 856.19,
   "indices": {
     "kospi": {
-      "value": 7017.91,
-      "changePct": 0.14
+      "value": 7140.28,
+      "changePct": 1.74
     },
     "kosdaq": {
-      "value": 834.38,
-      "changePct": -0.23
+      "value": 839.99,
+      "changePct": 0.67
     },
     "sp500": {
       "value": 7764.64,
@@ -35,9 +35,21 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시 혼조 마감…반도체 강세에 나스닥 상승, 다우는 금융주 약세에 하락 - seoul.co.kr",
-      "source": "seoul.co.kr",
+      "title": "[서울데이터랩]미국 증시 혼조 마감…반도체 강세에 나스닥 상승, 다우는 금융주 약세에 하락 - 서울신문",
+      "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aQ3BoaUdJb213N1Rfc2Q1Uk92UWxzRmFVT3hicHJsaERPNWlUUFMxMnpTU0dUYXF5NmEwSHNyWlJqeVM2cGE1TXFiMU9fVlZGTzBBSkc2dFg3TFlxcVc1RHNaTG02TkR6SDROc0xudk1XdU82MG03YmpnS3U5dw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[굿모닝 증시]美 반도체주 강세…코스피 상승 출발 전망 - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1reG13eUQ3V0MxY0dMNlNJMHJyU0lZTExoZW1EVUdGS0RQMnFTdFluWVBRY1JNd2ZXVFlIbU9PUUMzMVRqQlo1dzM4T3ZOLWc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[미국증시] SOXX도 하이닉스 ADR 담았다…프리미엄 44% - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82ODY3MmpIQ3RPOTJtSzRrUi1MbGV6OXMzU3RsdGZocHhHcjNkRWxmVnVOanZHQ3ZnX08zczF2N2d6X0Ryek5qUXBtMEVXX0hZWjNnN2ZzQl9GUjh2SzJMUXJFZkJpeUk?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,21 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[굿모닝 증시]美 반도체주 강세…코스피 상승 출발 전망 - 아시아경제",
-      "source": "아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42dGtSTUl5cFdiQ29ianR2WktCaVEyVEZVMHZLdkJ3b0NLd0VQX1diWWVMOWlrODRJdmlCa2E3TlZhdnJsZXk1cUZ4VF92Qmt3bTRTeXNwMHU0NUtMdjZkOEd3?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "레버리지 ETF의 '몰락'…美증시에서 73개 줄상폐 - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hS09ocFZiZ05jSUQ4b1FHUmpITW5FRVJWNXd2aFZUV1V1VUdpeEktRWZPRHZlbVZ2RGQ0c1lDMGVyc1djT2g2TFB3M3pocFRWR1E?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시 혼조마감, 유가·금리 하락에 나스닥 상승…마이크론·SK하이닉스 강세 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tSy1sZVhzNVpPc2JJMEUwcEJnLVVZNDgwUzYxalhHNGhYZlFsajVucHFRcjVOck55clhzLXFaOTl2TEd6bGwyWk1CTEMzOWI0RzFDNUxUWnJvS092VXRVSnFXQnFhc0lKeUxxaDlzeFdFUQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
