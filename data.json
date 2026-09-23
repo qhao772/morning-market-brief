@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-23T20:18:19Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.24 05:18 (한국시간)",
+  "updatedAtISO": "2026-09-23T21:17:00Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.24 06:17 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1366.53,
-  "usdJpy": 158.33,
-  "jpyKrw100": 863.11,
+  "usdKrw": 1365.91,
+  "usdJpy": 158.3,
+  "jpyKrw100": 862.87,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -17,7 +17,7 @@
     },
     "kosdaq": {
       "value": 844.48,
-      "changePct": 0.98
+      "changePct": 1.21
     },
     "sp500": {
       "value": 7706.03,
@@ -47,6 +47,12 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "미국 증시 3대 지수 하락…반도체주 약세 속 보안주 상승 - 디지털데일리",
+      "source": "디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rVWdtQTZXOXNSd1p4S1ZVdWVkUW9HalRUbWpGYXFIOUswRzh6azlwcmc4ZUxKYncxWDVNaV9BQkhkeWgzUzRJOWhEeDY2NUhqajFPTEMzWXN3UTlsZTZ2VDhhRzU?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "서울대병원, 미국 주식 2억원 상당 기부 받아 - 메디칼업저버",
       "source": "메디칼업저버",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Mc1pIVzhHdFJEemlkSi1jSUs4WXQwQm9vR1kwQ2xkT1BmQkd4WHBGUGhUZGVKbTVaUnFHMXJlODk2M1pKUFJIQ2xWbmEwdGc1UzcwajdqTGNYa2pSVjh0N2NjWExSenViLWdr?oc=5"
@@ -56,12 +62,6 @@
       "title": "기록 깬 나스닥의 그늘… 70% 종목 무너진 뉴욕증시 가을 조정 경고 - 글로벌이코노믹",
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTmVVX2pNZEpzWW9NazQ5QXJpQUxWbjY0S0JXNF8yTkthS0dXMzhSMUNMNWU5clV6dHhySnBuVWJfSTBtMVlOSEVkLUpDRjhfc2JBX3owVXh6SkM2cXB3MWZiSVh5TlZuUkJMejJPTUd0T19zMTZxZGlJN0I5aVpaMl9xa3F0MjQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "레버리지 ETF의 '몰락'…美증시에서 73개 줄상폐 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hS09ocFZiZ05jSUQ4b1FHUmpITW5FRVJWNXd2aFZUV1V1VUdpeEktRWZPRHZlbVZ2RGQ0c1lDMGVyc1djT2g2TFB3M3pocFRWR1E?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
