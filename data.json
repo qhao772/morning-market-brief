@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-23T00:22:26Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.23 09:22 (한국시간)",
+  "updatedAtISO": "2026-09-23T01:15:52Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.23 10:15 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1348.88,
-  "usdJpy": 157.54,
-  "jpyKrw100": 856.19,
+  "usdKrw": 1350.88,
+  "usdJpy": 157.58,
+  "jpyKrw100": 857.28,
   "indices": {
     "kospi": {
-      "value": 7140.28,
-      "changePct": 1.74
+      "value": 7080.93,
+      "changePct": 0.9
     },
     "kosdaq": {
-      "value": 839.99,
-      "changePct": 0.67
+      "value": 840.62,
+      "changePct": 0.75
     },
     "sp500": {
       "value": 7764.64,
@@ -35,15 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시 혼조 마감…반도체 강세에 나스닥 상승, 다우는 금융주 약세에 하락 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aQ3BoaUdJb213N1Rfc2Q1Uk92UWxzRmFVT3hicHJsaERPNWlUUFMxMnpTU0dUYXF5NmEwSHNyWlJqeVM2cGE1TXFiMU9fVlZGTzBBSkc2dFg3TFlxcVc1RHNaTG02TkR6SDROc0xudk1XdU82MG03YmpnS3U5dw?oc=5"
+      "title": "이란 협상·AI 낙관론 속 미국 증시 선물 보합세 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51MndvOGRzMzQ0UmFVc2RDRWlQQ3FLRjB2QVRsQUpBMndMd3Vudk1Kd1lRSDJZOXVWMWtCekZkMUVhbFZPZ3pGTGJNU0ZQMWZMQzlSRTdKRF9fMkVaV1JBSm1xb0ktZjJBekpBakl2amY?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[굿모닝 증시]美 반도체주 강세…코스피 상승 출발 전망 - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1reG13eUQ3V0MxY0dMNlNJMHJyU0lZTExoZW1EVUdGS0RQMnFTdFluWVBRY1JNd2ZXVFlIbU9PUUMzMVRqQlo1dzM4T3ZOLWc?oc=5"
+      "title": "[서울데이터랩]미국 증시 혼조 마감…반도체 강세에 나스닥 상승, 다우는 금융주 약세에 하락 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aQ3BoaUdJb213N1Rfc2Q1Uk92UWxzRmFVT3hicHJsaERPNWlUUFMxMnpTU0dUYXF5NmEwSHNyWlJqeVM2cGE1TXFiMU9fVlZGTzBBSkc2dFg3TFlxcVc1RHNaTG02TkR6SDROc0xudk1XdU82MG03YmpnS3U5dw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,8 +53,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, 미·이란 대면 협상 속 혼조 마감 - 연합뉴스TV",
-      "source": "연합뉴스TV",
+      "title": "[3분증시] 뉴욕증시, 미·이란 대면 협상 속 혼조 마감 - yonhapnewstv.co.kr",
+      "source": "yonhapnewstv.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxT0loUzZUOU96SUFkRWVNS196VFVRcUxqVXhDX0JYUnJlQnVtTWJmMEhJeDFhSkl1TGFzS2xQWWpTMjhWNXcyTFFfUENfT2dOQ29IVA?oc=5"
     },
     {
