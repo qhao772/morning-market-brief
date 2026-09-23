@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-23T22:16:31Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.24 07:16 (한국시간)",
+  "updatedAtISO": "2026-09-23T23:13:34Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.24 08:13 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1364.98,
-  "usdJpy": 158.3,
-  "jpyKrw100": 862.26,
+  "usdKrw": 1366.05,
+  "usdJpy": 158.26,
+  "jpyKrw100": 863.16,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "유가↑·금리↑ 3대지수 하락···하워드막스 “미국주식 팔지마라”[월가월부] - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MTFpfbzlBSUtaTWhaT1VzcUowZlZCQU5yVVA0dkpQYmlES013Ukh6WVJsLVh6eFdueC1yRjh4NHludmZ4VktxbWtTT2NuOHR3aXc?oc=5"
+      "title": "미국증시, 유가 내려도 장초반 하락…SK하이닉스·반도체 숨고르기 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YamV1STJfRG50cmNqX2NlMm9EUEZRbWhpaU9yb29TX2JZNnpWcERMY1I2cGpJbG12ZTFtNEVlODBKNlZ0a3oySG9BT1poTHY0RFUtb2NSbGZKY0FVTms1LTBJNTVYelZ2X3ljb1NVdTJTZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 3대 지수 하락…반도체주 약세 속 보안주 상승 - 디지털데일리",
-      "source": "디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rVWdtQTZXOXNSd1p4S1ZVdWVkUW9HalRUbWpGYXFIOUswRzh6azlwcmc4ZUxKYncxWDVNaV9BQkhkeWgzUzRJOWhEeDY2NUhqajFPTEMzWXN3UTlsZTZ2VDhhRzU?oc=5"
+      "title": "연휴에 국장 안 열려도 걱정 없다…미국 증시 연휴 내내 정상 개장 - 위키트리",
+      "source": "위키트리",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TWDNUMXZ6dFREcFdpTEpNdkhqaE1EU0pWMEoyMW03cVI0S2NWQlJ5cGlBd0VUbkVsY1YzVkpDcTdrR2RHdVFPOERrMVpiYnM2bzBuM3p3?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "카카오, 카카오모빌리티 미국 ADR 상장에 제동 - 연합뉴스TV",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OTXlBMUNkTHhaSFYwV3pEUE1sVmVqTTZUdDBjR1FNRHFqcE1wazhZdVJ2ZFNmQTFxdl9XUnJtZFJuMjVaWGQ1dVQtUGI3b0JSdHJBREFSREJZWkZxRUd1bGNIVmZ5Y0E?oc=5"
+      "title": "미국증시 혼조마감, 유가·금리 하락에 나스닥 상승…마이크론·SK하이닉스 강세 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tSy1sZVhzNVpPc2JJMEUwcEJnLVVZNDgwUzYxalhHNGhYZlFsajVucHFRcjVOck55clhzLXFaOTl2TEd6bGwyWk1CTEMzOWI0RzFDNUxUWnJvS092VXRVSnFXQnFhc0lKeUxxaDlzeFdFUQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "추석마다 美증시 찾은 서학개미…올해도 '미국 여행' 떠날까 - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IaUdjXy1DXzJGcDVvVlJwRjZ6MEZQS1piX3NCZGhOelNOTC1xbGV0RGxYVVNkaXl5NHZ5OGJhS3ZaOXhiSWdRSnRBcExKd2s?oc=5"
+      "title": "미국증시, 금리·유가 급등에 동반 하락…AI 랠리 제동·반도체 약세 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00TXBTQXBadjV5U3QyWWY5ME5kQzdGVGJQMWgybUk1bEFFZTJuTDROUGh5djZ4REdPSXBwemsteDFuaWZQdHNTZzJxU2xWM0lWb0FvekhiNmN3NFgtV0lkZ251WXdNWGdiVUxfZG9fNDdHdw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
