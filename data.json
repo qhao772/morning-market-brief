@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-23T21:17:00Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.24 06:17 (한국시간)",
+  "updatedAtISO": "2026-09-23T22:16:31Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.24 07:16 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1365.91,
+  "usdKrw": 1364.98,
   "usdJpy": 158.3,
-  "jpyKrw100": 862.87,
+  "jpyKrw100": 862.26,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -35,15 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "카카오, 카카오모빌리티 미국 ADR 상장에 제동 - 연합뉴스TV",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OTXlBMUNkTHhaSFYwV3pEUE1sVmVqTTZUdDBjR1FNRHFqcE1wazhZdVJ2ZFNmQTFxdl9XUnJtZFJuMjVaWGQ1dVQtUGI3b0JSdHJBREFSREJZWkZxRUd1bGNIVmZ5Y0E?oc=5"
+      "title": "[서울데이터랩]미국 증시, 기술주 약세에 일제히 하락 마감…나스닥 1% 넘게 내려 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBObnlTVkJFdTMyS2pReFRXblBMVC1QOXA1VXIyUW5rcW13MjFDNWV5dWFWNUREMEVWY2sxZV9DeFU1QUt3NlBXZzU2c2hFV0hBX0xFeDFyek5nN18wQ1NpSGxvZ2prcV83M29rdndSN05seHlwQ0UtR3BzcWxFZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "추석마다 美증시 찾은 서학개미…올해도 '미국 여행' 떠날까 - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IaUdjXy1DXzJGcDVvVlJwRjZ6MEZQS1piX3NCZGhOelNOTC1xbGV0RGxYVVNkaXl5NHZ5OGJhS3ZaOXhiSWdRSnRBcExKd2s?oc=5"
+      "title": "유가↑·금리↑ 3대지수 하락···하워드막스 “미국주식 팔지마라”[월가월부] - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MTFpfbzlBSUtaTWhaT1VzcUowZlZCQU5yVVA0dkpQYmlES013Ukh6WVJsLVh6eFdueC1yRjh4NHludmZ4VktxbWtTT2NuOHR3aXc?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "서울대병원, 미국 주식 2억원 상당 기부 받아 - 메디칼업저버",
-      "source": "메디칼업저버",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Mc1pIVzhHdFJEemlkSi1jSUs4WXQwQm9vR1kwQ2xkT1BmQkd4WHBGUGhUZGVKbTVaUnFHMXJlODk2M1pKUFJIQ2xWbmEwdGc1UzcwajdqTGNYa2pSVjh0N2NjWExSenViLWdr?oc=5"
+      "title": "카카오, 카카오모빌리티 미국 ADR 상장에 제동 - 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OTXlBMUNkTHhaSFYwV3pEUE1sVmVqTTZUdDBjR1FNRHFqcE1wazhZdVJ2ZFNmQTFxdl9XUnJtZFJuMjVaWGQ1dVQtUGI3b0JSdHJBREFSREJZWkZxRUd1bGNIVmZ5Y0E?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "기록 깬 나스닥의 그늘… 70% 종목 무너진 뉴욕증시 가을 조정 경고 - 글로벌이코노믹",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTmVVX2pNZEpzWW9NazQ5QXJpQUxWbjY0S0JXNF8yTkthS0dXMzhSMUNMNWU5clV6dHhySnBuVWJfSTBtMVlOSEVkLUpDRjhfc2JBX3owVXh6SkM2cXB3MWZiSVh5TlZuUkJMejJPTUd0T19zMTZxZGlJN0I5aVpaMl9xa3F0MjQ?oc=5"
+      "title": "추석마다 美증시 찾은 서학개미…올해도 '미국 여행' 떠날까 - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IaUdjXy1DXzJGcDVvVlJwRjZ6MEZQS1piX3NCZGhOelNOTC1xbGV0RGxYVVNkaXl5NHZ5OGJhS3ZaOXhiSWdRSnRBcExKd2s?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
