@@ -1,22 +1,22 @@
 {
-  "updatedAtISO": "2026-09-23T05:15:41Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.23 14:15 (한국시간)",
+  "updatedAtISO": "2026-09-23T06:22:38Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.23 15:22 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1351.18,
-  "usdJpy": 157.58,
-  "jpyKrw100": 857.43,
+  "usdKrw": 1357.26,
+  "usdJpy": 157.68,
+  "jpyKrw100": 860.78,
   "indices": {
     "kospi": {
-      "value": 7049.02,
-      "changePct": 0.44
+      "value": 7051.29,
+      "changePct": 0.48
     },
     "kosdaq": {
-      "value": 842.51,
+      "value": 842.46,
       "changePct": 0.97
     },
     "sp500": {
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "서울대병원, 미국 주식 2억원 상당 기부 받아 - 메디칼업저버",
+      "source": "메디칼업저버",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Mc1pIVzhHdFJEemlkSi1jSUs4WXQwQm9vR1kwQ2xkT1BmQkd4WHBGUGhUZGVKbTVaUnFHMXJlODk2M1pKUFJIQ2xWbmEwdGc1UzcwajdqTGNYa2pSVjh0N2NjWExSenViLWdr?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[게시판] 서울대병원, 후원인에게 미국 주식 2억원 기부 받아 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XckRYeGM0dHNfYV92YXU2NDNtZ1h2NXhaOUsxMGd2WU1xb29MTTY4MEtCNjZUdTlGTVNwSFJPci1QSHF1VzVHdTJfUXg3bXpXeWc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[3분증시] 뉴욕증시, 미·이란 대면 협상 속 혼조 마감 - 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJSTlCNlJjZmNWNHNBNFFVeU9JTFJUU09vV3VUb0RPR0Eyekd6S3k4UFo3S2l3NUR3bEszTWFuUzRzV2Z5bE1ZZWlyOGlBSFIyNU1OSWgwOGpTYkhwZHc0VTlwRWpEMTQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[미국증시] SOXX도 하이닉스 ADR 담았다…프리미엄 44% - 자본시장뉴스",
       "source": "자본시장뉴스",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82ODY3MmpIQ3RPOTJtSzRrUi1MbGV6OXMzU3RsdGZocHhHcjNkRWxmVnVOanZHQ3ZnX08zczF2N2d6X0Ryek5qUXBtMEVXX0hZWjNnN2ZzQl9GUjh2SzJMUXJFZkJpeUk?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시 혼조 마감…반도체 강세에 나스닥 상승, 다우는 금융주 약세에 하락 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aQ3BoaUdJb213N1Rfc2Q1Uk92UWxzRmFVT3hicHJsaERPNWlUUFMxMnpTU0dUYXF5NmEwSHNyWlJqeVM2cGE1TXFiMU9fVlZGTzBBSkc2dFg3TFlxcVc1RHNaTG02TkR6SDROc0xudk1XdU82MG03YmpnS3U5dw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "뉴욕증시 받치는 미국의 백만장자들 [박신영의 월가 아나토미] - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VN1BQU0pDVVMtOExiSlNzOXd0eUZuOFRBTzl5Z1NWLUZBSWMtMkY1UnV4VnVMRkFocHhjNmRzbE01VXJ1X0ZRaHFScWpRallVemhxdHVURzgzUQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[0923개장체크] 美 증시, 반도체주 급등 속 나스닥 사상 최고치 경신 - 인포스탁데일리",
-      "source": "인포스탁데일리",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KampqSmN4d2M5YWctVEZlTGhXajgzYXc0R1lackRXRy14Ykh3eXN0ZW9TZlB4Umg5SWhpRVBOY2dyR3M4b2hYWHJ6UFZuUDBFcUdzS3ZRcTUyX2FVbWljek45QUpheXBONy1GaVJqb25ZR3lOWkE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
