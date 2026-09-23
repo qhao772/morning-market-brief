@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-23T14:17:55Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.23 23:17 (한국시간)",
+  "updatedAtISO": "2026-09-23T15:16:44Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.24 00:16 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1367.78,
-  "usdJpy": 158.3,
-  "jpyKrw100": 864.04,
+  "usdKrw": 1364.96,
+  "usdJpy": 158.27,
+  "jpyKrw100": 862.41,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -20,16 +20,16 @@
       "changePct": 1.21
     },
     "sp500": {
-      "value": 7723.41,
-      "changePct": -0.53
+      "value": 7726.75,
+      "changePct": -0.49
     },
     "nasdaq": {
-      "value": 26946.56,
-      "changePct": -1.09
+      "value": 27008.3,
+      "changePct": -0.87
     },
     "sox": {
-      "value": 12404.18,
-      "changePct": -2.25
+      "value": 12521.03,
+      "changePct": -1.33
     }
   },
   "issues": [
@@ -38,6 +38,12 @@
       "title": "카카오, 카카오모빌리티 미국 ADR 상장에 제동 - 연합뉴스TV",
       "source": "연합뉴스TV",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OTXlBMUNkTHhaSFYwV3pEUE1sVmVqTTZUdDBjR1FNRHFqcE1wazhZdVJ2ZFNmQTFxdl9XUnJtZFJuMjVaWGQ1dVQtUGI3b0JSdHJBREFSREJZWkZxRUd1bGNIVmZ5Y0E?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "이란 협상·AI 낙관론 속 미국 증시 선물 보합세 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51MndvOGRzMzQ0UmFVc2RDRWlQQ3FLRjB2QVRsQUpBMndMd3Vudk1Kd1lRSDJZOXVWMWtCekZkMUVhbFZPZ3pGTGJNU0ZQMWZMQzlSRTdKRF9fMkVaV1JBSm1xb0ktZjJBekpBakl2amY?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -50,12 +56,6 @@
       "title": "서울대병원, 미국 주식 2억원 상당 기부 받아 - 메디칼업저버",
       "source": "메디칼업저버",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Mc1pIVzhHdFJEemlkSi1jSUs4WXQwQm9vR1kwQ2xkT1BmQkd4WHBGUGhUZGVKbTVaUnFHMXJlODk2M1pKUFJIQ2xWbmEwdGc1UzcwajdqTGNYa2pSVjh0N2NjWExSenViLWdr?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시, 유가 내려도 장초반 하락…SK하이닉스·반도체 숨고르기 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YamV1STJfRG50cmNqX2NlMm9EUEZRbWhpaU9yb29TX2JZNnpWcERMY1I2cGpJbG12ZTFtNEVlODBKNlZ0a3oySG9BT1poTHY0RFUtb2NSbGZKY0FVTms1LTBJNTVYelZ2X3ljb1NVdTJTZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
