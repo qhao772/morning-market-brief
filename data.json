@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-23T15:16:44Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.24 00:16 (한국시간)",
+  "updatedAtISO": "2026-09-23T16:18:24Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.24 01:18 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1364.96,
-  "usdJpy": 158.27,
-  "jpyKrw100": 862.41,
+  "usdKrw": 1366.87,
+  "usdJpy": 158.28,
+  "jpyKrw100": 863.56,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -20,16 +20,16 @@
       "changePct": 1.21
     },
     "sp500": {
-      "value": 7726.75,
-      "changePct": -0.49
+      "value": 7713.45,
+      "changePct": -0.66
     },
     "nasdaq": {
-      "value": 27008.3,
-      "changePct": -0.87
+      "value": 26957.65,
+      "changePct": -1.05
     },
     "sox": {
-      "value": 12521.03,
-      "changePct": -1.33
+      "value": 12470.91,
+      "changePct": -1.73
     }
   },
   "issues": [
@@ -41,20 +41,14 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "이란 협상·AI 낙관론 속 미국 증시 선물 보합세 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51MndvOGRzMzQ0UmFVc2RDRWlQQ3FLRjB2QVRsQUpBMndMd3Vudk1Kd1lRSDJZOXVWMWtCekZkMUVhbFZPZ3pGTGJNU0ZQMWZMQzlSRTdKRF9fMkVaV1JBSm1xb0ktZjJBekpBakl2amY?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "추석마다 美증시 찾은 서학개미…올해도 '미국 여행' 떠날까 - v.daum.net",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IaUdjXy1DXzJGcDVvVlJwRjZ6MEZQS1piX3NCZGhOelNOTC1xbGV0RGxYVVNkaXl5NHZ5OGJhS3ZaOXhiSWdRSnRBcExKd2s?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "서울대병원, 미국 주식 2억원 상당 기부 받아 - 메디칼업저버",
-      "source": "메디칼업저버",
+      "title": "서울대병원, 미국 주식 2억원 상당 기부 받아 - monews.co.kr",
+      "source": "monews.co.kr",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Mc1pIVzhHdFJEemlkSi1jSUs4WXQwQm9vR1kwQ2xkT1BmQkd4WHBGUGhUZGVKbTVaUnFHMXJlODk2M1pKUFJIQ2xWbmEwdGc1UzcwajdqTGNYa2pSVjh0N2NjWExSenViLWdr?oc=5"
     },
     {
@@ -62,6 +56,12 @@
       "title": "레버리지 ETF의 '몰락'…美증시에서 73개 줄상폐 - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hS09ocFZiZ05jSUQ4b1FHUmpITW5FRVJWNXd2aFZUV1V1VUdpeEktRWZPRHZlbVZ2RGQ0c1lDMGVyc1djT2g2TFB3M3pocFRWR1E?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시, 유가 내려도 장초반 하락…SK하이닉스·반도체 숨고르기 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YamV1STJfRG50cmNqX2NlMm9EUEZRbWhpaU9yb29TX2JZNnpWcERMY1I2cGpJbG12ZTFtNEVlODBKNlZ0a3oySG9BT1poTHY0RFUtb2NSbGZKY0FVTms1LTBJNTVYelZ2X3ljb1NVdTJTZw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
