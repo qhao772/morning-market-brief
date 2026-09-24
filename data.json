@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-24T11:16:42Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.24 20:16 (한국시간)",
+  "updatedAtISO": "2026-09-24T12:22:04Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.24 21:22 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1368.71,
-  "usdJpy": 158.68,
-  "jpyKrw100": 862.58,
+  "usdKrw": 1368.35,
+  "usdJpy": 158.79,
+  "jpyKrw100": 861.72,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -17,7 +17,7 @@
     },
     "kosdaq": {
       "value": 844.48,
-      "changePct": 1.21
+      "changePct": 0.98
     },
     "sp500": {
       "value": 7706.03,
@@ -41,8 +41,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시, 기술주 약세에 일제히 하락 마감…나스닥 1% 넘게 내려 - 서울신문",
-      "source": "서울신문",
+      "title": "[서울데이터랩]미국 증시, 기술주 약세에 일제히 하락 마감…나스닥 1% 넘게 내려 - seoul.co.kr",
+      "source": "seoul.co.kr",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBObnlTVkJFdTMyS2pReFRXblBMVC1QOXA1VXIyUW5rcW13MjFDNWV5dWFWNUREMEVWY2sxZV9DeFU1QUt3NlBXZzU2c2hFV0hBX0xFeDFyek5nN18wQ1NpSGxvZ2prcV83M29rdndSN05seHlwQ0UtR3BzcWxFZw?oc=5"
     },
     {
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "코스피 쉬자 美 반도체 1.2%↓…월요일 ‘3일치 변수’ 한꺼번에 온다 - 녹색경제신문",
-      "source": "녹색경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QRHBlSmpXYkxQdFRlSmJ1cU5pbUdqc2ZhSktvcjdJY2lKaEJiTU01dVJrUGl0THNEMXRKd0RBajlNZFJqM0NYTVhfYmpLN1RFVDREOE9WeHhzVzBLTDJpbEtTZXFicUVt?oc=5"
+      "title": "'지난해 1.8조' 추석 연휴 美 향하는 서학개미...수익률 주의보 - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8weElSb2V3SjR4VDdIb3pveEJmQmRKUmdBbktyd0k1RXBZNnNIN05JOEc2SnJaNFl1cTZueEF6bnphSE1lRzhTMURhdmZpRlk?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
