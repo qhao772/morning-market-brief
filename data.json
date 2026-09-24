@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-24T07:18:01Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.24 16:18 (한국시간)",
+  "updatedAtISO": "2026-09-24T08:18:55Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.24 17:18 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1368.17,
-  "usdJpy": 158.38,
-  "jpyKrw100": 863.83,
+  "usdKrw": 1368.76,
+  "usdJpy": 158.35,
+  "jpyKrw100": 864.36,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -47,9 +47,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "'국장'은 쉬어도 '미장'은 열린다…추석 전후 챙겨볼 ETF는 - 매일경제 마켓",
+      "title": "유가↑·금리↑ 3대지수 하락···하워드막스 “미국주식 팔지마라”[월가월부] - 매일경제 마켓",
       "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xR1BudGl6d1A5RDh3aHJ6QmxicEdWLWJkNG5DNEUxaWpwSmRoNHVkMDBxSGNmSTN4SElhLWhNemJBb25pZDBrdHZVQ3ZrX3RHbWc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MTFpfbzlBSUtaTWhaT1VzcUowZlZCQU5yVVA0dkpQYmlES013Ukh6WVJsLVh6eFdueC1yRjh4NHludmZ4VktxbWtTT2NuOHR3aXc?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국증시] 미국 디젤 수출 금지설에 백악관 \"가짜뉴스\" 진화 - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzYWZFLURUdjZzN2Z2cGdfTkpoekNQR0J1TXpNZVlfZzFDSnVsdUlabjdEVWZLaTBHazNjYXNIeFZtWFg2WDlsUmVLejZlZjdyNm5ycU1VaUFKQWNvZnRCMVdqSkVQcUU?oc=5"
+      "title": "코스피 쉬자 美 반도체 1.2%↓…월요일 ‘3일치 변수’ 한꺼번에 온다 - 녹색경제신문",
+      "source": "녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QRHBlSmpXYkxQdFRlSmJ1cU5pbUdqc2ZhSktvcjdJY2lKaEJiTU01dVJrUGl0THNEMXRKd0RBajlNZFJqM0NYTVhfYmpLN1RFVDREOE9WeHhzVzBLTDJpbEtTZXFicUVt?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
