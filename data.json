@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-24T08:18:55Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.24 17:18 (한국시간)",
+  "updatedAtISO": "2026-09-24T09:18:20Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.24 18:18 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1368.76,
-  "usdJpy": 158.35,
-  "jpyKrw100": 864.36,
+  "usdKrw": 1371.55,
+  "usdJpy": 158.69,
+  "jpyKrw100": 864.29,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -47,9 +47,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "유가↑·금리↑ 3대지수 하락···하워드막스 “미국주식 팔지마라”[월가월부] - 매일경제 마켓",
+      "title": "'국장'은 쉬어도 '미장'은 열린다…추석 전후 챙겨볼 ETF는 - 매일경제 마켓",
       "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MTFpfbzlBSUtaTWhaT1VzcUowZlZCQU5yVVA0dkpQYmlES013Ukh6WVJsLVh6eFdueC1yRjh4NHludmZ4VktxbWtTT2NuOHR3aXc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xR1BudGl6d1A5RDh3aHJ6QmxicEdWLWJkNG5DNEUxaWpwSmRoNHVkMDBxSGNmSTN4SElhLWhNemJBb25pZDBrdHZVQ3ZrX3RHbWc?oc=5"
     },
     {
       "tag": "시장 뉴스",
