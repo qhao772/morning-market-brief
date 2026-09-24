@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-24T19:15:35Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.25 04:15 (한국시간)",
-  "us10y": 4.96,
-  "us30y": 5.29,
+  "updatedAtISO": "2026-09-24T20:18:13Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.25 05:18 (한국시간)",
+  "us10y": 5.11,
+  "us30y": 5.4,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1368.04,
-  "usdJpy": 158.93,
-  "jpyKrw100": 860.77,
+  "usdKrw": 1367.49,
+  "usdJpy": 158.91,
+  "jpyKrw100": 860.55,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -17,19 +17,19 @@
     },
     "kosdaq": {
       "value": 844.48,
-      "changePct": 1.21
+      "changePct": 0.98
     },
     "sp500": {
-      "value": 7704.44,
-      "changePct": -0.02
+      "value": 7704.13,
+      "changePct": -0.03
     },
     "nasdaq": {
-      "value": 26918.81,
-      "changePct": -0.06
+      "value": 26939.37,
+      "changePct": 0.01
     },
     "sox": {
-      "value": 12452.53,
-      "changePct": -0.65
+      "value": 12492.54,
+      "changePct": -0.33
     }
   },
   "issues": [
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 금리 19년 만에 최고, 주식시장 괜찮을까? - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYnFvbTMyaGdSYmFhMFVJYWJHSlJrNUxyZVZ0QzdiNUFDekZPLW1NM052MTYybjlpVkFpMEdmTkV5QTJMejgwVUhYdWIwVjlvOVlvLXBTbEtqSlVqN3NhblZ5Sk1BeWE0QWlvY3Q4QWloTUlUZ2NxQ2JETXAtQW5qaHlnbWRiTWpPWHE4?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "레버리지 ETF의 몰락 … 美증시 73개 줄상폐 - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hS09ocFZiZ05jSUQ4b1FHUmpITW5FRVJWNXd2aFZUV1V1VUdpeEktRWZPRHZlbVZ2RGQ0c1lDMGVyc1djT2g2TFB3M3pocFRWR1E?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시, 기술주 약세에 일제히 하락 마감…나스닥 1% 넘게 내려 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBObnlTVkJFdTMyS2pReFRXblBMVC1QOXA1VXIyUW5rcW13MjFDNWV5dWFWNUREMEVWY2sxZV9DeFU1QUt3NlBXZzU2c2hFV0hBX0xFeDFyek5nN18wQ1NpSGxvZ2prcV83M29rdndSN05seHlwQ0UtR3BzcWxFZw?oc=5"
+      "title": "미국 금리 19년 만에 최고, 주식시장 괜찮을까? - 네이버 프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYnFvbTMyaGdSYmFhMFVJYWJHSlJrNUxyZVZ0QzdiNUFDekZPLW1NM052MTYybjlpVkFpMEdmTkV5QTJMejgwVUhYdWIwVjlvOVlvLXBTbEtqSlVqN3NhblZ5Sk1BeWE0QWlvY3Q4QWloTUlUZ2NxQ2JETXAtQW5qaHlnbWRiTWpPWHE4?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "유가 뛰자 채권·주식 동반 충격…개장 전 밀린 나스닥 선물[뉴욕증시 브리핑] - 한국경제",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DOGhkb0VZX2Y2WUFxSUlKZ0lEd2VzaXpsYWJrdGVkYjNESFgxTjZVTEt1OS1WazdSV2MtOHJaMkd0ZU5BVmRoWFR4M3NJeThwRURDZFNUMUY2QQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "뉴욕증시, 하락세로 전환…나스닥 0.03%↓ - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10TFJkOWdkUmRpak9SbWw2UWV5RFVHZFcydlY3bHNUZ1h0MU5LS0JmTXBPQ3NUcl9WM21Yb2RVakZ1d24xRzFXZVduZFhxNDE2?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
