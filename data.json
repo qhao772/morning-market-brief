@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-24T06:22:29Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.24 15:22 (한국시간)",
+  "updatedAtISO": "2026-09-24T07:18:01Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.24 16:18 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1368.31,
+  "usdKrw": 1368.17,
   "usdJpy": 158.38,
-  "jpyKrw100": 863.92,
+  "jpyKrw100": 863.83,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[기부] 김거석 후원인, 서울대병원에 미국 주식 2억 원 상당 기부 - 재활뉴스",
-      "source": "재활뉴스",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HSWRkZEVnWXk4WC1DcTRSekUzSTlsLUJyQmJWSVZ0NnI2ZkprWnNpX21uYm1Ybkg5YjdqV1Q2bFlTSFg0d0FTUjBzYUZDQUVWZFVlZUZSSHJCLXgza1RsRm1hVDl0ejEzUFYw?oc=5"
+      "title": "[미국증시] 미국 디젤 수출 금지설에 백악관 \"가짜뉴스\" 진화 - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzYWZFLURUdjZzN2Z2cGdfTkpoekNQR0J1TXpNZVlfZzFDSnVsdUlabjdEVWZLaTBHazNjYXNIeFZtWFg2WDlsUmVLejZlZjdyNm5ycU1VaUFKQWNvZnRCMVdqSkVQcUU?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
