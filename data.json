@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-24T02:17:00Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.24 11:17 (한국시간)",
+  "updatedAtISO": "2026-09-24T03:17:01Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.24 12:17 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1371.29,
-  "usdJpy": 157.92,
-  "jpyKrw100": 868.32,
+  "usdKrw": 1371.53,
+  "usdJpy": 157.94,
+  "jpyKrw100": 868.4,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "카카오, 카카오모빌리티 미국 ADR 상장에 제동 - 연합뉴스TV",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OTXlBMUNkTHhaSFYwV3pEUE1sVmVqTTZUdDBjR1FNRHFqcE1wazhZdVJ2ZFNmQTFxdl9XUnJtZFJuMjVaWGQ1dVQtUGI3b0JSdHJBREFSREJZWkZxRUd1bGNIVmZ5Y0E?oc=5"
+      "title": "“국장 쉴 동안 내 돈은 안 쉰다”…추석 연휴 서학개미가 주목할 일정은 - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EdmVubG94X1JncndPWnF2bmhZbDhFdDJhVWh4OUhLU05zTDVxcXVzd29CaE54R09lMWRvQlhxX3h4VDhYT2Y0Z2JscU1tMDQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
