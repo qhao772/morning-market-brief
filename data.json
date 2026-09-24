@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-24T09:18:20Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.24 18:18 (한국시간)",
+  "updatedAtISO": "2026-09-24T10:17:21Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.24 19:17 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1371.55,
-  "usdJpy": 158.69,
-  "jpyKrw100": 864.29,
+  "usdKrw": 1369.48,
+  "usdJpy": 158.73,
+  "jpyKrw100": 862.76,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -17,7 +17,7 @@
     },
     "kosdaq": {
       "value": 844.48,
-      "changePct": 0.98
+      "changePct": 1.21
     },
     "sp500": {
       "value": 7706.03,
@@ -41,8 +41,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시, 기술주 약세에 일제히 하락 마감…나스닥 1% 넘게 내려 - 서울신문",
-      "source": "서울신문",
+      "title": "[서울데이터랩]미국 증시, 기술주 약세에 일제히 하락 마감…나스닥 1% 넘게 내려 - seoul.co.kr",
+      "source": "seoul.co.kr",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBObnlTVkJFdTMyS2pReFRXblBMVC1QOXA1VXIyUW5rcW13MjFDNWV5dWFWNUREMEVWY2sxZV9DeFU1QUt3NlBXZzU2c2hFV0hBX0xFeDFyek5nN18wQ1NpSGxvZ2prcV83M29rdndSN05seHlwQ0UtR3BzcWxFZw?oc=5"
     },
     {
