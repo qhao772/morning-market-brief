@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-24T20:18:13Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.25 05:18 (한국시간)",
+  "updatedAtISO": "2026-09-24T21:16:19Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.25 06:16 (한국시간)",
   "us10y": 5.11,
   "us30y": 5.4,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1367.49,
-  "usdJpy": 158.91,
-  "jpyKrw100": 860.55,
+  "usdKrw": 1365.96,
+  "usdJpy": 158.89,
+  "jpyKrw100": 859.67,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -17,7 +17,7 @@
     },
     "kosdaq": {
       "value": 844.48,
-      "changePct": 0.98
+      "changePct": 1.21
     },
     "sp500": {
       "value": 7704.13,
@@ -35,6 +35,18 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "국장은 쉬어도 서학개미는 못 쉰다…추석에도 열리는 美증시 - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OalU0cnZoWHlvOFdyWUhaUUtXUXJ2UFNHdHU2OFZjN19JMG9rWmg1dmRVa0VUZzlfZGF0VTNtZU94STVlaGo3alBGeUl3Unc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "\"버핏도 30년 간 이 주식 못 이겼다, 돈 있으면 무조건 담아라\" - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSnNzOXE3bVpfcm1JRmVYcjJFNEdPdmtUc1Z1VVNlVXRYSFB4ZGhXbDhyZFRoV3NkYzdyV2FWRkpJQk9xdGZqeTd4cXR2Qm9LaEw4emJQYkZJT0Y5cmlFNExFd0o3N1Z0bHhEZmkyMV81RXNLQk5QdlRLWUdrWW9BMQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "미국증시, 10년물 5.1%·유가 반등에 하락…AI반도체 동반 약세 - 톱스타뉴스",
       "source": "톱스타뉴스",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GZU90VlF6WEpXa2dObDQ1dU9NWFU1cEFBSEZBZjRGZ1hNSHV5QnNwNXBWVmh1QXBWaVh5NnhfN2ExYWk1bktYN3NSa0VILVpmOU0tQU4yeG1zS0QtVXVRVGRjd3V0aWtZVlhUVEVtd0FjZw?oc=5"
@@ -50,18 +62,6 @@
       "title": "미국 금리 19년 만에 최고, 주식시장 괜찮을까? - 네이버 프리미엄콘텐츠",
       "source": "네이버 프리미엄콘텐츠",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYnFvbTMyaGdSYmFhMFVJYWJHSlJrNUxyZVZ0QzdiNUFDekZPLW1NM052MTYybjlpVkFpMEdmTkV5QTJMejgwVUhYdWIwVjlvOVlvLXBTbEtqSlVqN3NhblZ5Sk1BeWE0QWlvY3Q4QWloTUlUZ2NxQ2JETXAtQW5qaHlnbWRiTWpPWHE4?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "유가 뛰자 채권·주식 동반 충격…개장 전 밀린 나스닥 선물[뉴욕증시 브리핑] - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DOGhkb0VZX2Y2WUFxSUlKZ0lEd2VzaXpsYWJrdGVkYjNESFgxTjZVTEt1OS1WazdSV2MtOHJaMkd0ZU5BVmRoWFR4M3NJeThwRURDZFNUMUY2QQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "뉴욕증시, 하락세로 전환…나스닥 0.03%↓ - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10TFJkOWdkUmRpak9SbWw2UWV5RFVHZFcydlY3bHNUZ1h0MU5LS0JmTXBPQ3NUcl9WM21Yb2RVakZ1d24xRzFXZVduZFhxNDE2?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
