@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-25T01:15:54Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.25 10:15 (한국시간)",
+  "updatedAtISO": "2026-09-25T02:15:51Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.25 11:15 (한국시간)",
   "us10y": 5.11,
   "us30y": 5.4,
   "fedFundsLow": 3.75,
@@ -8,8 +8,8 @@
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
   "usdKrw": 1364.25,
-  "usdJpy": 158.64,
-  "jpyKrw100": 859.97,
+  "usdJpy": 158.44,
+  "jpyKrw100": 861.08,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -35,15 +35,21 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "서학개미 다시 미국 증시로…주식 보유액 2000억달러 재접근 - sentv.co.kr",
-      "source": "sentv.co.kr",
+      "title": "급등하는 국채 수익률과 유가, 미국 증시 선물 하락 압박 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjR0EyVnU4akVTUDJ1SW5tMzg4TEw4SnZsN0Jtd0Y2VTBIQS1YNTJGOVlOdFExaGdzYTluVlNFaXhVY2pGeUVLdkhrXzF2Y3hvQWlJN3BNdUNLaFVPQTVIRkhQVUVzOWtJejdhTVE2LWI?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "서학개미 다시 미국 증시로…주식 보유액 2000억달러 재접근 - 서울경제TV",
+      "source": "서울경제TV",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95cEpEd3Y1Q1M4QkZRWXR6bWt1czAyNkk2eU5kOEEyZUNXWDZXMUpKZE9CSXpLZG9rX0p6UFhIZUh4RTNRUGE1dEhEbFMwRHJIUUc3LWNsck5DMVI3REJxTDRKbUg?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "급등하는 국채 수익률과 유가, 미국 증시 선물 하락 압박 - kr.investing.com",
-      "source": "kr.investing.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjR0EyVnU4akVTUDJ1SW5tMzg4TEw4SnZsN0Jtd0Y2VTBIQS1YNTJGOVlOdFExaGdzYTluVlNFaXhVY2pGeUVLdkhrXzF2Y3hvQWlJN3BNdUNLaFVPQTVIRkhQVUVzOWtJejdhTVE2LWI?oc=5"
+      "title": "'다시 미장으로?' 서학개미 미국 주식 보유액 2천억달러 재육박 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zVWNzNEdoMW92NnpVc3MydGhaX3Q4ODU3cHVVVzJLVTlxWjRNYURsamJ4TEQyd2JIc0ZVeEc2aUh4LTdGX2pUVWtpM2ZmQ3E4UkE?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -56,12 +62,6 @@
       "title": "SK하닉 이어 日 키옥시아도…메모리 기업들 왜 美증시로? - v.daum.net",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QNWlKSXZ4UnEtN05DcnlEZS1RNGdlT0p6VDZ1WnpJWmpreks2dDNoWV9DTkpPVEVXVHR0NWx5SWg0bjZLdW8yNkROc04xSVU?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "\"버핏도 30년 간 이 종목 수익률 못 이겼다, 돈 있으면 무조건 담아라\" - 조선일보",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSnNzOXE3bVpfcm1JRmVYcjJFNEdPdmtUc1Z1VVNlVXRYSFB4ZGhXbDhyZFRoV3NkYzdyV2FWRkpJQk9xdGZqeTd4cXR2Qm9LaEw4emJQYkZJT0Y5cmlFNExFd0o3N1Z0bHhEZmkyMV81RXNLQk5QdlRLWUdrWW9BMQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
