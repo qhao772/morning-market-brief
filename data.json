@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-25T11:16:59Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.25 20:16 (한국시간)",
+  "updatedAtISO": "2026-09-25T12:22:12Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.25 21:22 (한국시간)",
   "us10y": 5.11,
   "us30y": 5.4,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1351.58,
-  "usdJpy": 157.57,
-  "jpyKrw100": 857.77,
+  "usdKrw": 1354.8,
+  "usdJpy": 157.59,
+  "jpyKrw100": 859.68,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -17,7 +17,7 @@
     },
     "kosdaq": {
       "value": 844.48,
-      "changePct": 1.21
+      "changePct": 0.98
     },
     "sp500": {
       "value": 7704.13,
@@ -41,8 +41,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "서학개미 다시 미국 증시로…주식 보유액 2000억달러 재접근 - sentv.co.kr",
-      "source": "sentv.co.kr",
+      "title": "서학개미 다시 미국 증시로…주식 보유액 2000억달러 재접근 - 서울경제TV",
+      "source": "서울경제TV",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95cEpEd3Y1Q1M4QkZRWXR6bWt1czAyNkk2eU5kOEEyZUNXWDZXMUpKZE9CSXpLZG9rX0p6UFhIZUh4RTNRUGE1dEhEbFMwRHJIUUc3LWNsck5DMVI3REJxTDRKbUg?oc=5"
     },
     {
