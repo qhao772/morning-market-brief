@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-25T05:16:21Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.25 14:16 (한국시간)",
+  "updatedAtISO": "2026-09-25T06:22:11Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.25 15:22 (한국시간)",
   "us10y": 5.11,
   "us30y": 5.4,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1359.34,
-  "usdJpy": 158.17,
-  "jpyKrw100": 859.43,
+  "usdKrw": 1357.83,
+  "usdJpy": 158.0,
+  "jpyKrw100": 859.4,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -17,7 +17,7 @@
     },
     "kosdaq": {
       "value": 844.48,
-      "changePct": 1.21
+      "changePct": 0.98
     },
     "sp500": {
       "value": 7704.13,
@@ -49,19 +49,19 @@
       "tag": "시장 뉴스",
       "title": "다시 미장으로…서학개미 미국 주식 보유액 2천억달러 재육박 - v.daum.net",
       "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FWjJPNWRhcE1QV1hOX0dNT1pFOEdtRi0tam9EVEFzR1ZsMTVTVmRJMkw3ekdOa3F2QjY0LWlJV1RoZEkyQXJlSkhkX3Zubnc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4xUGFrMTRlRGdKWVhac1ZhOG1IMG1zel9EaDRveEhjRnM2T2hiT3hXQlBWMWhRVzdtRTBtQTM3aENWbmxRaXc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "두 달 새 260억달러 불어난 서학개미 美주식…2000억달러 다시 눈앞 - 아시아투데이",
+      "source": "아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95SlNucTV5Tmw1WXFVeTVUemFoZ19YazhFWFNnV0Vnb1lyWC1JWXdhbENPbXhPOVpWdDNvZ2c3N1JBTFVCeDFJR18xakhSeFJUYzhrSnEzMlpiUWlNMmZmYlhvYjRqRnVTbkxBUGZB?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "[추석 이후 증시] 장문수 센터장 \"10월까진 투심 부진, 코스피 연말 8400 목표\" - 팍스경제TV",
       "source": "팍스경제TV",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53ZVNCMm52STUwVng0NC1vbTFGd25jLTJTcFZnWjFCZkZWSVhhckZINkppYWpzaDVaZzNjQTcxVWpXS0tfX0V5eTRLaW9hbnNfdUhiRjU1ZjFzNnhVci15VE93MTVYbmpH?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "美증시 급락 딛고 보합…10년물 5.2%·SOX 약세, 월요일 반도체 시험대 - 녹색경제신문",
-      "source": "녹색경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tWHhuT0I5aU85MHRGNUw4UXBLSjJ5bUx0U1hfRlRvQUdWdXRzaFlKZ2lOSi10aVlLT3cza0t2Ym1tanRESGlVV1dJRVVUZ1JRZzlNUGZzWjVUSmc5MFhZZnBlejNGN3hE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
