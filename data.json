@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-25T02:15:51Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.25 11:15 (한국시간)",
+  "updatedAtISO": "2026-09-25T03:16:19Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.25 12:16 (한국시간)",
   "us10y": 5.11,
   "us30y": 5.4,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1364.25,
-  "usdJpy": 158.44,
-  "jpyKrw100": 861.08,
+  "usdKrw": 1361.02,
+  "usdJpy": 158.42,
+  "jpyKrw100": 859.11,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -47,9 +47,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "'다시 미장으로?' 서학개미 미국 주식 보유액 2천억달러 재육박 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zVWNzNEdoMW92NnpVc3MydGhaX3Q4ODU3cHVVVzJLVTlxWjRNYURsamJ4TEQyd2JIc0ZVeEc2aUh4LTdGX2pUVWtpM2ZmQ3E4UkE?oc=5"
+      "title": "다시 미장으로…서학개미 미국 주식 보유액 2천억달러 재육박 - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FWjJPNWRhcE1QV1hOX0dNT1pFOEdtRi0tam9EVEFzR1ZsMTVTVmRJMkw3ekdOa3F2QjY0LWlJV1RoZEkyQXJlSkhkX3Zubnc?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "SK하닉 이어 日 키옥시아도…메모리 기업들 왜 美증시로? - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QNWlKSXZ4UnEtN05DcnlEZS1RNGdlT0p6VDZ1WnpJWmpreks2dDNoWV9DTkpPVEVXVHR0NWx5SWg0bjZLdW8yNkROc04xSVU?oc=5"
+      "title": "美증시 급락 딛고 보합…10년물 5.2%·SOX 약세, 월요일 반도체 시험대 - 녹색경제신문",
+      "source": "녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tWHhuT0I5aU85MHRGNUw4UXBLSjJ5bUx0U1hfRlRvQUdWdXRzaFlKZ2lOSi10aVlLT3cza0t2Ym1tanRESGlVV1dJRVVUZ1JRZzlNUGZzWjVUSmc5MFhZZnBlejNGN3hE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
