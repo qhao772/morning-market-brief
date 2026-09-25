@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-25T03:16:19Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.25 12:16 (한국시간)",
+  "updatedAtISO": "2026-09-25T04:17:30Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.25 13:17 (한국시간)",
   "us10y": 5.11,
   "us30y": 5.4,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1361.02,
-  "usdJpy": 158.42,
-  "jpyKrw100": 859.11,
+  "usdKrw": 1360.68,
+  "usdJpy": 158.34,
+  "jpyKrw100": 859.37,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -59,8 +59,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "美증시 급락 딛고 보합…10년물 5.2%·SOX 약세, 월요일 반도체 시험대 - 녹색경제신문",
-      "source": "녹색경제신문",
+      "title": "美증시 급락 딛고 보합…10년물 5.2%·SOX 약세, 월요일 반도체 시험대 - greened.kr",
+      "source": "greened.kr",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tWHhuT0I5aU85MHRGNUw4UXBLSjJ5bUx0U1hfRlRvQUdWdXRzaFlKZ2lOSi10aVlLT3cza0t2Ym1tanRESGlVV1dJRVVUZ1JRZzlNUGZzWjVUSmc5MFhZZnBlejNGN3hE?oc=5"
     }
   ],
