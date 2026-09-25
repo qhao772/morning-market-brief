@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-25T22:16:23Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.26 07:16 (한국시간)",
+  "updatedAtISO": "2026-09-25T23:15:15Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.26 08:15 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
@@ -47,21 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "서학개미 다시 미국 증시로…주식 보유액 2000억달러 재접근 - 서울경제TV",
-      "source": "서울경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95cEpEd3Y1Q1M4QkZRWXR6bWt1czAyNkk2eU5kOEEyZUNXWDZXMUpKZE9CSXpLZG9rX0p6UFhIZUh4RTNRUGE1dEhEbFMwRHJIUUc3LWNsck5DMVI3REJxTDRKbUg?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "'다시 미장으로?' 서학개미 미국 주식 보유액 2천억달러 재육박 - yna.co.kr",
-      "source": "yna.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00cmk2NV9OQk8zbE8zQ2E0RVZpVzkxVU5RRkNoQ1RGM3F3bVRaR1YyQ3FjWEk2WG15Y1pDWXNaeXEzXzR6M285UDdTanhRRjlSSW81cmRLVEowYnPSAWBBVV95cUxQRkRzYVRuTjZ1VXlEOUJNN3J3aWZBMnFGZnRrbHl6dXpXYXl1cHV6SWRBWlNxSGpzODAxbGFJSmxGMGk4WkJuclYwNGdubTJLOUpEemtGRWsyaHAxZ1RPSlU?oc=5"
+      "title": "뉴욕증시, 상승세로 마감…나스닥 0.48%↑ - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SbVN2MFozVUlWOW9Tb1prWFNOeVh3eGgxMC1RTHY3XzFVY3lCZC1Xc2J0Nkx6U2xDeFV6Vy1FdnJHTkxEZExIYjdXN2g0eVNf?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "SK하이닉스 솔리다임, 美증시 상장 추진…\"기업가치 최대 200조원\" - 머니투데이 - 머니투데이",
       "source": "머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zbXB4Y0ZsQ1Npb1lnYm1oWmZ0NC1ZUF95bDhvVW1qSjl4dURWOUhRRTRWNG9hek5Sc2g0V2l4LU52X05KLTRMVFEyQV91ZEVza0ZVOVRITmdra3BFaTd2ZFdPUVhPTjJR0gFuQVVfeXFMUHpLRzBvemp3R3FlUU1UeTFjN1A4UHI4MzAzUDc2VENremEwZnc2Njh0SExkVjlTeEhtcmNwUGJtb2JWMjJzdFd5UHhKV3BKQXNPTWU0QkJQYTdjekhRSFJPSVNMVk1PQlluUk51bUE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "서학개미 다시 미국 증시로…주식 보유액 2000억달러 재접근 - 서울경제TV",
+      "source": "서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95cEpEd3Y1Q1M4QkZRWXR6bWt1czAyNkk2eU5kOEEyZUNXWDZXMUpKZE9CSXpLZG9rX0p6UFhIZUh4RTNRUGE1dEhEbFMwRHJIUUc3LWNsck5DMVI3REJxTDRKbUg?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
