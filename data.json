@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-24T23:15:39Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.25 08:15 (한국시간)",
+  "updatedAtISO": "2026-09-25T00:25:30Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.25 09:25 (한국시간)",
   "us10y": 5.11,
   "us30y": 5.4,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1366.54,
-  "usdJpy": 158.8,
-  "jpyKrw100": 860.52,
+  "usdKrw": 1368.77,
+  "usdJpy": 158.76,
+  "jpyKrw100": 862.18,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -17,7 +17,7 @@
     },
     "kosdaq": {
       "value": 844.48,
-      "changePct": 1.21
+      "changePct": 0.98
     },
     "sp500": {
       "value": 7704.13,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "서학개미 다시 미국 증시로…주식 보유액 2000억달러 재접근 - 서울경제TV",
+      "source": "서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95cEpEd3Y1Q1M4QkZRWXR6bWt1czAyNkk2eU5kOEEyZUNXWDZXMUpKZE9CSXpLZG9rX0p6UFhIZUh4RTNRUGE1dEhEbFMwRHJIUUc3LWNsck5DMVI3REJxTDRKbUg?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "SK하닉 이어 日 키옥시아도…메모리 기업들 왜 美증시로? - v.daum.net",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QNWlKSXZ4UnEtN05DcnlEZS1RNGdlT0p6VDZ1WnpJWmpreks2dDNoWV9DTkpPVEVXVHR0NWx5SWg0bjZLdW8yNkROc04xSVU?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "\"버핏도 30년 간 이 주식 못 이겼다, 돈 있으면 무조건 담아라\" - 조선일보",
+      "title": "\"버핏도 30년 간 이 종목 수익률 못 이겼다, 돈 있으면 무조건 담아라\" - 조선일보",
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSnNzOXE3bVpfcm1JRmVYcjJFNEdPdmtUc1Z1VVNlVXRYSFB4ZGhXbDhyZFRoV3NkYzdyV2FWRkpJQk9xdGZqeTd4cXR2Qm9LaEw4emJQYkZJT0Y5cmlFNExFd0o3N1Z0bHhEZmkyMV81RXNLQk5QdlRLWUdrWW9BMQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[추석 이후 증시] 장문수 센터장 \"10월까진 투심 부진, 코스피 연말 8400 목표\" - 팍스경제TV",
+      "source": "팍스경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ILTBIMnFuWHowYUdJcnBmdFVNUHpiU19jZUNkLW5NeGp1SmJDR2tXOTFjakdOcmdFRTZmNUVKMzAyeXJuYS05a3otNVhVYVhZR1hJdnBCTjhQbU1hY0EtWHd3MkRHWWc?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "미국증시 혼조마감, 30년물 금리 22년래 최고…이란 종전 논의가 낙폭 막았다 - 톱스타뉴스",
       "source": "톱스타뉴스",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuZlRzaTVFME1KNXNHeWhyQ1Vab0x2c2RGQjZISk5YZDJJMWFxTVVHMUtfVHYzYXBva1U4SDB6aTQzUnpucTgwdWFNSEtkTGgxYXR0Sy1DVTNJeEh6LTJ4SzZ4YXdSbVZjX1JnMXdqaTM1QQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "10년물 5.2% 돌파…美 증시 덮친 '고금리 장기화' [뉴욕증시 브리핑] - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xREpxRVNPT1dhSlBxcVFSVDB5LUpzMS1WMC1NU2RES0VRZHdib3p4VUphY1VuNi12UEhrclBxcUdsbmoxUUxmdTRmUVhhUXM3eUxONXlDWkVMZw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "서학개미 미장 복귀에 보유액 ＇쑥＇...＇이 종목＇ 쓸어담았다 - 한국경제TV",
-      "source": "한국경제TV",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vWlV1bnNWTEZHZEMxaHg2SklSZUQ4bllDajJRQjd5ZTVENVU0Nzk5LW9KSE1QREs5R1FFZkVZMi0zOHU2QU8zdXFna1hQVzR5SHQyZmdLYTc0Tm1EaXM1cF81YjZXZ3R4bjYyZEpyRWhpZUZRZ2Z3?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
