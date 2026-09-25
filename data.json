@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-25T15:18:38Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.26 00:18 (한국시간)",
+  "updatedAtISO": "2026-09-25T16:18:12Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.26 01:18 (한국시간)",
   "us10y": 5.11,
   "us30y": 5.4,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1357.21,
-  "usdJpy": 157.37,
-  "jpyKrw100": 862.46,
+  "usdKrw": 1353.96,
+  "usdJpy": 157.14,
+  "jpyKrw100": 861.61,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -20,16 +20,16 @@
       "changePct": 0.98
     },
     "sp500": {
-      "value": 7720.0,
-      "changePct": 0.21
+      "value": 7741.97,
+      "changePct": 0.49
     },
     "nasdaq": {
-      "value": 27004.54,
-      "changePct": 0.24
+      "value": 27099.08,
+      "changePct": 0.59
     },
     "sox": {
-      "value": 12650.31,
-      "changePct": 1.26
+      "value": 12710.07,
+      "changePct": 1.74
     }
   },
   "issues": [
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "오늘 노동절로 미국 증시 하루 종일 휴장: 투자자가 알아야 할 사항 - TradingKey",
-      "source": "TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qN1BQb1ZhWE50WjhCRlJhNGh1eDhzN20xNEZXRktYVEY5RHFITVpqbnZmNnN0STZqRjhxMlFmUEw1Ukt1eDZVOTlZRURDUDZSVmFpd2FmTHppcmctYWVoX2R2czRIZjkzaWJCbkVQSDZPaWtH?oc=5"
+      "title": "미국증시 장초반 반등…메모리 강세, SK하이닉스 ADR 2%대 상승 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kcTBkS2FLaTE3eUszcDVpdktMSmlTVHRoeklwNmxZNGFUbkRuemJ6R3hxbm9Zb2RTa20tbElPdm9wWklORjR2UE5xVEFwZXQwdmRMX19JbDJLeXlrdW1mVE5ad3hfYTE3SXFONlRBNnRsdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 장초반 반등…메모리 강세, SK하이닉스 ADR 2%대 상승 - topstarnews.net",
-      "source": "topstarnews.net",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kcTBkS2FLaTE3eUszcDVpdktMSmlTVHRoeklwNmxZNGFUbkRuemJ6R3hxbm9Zb2RTa20tbElPdm9wWklORjR2UE5xVEFwZXQwdmRMX19JbDJLeXlrdW1mVE5ad3hfYTE3SXFONlRBNnRsdw?oc=5"
+      "title": "오늘 노동절로 미국 증시 하루 종일 휴장: 투자자가 알아야 할 사항 - TradingKey",
+      "source": "TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qN1BQb1ZhWE50WjhCRlJhNGh1eDhzN20xNEZXRktYVEY5RHFITVpqbnZmNnN0STZqRjhxMlFmUEw1Ukt1eDZVOTlZRURDUDZSVmFpd2FmTHppcmctYWVoX2R2czRIZjkzaWJCbkVQSDZPaWtH?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
