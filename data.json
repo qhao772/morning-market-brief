@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-25T17:16:00Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.26 02:16 (한국시간)",
+  "updatedAtISO": "2026-09-25T18:19:14Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.26 03:19 (한국시간)",
   "us10y": 5.11,
   "us30y": 5.4,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1357.29,
-  "usdJpy": 157.32,
-  "jpyKrw100": 862.73,
+  "usdKrw": 1355.83,
+  "usdJpy": 157.29,
+  "jpyKrw100": 861.97,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -17,19 +17,19 @@
     },
     "kosdaq": {
       "value": 844.48,
-      "changePct": 1.21
+      "changePct": 0.98
     },
     "sp500": {
-      "value": 7741.93,
-      "changePct": 0.49
+      "value": 7743.35,
+      "changePct": 0.51
     },
     "nasdaq": {
-      "value": 27093.12,
-      "changePct": 0.57
+      "value": 27091.33,
+      "changePct": 0.56
     },
     "sox": {
-      "value": 12717.45,
-      "changePct": 1.8
+      "value": 12696.31,
+      "changePct": 1.63
     }
   },
   "issues": [
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[추석 이후 증시] 신중호 센터장 \"박스권 전망. 주요 이벤트는 미국 중간선거\" - 팍스경제TV",
-      "source": "팍스경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PYjJYUjdGMFpZc3NNdVpRV3dWdjNXXzlDV2tKeld3dEFvSEMtM2VaV0twYWJkNmVLalB6WXotb01TNVdobWRacnJZN2JwZnh2b25tUTFyMlQzOC0tNE9PZDNWODY3cjVL?oc=5"
+      "title": "“다시 미장으로”…서학개미 미국 주식 순매수 행렬 - 뉴스투데이",
+      "source": "뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01djBnRFQ1MF9NSEdjbnRsSENPT0tTYjZpd0JRUW5BZ3VCdEFtdWdodnpyYWZOZ2tDZEIwSlFObHE5MkRYOHpDMWZFYnUwWWhhZnpxTnprV1VSWHFBS3c?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
