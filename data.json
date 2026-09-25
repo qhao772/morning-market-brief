@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-25T09:17:36Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.25 18:17 (한국시간)",
+  "updatedAtISO": "2026-09-25T10:17:29Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.25 19:17 (한국시간)",
   "us10y": 5.11,
   "us30y": 5.4,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1354.04,
-  "usdJpy": 158.0,
-  "jpyKrw100": 857.01,
+  "usdKrw": 1354.27,
+  "usdJpy": 157.81,
+  "jpyKrw100": 858.16,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -59,8 +59,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "두 달 새 260억달러 불어난 서학개미 美주식…2000억달러 다시 눈앞 - 아시아투데이",
-      "source": "아시아투데이",
+      "title": "두 달 새 260억달러 불어난 서학개미 美주식…2000억달러 다시 눈앞 - asiatoday.co.kr",
+      "source": "asiatoday.co.kr",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95SlNucTV5Tmw1WXFVeTVUemFoZ19YazhFWFNnV0Vnb1lyWC1JWXdhbENPbXhPOVpWdDNvZ2c3N1JBTFVCeDFJR18xakhSeFJUYzhrSnEzMlpiUWlNMmZmYlhvYjRqRnVTbkxBUGZB?oc=5"
     }
   ],
