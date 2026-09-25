@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-25T10:17:29Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.25 19:17 (한국시간)",
+  "updatedAtISO": "2026-09-25T11:16:59Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.25 20:16 (한국시간)",
   "us10y": 5.11,
   "us30y": 5.4,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1354.27,
-  "usdJpy": 157.81,
-  "jpyKrw100": 858.16,
+  "usdKrw": 1351.58,
+  "usdJpy": 157.57,
+  "jpyKrw100": 857.77,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -41,8 +41,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "서학개미 다시 미국 증시로…주식 보유액 2000억달러 재접근 - 서울경제TV",
-      "source": "서울경제TV",
+      "title": "서학개미 다시 미국 증시로…주식 보유액 2000억달러 재접근 - sentv.co.kr",
+      "source": "sentv.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95cEpEd3Y1Q1M4QkZRWXR6bWt1czAyNkk2eU5kOEEyZUNXWDZXMUpKZE9CSXpLZG9rX0p6UFhIZUh4RTNRUGE1dEhEbFMwRHJIUUc3LWNsck5DMVI3REJxTDRKbUg?oc=5"
     },
     {
@@ -59,8 +59,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "두 달 새 260억달러 불어난 서학개미 美주식…2000억달러 다시 눈앞 - asiatoday.co.kr",
-      "source": "asiatoday.co.kr",
+      "title": "두 달 새 260억달러 불어난 서학개미 美주식…2000억달러 다시 눈앞 - 아시아투데이",
+      "source": "아시아투데이",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95SlNucTV5Tmw1WXFVeTVUemFoZ19YazhFWFNnV0Vnb1lyWC1JWXdhbENPbXhPOVpWdDNvZ2c3N1JBTFVCeDFJR18xakhSeFJUYzhrSnEzMlpiUWlNMmZmYlhvYjRqRnVTbkxBUGZB?oc=5"
     }
   ],
