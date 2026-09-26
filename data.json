@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-26T04:16:54Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.26 13:16 (한국시간)",
+  "updatedAtISO": "2026-09-26T05:16:23Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.26 14:16 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
@@ -35,9 +35,21 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "\"AI·반도체 다시 간다\" 서학개미, 미국 주식 순매수로 전환 - fnnews.com",
-      "source": "fnnews.com",
+      "title": "\"AI·반도체 다시 간다\" 서학개미, 미국 주식 순매수로 전환 - 파이낸셜뉴스",
+      "source": "파이낸셜뉴스",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSR3JVWkFhWkRDYUFjWktfY0hMLUIzam84VmszSVNkRWlQa1VOT3dxWENLX3JDVFZGTFo0OXdaZHBTUXpoT1N1LUs4dkJRNG1lU1BFS1VQM2NtQQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[9월 넷째 주 세계경제동향 브리핑] 코스피 7,000선 회복…한미 증시 동반 상승 - 기호일보",
+      "source": "기호일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85X0JIS3RjSVJLaTcwbThXMDdjSEt0Z3Y1UXZHakV0bkM5aTUtcjVCM1NrM3Y3V0ZqRTgtbHJGMnBYbWp6eXFXX0p3OTZvekFMVmtpX21rUDZpYWVZTjJfbWtybzFDQnZwdlo1NUN6OA?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "급등하는 국채 수익률과 유가, 미국 증시 선물 하락 압박 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjR0EyVnU4akVTUDJ1SW5tMzg4TEw4SnZsN0Jtd0Y2VTBIQS1YNTJGOVlOdFExaGdzYTluVlNFaXhVY2pGeUVLdkhrXzF2Y3hvQWlJN3BNdUNLaFVPQTVIRkhQVUVzOWtJejdhTVE2LWI?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,21 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[뉴욕증시] 다시 살아난 종전 기대감·AI 낙관론 '금리 눌렀다'···SOXL 3.5%↑ - 서울파이낸스",
-      "source": "서울파이낸스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SV1RTaDRHSU1rMmlBUjBlVGFtU21ub2drVWw0a1BSRlpSS2tPMVYyZUhmeGlyTFI3VG9tdkxiNUg4Qk9pVk5GM1dycjVoTHcwWjQweGYxZGZ5TDF5UXFma3d0bTR0VDNRV1E?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[9월 넷째 주 세계경제동향 브리핑] 코스피 7,000선 회복…한미 증시 동반 상승 - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxQVd3Q2pFa1M4WERiRV94bWlnUkdVdU5VajJ3bWtYcXluVXNzOUZfdHVmZ3VXdE9UZHgtN0c1Q0Q0bDFHay1LMFY2cEdicm8?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "뉴욕증시, 상승세로 마감…나스닥 0.48%↑ - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5SbVN2MFozVUlWOW9Tb1prWFNOeVh3eGgxMC1RTHY3XzFVY3lCZC1Xc2J0Nkx6U2xDeFV6Vy1FdnJHTkxEZExIYjdXN2g0eVNf?oc=5"
+      "title": "미국증시, 고금리 뚫고 상승 마감…AI 투자 확산에 MS·반도체 강세 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92aW9zbWJJX3F1TW13S1JNS3UyQkR0U0NSUXlhaDhjcGJJdXlqMmc4MmJ5c0ZJS3dMUlpMVldLU3FldEVBbW1fOEZscjhyWUhvNWNqeEFHaUktaHFPX284aGk0akhtbjNHOVgwRElFcUtydw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
