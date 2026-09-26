@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-26T09:16:17Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.26 18:16 (한국시간)",
+  "updatedAtISO": "2026-09-26T10:16:26Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.26 19:16 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
@@ -35,15 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "\"AI·반도체 다시 간다\" 서학개미, 미국 주식 순매수로 전환 - 파이낸셜뉴스",
-      "source": "파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSR3JVWkFhWkRDYUFjWktfY0hMLUIzam84VmszSVNkRWlQa1VOT3dxWENLX3JDVFZGTFo0OXdaZHBTUXpoT1N1LUs4dkJRNG1lU1BFS1VQM2NtQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "[미국증시] 애크먼 금리 올릴수록 물가 오른다…연준 겨냥한 반론 - 자본시장뉴스",
       "source": "자본시장뉴스",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94cVdKMy1TMnY2S3J4TkpadDRqb0gySWhCSHJpVjBwZzBiMlZsLU5aeWJ5MlczNWZJSnhkOG5Zc0RQNlpIRUhCQXlOdlhrNkNDZWJoSHZjdFRhei1NTmdwaU51aWNSTGs?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "\"AI·반도체 다시 간다\" 서학개미, 미국 주식 순매수로 전환 - 파이낸셜뉴스",
+      "source": "파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSR3JVWkFhWkRDYUFjWktfY0hMLUIzam84VmszSVNkRWlQa1VOT3dxWENLX3JDVFZGTFo0OXdaZHBTUXpoT1N1LUs4dkJRNG1lU1BFS1VQM2NtQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[9월 넷째 주 세계경제동향 브리핑] 코스피 7,000선 회복…한미 증시 동반 상승 - 기호일보",
-      "source": "기호일보",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85X0JIS3RjSVJLaTcwbThXMDdjSEt0Z3Y1UXZHakV0bkM5aTUtcjVCM1NrM3Y3V0ZqRTgtbHJGMnBYbWp6eXFXX0p3OTZvekFMVmtpX21rUDZpYWVZTjJfbWtybzFDQnZwdlo1NUN6OA?oc=5"
+      "title": "서학개미 다시 미국 증시로…주식 보유액 2000억달러 재접근 - 서울경제TV",
+      "source": "서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95cEpEd3Y1Q1M4QkZRWXR6bWt1czAyNkk2eU5kOEEyZUNXWDZXMUpKZE9CSXpLZG9rX0p6UFhIZUh4RTNRUGE1dEhEbFMwRHJIUUc3LWNsck5DMVI3REJxTDRKbUg?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
