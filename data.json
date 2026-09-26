@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-26T18:18:53Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.27 03:18 (한국시간)",
+  "updatedAtISO": "2026-09-26T19:15:25Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.27 04:15 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
@@ -17,7 +17,7 @@
     },
     "kosdaq": {
       "value": 844.48,
-      "changePct": 0.98
+      "changePct": 1.21
     },
     "sp500": {
       "value": 7743.41,
@@ -35,9 +35,9 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "국장은 쉬어도 美증시는 열린다…추석 연휴 투자자 ‘3대 체크포인트’ [투자360] - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15U3VReUJkQ0tnWmw3eE1EajlDNnRHaU9oRE14ZEFCQnkxQy1KSVFkRjNXaXlDbS1BeDN2aUVVSlZ3dXFtMHhPbWw3MDhvWkU?oc=5"
+      "title": "외국인 美 주식 1283조원 순매수…사상 최대 - 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2wtQjJnR2tlQWxNVXJPOUFBdG5nTVEyOXpNRzYtTVpFeXFlT1BDc1llcy1nc1ZmUEk4elpjQ0RRdW4yS1ZmVkZWQ2ZnOTd6R3RNNmlUYkEzcnJuaGJRazJ5TjI5TUdIN1F1dWhFVHFBWC03dmJwbzRvUkkzdHRNZklJVzFULWh3?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,8 +47,14 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "급등하는 국채 수익률과 유가, 미국 증시 선물 하락 압박 - kr.investing.com",
-      "source": "kr.investing.com",
+      "title": "국장은 쉬어도 美증시는 열린다…추석 연휴 투자자 ‘3대 체크포인트’ [투자360] - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15U3VReUJkQ0tnWmw3eE1EajlDNnRHaU9oRE14ZEFCQnkxQy1KSVFkRjNXaXlDbS1BeDN2aUVVSlZ3dXFtMHhPbWw3MDhvWkU?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "급등하는 국채 수익률과 유가, 미국 증시 선물 하락 압박 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjR0EyVnU4akVTUDJ1SW5tMzg4TEw4SnZsN0Jtd0Y2VTBIQS1YNTJGOVlOdFExaGdzYTluVlNFaXhVY2pGeUVLdkhrXzF2Y3hvQWlJN3BNdUNLaFVPQTVIRkhQVUVzOWtJejdhTVE2LWI?oc=5"
     },
     {
@@ -56,12 +62,6 @@
       "title": "서학개미 다시 미국 증시로…주식 보유액 2000억달러 재접근 - 서울경제TV",
       "source": "서울경제TV",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95cEpEd3Y1Q1M4QkZRWXR6bWt1czAyNkk2eU5kOEEyZUNXWDZXMUpKZE9CSXpLZG9rX0p6UFhIZUh4RTNRUGE1dEhEbFMwRHJIUUc3LWNsck5DMVI3REJxTDRKbUg?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "'다시 미장으로?' 서학개미 미국 주식 보유액 2천억달러 재육박 - 연합뉴스",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00cmk2NV9OQk8zbE8zQ2E0RVZpVzkxVU5RRkNoQ1RGM3F3bVRaR1YyQ3FjWEk2WG15Y1pDWXNaeXEzXzR6M285UDdTanhRRjlSSW81cmRLVEowYnPSAWBBVV95cUxQRkRzYVRuTjZ1VXlEOUJNN3J3aWZBMnFGZnRrbHl6dXpXYXl1cHV6SWRBWlNxSGpzODAxbGFJSmxGMGk4WkJuclYwNGdubTJLOUpEemtGRWsyaHAxZ1RPSlU?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
