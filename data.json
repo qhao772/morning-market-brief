@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-26T05:16:23Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.26 14:16 (한국시간)",
+  "updatedAtISO": "2026-09-26T06:21:21Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.26 15:21 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
@@ -17,7 +17,7 @@
     },
     "kosdaq": {
       "value": 844.48,
-      "changePct": 1.21
+      "changePct": 0.98
     },
     "sp500": {
       "value": 7743.41,
@@ -35,9 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "\"AI·반도체 다시 간다\" 서학개미, 미국 주식 순매수로 전환 - 파이낸셜뉴스",
-      "source": "파이낸셜뉴스",
+      "title": "\"AI·반도체 다시 간다\" 서학개미, 미국 주식 순매수로 전환 - fnnews.com",
+      "source": "fnnews.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSR3JVWkFhWkRDYUFjWktfY0hMLUIzam84VmszSVNkRWlQa1VOT3dxWENLX3JDVFZGTFo0OXdaZHBTUXpoT1N1LUs4dkJRNG1lU1BFS1VQM2NtQQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "\"난 S&P500, 넌 테슬라?\"…세대별 '주식모으기' 살펴보니 - 비즈워치",
+      "source": "비즈워치",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsaDhFMEZrRWdQbm5fdkpVTERSVE1ZaHlfVllheDZGSGtXd1ZIbzFOdDdfTmxfbWZEOUxYRkZrSkdTRTJxdm9nVHF6N0VFbjdaUGxTVk1qZ05HdFdCeGlRTU9DWEVUQS1lZlE?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "“국장은 쉬는데 美증시는 이틀 열린다”…추석 뒤 ‘칠천피’ 흔들 변수는 [증시레이더] - 디지털데일리",
+      "title": "소문난 잔치 그친 `미·중 정상회담`…추석 연휴 뒤 코스피 ‘7000’ 흔들 변수는? [증시레이더] - 디지털데일리",
       "source": "디지털데일리",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qVEpuTXhxdWM3VFpwSG55WG1zajllWlJMWFZlaTlMdTZaQzgxek9yNDhCMHdOV1JXeFM2QXhrYTFFSVJXU0hjU0NjanQ1STFaMHoyS1ctZW9Uekt1bVRzU09Ca1A?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시, 고금리 뚫고 상승 마감…AI 투자 확산에 MS·반도체 강세 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92aW9zbWJJX3F1TW13S1JNS3UyQkR0U0NSUXlhaDhjcGJJdXlqMmc4MmJ5c0ZJS3dMUlpMVldLU3FldEVBbW1fOEZscjhyWUhvNWNqeEFHaUktaHFPX284aGk0akhtbjNHOVgwRElFcUtydw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
