@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-27T15:15:58Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.28 00:15 (한국시간)",
+  "updatedAtISO": "2026-09-27T16:16:43Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.28 01:16 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
@@ -35,9 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "지난 1년 동안 1280조원 외국 돈이 미국 증시로 몰렸다.... '역대 최대' - v.daum.net",
+      "title": "미국 증시로 유입된 해외자금… 1년간 9420억달러 ‘역대 최대 - v.daum.net",
       "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XWHp4Tjl6U0psaGxxdGl0MTdUQ1IwOFdNdzNQcHRfclBLRENWLWU0VEctOG1pS2dMQ1FleUlJdU5MTEdjb0pITVhIdFZwYTBTUEY1Ng?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ybm9CalZWWWpxc2Y5d0w0VERjckN2WllPMDA3M1ZiTG0yY3J0QjgzVllYalBybUhSeG9QVTdEOG5wQy1FQkE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "美주식에 몰린 해외자금…1년간 1천280조원 순매수 '역대 최대' - 연합뉴스",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpSkNCN3hzNmNzOVdOdWpzcE0tajJKVWxTcnlKT0hXbm0yc0dnYWpKTU9hTGt4Y3hfWndzeGQzWTY2a0pwY0MzOEltSnV2WjgwaXBXNUQyYlRqTzZtMFJvUdIBYEFVX3lxTFBpSkNCN3hzNmNzOVdOdWpzcE0tajJKVWxTcnlKT0hXbm0yc0dnYWpKTU9hTGt4Y3hfWndzeGQzWTY2a0pwY0MzOEltSnV2WjgwaXBXNUQyYlRqTzZtMFJvUQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "\"코스피 4분기 7700 예상…국내보다 미국 주식 유망\" - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04UDFCejdxR2M4WUxhbkp3MXFrT2VZaEcwZGRPM1VNY2x2OG9tWktEbWQ2d05pOUNSZXBxNVIzamZCaGxWV1ZkVHZqSEtxZkNCeFR4MzdXeWFlZw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "‘나만 미장 안 탄걸까?’…美 주식에 몰린 9420억弗 ‘역대 최대’ - 문화일보",
-      "source": "문화일보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00eXRwR05WNm1xbG5rUFNmNDlfSl9ma05CTkxkMVB2V2h1OUtjNENSYUdpd2l3ZHJmWG45VHVIYXo0SFdhVFJfR0ZucmQzN2ZZ?oc=5"
+      "title": "지난 1년 동안 1280조원 외국 돈이 미국 증시로 몰렸다.... '역대 최대' - 파이낸셜뉴스",
+      "source": "파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0dXpKVC1CRWduQVlYV1ItNU5ZZWhnb0Jab2xsWFZ0MnVhazJ6YjJKM1dPa0JzZkdTbmxTREtya0lYOWFXWmpfZlFFMDFqYVNLV1pOUVRBaU5nQQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
