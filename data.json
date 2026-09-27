@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-26T23:15:31Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.27 08:15 (한국시간)",
+  "updatedAtISO": "2026-09-27T00:24:56Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.27 09:24 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
@@ -17,7 +17,7 @@
     },
     "kosdaq": {
       "value": 844.48,
-      "changePct": 1.21
+      "changePct": 0.98
     },
     "sp500": {
       "value": 7743.41,
@@ -35,6 +35,12 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "거래소연맹 \"美 24시간 거래 타당\"…글로벌 증시 '시간전쟁' 본격화 - 연합인포맥스",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yOHJDSTFmUjdTUkktWHU0Y042eGlGZ1pzMnE3QnEyQ2NNR1E1NGJ0dFc4SDNUMEFWaVpUS0VTZnNEbmtiNGRyNElGQjdTVHR6WmtCUnVoNVRsRE9LbFhzYm45ZnYzN2ZQZ3J0ZWlMbEI?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "외국인 美 주식 1283조원 순매수…사상 최대 - 글로벌이코노믹",
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2wtQjJnR2tlQWxNVXJPOUFBdG5nTVEyOXpNRzYtTVpFeXFlT1BDc1llcy1nc1ZmUEk4elpjQ0RRdW4yS1ZmVkZWQ2ZnOTd6R3RNNmlUYkEzcnJuaGJRazJ5TjI5TUdIN1F1dWhFVHFBWC03dmJwbzRvUkkzdHRNZklJVzFULWh3?oc=5"
@@ -47,21 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국증시] 애크먼 금리 올릴수록 물가 오른다…연준 겨냥한 반론 - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94cVdKMy1TMnY2S3J4TkpadDRqb0gySWhCSHJpVjBwZzBiMlZsLU5aeWJ5MlczNWZJSnhkOG5Zc0RQNlpIRUhCQXlOdlhrNkNDZWJoSHZjdFRhei1NTmdwaU51aWNSTGs?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "국장은 쉬어도 美증시는 열린다…추석 연휴 투자자 ‘3대 체크포인트’ [투자360] - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15U3VReUJkQ0tnWmw3eE1EajlDNnRHaU9oRE14ZEFCQnkxQy1KSVFkRjNXaXlDbS1BeDN2aUVVSlZ3dXFtMHhPbWw3MDhvWkU?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "서학개미 다시 미국 증시로…주식 보유액 2000억달러 재접근 - sentv.co.kr",
       "source": "sentv.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95cEpEd3Y1Q1M4QkZRWXR6bWt1czAyNkk2eU5kOEEyZUNXWDZXMUpKZE9CSXpLZG9rX0p6UFhIZUh4RTNRUGE1dEhEbFMwRHJIUUc3LWNsck5DMVI3REJxTDRKbUg?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[미국증시] 애크먼 금리 올릴수록 물가 오른다…연준 겨냥한 반론 - jabon.co.kr",
+      "source": "jabon.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94cVdKMy1TMnY2S3J4TkpadDRqb0gySWhCSHJpVjBwZzBiMlZsLU5aeWJ5MlczNWZJSnhkOG5Zc0RQNlpIRUhCQXlOdlhrNkNDZWJoSHZjdFRhei1NTmdwaU51aWNSTGs?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
