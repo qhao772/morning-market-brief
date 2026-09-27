@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-27T17:15:16Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.28 02:15 (한국시간)",
+  "updatedAtISO": "2026-09-27T18:19:12Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.28 03:19 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
@@ -35,6 +35,12 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "155년 통계가 보낸 경고…미국 증시 과열에 시험대 오른 한국 수출주 - 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ3NWdDRBdUQyMzFzaXc2R2IwZTBCblp3bHJ0Q25GRXVEeHJEQVdYX1hCd3BIWjRNMzd2OFlhWWRJZXhQTkQwREFkN0tFVGlxR3FPSGV0Q1BYQXFvQno5QzZjeFh6WUJXWk1TRUlJTXJzTHF1M3MzM3psLWVYU1dLOHJndEVOSjJF?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "미국 증시로 유입된 해외자금… 1년간 9420억달러 ‘역대 최대 - v.daum.net",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ybm9CalZWWWpxc2Y5d0w0VERjckN2WllPMDA3M1ZiTG0yY3J0QjgzVllYalBybUhSeG9QVTdEOG5wQy1FQkE?oc=5"
@@ -56,12 +62,6 @@
       "title": "미국 주식에 몰린 해외 자금 1년간 1280조원 순매수 '역대 최대' - 아시아경제",
       "source": "아시아경제",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RdVh6T1NYdTFIblh2RFR1NmhoQTJGRVFLbHlVMFE2MVF4MlA1R2VNc0lkZ0VFSHZUSklMSlZUYm15bHJ2cEFpU21UalR4V011cno5YTk2TXlEWWE0TUJkYw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "美주식에 몰린 해외자금…1년간 외국인 순매수 '역대 최대' - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yeFRHdmlMZzV1VnM4WGVQOWRtdmp1cmRXNWxoZmhGc042bWpQSzBqZUtzQXA2YUVxSHVEWjdOVWctZ3BqbzVucXhTU3h6Y0M1M1hxbWtoQWVkQQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
