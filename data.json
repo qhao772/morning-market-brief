@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-09-27T10:16:06Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.27 19:16 (한국시간)",
+  "updatedAtISO": "2026-09-27T11:16:06Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.27 20:16 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
@@ -35,15 +35,21 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "美주식에 몰린 해외자금…1년간 1천280조원 순매수 '역대 최대' - 연합뉴스",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpSkNCN3hzNmNzOVdOdWpzcE0tajJKVWxTcnlKT0hXbm0yc0dnYWpKTU9hTGt4Y3hfWndzeGQzWTY2a0pwY0MzOEltSnV2WjgwaXBXNUQyYlRqTzZtMFJvUdIBYEFVX3lxTFBpSkNCN3hzNmNzOVdOdWpzcE0tajJKVWxTcnlKT0hXbm0yc0dnYWpKTU9hTGt4Y3hfWndzeGQzWTY2a0pwY0MzOEltSnV2WjgwaXBXNUQyYlRqTzZtMFJvUQ?oc=5"
+      "title": "지난 1년 동안 1280조원 외국 돈이 미국 증시로 몰렸다.... '역대 최대' - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3VC1oZEVJdldjUGpCRWQtQmFIaVN4VU44MHRzZV9LOS1XR3J4dFg1NVJKWDNELThFUUJSMXZlM3NldHVyNEdvVDVYVTUtS00?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 주식에 몰린 해외 자금 1년간 1280조원 순매수 '역대 최대' - asiae.co.kr",
-      "source": "asiae.co.kr",
+      "title": "미국 주식에 몰린 해외 자금 1년간 1280조원 순매수 '역대 최대' - 아시아경제",
+      "source": "아시아경제",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RdVh6T1NYdTFIblh2RFR1NmhoQTJGRVFLbHlVMFE2MVF4MlA1R2VNc0lkZ0VFSHZUSklMSlZUYm15bHJ2cEFpU21UalR4V011cno5YTk2TXlEWWE0TUJkYw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "\"코스피 4분기 7700 예상…국내보다 미국 주식 유망\" - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04UDFCejdxR2M4WUxhbkp3MXFrT2VZaEcwZGRPM1VNY2x2OG9tWktEbWQ2d05pOUNSZXBxNVIzamZCaGxWV1ZkVHZqSEtxZkNCeFR4MzdXeWFlZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "거래소연맹 \"美 24시간 거래 타당\"…글로벌 증시 '시간전쟁' 본격화 - 연합인포맥스",
-      "source": "연합인포맥스",
+      "title": "거래소연맹 \"美 24시간 거래 타당\"…글로벌 증시 '시간전쟁' 본격화 - news.einfomax.co.kr",
+      "source": "news.einfomax.co.kr",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yOHJDSTFmUjdTUkktWHU0Y042eGlGZ1pzMnE3QnEyQ2NNR1E1NGJ0dFc4SDNUMEFWaVpUS0VTZnNEbmtiNGRyNElGQjdTVHR6WmtCUnVoNVRsRE9LbFhzYm45ZnYzN2ZQZ3J0ZWlMbEI?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "\"코스피 4분기 7700 예상…국내보다 미국 주식 유망\" - hankyung.com",
-      "source": "hankyung.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04UDFCejdxR2M4WUxhbkp3MXFrT2VZaEcwZGRPM1VNY2x2OG9tWktEbWQ2d05pOUNSZXBxNVIzamZCaGxWV1ZkVHZqSEtxZkNCeFR4MzdXeWFlZw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
