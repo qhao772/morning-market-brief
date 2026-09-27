@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-27T21:16:12Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.28 06:16 (한국시간)",
+  "updatedAtISO": "2026-09-27T22:16:11Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.28 07:16 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1354.99,
-  "usdJpy": 157.2,
-  "jpyKrw100": 861.95,
+  "usdKrw": 1354.85,
+  "usdJpy": 157.4,
+  "jpyKrw100": 860.79,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -59,8 +59,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 주식으로 1년 새 1280조원…해외자금 순매수 역대 최대 - kbmaeil.com",
-      "source": "kbmaeil.com",
+      "title": "미국 주식으로 1년 새 1280조원…해외자금 순매수 역대 최대 - 경북매일",
+      "source": "경북매일",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05SUtrY2lYSGRxYzVHRXdpYk5mWjJFdHR0ZnRfZVo1NjF6VlVfcjg3V1JTbWh5ZHdMOVdVMjBmTFNkb044Yjl1RmJTVXUxSE1IVDVyRGw3N0FuUQ?oc=5"
     }
   ],
