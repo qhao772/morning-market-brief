@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-27T13:16:19Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.27 22:16 (한국시간)",
+  "updatedAtISO": "2026-09-27T14:15:38Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.27 23:15 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1354.4,
+  "usdKrw": 1355.28,
   "usdJpy": 157.19,
-  "jpyKrw100": 861.66,
+  "jpyKrw100": 862.22,
   "indices": {
     "kospi": {
       "value": 7080.92,
@@ -41,8 +41,14 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 주식에 몰린 해외 자금 1년간 1280조원 순매수 '역대 최대' - 아시아경제",
-      "source": "아시아경제",
+      "title": "미국 주식으로 1년 새 1280조원…해외자금 순매수 역대 최대 - 경북매일",
+      "source": "경북매일",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05SUtrY2lYSGRxYzVHRXdpYk5mWjJFdHR0ZnRfZVo1NjF6VlVfcjg3V1JTbWh5ZHdMOVdVMjBmTFNkb044Yjl1RmJTVXUxSE1IVDVyRGw3N0FuUQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 주식에 몰린 해외 자금 1년간 1280조원 순매수 '역대 최대' - asiae.co.kr",
+      "source": "asiae.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RdVh6T1NYdTFIblh2RFR1NmhoQTJGRVFLbHlVMFE2MVF4MlA1R2VNc0lkZ0VFSHZUSklMSlZUYm15bHJ2cEFpU21UalR4V011cno5YTk2TXlEWWE0TUJkYw?oc=5"
     },
     {
@@ -56,12 +62,6 @@
       "title": "‘나만 미장 안 탄걸까?’…美 주식에 몰린 9420억弗 ‘역대 최대’ - 문화일보",
       "source": "문화일보",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00eXRwR05WNm1xbG5rUFNmNDlfSl9ma05CTkxkMVB2V2h1OUtjNENSYUdpd2l3ZHJmWG45VHVIYXo0SFdhVFJfR0ZucmQzN2ZZ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "거래소연맹 \"美 24시간 거래 타당\"…글로벌 증시 '시간전쟁' 본격화 - 연합인포맥스",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yOHJDSTFmUjdTUkktWHU0Y042eGlGZ1pzMnE3QnEyQ2NNR1E1NGJ0dFc4SDNUMEFWaVpUS0VTZnNEbmtiNGRyNElGQjdTVHR6WmtCUnVoNVRsRE9LbFhzYm45ZnYzN2ZQZ3J0ZWlMbEI?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
