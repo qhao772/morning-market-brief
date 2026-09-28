@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-28T07:19:59Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.28 16:19 (한국시간)",
+  "updatedAtISO": "2026-09-28T08:21:46Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.28 17:21 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1362.38,
-  "usdJpy": 157.56,
-  "jpyKrw100": 864.67,
+  "usdKrw": 1358.78,
+  "usdJpy": 156.54,
+  "jpyKrw100": 868.0,
   "indices": {
     "kospi": {
       "value": 6889.74,
@@ -43,7 +43,7 @@
       "tag": "시장 뉴스",
       "title": "[시장 따라잡기] 고용·물가 '빅위크'…향후 미국증시 흐름은? - v.daum.net",
       "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zTHBOYkFWd3RGSDdkN1l3NzBBcWxiajkzMy1TREQzOWk3cENVMlZ2U2t3dUxnWFBGcktpcnVtdHlaNjJuRlBJQ3BYODdWTzA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZbEs1dGtucmtBRXNOb0JicktMNjNPLVVSQ1ZTNWkxR1JuWHUtMm5iSktSQjdCbWsyTVBaUHR0eUhKRFdYZ2hOczBJMnktQXVYbnMyVw?oc=5"
     },
     {
       "tag": "시장 뉴스",
