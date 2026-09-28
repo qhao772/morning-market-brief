@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-28T01:17:07Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.28 10:17 (한국시간)",
+  "updatedAtISO": "2026-09-28T02:17:23Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.28 11:17 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1358.28,
-  "usdJpy": 157.77,
-  "jpyKrw100": 860.92,
+  "usdKrw": 1360.98,
+  "usdJpy": 157.72,
+  "jpyKrw100": 862.91,
   "indices": {
     "kospi": {
-      "value": 6977.46,
-      "changePct": -1.46
+      "value": 6932.31,
+      "changePct": -2.1
     },
     "kosdaq": {
-      "value": 858.35,
-      "changePct": 1.64
+      "value": 852.26,
+      "changePct": 0.92
     },
     "sp500": {
       "value": 7743.41,
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "외국인 美주식 12개월새 1280조원 순매수 '역대 최대' - 서울경제TV",
-      "source": "서울경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PQ3JfdE5ETmR1SGpENGxscUk4VldFdHFNRUxsYjUyaTdaN1RLU08tdjRRQktCLXlILXBVaS0wVDdUMXEzX2lxQ1NkSnJDcTVNb0lZWEVHeFpYUGJWb2d2Z2lKdDQ?oc=5"
+      "title": "미국증시, AI 투자·중동 휴전 기대에 3대 지수 동반 상승 - 버핏연구소",
+      "source": "버핏연구소",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjQ2lYUENvWlpsc0plSDZMRFJBOTU4NGxXQXBSUlZlVnp4SUc5VVota1JId1Z4d0NyNjIzUXYybzJxQ05iZFlRYmthOVpXMHpDVWIzdHdTREhwNHN2TWJMWDBR?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
