@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-28T08:21:46Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.28 17:21 (한국시간)",
+  "updatedAtISO": "2026-09-28T09:21:00Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.28 18:21 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1358.78,
-  "usdJpy": 156.54,
-  "jpyKrw100": 868.0,
+  "usdKrw": 1360.28,
+  "usdJpy": 157.01,
+  "jpyKrw100": 866.34,
   "indices": {
     "kospi": {
       "value": 6889.74,
@@ -47,6 +47,12 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "[미국 주식 돋보기] AI특수에 S&P 편입까지 … 에버퓨어 질주 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UM2Z2d0pfU2dOWW1nNjRGbnlXTE9PUXB3ajdRS2RYY0ItWUUyZlJMN25hTkZlYUxoUTY5YjFtT292Ti1tZk5NZ1ZKX0c3SVA3UlE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "기관투자자, 美 증시 주도권 회복…개인투자자 거래 줄어 - KB Think",
       "source": "KB Think",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wSkY4U3pWX0lEdU1RS0hfaVY2amF0ME1XSVNVT1dkbEZhdWJJRFhYRWt0RW5zNDZIUGl6LWNsVUFnYmxvMmM3eUJETm4yakxBR2tSamY4d3p6QkhyekI4SVU2eTk2UFlScnZTN3VoM3dadw?oc=5"
@@ -56,12 +62,6 @@
       "title": "155년 통계가 보낸 경고…미국 증시 과열에 시험대 오른 한국 수출주 - 글로벌이코노믹",
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ3NWdDRBdUQyMzFzaXc2R2IwZTBCblp3bHJ0Q25GRXVEeHJEQVdYX1hCd3BIWjRNMzd2OFlhWWRJZXhQTkQwREFkN0tFVGlxR3FPSGV0Q1BYQXFvQno5QzZjeFh6WUJXWk1TRUlJTXJzTHF1M3MzM3psLWVYU1dLOHJndEVOSjJF?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "다우존스·나스닥100 전망···이번 주 미국 증시 좌우할 3대 촉매 - Benzinga",
-      "source": "Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNQmJ4RGVwd1JVV0RHOXRnRE9xS2dTeTJ0ZXhPS1lzeU1OeUFZX3d2a083b3NMV1dLeFhWejljSHBROXRNWEVobk1PSWtPbDFDeDBaXzViT05uSkh6MExzMkdaelFja2ZSaTU0TUlnRXU3UV9GY01ONUR3dzRfbFRacGtHaEU2My1mbC1BdDVac2N2VG56cl92NWhpM2dzbkk5ZmlPVFhMWnVjNzVYbkxVSTZSQ2l0WEVaUjVPUTVfbE0xVTdfTWVJSTd2UzVCRGxJVHVDd3R6NkY1ZloxdG82YUNzVDBNRDNKUHhtcGZZVl80RWRyWmRTVzFJYmw5ajVlbk9TYk9iY2xkN0Z2S09xT2VnX0puaXIzcHhXdFh3MVVFdXZmTkc4aHMxeVdvaHh3Z1dLUXh3QQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
