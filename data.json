@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-28T13:19:31Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.28 22:19 (한국시간)",
+  "updatedAtISO": "2026-09-28T14:20:23Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.28 23:20 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1359.21,
-  "usdJpy": 157.21,
-  "jpyKrw100": 864.56,
+  "usdKrw": 1359.58,
+  "usdJpy": 157.19,
+  "jpyKrw100": 864.94,
   "indices": {
     "kospi": {
       "value": 6889.74,
@@ -20,16 +20,16 @@
       "changePct": 0.25
     },
     "sp500": {
-      "value": 7743.41,
-      "changePct": 0.51
+      "value": 7703.02,
+      "changePct": -0.52
     },
     "nasdaq": {
-      "value": 27068.72,
-      "changePct": 0.48
+      "value": 26868.84,
+      "changePct": -0.74
     },
     "sox": {
-      "value": 12668.93,
-      "changePct": 1.41
+      "value": 12425.86,
+      "changePct": -1.92
     }
   },
   "issues": [
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국 주식 돋보기] AI특수에 S&P 편입까지 … 에버퓨어 질주 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UM2Z2d0pfU2dOWW1nNjRGbnlXTE9PUXB3ajdRS2RYY0ItWUUyZlJMN25hTkZlYUxoUTY5YjFtT292Ti1tZk5NZ1ZKX0c3SVA3UlE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "“국장보다 미장” 다시 움직이는 서학개미들…이번엔 어디에 꽂혔나 - 한양경제",
       "source": "한양경제",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GcV85R2VILXhiN2U2OTNKekFVSTM0N203LWo5ZlVtaGt6N1NZRmlmOWUwWHVMdjExS3g1Z1llTld4R1lPSnpxSnIyM1ExbE41QzNHQTlaeGhPRzk0eGVYc2lJN3ZEeVpsNkNORUxUTS1Ldw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "기관투자자, 美 증시 주도권 회복…개인투자자 거래 줄어 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wSkY4U3pWX0lEdU1RS0hfaVY2amF0ME1XSVNVT1dkbEZhdWJJRFhYRWt0RW5zNDZIUGl6LWNsVUFnYmxvMmM3eUJETm4yakxBR2tSamY4d3p6QkhyekI4SVU2eTk2UFlScnZTN3VoM3dadw?oc=5"
+      "title": "[미국 주식 돋보기] AI특수에 S&P 편입까지 … 에버퓨어 질주 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UM2Z2d0pfU2dOWW1nNjRGbnlXTE9PUXB3ajdRS2RYY0ItWUUyZlJMN25hTkZlYUxoUTY5YjFtT292Ti1tZk5NZ1ZKX0c3SVA3UlE?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[0928개장체크] 美 증시, 미국·이란 간 외교적 해법 모색 기대감에 3대 지수 상승 - infostockdaily.co.kr",
-      "source": "infostockdaily.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xNG5HS0ZnSk5Ia0pkdy1GOVVnQ0FNU0xYYjdjNWFmWTZ5T3pBRFFOUndxUXIybnEtcnAwUlFkbHItcDZQbUU4UXRlaWpqeHlfMkJWRWxqcTFscEZ3X0ZWeG5hTjZDTTFrTkxhbkR3LTQybHpNLVE?oc=5"
+      "title": "‘국장’만 고금리 타격…SK하이닉스 원주-ADR 괴리율 40% 육박 - 한겨레",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rUzNqV1dwMHZRVTZRUllYd2NMUkFTQS1iMF9xNEVFZW1fUnBGSmREN2pOUjI3LUxta0MwMVo2Z2VaVlRDbmpmS0E3eC1qV0s5VURNcDNzY1FhWThGN0JxczZaQmtFbDg?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "기관투자자, 美 증시 주도권 회복…개인투자자 거래 줄어 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wSkY4U3pWX0lEdU1RS0hfaVY2amF0ME1XSVNVT1dkbEZhdWJJRFhYRWt0RW5zNDZIUGl6LWNsVUFnYmxvMmM3eUJETm4yakxBR2tSamY4d3p6QkhyekI4SVU2eTk2UFlScnZTN3VoM3dadw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
