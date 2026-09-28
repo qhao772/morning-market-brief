@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-28T06:25:38Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.28 15:25 (한국시간)",
+  "updatedAtISO": "2026-09-28T07:19:59Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.28 16:19 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1364.08,
-  "usdJpy": 157.63,
-  "jpyKrw100": 865.36,
+  "usdKrw": 1362.38,
+  "usdJpy": 157.56,
+  "jpyKrw100": 864.67,
   "indices": {
     "kospi": {
-      "value": 6904.28,
-      "changePct": -2.5
+      "value": 6889.74,
+      "changePct": -2.7
     },
     "kosdaq": {
-      "value": 847.83,
-      "changePct": 0.4
+      "value": 846.58,
+      "changePct": 0.25
     },
     "sp500": {
       "value": 7743.41,
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[0928개장체크] 美 증시, 미국·이란 간 외교적 해법 모색 기대감에 3대 지수 상승 - 인포스탁데일리",
-      "source": "인포스탁데일리",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xNG5HS0ZnSk5Ia0pkdy1GOVVnQ0FNU0xYYjdjNWFmWTZ5T3pBRFFOUndxUXIybnEtcnAwUlFkbHItcDZQbUU4UXRlaWpqeHlfMkJWRWxqcTFscEZ3X0ZWeG5hTjZDTTFrTkxhbkR3LTQybHpNLVE?oc=5"
+      "title": "다우존스·나스닥100 전망···이번 주 미국 증시 좌우할 3대 촉매 - Benzinga",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNQmJ4RGVwd1JVV0RHOXRnRE9xS2dTeTJ0ZXhPS1lzeU1OeUFZX3d2a083b3NMV1dLeFhWejljSHBROXRNWEVobk1PSWtPbDFDeDBaXzViT05uSkh6MExzMkdaelFja2ZSaTU0TUlnRXU3UV9GY01ONUR3dzRfbFRacGtHaEU2My1mbC1BdDVac2N2VG56cl92NWhpM2dzbkk5ZmlPVFhMWnVjNzVYbkxVSTZSQ2l0WEVaUjVPUTVfbE0xVTdfTWVJSTd2UzVCRGxJVHVDd3R6NkY1ZloxdG82YUNzVDBNRDNKUHhtcGZZVl80RWRyWmRTVzFJYmw5ajVlbk9TYk9iY2xkN0Z2S09xT2VnX0puaXIzcHhXdFh3MVVFdXZmTkc4aHMxeVdvaHh3Z1dLUXh3QQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
