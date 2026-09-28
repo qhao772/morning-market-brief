@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-28T22:17:15Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.29 07:17 (한국시간)",
+  "updatedAtISO": "2026-09-28T23:16:18Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.29 08:16 (한국시간)",
   "us10y": 5.17,
   "us30y": 5.49,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1360.23,
-  "usdJpy": 157.35,
-  "jpyKrw100": 864.46,
+  "usdKrw": 1359.74,
+  "usdJpy": 157.42,
+  "jpyKrw100": 863.75,
   "indices": {
     "kospi": {
       "value": 6889.74,
@@ -47,21 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "[3분증시] 뉴욕증시, 트럼프 제안 거부 소식에 하락 - 연합뉴스 한민족센터",
+      "source": "연합뉴스 한민족센터",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nUjNlM3VYck11ejAyYVVJcVZBUTZVeDhuWXFHWTlOY1Bib1JSV2RodHQtUWczbVJ1VzQyVEU3WnVYalVpSlJHaGc5ZE1vQXRuSnFNcUhEcFgwNXdOSWhTVkU5TTNmMjNjTjFRQlE3UVA4V1NR?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[시황] 미국증시, 장기금리 급등에 기술주 중심 하락 - 버핏연구소",
+      "source": "버핏연구소",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMSGRacXE5ME1JaHF4Si03TGtoWVJtTlRTNHAzbG81b04wV0dGemxfOE9BMVlPS05vQUpxNm05bFR6cHFKdUtqeVFHcUtTck1ScV9SMERIWHluY2J2eURHR01B?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[시장 따라잡기] 고용·물가 '빅위크'…향후 미국증시 흐름은? - v.daum.net",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZbEs1dGtucmtBRXNOb0JicktMNjNPLVVSQ1ZTNWkxR1JuWHUtMm5iSktSQjdCbWsyTVBaUHR0eUhKRFdYZ2hOczBJMnktQXVYbnMyVw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[미국 주식 돋보기] AI특수에 S&P 편입까지 … 에버퓨어 질주 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UM2Z2d0pfU2dOWW1nNjRGbnlXTE9PUXB3ajdRS2RYY0ItWUUyZlJMN25hTkZlYUxoUTY5YjFtT292Ti1tZk5NZ1ZKX0c3SVA3UlE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "“국장보다 미장” 다시 움직이는 서학개미들…이번엔 어디에 꽂혔나 - 한양경제",
-      "source": "한양경제",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GcV85R2VILXhiN2U2OTNKekFVSTM0N203LWo5ZlVtaGt6N1NZRmlmOWUwWHVMdjExS3g1Z1llTld4R1lPSnpxSnIyM1ExbE41QzNHQTlaeGhPRzk0eGVYc2lJN3ZEeVpsNkNORUxUTS1Ldw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
