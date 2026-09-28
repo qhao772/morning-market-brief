@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-28T05:18:35Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.28 14:18 (한국시간)",
+  "updatedAtISO": "2026-09-28T06:25:38Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.28 15:25 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1359.84,
-  "usdJpy": 157.76,
-  "jpyKrw100": 861.98,
+  "usdKrw": 1364.08,
+  "usdJpy": 157.63,
+  "jpyKrw100": 865.36,
   "indices": {
     "kospi": {
-      "value": 6926.69,
-      "changePct": -2.18
+      "value": 6904.28,
+      "changePct": -2.5
     },
     "kosdaq": {
-      "value": 851.46,
-      "changePct": 0.83
+      "value": 847.83,
+      "changePct": 0.4
     },
     "sp500": {
       "value": 7743.41,
@@ -35,8 +35,8 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 선물 하락…이란 긴장·OpenAI 훈련 중단 영향 - kr.investing.com",
-      "source": "kr.investing.com",
+      "title": "미국 증시 선물 하락…이란 긴장·OpenAI 훈련 중단 영향 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JdXdPMFFoemhDbUJaNzZqX2p1Z3lqM3haLWRfR2tLbW9WTU1TSTdVMzZxQ3VYRWFOenZTUi1RMC0xbWxYdUJfZzZtNnBabnkwSDdmQ21jek5LVUMyVG5fSHhyOEJWeG1nWFY2YUNYam8?oc=5"
     },
     {
