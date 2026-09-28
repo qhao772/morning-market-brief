@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-28T12:23:55Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.28 21:23 (한국시간)",
+  "updatedAtISO": "2026-09-28T13:19:31Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.28 22:19 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1357.99,
-  "usdJpy": 156.98,
-  "jpyKrw100": 865.08,
+  "usdKrw": 1359.21,
+  "usdJpy": 157.21,
+  "jpyKrw100": 864.56,
   "indices": {
     "kospi": {
       "value": 6889.74,
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미 증시 선물 하락: 이란 긴장, OpenAI 훈련 중단 영향 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JdXdPMFFoemhDbUJaNzZqX2p1Z3lqM3haLWRfR2tLbW9WTU1TSTdVMzZxQ3VYRWFOenZTUi1RMC0xbWxYdUJfZzZtNnBabnkwSDdmQ21jek5LVUMyVG5fSHhyOEJWeG1nWFY2YUNYam8?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "기관투자자, 美 증시 주도권 회복…개인투자자 거래 줄어 - KB Think",
       "source": "KB Think",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wSkY4U3pWX0lEdU1RS0hfaVY2amF0ME1XSVNVT1dkbEZhdWJJRFhYRWt0RW5zNDZIUGl6LWNsVUFnYmxvMmM3eUJETm4yakxBR2tSamY4d3p6QkhyekI4SVU2eTk2UFlScnZTN3VoM3dadw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[0928개장체크] 美 증시, 미국·이란 간 외교적 해법 모색 기대감에 3대 지수 상승 - infostockdaily.co.kr",
+      "source": "infostockdaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xNG5HS0ZnSk5Ia0pkdy1GOVVnQ0FNU0xYYjdjNWFmWTZ5T3pBRFFOUndxUXIybnEtcnAwUlFkbHItcDZQbUU4UXRlaWpqeHlfMkJWRWxqcTFscEZ3X0ZWeG5hTjZDTTFrTkxhbkR3LTQybHpNLVE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
