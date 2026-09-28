@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-28T14:20:23Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.28 23:20 (한국시간)",
+  "updatedAtISO": "2026-09-28T15:20:45Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.29 00:20 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1359.58,
-  "usdJpy": 157.19,
-  "jpyKrw100": 864.94,
+  "usdKrw": 1361.48,
+  "usdJpy": 157.47,
+  "jpyKrw100": 864.6,
   "indices": {
     "kospi": {
       "value": 6889.74,
@@ -20,16 +20,16 @@
       "changePct": 0.25
     },
     "sp500": {
-      "value": 7703.02,
-      "changePct": -0.52
+      "value": 7678.24,
+      "changePct": -0.84
     },
     "nasdaq": {
-      "value": 26868.84,
-      "changePct": -0.74
+      "value": 26794.11,
+      "changePct": -1.01
     },
     "sox": {
-      "value": 12425.86,
-      "changePct": -1.92
+      "value": 12307.63,
+      "changePct": -2.85
     }
   },
   "issues": [
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "‘국장’만 고금리 타격…SK하이닉스 원주-ADR 괴리율 40% 육박 - 한겨레",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rUzNqV1dwMHZRVTZRUllYd2NMUkFTQS1iMF9xNEVFZW1fUnBGSmREN2pOUjI3LUxta0MwMVo2Z2VaVlRDbmpmS0E3eC1qV0s5VURNcDNzY1FhWThGN0JxczZaQmtFbDg?oc=5"
+      "title": "미국증시 유가·금리 부담에 하락…엔비디아 홀로 급등, AI반도체 차별화 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KSThuYXBHUS1TY2VxdUxxcmxXb3djTjRKTHJRV1ZwV3MyeTItS0dlX0hTenR4eTlPcnYtbHU4a2V5UXE0b1pvZGRPaHE1ZVFNRXo2WHlTMHAxN3c4SEQySEp4aXl4eVFmV2J6UXF3MlFMdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "기관투자자, 美 증시 주도권 회복…개인투자자 거래 줄어 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wSkY4U3pWX0lEdU1RS0hfaVY2amF0ME1XSVNVT1dkbEZhdWJJRFhYRWt0RW5zNDZIUGl6LWNsVUFnYmxvMmM3eUJETm4yakxBR2tSamY4d3p6QkhyekI4SVU2eTk2UFlScnZTN3VoM3dadw?oc=5"
+      "title": "‘국장’만 고금리 타격…SK하이닉스 원주-ADR 괴리율 40% 육박 - 한겨레",
+      "source": "한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rUzNqV1dwMHZRVTZRUllYd2NMUkFTQS1iMF9xNEVFZW1fUnBGSmREN2pOUjI3LUxta0MwMVo2Z2VaVlRDbmpmS0E3eC1qV0s5VURNcDNzY1FhWThGN0JxczZaQmtFbDg?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
