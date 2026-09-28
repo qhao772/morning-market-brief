@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-28T10:19:26Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.28 19:19 (한국시간)",
+  "updatedAtISO": "2026-09-28T11:17:35Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.28 20:17 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1360.81,
-  "usdJpy": 157.12,
-  "jpyKrw100": 866.12,
+  "usdKrw": 1360.28,
+  "usdJpy": 157.0,
+  "jpyKrw100": 866.4,
   "indices": {
     "kospi": {
       "value": 6889.74,
@@ -35,12 +35,6 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 선물 하락…이란 긴장·OpenAI 훈련 중단 영향 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JdXdPMFFoemhDbUJaNzZqX2p1Z3lqM3haLWRfR2tLbW9WTU1TSTdVMzZxQ3VYRWFOenZTUi1RMC0xbWxYdUJfZzZtNnBabnkwSDdmQ21jek5LVUMyVG5fSHhyOEJWeG1nWFY2YUNYam8?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "[시장 따라잡기] 고용·물가 '빅위크'…향후 미국증시 흐름은? - v.daum.net",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZbEs1dGtucmtBRXNOb0JicktMNjNPLVVSQ1ZTNWkxR1JuWHUtMm5iSktSQjdCbWsyTVBaUHR0eUhKRFdYZ2hOczBJMnktQXVYbnMyVw?oc=5"
@@ -50,6 +44,12 @@
       "title": "[미국 주식 돋보기] AI특수에 S&P 편입까지 … 에버퓨어 질주 - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UM2Z2d0pfU2dOWW1nNjRGbnlXTE9PUXB3ajdRS2RYY0ItWUUyZlJMN25hTkZlYUxoUTY5YjFtT292Ti1tZk5NZ1ZKX0c3SVA3UlE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미 증시 선물 하락: 이란 긴장, OpenAI 훈련 중단 영향 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JdXdPMFFoemhDbUJaNzZqX2p1Z3lqM3haLWRfR2tLbW9WTU1TSTdVMzZxQ3VYRWFOenZTUi1RMC0xbWxYdUJfZzZtNnBabnkwSDdmQ21jek5LVUMyVG5fSHhyOEJWeG1nWFY2YUNYam8?oc=5"
     },
     {
       "tag": "시장 뉴스",
