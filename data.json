@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-28T04:19:15Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.28 13:19 (한국시간)",
+  "updatedAtISO": "2026-09-28T05:18:35Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.28 14:18 (한국시간)",
   "us10y": 5.18,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1356.08,
-  "usdJpy": 157.73,
-  "jpyKrw100": 859.75,
+  "usdKrw": 1359.84,
+  "usdJpy": 157.76,
+  "jpyKrw100": 861.98,
   "indices": {
     "kospi": {
-      "value": 6911.95,
-      "changePct": -2.39
+      "value": 6926.69,
+      "changePct": -2.18
     },
     "kosdaq": {
-      "value": 850.69,
-      "changePct": 0.73
+      "value": 851.46,
+      "changePct": 0.83
     },
     "sp500": {
       "value": 7743.41,
@@ -35,9 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 선물 하락…이란 긴장·OpenAI 훈련 중단 영향 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
+      "title": "미국 증시 선물 하락…이란 긴장·OpenAI 훈련 중단 영향 - kr.investing.com",
+      "source": "kr.investing.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JdXdPMFFoemhDbUJaNzZqX2p1Z3lqM3haLWRfR2tLbW9WTU1TSTdVMzZxQ3VYRWFOenZTUi1RMC0xbWxYdUJfZzZtNnBabnkwSDdmQ21jek5LVUMyVG5fSHhyOEJWeG1nWFY2YUNYam8?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[시장 따라잡기] 고용·물가 '빅위크'…향후 미국증시 흐름은? - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zTHBOYkFWd3RGSDdkN1l3NzBBcWxiajkzMy1TREQzOWk3cENVMlZ2U2t3dUxnWFBGcktpcnVtdHlaNjJuRlBJQ3BYODdWTzA?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[마켓뷰] 연휴 끝낸 코스피, '7천피' 사수하며 상승 이어갈까 - 연합뉴스",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wT0hERjBvOEk1RTd3ZUtmeTVtQTZTdUNndzZ0VkMtbnAxbTI5eW94WURhOFVFVng3aTJrSXA1MEtLRTZVeWlCT1NnMkszcXh0M1BheU4zTlVDSkXSAWBBVV95cUxQRV9HekdjaGZ5VDlCRTVfWGRXVmFYalRJQTZqUDM1ZjdNOFZBWmdQUmFCbnpMdFJXcWZCMFQwTk9pbHg1bk9LcVNVS2xiT1J6Z1RJSm01Z3ZmRzZ4WWtsbHE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시, AI 투자·중동 휴전 기대에 3대 지수 동반 상승 - buffettlab.co.kr",
-      "source": "buffettlab.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjQ2lYUENvWlpsc0plSDZMRFJBOTU4NGxXQXBSUlZlVnp4SUc5VVota1JId1Z4d0NyNjIzUXYybzJxQ05iZFlRYmthOVpXMHpDVWIzdHdTREhwNHN2TWJMWDBR?oc=5"
+      "title": "[0928개장체크] 美 증시, 미국·이란 간 외교적 해법 모색 기대감에 3대 지수 상승 - 인포스탁데일리",
+      "source": "인포스탁데일리",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xNG5HS0ZnSk5Ia0pkdy1GOVVnQ0FNU0xYYjdjNWFmWTZ5T3pBRFFOUndxUXIybnEtcnAwUlFkbHItcDZQbUU4UXRlaWpqeHlfMkJWRWxqcTFscEZ3X0ZWeG5hTjZDTTFrTkxhbkR3LTQybHpNLVE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
