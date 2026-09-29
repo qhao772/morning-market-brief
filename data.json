@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-29T08:20:46Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.29 17:20 (한국시간)",
+  "updatedAtISO": "2026-09-29T09:19:47Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.29 18:19 (한국시간)",
   "us10y": 5.17,
   "us30y": 5.49,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1358.03,
+  "usdKrw": 1356.88,
   "usdJpy": 157.4,
-  "jpyKrw100": 862.77,
+  "jpyKrw100": 862.05,
   "indices": {
     "kospi": {
       "value": 6870.81,
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "마이크론 실적 발표 \"미국 증시에 변곡점\" 평가, 코스피 반등에도 핵심 변수 - 비즈니스포스트",
-      "source": "비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WR3J4UVBGRVRjOUM1Q0F2ZG0wcHA3NjRZQTZQa2JRRmlIUzA2YVFhcHNDSmQxbEYyd0ZHaWdkdDhhWFJQVnJwMlNpMW9pZU5YWU90bWlZblRRdWY1eUpCaDZCaG5zb3N5ekcxVWJnR2dOWE0?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "개인투자자 1위 키움, 월가서 미국 주식 직접 중개…\"지금이 적기\" - 머니투데이 - 머니투데이",
       "source": "머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MQWt5clBGTTlFcWZydEprUlVtd2lRSGVVMHRzY2VPY1d1TTRwOXZ1VVUzLTd4Zlk5ekg4Qm9Ic0VBT0pPcG5ZN0p1SGF2NjNHbEtPQ0NIZ2dycWNzNFBIS1h6UWh1MFhP0gFuQVVfeXFMTUNxc212SWg4WWVQNWFPYTZKZTh1T3lzMko2N1RuTTR1cWdlZ3FaXzZPTjJRZGZrWGloU09QMkNuN2JBekJIa1pHMzlwbFpvM3huZ1JsWDJvY183YWttakNGRXVKOTBaZWNoeWVWLVE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "마이크론 실적 발표 \"미국 증시에 변곡점\" 평가, 코스피 반등에도 핵심 변수 - 비즈니스포스트",
+      "source": "비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WR3J4UVBGRVRjOUM1Q0F2ZG0wcHA3NjRZQTZQa2JRRmlIUzA2YVFhcHNDSmQxbEYyd0ZHaWdkdDhhWFJQVnJwMlNpMW9pZU5YWU90bWlZblRRdWY1eUpCaDZCaG5zb3N5ekcxVWJnR2dOWE0?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
