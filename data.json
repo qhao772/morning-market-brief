@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-29T00:24:38Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.29 09:24 (한국시간)",
+  "updatedAtISO": "2026-09-29T01:17:21Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.29 10:17 (한국시간)",
   "us10y": 5.17,
   "us30y": 5.49,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1358.78,
-  "usdJpy": 157.44,
-  "jpyKrw100": 863.02,
+  "usdKrw": 1359.35,
+  "usdJpy": 157.23,
+  "jpyKrw100": 864.54,
   "indices": {
     "kospi": {
-      "value": 6863.04,
-      "changePct": -0.39
+      "value": 6838.89,
+      "changePct": -0.74
     },
     "kosdaq": {
-      "value": 843.9,
-      "changePct": -0.32
+      "value": 834.68,
+      "changePct": -1.41
     },
     "sp500": {
       "value": 7683.69,
@@ -35,6 +35,12 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "급등하는 국채금리와 AI 불안에 미국 증시 선물 보합세 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sdEE4ZjUwN2l1NzF5Y3dpOEg2UFBkVVlmUkRRYUtWOFZGeFFySFNyS3BOQWdNVVRwNnBiMFN3TmFyUVhXRzAyZ2ZQa3ZaYnNIZS0ydWh2OGRBOTBHem1yWEVzd1BXQndiU1QzMlFEY0g?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[서울데이터랩] 미국 증시, 기술주 약세에 일제히 하락 마감…나스닥 0.92%↓ - 서울신문",
       "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qZWlPMFR3bm5IN2laa1JYeGlKNzhEZEVjbTk4SXRTUDl6NkgyeE50dFBaSmpHUGZhWWRLNjdNU2ZkUnVEZW04Mmt4S1pQUU9WekVDY2x1ZURPeF9oZVdCTzRfRFJ3eXVBRV9aOTlPYw?oc=5"
@@ -47,8 +53,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, 트럼프 제안 거부 소식에 하락 - 연합뉴스 한민족센터",
-      "source": "연합뉴스 한민족센터",
+      "title": "[3분증시] 뉴욕증시, 트럼프 제안 거부 소식에 하락 - koreancenter.or.kr",
+      "source": "koreancenter.or.kr",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nUjNlM3VYck11ejAyYVVJcVZBUTZVeDhuWXFHWTlOY1Bib1JSV2RodHQtUWczbVJ1VzQyVEU3WnVYalVpSlJHaGc5ZE1vQXRuSnFNcUhEcFgwNXdOSWhTVkU5TTNmMjNjTjFRQlE3UVA4V1NR?oc=5"
     },
     {
@@ -56,12 +62,6 @@
       "title": "[시황] 미국증시, 장기금리 급등에 기술주 중심 하락 - 버핏연구소",
       "source": "버핏연구소",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMSGRacXE5ME1JaHF4Si03TGtoWVJtTlRTNHAzbG81b04wV0dGemxfOE9BMVlPS05vQUpxNm05bFR6cHFKdUtqeVFHcUtTck1ScV9SMERIWHluY2J2eURHR01B?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "주식 대신 채권 사는 서학개미들...美 주식 순매수는 반토막, 美 채권은 2배로 ‘사자’ - chosun.com",
-      "source": "chosun.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcXdiMC1TVjJVSVZGejVzbnBuNkdKVlpiVEgyVHBncmxyTWk0dk1Nc2tUSmpqMWNRTjhYSGp1SGlyYm1MUW5vMHpIV3RKZDFrX2xLZ3pjWTRqUU5yX202ai11RG9naTE0ZUJBS2t6QzFqd2ZVZVZVVm5CYnBLNUd6UQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
