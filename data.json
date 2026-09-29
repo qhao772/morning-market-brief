@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-28T23:16:18Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.29 08:16 (한국시간)",
+  "updatedAtISO": "2026-09-29T00:24:38Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.29 09:24 (한국시간)",
   "us10y": 5.17,
   "us30y": 5.49,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1359.74,
-  "usdJpy": 157.42,
-  "jpyKrw100": 863.75,
+  "usdKrw": 1358.78,
+  "usdJpy": 157.44,
+  "jpyKrw100": 863.02,
   "indices": {
     "kospi": {
-      "value": 6889.74,
-      "changePct": -2.7
+      "value": 6863.04,
+      "changePct": -0.39
     },
     "kosdaq": {
-      "value": 846.58,
-      "changePct": 0.25
+      "value": 843.9,
+      "changePct": -0.32
     },
     "sp500": {
       "value": 7683.69,
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[시장 따라잡기] 고용·물가 '빅위크'…향후 미국증시 흐름은? - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZbEs1dGtucmtBRXNOb0JicktMNjNPLVVSQ1ZTNWkxR1JuWHUtMm5iSktSQjdCbWsyTVBaUHR0eUhKRFdYZ2hOczBJMnktQXVYbnMyVw?oc=5"
+      "title": "주식 대신 채권 사는 서학개미들...美 주식 순매수는 반토막, 美 채권은 2배로 ‘사자’ - chosun.com",
+      "source": "chosun.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcXdiMC1TVjJVSVZGejVzbnBuNkdKVlpiVEgyVHBncmxyTWk0dk1Nc2tUSmpqMWNRTjhYSGp1SGlyYm1MUW5vMHpIV3RKZDFrX2xLZ3pjWTRqUU5yX202ai11RG9naTE0ZUJBS2t6QzFqd2ZVZVZVVm5CYnBLNUd6UQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
