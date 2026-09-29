@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-29T02:16:14Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.29 11:16 (한국시간)",
+  "updatedAtISO": "2026-09-29T03:18:17Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.29 12:18 (한국시간)",
   "us10y": 5.17,
   "us30y": 5.49,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1358.32,
-  "usdJpy": 157.41,
-  "jpyKrw100": 862.93,
+  "usdKrw": 1359.1,
+  "usdJpy": 157.21,
+  "jpyKrw100": 864.5,
   "indices": {
     "kospi": {
-      "value": 6874.89,
-      "changePct": -0.22
+      "value": 6848.2,
+      "changePct": -0.6
     },
     "kosdaq": {
-      "value": 840.39,
-      "changePct": -0.73
+      "value": 840.24,
+      "changePct": -0.75
     },
     "sp500": {
       "value": 7683.69,
@@ -53,14 +53,14 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "마이크론 실적 발표 \"미국 증시에 변곡점\" 평가, 코스피 반등에도 핵심 변수 - businesspost.co.kr",
-      "source": "businesspost.co.kr",
+      "title": "마이크론 실적 발표 \"미국 증시에 변곡점\" 평가, 코스피 반등에도 핵심 변수 - 비즈니스포스트",
+      "source": "비즈니스포스트",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WR3J4UVBGRVRjOUM1Q0F2ZG0wcHA3NjRZQTZQa2JRRmlIUzA2YVFhcHNDSmQxbEYyd0ZHaWdkdDhhWFJQVnJwMlNpMW9pZU5YWU90bWlZblRRdWY1eUpCaDZCaG5zb3N5ekcxVWJnR2dOWE0?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "BoA, ‘정치보다 기업 실적’…S&P500 상승 68% 기업이익 동반 - chosun.com",
-      "source": "chosun.com",
+      "title": "BoA, ‘정치보다 기업 실적’…S&P500 상승 68% 기업이익 동반 - 조선일보",
+      "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeTFqUzNxTm16TWY5cGhIdmRlTjhwaUljQWdkUGpvTFlVRi1BSDdaclFoZ0E3Z1cwV3ZOOUswQWJGMWJOVllOSHV2S3ZOLUtZMy15NzFrcl9KM3gxVkg2RDZDbjJnbFBCR0lvNi1RaU15MzluSjJ3TlJ5VTgyRHZxYQ?oc=5"
     }
   ],
