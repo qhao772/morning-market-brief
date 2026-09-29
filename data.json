@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-29T20:19:18Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.30 05:19 (한국시간)",
+  "updatedAtISO": "2026-09-29T21:17:50Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.30 06:17 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.56,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1352.44,
-  "usdJpy": 157.38,
-  "jpyKrw100": 859.37,
+  "usdKrw": 1352.39,
+  "usdJpy": 157.28,
+  "jpyKrw100": 859.83,
   "indices": {
     "kospi": {
       "value": 6870.81,
@@ -35,15 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 선물, 채권 수익률 급등 및 AI 안전 우려 속 보합세 - kr.investing.com",
-      "source": "kr.investing.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sdEE4ZjUwN2l1NzF5Y3dpOEg2UFBkVVlmUkRRYUtWOFZGeFFySFNyS3BOQWdNVVRwNnBiMFN3TmFyUVhXRzAyZ2ZQa3ZaYnNIZS0ydWh2OGRBOTBHem1yWEVzd1BXQndiU1QzMlFEY0g?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "“美 중간선거 기다리지 마라… 100년 통계상 7주 전부터 증시 랠리 ” - v.daum.net",
       "source": "v.daum.net",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11MjhpcUlVZVk2Y3p4ZG5mRTRDdUN6Z01EZmVKZ3NnZ1BFd1dlWGJVZmF0YVBSSzlublVKLS1oOGtXTEdldE9aNzhoTFc4dzg?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 증시 선물, 채권 수익률 급등 및 AI 안전 우려 속 보합세 - kr.investing.com",
+      "source": "kr.investing.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sdEE4ZjUwN2l1NzF5Y3dpOEg2UFBkVVlmUkRRYUtWOFZGeFFySFNyS3BOQWdNVVRwNnBiMFN3TmFyUVhXRzAyZ2ZQa3ZaYnNIZS0ydWh2OGRBOTBHem1yWEVzd1BXQndiU1QzMlFEY0g?oc=5"
     },
     {
       "tag": "시장 뉴스",
