@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-29T18:21:45Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.30 03:21 (한국시간)",
+  "updatedAtISO": "2026-09-29T19:18:03Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.30 04:18 (한국시간)",
   "us10y": 5.17,
   "us30y": 5.49,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1353.58,
-  "usdJpy": 157.23,
-  "jpyKrw100": 860.88,
+  "usdKrw": 1353.08,
+  "usdJpy": 157.26,
+  "jpyKrw100": 860.41,
   "indices": {
     "kospi": {
       "value": 6870.81,
@@ -20,24 +20,30 @@
       "changePct": 0.38
     },
     "sp500": {
-      "value": 7669.21,
-      "changePct": -0.19
+      "value": 7672.77,
+      "changePct": -0.14
     },
     "nasdaq": {
-      "value": 26781.14,
-      "changePct": -0.15
+      "value": 26813.66,
+      "changePct": -0.03
     },
     "sox": {
-      "value": 12648.2,
-      "changePct": 1.47
+      "value": 12638.09,
+      "changePct": 1.39
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 선물, 채권 수익률 급등 및 AI 안전 우려 속 보합세 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
+      "title": "미국 증시 선물, 채권 수익률 급등 및 AI 안전 우려 속 보합세 - kr.investing.com",
+      "source": "kr.investing.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sdEE4ZjUwN2l1NzF5Y3dpOEg2UFBkVVlmUkRRYUtWOFZGeFFySFNyS3BOQWdNVVRwNnBiMFN3TmFyUVhXRzAyZ2ZQa3ZaYnNIZS0ydWh2OGRBOTBHem1yWEVzd1BXQndiU1QzMlFEY0g?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "“美 중간선거 기다리지 마라… 100년 통계상 7주 전부터 증시 랠리 ” - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11MjhpcUlVZVk2Y3p4ZG5mRTRDdUN6Z01EZmVKZ3NnZ1BFd1dlWGJVZmF0YVBSSzlublVKLS1oOGtXTEdldE9aNzhoTFc4dzg?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,8 +53,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 국채금리 동향 주시하며 보합권 혼조 출발 - 연합뉴스",
-      "source": "연합뉴스",
+      "title": "뉴욕증시, 국채금리 동향 주시하며 보합권 혼조 출발 - yna.co.kr",
+      "source": "yna.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UZGxCZ19TbFJNYkhsckxoR2RON3h5eDg5U0FJRHAxN2JSWll4ZGltcDUySlB5OTJCYW4yZUl5QUtOOW90cGtBcXQ2VGhydnJPOUJDSUNCNlMwQVHSAWBBVV95cUxQSWhsbFdWOUM2Mm1TM3NCM002X3FmVWpYNGowTjVZVWJWUUdzS244LU1QT3FoVUtZUndKYnIyY0k4TUFXSFFjbmZvdU4zTTNfWnZJU2Z4UTg0VWJPRzNiV08?oc=5"
     },
     {
@@ -56,12 +62,6 @@
       "title": "[3분증시] 뉴욕증시, 트럼프 제안 거부 소식에 하락 - 연합뉴스TV",
       "source": "연합뉴스TV",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43YXdkal8ta0RvcXNUaDRYUDFnZndMei1mZEJ2LU43VWxwdF90djMzb2dFOFRITUZ1WDBrcXRLaDFBdVl6OHRJZW5kQmk4R25PUFpkaWpQcFlYZndMNGlhNUdTR3pBTVE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 기술주 약세에 일제히 하락 마감…나스닥 0.92%↓ - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qZWlPMFR3bm5IN2laa1JYeGlKNzhEZEVjbTk4SXRTUDl6NkgyeE50dFBaSmpHUGZhWWRLNjdNU2ZkUnVEZW04Mmt4S1pQUU9WekVDY2x1ZURPeF9oZVdCTzRfRFJ3eXVBRV9aOTlPYw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
