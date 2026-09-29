@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-29T19:18:03Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.30 04:18 (한국시간)",
-  "us10y": 5.17,
-  "us30y": 5.49,
+  "updatedAtISO": "2026-09-29T20:19:18Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.30 05:19 (한국시간)",
+  "us10y": 5.24,
+  "us30y": 5.56,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1353.08,
-  "usdJpy": 157.26,
-  "jpyKrw100": 860.41,
+  "usdKrw": 1352.44,
+  "usdJpy": 157.38,
+  "jpyKrw100": 859.37,
   "indices": {
     "kospi": {
       "value": 6870.81,
@@ -20,16 +20,16 @@
       "changePct": 0.38
     },
     "sp500": {
-      "value": 7672.77,
-      "changePct": -0.14
+      "value": 7670.84,
+      "changePct": -0.17
     },
     "nasdaq": {
-      "value": 26813.66,
-      "changePct": -0.03
+      "value": 26797.54,
+      "changePct": -0.09
     },
     "sox": {
-      "value": 12638.09,
-      "changePct": 1.39
+      "value": 12629.16,
+      "changePct": 1.31
     }
   },
   "issues": [
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 국채금리 동향 주시하며 보합권 혼조 출발 - yna.co.kr",
-      "source": "yna.co.kr",
+      "title": "뉴욕증시, 국채금리 동향 주시하며 보합권 혼조 출발 - 연합뉴스",
+      "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UZGxCZ19TbFJNYkhsckxoR2RON3h5eDg5U0FJRHAxN2JSWll4ZGltcDUySlB5OTJCYW4yZUl5QUtOOW90cGtBcXQ2VGhydnJPOUJDSUNCNlMwQVHSAWBBVV95cUxQSWhsbFdWOUM2Mm1TM3NCM002X3FmVWpYNGowTjVZVWJWUUdzS244LU1QT3FoVUtZUndKYnIyY0k4TUFXSFFjbmZvdU4zTTNfWnZJU2Z4UTg0VWJPRzNiV08?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, 트럼프 제안 거부 소식에 하락 - 연합뉴스TV",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43YXdkal8ta0RvcXNUaDRYUDFnZndMei1mZEJ2LU43VWxwdF90djMzb2dFOFRITUZ1WDBrcXRLaDFBdVl6OHRJZW5kQmk4R25PUFpkaWpQcFlYZndMNGlhNUdTR3pBTVE?oc=5"
+      "title": "개인투자자 1위 키움, 월가서 미국 주식 직접 중개…\"지금이 적기\" - 머니투데이 - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MQWt5clBGTTlFcWZydEprUlVtd2lRSGVVMHRzY2VPY1d1TTRwOXZ1VVUzLTd4Zlk5ekg4Qm9Ic0VBT0pPcG5ZN0p1SGF2NjNHbEtPQ0NIZ2dycWNzNFBIS1h6UWh1MFhP0gFuQVVfeXFMTUNxc212SWg4WWVQNWFPYTZKZTh1T3lzMko2N1RuTTR1cWdlZ3FaXzZPTjJRZGZrWGloU09QMkNuN2JBekJIa1pHMzlwbFpvM3huZ1JsWDJvY183YWttakNGRXVKOTBaZWNoeWVWLVE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
