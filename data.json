@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-29T03:18:17Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.29 12:18 (한국시간)",
+  "updatedAtISO": "2026-09-29T04:18:25Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.29 13:18 (한국시간)",
   "us10y": 5.17,
   "us30y": 5.49,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1359.1,
-  "usdJpy": 157.21,
-  "jpyKrw100": 864.5,
+  "usdKrw": 1358.22,
+  "usdJpy": 157.44,
+  "jpyKrw100": 862.67,
   "indices": {
     "kospi": {
-      "value": 6848.2,
-      "changePct": -0.6
+      "value": 6825.73,
+      "changePct": -0.93
     },
     "kosdaq": {
-      "value": 840.24,
-      "changePct": -0.75
+      "value": 841.47,
+      "changePct": -0.6
     },
     "sp500": {
       "value": 7683.69,
@@ -41,9 +41,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 기술주 약세에 일제히 하락 마감…나스닥 0.92%↓ - 서울신문",
-      "source": "서울신문",
+      "title": "[서울데이터랩] 미국 증시, 기술주 약세에 일제히 하락 마감…나스닥 0.92%↓ - seoul.co.kr",
+      "source": "seoul.co.kr",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qZWlPMFR3bm5IN2laa1JYeGlKNzhEZEVjbTk4SXRTUDl6NkgyeE50dFBaSmpHUGZhWWRLNjdNU2ZkUnVEZW04Mmt4S1pQUU9WekVDY2x1ZURPeF9oZVdCTzRfRFJ3eXVBRV9aOTlPYw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[3분증시] 뉴욕증시, 트럼프 제안 거부 소식에 하락 - 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43YXdkal8ta0RvcXNUaDRYUDFnZndMei1mZEJ2LU43VWxwdF90djMzb2dFOFRITUZ1WDBrcXRLaDFBdVl6OHRJZW5kQmk4R25PUFpkaWpQcFlYZndMNGlhNUdTR3pBTVE?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -56,12 +62,6 @@
       "title": "마이크론 실적 발표 \"미국 증시에 변곡점\" 평가, 코스피 반등에도 핵심 변수 - 비즈니스포스트",
       "source": "비즈니스포스트",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WR3J4UVBGRVRjOUM1Q0F2ZG0wcHA3NjRZQTZQa2JRRmlIUzA2YVFhcHNDSmQxbEYyd0ZHaWdkdDhhWFJQVnJwMlNpMW9pZU5YWU90bWlZblRRdWY1eUpCaDZCaG5zb3N5ekcxVWJnR2dOWE0?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "BoA, ‘정치보다 기업 실적’…S&P500 상승 68% 기업이익 동반 - 조선일보",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeTFqUzNxTm16TWY5cGhIdmRlTjhwaUljQWdkUGpvTFlVRi1BSDdaclFoZ0E3Z1cwV3ZOOUswQWJGMWJOVllOSHV2S3ZOLUtZMy15NzFrcl9KM3gxVkg2RDZDbjJnbFBCR0lvNi1RaU15MzluSjJ3TlJ5VTgyRHZxYQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
