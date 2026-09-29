@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-29T22:17:14Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.30 07:17 (한국시간)",
+  "updatedAtISO": "2026-09-29T23:16:14Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.30 08:16 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.56,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1352.39,
-  "usdJpy": 157.25,
-  "jpyKrw100": 860.03,
+  "usdKrw": 1353.14,
+  "usdJpy": 157.33,
+  "jpyKrw100": 860.06,
   "indices": {
     "kospi": {
       "value": 6870.81,
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "“美 중간선거 기다리지 마라… 100년 통계상 7주 전부터 증시 랠리 ” - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11MjhpcUlVZVk2Y3p4ZG5mRTRDdUN6Z01EZmVKZ3NnZ1BFd1dlWGJVZmF0YVBSSzlublVKLS1oOGtXTEdldE9aNzhoTFc4dzg?oc=5"
+      "title": "[EBN 데이터센터] 미국 증시 혼조 마감...다우·S&P500 하락, 반도체 강세에 나스닥100 상승 - ebn.co.kr",
+      "source": "ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mcldMY2R4TTAwTWN1cmlGU0lwZTZMZlB0eENoMkloT3ZrNU40Z1M2eGtxX3MxeEVzTFM3TnF4TUczdDUybDc4TnNDRUlyT1A3eE1UbHNxdnAzSnlOb0xNZEl3R0ZsVk9Z?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 선물, 채권 수익률 급등 및 AI 안전 우려 속 보합세 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sdEE4ZjUwN2l1NzF5Y3dpOEg2UFBkVVlmUkRRYUtWOFZGeFFySFNyS3BOQWdNVVRwNnBiMFN3TmFyUVhXRzAyZ2ZQa3ZaYnNIZS0ydWh2OGRBOTBHem1yWEVzd1BXQndiU1QzMlFEY0g?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "마이크론 실적 발표 \"미국 증시에 변곡점\" 평가, 코스피 반등에도 핵심 변수 - businesspost.co.kr",
-      "source": "businesspost.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WR3J4UVBGRVRjOUM1Q0F2ZG0wcHA3NjRZQTZQa2JRRmlIUzA2YVFhcHNDSmQxbEYyd0ZHaWdkdDhhWFJQVnJwMlNpMW9pZU5YWU90bWlZblRRdWY1eUpCaDZCaG5zb3N5ekcxVWJnR2dOWE0?oc=5"
+      "title": "버티는 미국 증시, 불안한 이유 - 네이버 프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQl8wZk1Oc0Z1N1VXN1VlLXJCeVczR0UwZFV2RXhfcHpnbERHRVhDQ0JldV9RV21qRzcyMXM4cFdXU2FzSDIyVEN0VTNoR292T1dZTHNDZjc0Nnk1N0FSLVZ0ZmdraFhJM3lrSTdPcnpDTVdaQ3dMXzRZYlZ0cnFXWmlkdmFwVnVFUlFR?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "미국증시, 장기금리 급등에 하락…반도체 2%대 반등·SK하이닉스 ADR 강세 - 톱스타뉴스",
       "source": "톱스타뉴스",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qRWJwYWgxcUlyZzdodDVNQ0hZUlhmNWVKaHluX0FIYlNZUDJodXMtMS1vb1JHTlVOV09ZNU01eUN6RlpMYjRzT0pReEFWN3d0Y3JQZnNTUE05YXNjVUpvNXJBX0tXdE5lSlJ2VEdSM2VQUQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "“美 중간선거 기다리지 마라… 100년 통계상 7주 전부터 증시 랠리 ” - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11MjhpcUlVZVk2Y3p4ZG5mRTRDdUN6Z01EZmVKZ3NnZ1BFd1dlWGJVZmF0YVBSSzlublVKLS1oOGtXTEdldE9aNzhoTFc4dzg?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
