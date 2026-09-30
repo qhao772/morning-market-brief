@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-30T22:18:36Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.01 07:18 (한국시간)",
+  "updatedAtISO": "2026-09-30T23:16:00Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.01 08:16 (한국시간)",
   "us10y": 5.26,
   "us30y": 5.59,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1356.54,
-  "usdJpy": 157.37,
-  "jpyKrw100": 862.0,
+  "usdKrw": 1356.82,
+  "usdJpy": 157.38,
+  "jpyKrw100": 862.14,
   "indices": {
     "kospi": {
       "value": 6838.04,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 사상 최고치 경신—한 레스토랑 체인은 이번 주 11% 급등 - kr.investing.com",
-      "source": "kr.investing.com",
+      "title": "美증시 강세장 정점 임박했나…NDR \"드문 기술적 경고 신호\" - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NZndMbWxhRlpnMlJVZGh5Y1JEZGtXNXFTelVuMzNtUEluNlZwVHM5cTVyZkV6VU1vUFpUOVNDODFZRlM5THA2VElIbHZzbThxZHJFX3d3b0JBeW9YckVBd21hMWNSSU80dHpMUk5PbEdIQQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 증시 사상 최고치 경신—한 레스토랑 체인은 이번 주 11% 급등 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yY2NzWDJXMnNlRWFoVTJtMDhVdkw3R0pONmNIcm1xVGl4LVhlLVBFUS1ocHh1b1p3Q3ZUS09JWjRGa0ZPYlRhbkJsQnh2ZUpTNHZkVnhUQ2NTM21TVG04eXVDVlVBRGFRQTRqWDhPaGQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 예상 밑돈 PCE에 안도…강세 출발 - 연합뉴스",
-      "source": "연합뉴스",
+      "title": "뉴욕증시, 예상 밑돈 PCE에 안도…강세 출발 - yna.co.kr",
+      "source": "yna.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfRU9LMkttOW9mWDh4c1FqY3NOSzlyeFFXY2NXMzlOOU16VGNBVlZBZzRKa2VMVTZ1d1V2a3UzbzJVbllJa19HZEwwRmpWdlJRTlJmaV81OGQ1SFnSAWBBVV95cUxQVmdvQzgxbF95VlFzY1hGNGZxRGtoZng0a0U1R1V0OTg0bjZiQnJWTVNTQ00xVENLTGJ1V3EtMS11ZkdOMWJGQUQ5T2Q1WVlOSUkxOUxLMzI0VkRVQUg5cVo?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "반도체 장비주, 장 초반 오름세…미국 증시서 관련주 훈풍에 영향 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtZmRtcXUtbHNWSXdiN2xWZXRHSzRzYVhFTXVOM0RXMk1GOGpqSzl3cl8tck4tNEFILVFsUFBhUW1pcjBwc1hmbWUwaTJyNWpudWc?oc=5"
+      "title": "[3분증시] 뉴욕증시, 국채금리 급등 속 혼조 마감 - 연합뉴스 한민족센터",
+      "source": "연합뉴스 한민족센터",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YZmRXYjVvTHNJYk1kSjVRWFZpLWNELTBSRVpaeHlqRDZyZ0VIS3RMQTU0Sm01aWh4TVE1cU53SUNKTzFoTkJYNjVOczBCQm5nMW9BMGtwRlZoZ3QyOUhrNG9OSGpTaklBVl9VLS1ZMUs4N1JE?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 주식이 갑자기 반등하는 이유? - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHFiak13cHl4b1VSUGpEbFdqZjZHRFNlX1RmYVBlbmhYdjlUV1RHUldMMUVrR1BKb3NCUDVuZlotaE9XNVRlOEhrSUJ3SEtkRjdjMmM5SExpZFBISG9kTHFZNGhjdkJ6SjgydmYwX3lTV01hYXhKbDZjSzQ4YnB2c24xcFZYR2V0WGRN?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시 혼조마감, 장기금리 급등에도 나스닥 지킨 AI와 반도체 투자심리 - topstarnews.net",
-      "source": "topstarnews.net",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByR3VFTzFEUmc5Yi1Eby1jcUZUR2hiV3JIRlRjclhqcGdkM1hDVjNIaVNtNTFIOVlDU3NnZVZTTHdic1kzdU5oeVRTdGNEb05ldnZSUGlfNmIwT1NGZFlJdzQxeWt2RG93YXlQMkN6U19qUQ?oc=5"
+      "title": "4분기 투자 1순위는 미국·한국 아닌 '이 나라'?…\"이익 추정치 폭등\" - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHSE1tWUtJTkZ0eXBYa2R0NWVlVlJkYUhtUWQ5a2FDOXh1NzFNTHJqTDV1NVh4Y0ljc05zTVlEakx6QzNhcmFrbS1wS1BuaGhjY0FsNFROUzV6Zw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
