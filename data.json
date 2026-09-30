@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-30T14:21:32Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.30 23:21 (한국시간)",
+  "updatedAtISO": "2026-09-30T15:22:09Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.01 00:22 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.56,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1352.83,
-  "usdJpy": 156.8,
-  "jpyKrw100": 862.8,
+  "usdKrw": 1355.44,
+  "usdJpy": 157.22,
+  "jpyKrw100": 862.12,
   "indices": {
     "kospi": {
       "value": 6838.04,
@@ -20,16 +20,16 @@
       "changePct": 0.72
     },
     "sp500": {
-      "value": 7718.57,
-      "changePct": 0.62
+      "value": 7710.24,
+      "changePct": 0.51
     },
     "nasdaq": {
-      "value": 27068.13,
-      "changePct": 1.01
+      "value": 27036.8,
+      "changePct": 0.89
     },
     "sox": {
-      "value": 12624.56,
-      "changePct": -0.04
+      "value": 12584.84,
+      "changePct": -0.35
     }
   },
   "issues": [
@@ -47,6 +47,12 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "뉴욕증시, 예상 밑돈 PCE에 안도…강세 출발 - 연합뉴스",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfRU9LMkttOW9mWDh4c1FqY3NOSzlyeFFXY2NXMzlOOU16VGNBVlZBZzRKa2VMVTZ1d1V2a3UzbzJVbllJa19HZEwwRmpWdlJRTlJmaV81OGQ1SFnSAWBBVV95cUxQVmdvQzgxbF95VlFzY1hGNGZxRGtoZng0a0U1R1V0OTg0bjZiQnJWTVNTQ00xVENLTGJ1V3EtMS11ZkdOMWJGQUQ5T2Q1WVlOSUkxOUxLMzI0VkRVQUg5cVo?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[서울데이터랩]미국 증시 혼조 마감…반도체 강세 속 다우·S＆P500 약세 - 서울신문",
       "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZXhhQkR6TGl4TTlkT2dRQmxESFZ5eHE1SWt2dU4xdDNlWnRvWmd4TmxFOXE2cldYcm9ZU2FzNHVOTmtadDZkd2dUYkVqN2xDbU9mTWlQcEp4NFd6RGVOeV9PMXctU0RHd0xfWVQzZlhFaTd4cW13Xzcyclpqdw?oc=5"
@@ -56,12 +62,6 @@
       "title": "뉴욕증시 프리뷰, 주가 선물 약보합…PCE·GDP 앞두고 국채 금리 경계 - 뉴스핌",
       "source": "뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ybWFSX01mVnpTWmp0SGl5S003eXFPRzVnT0N5M2lIZU1RZXNpSS0ydElOWTRWUjA3cjVsMjVxbnA2SjFUQTdWSFdhVnNRdVNfcFFGRkJqWjhZOGhi?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "버티는 미국 증시, 불안한 이유 - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQl8wZk1Oc0Z1N1VXN1VlLXJCeVczR0UwZFV2RXhfcHpnbERHRVhDQ0JldV9RV21qRzcyMXM4cFdXU2FzSDIyVEN0VTNoR292T1dZTHNDZjc0Nnk1N0FSLVZ0ZmdraFhJM3lrSTdPcnpDTVdaQ3dMXzRZYlZ0cnFXWmlkdmFwVnVFUlFR?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
