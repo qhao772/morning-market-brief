@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-30T12:26:57Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.30 21:26 (한국시간)",
+  "updatedAtISO": "2026-09-30T13:21:24Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.30 22:21 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.56,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1354.05,
-  "usdJpy": 157.0,
-  "jpyKrw100": 862.46,
+  "usdKrw": 1353.43,
+  "usdJpy": 156.91,
+  "jpyKrw100": 862.56,
   "indices": {
     "kospi": {
       "value": 6838.04,
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "버티는 미국 증시, 불안한 이유 - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQl8wZk1Oc0Z1N1VXN1VlLXJCeVczR0UwZFV2RXhfcHpnbERHRVhDQ0JldV9RV21qRzcyMXM4cFdXU2FzSDIyVEN0VTNoR292T1dZTHNDZjc0Nnk1N0FSLVZ0ZmdraFhJM3lrSTdPcnpDTVdaQ3dMXzRZYlZ0cnFXWmlkdmFwVnVFUlFR?oc=5"
+      "title": "뉴욕증시 프리뷰, 주가 선물 약보합…PCE·GDP 앞두고 국채 금리 경계 - 뉴스핌",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ybWFSX01mVnpTWmp0SGl5S003eXFPRzVnT0N5M2lIZU1RZXNpSS0ydElOWTRWUjA3cjVsMjVxbnA2SjFUQTdWSFdhVnNRdVNfcFFGRkJqWjhZOGhi?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "여전한 경계심에 미 증시 약보합 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5obER2azJlVVM2aHdBVkNFNDl0Tkp4YmthYkgyaFNVRE5KaWppM2VvYTdkZEhCRER3UzBiWWRWU0xZTHlOMDJrbXQ0bGxqVmRKTjRKME9zb3duSzVROWpILXpYbnV5dkpKcFFhYg?oc=5"
+      "title": "버티는 미국 증시, 불안한 이유 - 네이버 프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQl8wZk1Oc0Z1N1VXN1VlLXJCeVczR0UwZFV2RXhfcHpnbERHRVhDQ0JldV9RV21qRzcyMXM4cFdXU2FzSDIyVEN0VTNoR292T1dZTHNDZjc0Nnk1N0FSLVZ0ZmdraFhJM3lrSTdPcnpDTVdaQ3dMXzRZYlZ0cnFXWmlkdmFwVnVFUlFR?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
