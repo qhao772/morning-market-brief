@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-30T06:23:32Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.30 15:23 (한국시간)",
+  "updatedAtISO": "2026-09-30T07:20:10Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.30 16:20 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.56,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1353.48,
-  "usdJpy": 156.81,
-  "jpyKrw100": 863.11,
+  "usdKrw": 1351.98,
+  "usdJpy": 156.71,
+  "jpyKrw100": 862.75,
   "indices": {
     "kospi": {
-      "value": 6858.59,
-      "changePct": -0.18
+      "value": 6838.04,
+      "changePct": -0.48
     },
     "kosdaq": {
-      "value": 855.38,
-      "changePct": 0.66
+      "value": 855.91,
+      "changePct": 0.72
     },
     "sp500": {
       "value": 7670.84,
@@ -53,8 +53,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "추석 연휴에도 바빴던 서학개미가 쓸어담은 종목은 - etnews.com",
-      "source": "etnews.com",
+      "title": "추석 연휴에도 바빴던 서학개미가 쓸어담은 종목은 - 전자신문",
+      "source": "전자신문",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoSlB2VkdIeWJXaTd6Z0NnUmU4THM4bTVKY1N6WWlZNFo2R2pUalUtWXVOajU4NnkzUUYxeTlBcWpFN3VlWk53YWxuRFJDQQ?oc=5"
     },
     {
