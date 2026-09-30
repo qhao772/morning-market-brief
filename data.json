@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-30T19:18:54Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.01 04:18 (한국시간)",
-  "us10y": 5.24,
-  "us30y": 5.56,
+  "updatedAtISO": "2026-09-30T20:18:35Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.01 05:18 (한국시간)",
+  "us10y": 5.26,
+  "us30y": 5.59,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1355.37,
-  "usdJpy": 157.35,
-  "jpyKrw100": 861.35,
+  "usdKrw": 1356.38,
+  "usdJpy": 157.46,
+  "jpyKrw100": 861.39,
   "indices": {
     "kospi": {
       "value": 6838.04,
@@ -20,16 +20,16 @@
       "changePct": 0.72
     },
     "sp500": {
-      "value": 7695.05,
-      "changePct": 0.32
+      "value": 7651.54,
+      "changePct": -0.25
     },
     "nasdaq": {
-      "value": 27022.82,
-      "changePct": 0.84
+      "value": 26861.06,
+      "changePct": 0.24
     },
     "sox": {
-      "value": 12654.17,
-      "changePct": 0.2
+      "value": 12628.62,
+      "changePct": -0.0
     }
   },
   "issues": [
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시 혼조 마감…반도체 강세 속 다우·S＆P500 약세 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZXhhQkR6TGl4TTlkT2dRQmxESFZ5eHE1SWt2dU4xdDNlWnRvWmd4TmxFOXE2cldYcm9ZU2FzNHVOTmtadDZkd2dUYkVqN2xDbU9mTWlQcEp4NFd6RGVOeV9PMXctU0RHd0xfWVQzZlhFaTd4cW13Xzcyclpqdw?oc=5"
+      "title": "뉴욕증시 프리뷰, 주가 선물 약보합…PCE·GDP 앞두고 국채 금리 경계 - 뉴스핌",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ybWFSX01mVnpTWmp0SGl5S003eXFPRzVnT0N5M2lIZU1RZXNpSS0ydElOWTRWUjA3cjVsMjVxbnA2SjFUQTdWSFdhVnNRdVNfcFFGRkJqWjhZOGhi?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
