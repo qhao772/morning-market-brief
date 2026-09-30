@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-30T00:26:09Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.30 09:26 (한국시간)",
+  "updatedAtISO": "2026-09-30T01:18:23Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.30 10:18 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.56,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1353.78,
-  "usdJpy": 157.33,
-  "jpyKrw100": 860.45,
+  "usdKrw": 1357.18,
+  "usdJpy": 156.97,
+  "jpyKrw100": 864.61,
   "indices": {
     "kospi": {
-      "value": 6935.43,
-      "changePct": 0.94
+      "value": 6930.31,
+      "changePct": 0.87
     },
     "kosdaq": {
-      "value": 859.25,
-      "changePct": 1.11
+      "value": 860.05,
+      "changePct": 1.21
     },
     "sp500": {
       "value": 7670.84,
@@ -35,15 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시 혼조 마감…반도체 강세 속 다우·S＆P500 약세 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZXhhQkR6TGl4TTlkT2dRQmxESFZ5eHE1SWt2dU4xdDNlWnRvWmd4TmxFOXE2cldYcm9ZU2FzNHVOTmtadDZkd2dUYkVqN2xDbU9mTWlQcEp4NFd6RGVOeV9PMXctU0RHd0xfWVQzZlhFaTd4cW13Xzcyclpqdw?oc=5"
+      "title": "미국 증시 선물 소폭 상승…국채 금리 숨 고르기, 유가 급락 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NcEQ5QnBTMDk2VG1ZQklMSGNFZmJWN2pDdV9nOV9hMkVBQk0wT2RBUnUzbVVSNG5sZXN2N1RvaDdXZlJtanZHVWdNN3JVUm5mVmRIOWVjZUE2UkpTT0lQeVFYZldNeWdGbDhYMUZ0LWo?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[EBN 데이터센터] 미국 증시 혼조 마감...다우·S&P500 하락, 반도체 강세에 나스닥100 상승 - ebn.co.kr",
-      "source": "ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mcldMY2R4TTAwTWN1cmlGU0lwZTZMZlB0eENoMkloT3ZrNU40Z1M2eGtxX3MxeEVzTFM3TnF4TUczdDUybDc4TnNDRUlyT1A3eE1UbHNxdnAzSnlOb0xNZEl3R0ZsVk9Z?oc=5"
+      "title": "[서울데이터랩]미국 증시 혼조 마감…반도체 강세 속 다우·S＆P500 약세 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jZXhhQkR6TGl4TTlkT2dRQmxESFZ5eHE1SWt2dU4xdDNlWnRvWmd4TmxFOXE2cldYcm9ZU2FzNHVOTmtadDZkd2dUYkVqN2xDbU9mTWlQcEp4NFd6RGVOeV9PMXctU0RHd0xfWVQzZlhFaTd4cW13Xzcyclpqdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "중간선거 이후 미국증시, 4분기는 숨고르기·내년은 반등 전망 [오늘 나온 보고서] - 매일경제",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FdjFSYlhGa2VJdmRHWGNDTlZ1eS1KRkZrbE4tS2QtckozbXM2UEllZkY2OEpKSmVlYUk4b1haeUg5YzMxY3M0cnVCUWZ0REkyaEE?oc=5"
+      "title": "美 30년물 국채 금리 24년 만에 최고…뉴욕 증시 이틀째 하락 - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ2JRX0NPaVhSaUdXNm1XYnZlTkN1UENIcjVVSldpNnktMGw5Y2xuNENDZS1pWXlsRmVIOGViNkdMV2JPNEJYUG5vb0N4Z1RBNGNLakhmcmRjbDBSYmVCZ1loenhUNnJ0cVljSGI5ekJpZXU3X3R1cTNrTXpWay1valVVSGxFZ3U3?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[Book리뷰] ‘절대 흔들리지 않는 미국 주식 투자’, 시장이 두려울수록 데이터를 보라 - 파이낸셜리뷰",
-      "source": "파이낸셜리뷰",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WLWVuSFBCNEpDVjlfTmhWN2FNTFo4Z2xkY0lVLS1IYk9iQUVoUDYyV1RrSk13VFN0NW9UdWYzOXM4cTNVYXFUNy1seG5QX29jOVllQ3RnRXJrY1ZXMzA0RFh5VkRkcFUzckFOSjAzUVZYY1BO?oc=5"
+      "title": "[EBN 데이터센터] 미국 증시 혼조 마감...다우·S&P500 하락, 반도체 강세에 나스닥100 상승 - ebn.co.kr",
+      "source": "ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mcldMY2R4TTAwTWN1cmlGU0lwZTZMZlB0eENoMkloT3ZrNU40Z1M2eGtxX3MxeEVzTFM3TnF4TUczdDUybDc4TnNDRUlyT1A3eE1UbHNxdnAzSnlOb0xNZEl3R0ZsVk9Z?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
