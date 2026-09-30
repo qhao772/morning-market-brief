@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-30T17:18:52Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.01 02:18 (한국시간)",
+  "updatedAtISO": "2026-09-30T18:20:32Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.01 03:20 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.56,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1354.65,
-  "usdJpy": 157.24,
-  "jpyKrw100": 861.5,
+  "usdKrw": 1355.3,
+  "usdJpy": 157.34,
+  "jpyKrw100": 861.4,
   "indices": {
     "kospi": {
       "value": 6838.04,
@@ -20,16 +20,16 @@
       "changePct": 0.72
     },
     "sp500": {
-      "value": 7700.17,
-      "changePct": 0.38
+      "value": 7699.13,
+      "changePct": 0.37
     },
     "nasdaq": {
-      "value": 27021.45,
-      "changePct": 0.84
+      "value": 27033.46,
+      "changePct": 0.88
     },
     "sox": {
-      "value": 12595.18,
-      "changePct": -0.27
+      "value": 12640.81,
+      "changePct": 0.09
     }
   },
   "issues": [
@@ -53,14 +53,14 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 주식이 갑자기 반등하는 이유? - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
+      "title": "미국 주식이 갑자기 반등하는 이유? - contents.premium.naver.com",
+      "source": "contents.premium.naver.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHFiak13cHl4b1VSUGpEbFdqZjZHRFNlX1RmYVBlbmhYdjlUV1RHUldMMUVrR1BKb3NCUDVuZlotaE9XNVRlOEhrSUJ3SEtkRjdjMmM5SExpZFBISG9kTHFZNGhjdkJ6SjgydmYwX3lTV01hYXhKbDZjSzQ4YnB2c24xcFZYR2V0WGRN?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시 프리뷰, 주가 선물 약보합…PCE·GDP 앞두고 국채 금리 경계 - newspim.com",
-      "source": "newspim.com",
+      "title": "뉴욕증시 프리뷰, 주가 선물 약보합…PCE·GDP 앞두고 국채 금리 경계 - 뉴스핌",
+      "source": "뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ybWFSX01mVnpTWmp0SGl5S003eXFPRzVnT0N5M2lIZU1RZXNpSS0ydElOWTRWUjA3cjVsMjVxbnA2SjFUQTdWSFdhVnNRdVNfcFFGRkJqWjhZOGhi?oc=5"
     }
   ],
