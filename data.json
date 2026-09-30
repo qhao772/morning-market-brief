@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-29T23:16:14Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.30 08:16 (한국시간)",
+  "updatedAtISO": "2026-09-30T00:26:09Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.30 09:26 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.56,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1353.14,
+  "usdKrw": 1353.78,
   "usdJpy": 157.33,
-  "jpyKrw100": 860.06,
+  "jpyKrw100": 860.45,
   "indices": {
     "kospi": {
-      "value": 6870.81,
-      "changePct": -0.28
+      "value": 6935.43,
+      "changePct": 0.94
     },
     "kosdaq": {
-      "value": 849.8,
-      "changePct": 0.38
+      "value": 859.25,
+      "changePct": 1.11
     },
     "sp500": {
       "value": 7670.84,
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시, 장기금리 급등에 하락…반도체 2%대 반등·SK하이닉스 ADR 강세 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qRWJwYWgxcUlyZzdodDVNQ0hZUlhmNWVKaHluX0FIYlNZUDJodXMtMS1vb1JHTlVOV09ZNU01eUN6RlpMYjRzT0pReEFWN3d0Y3JQZnNTUE05YXNjVUpvNXJBX0tXdE5lSlJ2VEdSM2VQUQ?oc=5"
+      "title": "중간선거 이후 미국증시, 4분기는 숨고르기·내년은 반등 전망 [오늘 나온 보고서] - 매일경제",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FdjFSYlhGa2VJdmRHWGNDTlZ1eS1KRkZrbE4tS2QtckozbXM2UEllZkY2OEpKSmVlYUk4b1haeUg5YzMxY3M0cnVCUWZ0REkyaEE?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "“美 중간선거 기다리지 마라… 100년 통계상 7주 전부터 증시 랠리 ” - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11MjhpcUlVZVk2Y3p4ZG5mRTRDdUN6Z01EZmVKZ3NnZ1BFd1dlWGJVZmF0YVBSSzlublVKLS1oOGtXTEdldE9aNzhoTFc4dzg?oc=5"
+      "title": "[Book리뷰] ‘절대 흔들리지 않는 미국 주식 투자’, 시장이 두려울수록 데이터를 보라 - 파이낸셜리뷰",
+      "source": "파이낸셜리뷰",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WLWVuSFBCNEpDVjlfTmhWN2FNTFo4Z2xkY0lVLS1IYk9iQUVoUDYyV1RrSk13VFN0NW9UdWYzOXM4cTNVYXFUNy1seG5QX29jOVllQ3RnRXJrY1ZXMzA0RFh5VkRkcFUzckFOSjAzUVZYY1BO?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
