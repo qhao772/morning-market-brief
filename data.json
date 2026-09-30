@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-30T03:19:10Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.30 12:19 (한국시간)",
+  "updatedAtISO": "2026-09-30T04:20:27Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.30 13:20 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.56,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1355.82,
-  "usdJpy": 156.62,
-  "jpyKrw100": 865.67,
+  "usdKrw": 1356.46,
+  "usdJpy": 156.93,
+  "jpyKrw100": 864.36,
   "indices": {
     "kospi": {
-      "value": 6856.63,
-      "changePct": -0.21
+      "value": 6852.49,
+      "changePct": -0.27
     },
     "kosdaq": {
-      "value": 855.32,
-      "changePct": 0.65
+      "value": 857.3,
+      "changePct": 0.88
     },
     "sp500": {
       "value": 7670.84,
@@ -53,14 +53,14 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "추석 연휴 돈 몰렸다…서학개미, 美 빅테크·반도체 쓸어담아 - 전자신문",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBoSlB2VkdIeWJXaTd6Z0NnUmU4THM4bTVKY1N6WWlZNFo2R2pUalUtWXVOajU4NnkzUUYxeTlBcWpFN3VlWk53YWxuRFJDQQ?oc=5"
+      "title": "버티는 미국 증시, 불안한 이유 - 네이버 프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQl8wZk1Oc0Z1N1VXN1VlLXJCeVczR0UwZFV2RXhfcHpnbERHRVhDQ0JldV9RV21qRzcyMXM4cFdXU2FzSDIyVEN0VTNoR292T1dZTHNDZjc0Nnk1N0FSLVZ0ZmdraFhJM3lrSTdPcnpDTVdaQ3dMXzRZYlZ0cnFXWmlkdmFwVnVFUlFR?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "여전한 경계심에 미 증시 약보합 - KB Think",
-      "source": "KB Think",
+      "title": "여전한 경계심에 미 증시 약보합 - kbthink.com",
+      "source": "kbthink.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5obER2azJlVVM2aHdBVkNFNDl0Tkp4YmthYkgyaFNVRE5KaWppM2VvYTdkZEhCRER3UzBiWWRWU0xZTHlOMDJrbXQ0bGxqVmRKTjRKME9zb3duSzVROWpILXpYbnV5dkpKcFFhYg?oc=5"
     }
   ],
