@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-09-30T07:20:10Z",
-  "updatedAtLabel": "자동 갱신: 2026.09.30 16:20 (한국시간)",
+  "updatedAtISO": "2026-09-30T08:21:00Z",
+  "updatedAtLabel": "자동 갱신: 2026.09.30 17:21 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.56,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1351.98,
-  "usdJpy": 156.71,
-  "jpyKrw100": 862.75,
+  "usdKrw": 1352.08,
+  "usdJpy": 156.96,
+  "jpyKrw100": 861.43,
   "indices": {
     "kospi": {
       "value": 6838.04,
@@ -35,15 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 선물 소폭 상승…국채 금리 숨 고르기, 유가 급락 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NcEQ5QnBTMDk2VG1ZQklMSGNFZmJWN2pDdV9nOV9hMkVBQk0wT2RBUnUzbVVSNG5sZXN2N1RvaDdXZlJtanZHVWdNN3JVUm5mVmRIOWVjZUE2UkpTT0lQeVFYZldNeWdGbDhYMUZ0LWo?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "반도체 장비주, 장 초반 오름세…미국 증시서 관련주 훈풍에 영향 - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtZmRtcXUtbHNWSXdiN2xWZXRHSzRzYVhFTXVOM0RXMk1GOGpqSzl3cl8tck4tNEFILVFsUFBhUW1pcjBwc1hmbWUwaTJyNWpudWc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 증시 선물 소폭 상승…국채 금리 숨 고르기, 유가 급락 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NcEQ5QnBTMDk2VG1ZQklMSGNFZmJWN2pDdV9nOV9hMkVBQk0wT2RBUnUzbVVSNG5sZXN2N1RvaDdXZlJtanZHVWdNN3JVUm5mVmRIOWVjZUE2UkpTT0lQeVFYZldNeWdGbDhYMUZ0LWo?oc=5"
     },
     {
       "tag": "시장 뉴스",
