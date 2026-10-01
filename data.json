@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-01T16:18:19Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.02 01:18 (한국시간)",
+  "updatedAtISO": "2026-10-01T17:18:28Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.02 02:18 (한국시간)",
   "us10y": 5.26,
   "us30y": 5.59,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1363.3,
-  "usdJpy": 157.56,
-  "jpyKrw100": 865.27,
+  "usdKrw": 1362.51,
+  "usdJpy": 157.73,
+  "jpyKrw100": 863.82,
   "indices": {
     "kospi": {
       "value": 6971.35,
@@ -20,16 +20,16 @@
       "changePct": 4.48
     },
     "sp500": {
-      "value": 7644.11,
-      "changePct": -0.1
+      "value": 7650.87,
+      "changePct": -0.01
     },
     "nasdaq": {
-      "value": 26820.56,
-      "changePct": -0.15
+      "value": 26839.6,
+      "changePct": -0.08
     },
     "sox": {
-      "value": 12729.59,
-      "changePct": 0.8
+      "value": 12778.27,
+      "changePct": 1.19
     }
   },
   "issues": [
@@ -59,8 +59,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "美국채 5%대, 주식 수익률과 같아졌다…증시 ‘위험선’은 7% - 조선일보",
-      "source": "조선일보",
+      "title": "美국채 5%대, 주식 수익률과 같아졌다…증시 ‘위험선’은 7% - chosun.com",
+      "source": "chosun.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON1MyRENDR01OaHhkWG9KZ1A5VXNEWlNGUWcydndmODhGNHEtUU9wYzBBTWpwQ2NMSGRBeFY2SlNnekxXeUdNV0MzRThhbEN0OWJaUURfRjVlUnBTVzFyOHhNZEhTMUJrZTRXbFdrLWxoUkNsTnV5dG4wRzh5VVV1Mw?oc=5"
     }
   ],
