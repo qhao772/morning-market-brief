@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-01T19:19:06Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.02 04:19 (한국시간)",
-  "us10y": 5.26,
-  "us30y": 5.59,
+  "updatedAtISO": "2026-10-01T20:18:49Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.02 05:18 (한국시간)",
+  "us10y": 5.29,
+  "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1361.97,
-  "usdJpy": 158.07,
-  "jpyKrw100": 861.62,
+  "usdKrw": 1358.0,
+  "usdJpy": 158.05,
+  "jpyKrw100": 859.23,
   "indices": {
     "kospi": {
       "value": 6971.35,
@@ -20,36 +20,24 @@
       "changePct": 4.48
     },
     "sp500": {
-      "value": 7674.98,
-      "changePct": 0.31
+      "value": 7666.45,
+      "changePct": 0.2
     },
     "nasdaq": {
-      "value": 26924.39,
-      "changePct": 0.24
+      "value": 26871.6,
+      "changePct": 0.04
     },
     "sox": {
-      "value": 12820.87,
-      "changePct": 1.52
+      "value": 12829.0,
+      "changePct": 1.59
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "5%대 국채에도 美 증시가 버티고 있는 까닭은? - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00YnlwdGxJdU4tUUExM0NhbDNoNG15RGttdnVxMXJBeWZCWDRsX2RMQ1FaY3NCQXNpSDNDdkQwZmNUUmI5VXNyUGVFODh0UEU?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "\"AI 아니면 끝\"…美증시, 지난달 고금리에도 AI주만 웃었다 - KB Think",
       "source": "KB Think",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FT1ZMU3pLcGsxU0Utb1JTZWZMMDVNY2FMN0hoelphblFFS0ZYcDFqUndQZm5VTlRibHZ3d1FsckpQT1RZVjVKMTZNRkJvWk4yQXN6TS1KOXVSeVJJcU1KaVM5Tm9peVBLRnkzX3Y3aDhvdw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시 장초반 혼조…국채금리 급등에도 AI 메모리주 버텼다 - TopStarNews",
-      "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxOUJjRUMzOHQtd3B2a2lPX0pYMHRZZTJ1UXlpOEpFVXlja01YUGZYZEhPTkxhSE9Wblg4YnRuckx6TjlUUXdtUERhME1jbll3STFmVmtlOTFST2J6YjVMSWYtYU5CYS1fc3RYM3lxT1V4UQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "미국증시 장초반 혼조…국채금리 급등에도 AI 메모리주 버텼다 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxOUJjRUMzOHQtd3B2a2lPX0pYMHRZZTJ1UXlpOEpFVXlja01YUGZYZEhPTkxhSE9Wblg4YnRuckx6TjlUUXdtUERhME1jbll3STFmVmtlOTFST2J6YjVMSWYtYU5CYS1fc3RYM3lxT1V4UQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "SK하이닉스, 솔리다임 美 증시 상장 추진설 재해명…\"확정된 것 없어\" - 조세금융신문",
       "source": "조세금융신문",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyTVVsQmdJT0ttaUxwVDJoMFdrQjVoZzRlLW9SZzBYN1pINElvZDBGd1VUOGtZc1FmdGFQNDBMczhOYmpvbFRpNFVzOE9DUTlBX1lmeExXSW9IbkRubjl2b3BjRQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "반도체 장비주, 장 초반 오름세…미국 증시서 관련주 훈풍에 영향 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtZmRtcXUtbHNWSXdiN2xWZXRHSzRzYVhFTXVOM0RXMk1GOGpqSzl3cl8tck4tNEFILVFsUFBhUW1pcjBwc1hmbWUwaTJyNWpudWc?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
