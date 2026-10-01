@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-01T21:17:54Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.02 06:17 (한국시간)",
+  "updatedAtISO": "2026-10-01T22:16:40Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.02 07:16 (한국시간)",
   "us10y": 5.29,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1358.46,
-  "usdJpy": 158.03,
-  "jpyKrw100": 859.62,
+  "usdKrw": 1359.55,
+  "usdJpy": 158.1,
+  "jpyKrw100": 859.92,
   "indices": {
     "kospi": {
       "value": 6971.35,
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 상승세로 마감…나스닥 0.04%↑ - 블루밍비트",
-      "source": "블루밍비트",
+      "title": "상위 1%가 주식 절반을 쥔 뉴욕증시 랠리…미국 경제를 두 토막 내는 악어 경제 - 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcTA5bGlmN3FYeGpSczBaaWl5al9Kdzgxb1RiV2FjR01idUM4OUZlaWsxNHVJQ08xc09ROUpJS1lXZGpsTzB1X1dWeHNNbE0yZ003WUt4RVg3Skcyd1FYV0F2WE9WVEhId1JrTXEyNGx6ZUQwUTF5YjZKTkFyZmwxQ3VkV3hVb0x3?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "5%대 국채에도 美 증시가 버티고 있는 까닭은? - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRnNmdkM4dlZfRVptUjk3SDliZDFWczBDcTQ0SkwtS2xYODRTRDd4TDJqdFp1MUpDWnA2LVJ3UHlTY3dfbW01cDlJWGdJRnVzRkF2Zm9LeE80aV83emlTM3VZdDFzMjBrLXNJbUZUeVZseVh0d1poVTVNalR6eTRzRw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "뉴욕증시, 상승세로 마감…나스닥 0.04%↑ - bloomingbit.io",
+      "source": "bloomingbit.io",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tYXFfNHJsOWlOTEtQb2ZiVlI1M2w0QmtkNGxEZUw4aVYtNXEwMkEwYXlweVBHbE9XeWI3OWxIZktsU29rUEVrRFZZSU5ObEZq?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 장초반 혼조…국채금리 급등에도 AI 메모리주 버텼다 - TopStarNews",
+      "title": "미국증시 상승 마감…금리 급락에 반도체 반등 SK하이닉스 ADR 5%↑ - TopStarNews",
       "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxOUJjRUMzOHQtd3B2a2lPX0pYMHRZZTJ1UXlpOEpFVXlja01YUGZYZEhPTkxhSE9Wblg4YnRuckx6TjlUUXdtUERhME1jbll3STFmVmtlOTFST2J6YjVMSWYtYU5CYS1fc3RYM3lxT1V4UQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "\"AI 아니면 끝\"…美증시, 지난달 고금리에도 AI주만 웃었다 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FT1ZMU3pLcGsxU0Utb1JTZWZMMDVNY2FMN0hoelphblFFS0ZYcDFqUndQZm5VTlRibHZ3d1FsckpQT1RZVjVKMTZNRkJvWk4yQXN6TS1KOXVSeVJJcU1KaVM5Tm9peVBLRnkzX3Y3aDhvdw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "반도체 장비주, 장 초반 오름세…미국 증시서 관련주 훈풍에 영향 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtZmRtcXUtbHNWSXdiN2xWZXRHSzRzYVhFTXVOM0RXMk1GOGpqSzl3cl8tck4tNEFILVFsUFBhUW1pcjBwc1hmbWUwaTJyNWpudWc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtQ1l4dXJwZTR6Mm90WGdIUjZkSTdoM0t1V0hEcU9YZmlMSjlhc0NSUlZtZDQ0NVVRT2Q3ekNFYXFNeTFPUXkxWHRtODNxU2R0UDJGYVk1LUwxOEJiVzZtck1faWxTUzB4eDV5VmNMY2g2QQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
