@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-01T13:22:27Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.01 22:22 (한국시간)",
+  "updatedAtISO": "2026-10-01T14:21:28Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.01 23:21 (한국시간)",
   "us10y": 5.26,
   "us30y": 5.59,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1361.96,
-  "usdJpy": 157.99,
-  "jpyKrw100": 862.05,
+  "usdKrw": 1360.9,
+  "usdJpy": 158.04,
+  "jpyKrw100": 861.11,
   "indices": {
     "kospi": {
       "value": 6971.35,
@@ -20,16 +20,16 @@
       "changePct": 4.48
     },
     "sp500": {
-      "value": 7651.54,
-      "changePct": -0.25
+      "value": 7636.22,
+      "changePct": -0.2
     },
     "nasdaq": {
-      "value": 26861.06,
-      "changePct": 0.24
+      "value": 26831.59,
+      "changePct": -0.11
     },
     "sox": {
-      "value": 12628.62,
-      "changePct": -0.0
+      "value": 12633.72,
+      "changePct": 0.04
     }
   },
   "issues": [
@@ -38,6 +38,12 @@
       "title": "\"AI 아니면 끝\"…美증시, 지난달 고금리에도 AI주만 웃었다 - KB Think",
       "source": "KB Think",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FT1ZMU3pLcGsxU0Utb1JTZWZMMDVNY2FMN0hoelphblFFS0ZYcDFqUndQZm5VTlRibHZ3d1FsckpQT1RZVjVKMTZNRkJvWk4yQXN6TS1KOXVSeVJJcU1KaVM5Tm9peVBLRnkzX3Y3aDhvdw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시 장초반 혼조…국채금리 급등에도 AI 메모리주 버텼다 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxOUJjRUMzOHQtd3B2a2lPX0pYMHRZZTJ1UXlpOEpFVXlja01YUGZYZEhPTkxhSE9Wblg4YnRuckx6TjlUUXdtUERhME1jbll3STFmVmtlOTFST2J6YjVMSWYtYU5CYS1fc3RYM3lxT1V4UQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -56,12 +62,6 @@
       "title": "‘10월엔 주식 팔아라’ 겁먹었는데…10년 수익률 뜯어보니 뜻밖의 결과 - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fSE1zNE4xRlF0T090bm1lNWRPQzJmY0tCdzV0cmZ1eE9jb092a1RZUHotNllUSmpMQ1NKTDZjOWxGWk4yZVdpTVU0UjA5MW56UGc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[단독] 한은 \"韓 가상자산시장, 코스피보다 美 증시에 더 민감\" - 디지털애셋",
-      "source": "디지털애셋",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XVUY2S2JHMnEwQ3lNdmtwOHRGd0N2eFJUT3oyZlFZRmF5VVZhR3g5QlBxd2ZESEU5R1BHbHpBSngyV1VYNkpUeHExb2w0QVBiTHR5SHRXTU43cEJnR2tFc05VcW1lMFRUSjNuaGVTZWk0dw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
