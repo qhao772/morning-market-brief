@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-01T22:16:40Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.02 07:16 (한국시간)",
+  "updatedAtISO": "2026-10-01T23:14:50Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.02 08:14 (한국시간)",
   "us10y": 5.29,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1359.55,
-  "usdJpy": 158.1,
-  "jpyKrw100": 859.92,
+  "usdKrw": 1359.44,
+  "usdJpy": 157.97,
+  "jpyKrw100": 860.56,
   "indices": {
     "kospi": {
       "value": 6971.35,
@@ -35,6 +35,12 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "[3분증시] 뉴욕증시, 국채금리 급등락 속 강보합 마감 - 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjYjFuUjdxMUNyVkRoblFQRERjb0RyNlpvbjRKajgxeXdDOHNhMHRpZFNMajJwdi1TWlE2TTZZNjBRWXpNbm0zSU9ZelV0NlBET3BQRkswZ3hLdGZYMTNCdFZQdjV4eVk?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[서울데이터랩]미국 증시, 반도체 강세 속 주요 지수 혼조권 상승 마감 - 서울신문",
       "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPcklHeTVldTRuV2ZvT0ZIS2dldXREYm05ZjhPa08xMDdlV2NTY0NfRlBmdmtYY0FMZmxSazBfeXlkcUNIMEJvWnNJSFRBYm1vRmMxdkNsLV8zNkJ6STVTQWN6V0NqT0xabjZjMG9qX3lla3U2ZnRRVDJYMGZmdw?oc=5"
@@ -53,14 +59,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 상승세로 마감…나스닥 0.04%↑ - bloomingbit.io",
-      "source": "bloomingbit.io",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tYXFfNHJsOWlOTEtQb2ZiVlI1M2w0QmtkNGxEZUw4aVYtNXEwMkEwYXlweVBHbE9XeWI3OWxIZktsU29rUEVrRFZZSU5ObEZq?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시 상승 마감…금리 급락에 반도체 반등 SK하이닉스 ADR 5%↑ - TopStarNews",
-      "source": "TopStarNews",
+      "title": "미국증시 상승 마감…금리 급락에 반도체 반등 SK하이닉스 ADR 5%↑ - topstarnews.net",
+      "source": "topstarnews.net",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtQ1l4dXJwZTR6Mm90WGdIUjZkSTdoM0t1V0hEcU9YZmlMSjlhc0NSUlZtZDQ0NVVRT2Q3ekNFYXFNeTFPUXkxWHRtODNxU2R0UDJGYVk1LUwxOEJiVzZtck1faWxTUzB4eDV5VmNMY2g2QQ?oc=5"
     }
   ],
