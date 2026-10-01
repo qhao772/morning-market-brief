@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-01T11:18:23Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.01 20:18 (한국시간)",
+  "updatedAtISO": "2026-10-01T12:24:52Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.01 21:24 (한국시간)",
   "us10y": 5.26,
   "us30y": 5.59,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1363.43,
-  "usdJpy": 158.21,
-  "jpyKrw100": 861.81,
+  "usdKrw": 1361.98,
+  "usdJpy": 157.99,
+  "jpyKrw100": 862.05,
   "indices": {
     "kospi": {
       "value": 6971.35,
@@ -35,8 +35,8 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "\"AI 아니면 끝\"…美증시, 지난달 고금리에도 AI주만 웃었다 - kbthink.com",
-      "source": "kbthink.com",
+      "title": "\"AI 아니면 끝\"…美증시, 지난달 고금리에도 AI주만 웃었다 - KB Think",
+      "source": "KB Think",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FT1ZMU3pLcGsxU0Utb1JTZWZMMDVNY2FMN0hoelphblFFS0ZYcDFqUndQZm5VTlRibHZ3d1FsckpQT1RZVjVKMTZNRkJvWk4yQXN6TS1KOXVSeVJJcU1KaVM5Tm9peVBLRnkzX3Y3aDhvdw?oc=5"
     },
     {
