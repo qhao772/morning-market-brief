@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-09-30T23:16:00Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.01 08:16 (한국시간)",
+  "updatedAtISO": "2026-10-01T00:27:35Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.01 09:27 (한국시간)",
   "us10y": 5.26,
   "us30y": 5.59,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1356.82,
-  "usdJpy": 157.38,
-  "jpyKrw100": 862.14,
+  "usdKrw": 1358.63,
+  "usdJpy": 157.72,
+  "jpyKrw100": 861.43,
   "indices": {
     "kospi": {
-      "value": 6838.04,
-      "changePct": -0.48
+      "value": 6790.2,
+      "changePct": -0.7
     },
     "kosdaq": {
-      "value": 855.91,
-      "changePct": 0.72
+      "value": 854.76,
+      "changePct": -0.13
     },
     "sp500": {
       "value": 7651.54,
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "美국채 5%대, 주식 수익률과 같아졌다…증시 ‘위험선’은 7% - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON1MyRENDR01OaHhkWG9KZ1A5VXNEWlNGUWcydndmODhGNHEtUU9wYzBBTWpwQ2NMSGRBeFY2SlNnekxXeUdNV0MzRThhbEN0OWJaUURfRjVlUnBTVzFyOHhNZEhTMUJrZTRXbFdrLWxoUkNsTnV5dG4wRzh5VVV1Mw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "미국 증시 사상 최고치 경신—한 레스토랑 체인은 이번 주 11% 급등 - Investing.com 한국어",
       "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yY2NzWDJXMnNlRWFoVTJtMDhVdkw3R0pONmNIcm1xVGl4LVhlLVBFUS1ocHh1b1p3Q3ZUS09JWjRGa0ZPYlRhbkJsQnh2ZUpTNHZkVnhUQ2NTM21TVG04eXVDVlVBRGFRQTRqWDhPaGQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 예상 밑돈 PCE에 안도…강세 출발 - yna.co.kr",
-      "source": "yna.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfRU9LMkttOW9mWDh4c1FqY3NOSzlyeFFXY2NXMzlOOU16VGNBVlZBZzRKa2VMVTZ1d1V2a3UzbzJVbllJa19HZEwwRmpWdlJRTlJmaV81OGQ1SFnSAWBBVV95cUxQVmdvQzgxbF95VlFzY1hGNGZxRGtoZng0a0U1R1V0OTg0bjZiQnJWTVNTQ00xVENLTGJ1V3EtMS11ZkdOMWJGQUQ5T2Q1WVlOSUkxOUxLMzI0VkRVQUg5cVo?oc=5"
+      "title": "[3분증시] 뉴욕증시, 국채금리 급등 속 혼조 마감 - 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lczJWa0RhdDhGQUsxT3JjNnFsTUVCRC05NnhYUU8xYmNDaUFMVENOeHRVSVpPSXVwUjdFQVFXLVBITWEwUUFDRFJGSi1SZ3dUcHJLbg?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, 국채금리 급등 속 혼조 마감 - 연합뉴스 한민족센터",
-      "source": "연합뉴스 한민족센터",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YZmRXYjVvTHNJYk1kSjVRWFZpLWNELTBSRVpaeHlqRDZyZ0VIS3RMQTU0Sm01aWh4TVE1cU53SUNKTzFoTkJYNjVOczBCQm5nMW9BMGtwRlZoZ3QyOUhrNG9OSGpTaklBVl9VLS1ZMUs4N1JE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "4분기 투자 1순위는 미국·한국 아닌 '이 나라'?…\"이익 추정치 폭등\" - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHSE1tWUtJTkZ0eXBYa2R0NWVlVlJkYUhtUWQ5a2FDOXh1NzFNTHJqTDV1NVh4Y0ljc05zTVlEakx6QzNhcmFrbS1wS1BuaGhjY0FsNFROUzV6Zw?oc=5"
+      "title": "[미국증시] 근원 PCE 3.0%…골드만삭스 10월 인상론 철회 - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTa01UcFc4RUNtUzU5NE03OXBOc012RURCaDcwdFUyMW42Y3pZRlpDdUpaWXNsUTFTNnMyS1JCTURxVndpZWQwQmNGMFJyb244TWxpeFhNV3FXZlNvZ2xmZ2JaTnZXOG8?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
