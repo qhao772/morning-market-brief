@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-01T17:18:28Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.02 02:18 (한국시간)",
+  "updatedAtISO": "2026-10-01T18:22:59Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.02 03:22 (한국시간)",
   "us10y": 5.26,
   "us30y": 5.59,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1362.51,
-  "usdJpy": 157.73,
-  "jpyKrw100": 863.82,
+  "usdKrw": 1359.28,
+  "usdJpy": 158.15,
+  "jpyKrw100": 859.47,
   "indices": {
     "kospi": {
       "value": 6971.35,
@@ -20,16 +20,16 @@
       "changePct": 4.48
     },
     "sp500": {
-      "value": 7650.87,
-      "changePct": -0.01
+      "value": 7661.83,
+      "changePct": 0.13
     },
     "nasdaq": {
-      "value": 26839.6,
-      "changePct": -0.08
+      "value": 26888.84,
+      "changePct": 0.1
     },
     "sox": {
-      "value": 12778.27,
-      "changePct": 1.19
+      "value": 12806.42,
+      "changePct": 1.41
     }
   },
   "issues": [
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "SK하이닉스, 솔리다임 美 증시 상장 추진설 재해명…\"확정된 것 없어\" - 조세금융신문",
-      "source": "조세금융신문",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyTVVsQmdJT0ttaUxwVDJoMFdrQjVoZzRlLW9SZzBYN1pINElvZDBGd1VUOGtZc1FmdGFQNDBMczhOYmpvbFRpNFVzOE9DUTlBX1lmeExXSW9IbkRubjl2b3BjRQ?oc=5"
+      "title": "뉴욕증시, 혼조세로 전환…나스닥 0.18%↑ - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UU3ZrLUUwbzhZN21JRTN0NzBqQ0F2UkFnUmY3dFBFQ01UZEFGbkw5RDJ1cWREQnM5OG5zVy1WeHMwSTJHUlgxRDh6dXY0TkRn?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "美국채 5%대, 주식 수익률과 같아졌다…증시 ‘위험선’은 7% - chosun.com",
-      "source": "chosun.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON1MyRENDR01OaHhkWG9KZ1A5VXNEWlNGUWcydndmODhGNHEtUU9wYzBBTWpwQ2NMSGRBeFY2SlNnekxXeUdNV0MzRThhbEN0OWJaUURfRjVlUnBTVzFyOHhNZEhTMUJrZTRXbFdrLWxoUkNsTnV5dG4wRzh5VVV1Mw?oc=5"
+      "title": "SK하이닉스, 솔리다임 美 증시 상장 추진설 재해명…\"확정된 것 없어\" - 조세금융신문",
+      "source": "조세금융신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyTVVsQmdJT0ttaUxwVDJoMFdrQjVoZzRlLW9SZzBYN1pINElvZDBGd1VUOGtZc1FmdGFQNDBMczhOYmpvbFRpNFVzOE9DUTlBX1lmeExXSW9IbkRubjl2b3BjRQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
