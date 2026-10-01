@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-01T20:18:49Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.02 05:18 (한국시간)",
+  "updatedAtISO": "2026-10-01T21:17:54Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.02 06:17 (한국시간)",
   "us10y": 5.29,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1358.0,
-  "usdJpy": 158.05,
-  "jpyKrw100": 859.23,
+  "usdKrw": 1358.46,
+  "usdJpy": 158.03,
+  "jpyKrw100": 859.62,
   "indices": {
     "kospi": {
       "value": 6971.35,
@@ -35,15 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "\"AI 아니면 끝\"…美증시, 지난달 고금리에도 AI주만 웃었다 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FT1ZMU3pLcGsxU0Utb1JTZWZMMDVNY2FMN0hoelphblFFS0ZYcDFqUndQZm5VTlRibHZ3d1FsckpQT1RZVjVKMTZNRkJvWk4yQXN6TS1KOXVSeVJJcU1KaVM5Tm9peVBLRnkzX3Y3aDhvdw?oc=5"
+      "title": "[서울데이터랩]미국 증시, 반도체 강세 속 주요 지수 혼조권 상승 마감 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPcklHeTVldTRuV2ZvT0ZIS2dldXREYm05ZjhPa08xMDdlV2NTY0NfRlBmdmtYY0FMZmxSazBfeXlkcUNIMEJvWnNJSFRBYm1vRmMxdkNsLV8zNkJ6STVTQWN6V0NqT0xabjZjMG9qX3lla3U2ZnRRVDJYMGZmdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 혼조세로 전환…나스닥 0.18%↑ - 블루밍비트",
+      "title": "뉴욕증시, 상승세로 마감…나스닥 0.04%↑ - 블루밍비트",
       "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UU3ZrLUUwbzhZN21JRTN0NzBqQ0F2UkFnUmY3dFBFQ01UZEFGbkw5RDJ1cWREQnM5OG5zVy1WeHMwSTJHUlgxRDh6dXY0TkRn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tYXFfNHJsOWlOTEtQb2ZiVlI1M2w0QmtkNGxEZUw4aVYtNXEwMkEwYXlweVBHbE9XeWI3OWxIZktsU29rUEVrRFZZSU5ObEZq?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,9 +53,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "SK하이닉스, 솔리다임 美 증시 상장 추진설 재해명…\"확정된 것 없어\" - 조세금융신문",
-      "source": "조세금융신문",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyTVVsQmdJT0ttaUxwVDJoMFdrQjVoZzRlLW9SZzBYN1pINElvZDBGd1VUOGtZc1FmdGFQNDBMczhOYmpvbFRpNFVzOE9DUTlBX1lmeExXSW9IbkRubjl2b3BjRQ?oc=5"
+      "title": "\"AI 아니면 끝\"…美증시, 지난달 고금리에도 AI주만 웃었다 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FT1ZMU3pLcGsxU0Utb1JTZWZMMDVNY2FMN0hoelphblFFS0ZYcDFqUndQZm5VTlRibHZ3d1FsckpQT1RZVjVKMTZNRkJvWk4yQXN6TS1KOXVSeVJJcU1KaVM5Tm9peVBLRnkzX3Y3aDhvdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
