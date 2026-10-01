@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-01T15:20:08Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.02 00:20 (한국시간)",
+  "updatedAtISO": "2026-10-01T16:18:19Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.02 01:18 (한국시간)",
   "us10y": 5.26,
   "us30y": 5.59,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1362.71,
-  "usdJpy": 157.59,
-  "jpyKrw100": 864.71,
+  "usdKrw": 1363.3,
+  "usdJpy": 157.56,
+  "jpyKrw100": 865.27,
   "indices": {
     "kospi": {
       "value": 6971.35,
@@ -20,19 +20,25 @@
       "changePct": 4.48
     },
     "sp500": {
-      "value": 7637.47,
-      "changePct": -0.18
+      "value": 7644.11,
+      "changePct": -0.1
     },
     "nasdaq": {
-      "value": 26825.85,
-      "changePct": -0.13
+      "value": 26820.56,
+      "changePct": -0.15
     },
     "sox": {
-      "value": 12718.1,
-      "changePct": 0.71
+      "value": 12729.59,
+      "changePct": 0.8
     }
   },
   "issues": [
+    {
+      "tag": "시장 뉴스",
+      "title": "5%대 국채에도 美 증시가 버티고 있는 까닭은? - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00YnlwdGxJdU4tUUExM0NhbDNoNG15RGttdnVxMXJBeWZCWDRsX2RMQ1FaY3NCQXNpSDNDdkQwZmNUUmI5VXNyUGVFODh0UEU?oc=5"
+    },
     {
       "tag": "시장 뉴스",
       "title": "\"AI 아니면 끝\"…美증시, 지난달 고금리에도 AI주만 웃었다 - KB Think",
@@ -56,12 +62,6 @@
       "title": "美국채 5%대, 주식 수익률과 같아졌다…증시 ‘위험선’은 7% - 조선일보",
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON1MyRENDR01OaHhkWG9KZ1A5VXNEWlNGUWcydndmODhGNHEtUU9wYzBBTWpwQ2NMSGRBeFY2SlNnekxXeUdNV0MzRThhbEN0OWJaUURfRjVlUnBTVzFyOHhNZEhTMUJrZTRXbFdrLWxoUkNsTnV5dG4wRzh5VVV1Mw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "‘10월엔 주식 팔아라’ 겁먹었는데…10년 수익률 뜯어보니 뜻밖의 결과 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fSE1zNE4xRlF0T090bm1lNWRPQzJmY0tCdzV0cmZ1eE9jb092a1RZUHotNllUSmpMQ1NKTDZjOWxGWk4yZVdpTVU0UjA5MW56UGc?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
