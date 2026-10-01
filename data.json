@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-01T14:21:28Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.01 23:21 (한국시간)",
+  "updatedAtISO": "2026-10-01T15:20:08Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.02 00:20 (한국시간)",
   "us10y": 5.26,
   "us30y": 5.59,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1360.9,
-  "usdJpy": 158.04,
-  "jpyKrw100": 861.11,
+  "usdKrw": 1362.71,
+  "usdJpy": 157.59,
+  "jpyKrw100": 864.71,
   "indices": {
     "kospi": {
       "value": 6971.35,
@@ -20,16 +20,16 @@
       "changePct": 4.48
     },
     "sp500": {
-      "value": 7636.22,
-      "changePct": -0.2
+      "value": 7637.47,
+      "changePct": -0.18
     },
     "nasdaq": {
-      "value": 26831.59,
-      "changePct": -0.11
+      "value": 26825.85,
+      "changePct": -0.13
     },
     "sox": {
-      "value": 12633.72,
-      "changePct": 0.04
+      "value": 12718.1,
+      "changePct": 0.71
     }
   },
   "issues": [
@@ -47,15 +47,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "美국채 5%대, 주식 수익률과 같아졌다…증시 ‘위험선’은 7% - 조선일보",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON1MyRENDR01OaHhkWG9KZ1A5VXNEWlNGUWcydndmODhGNHEtUU9wYzBBTWpwQ2NMSGRBeFY2SlNnekxXeUdNV0MzRThhbEN0OWJaUURfRjVlUnBTVzFyOHhNZEhTMUJrZTRXbFdrLWxoUkNsTnV5dG4wRzh5VVV1Mw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "SK하이닉스, 솔리다임 美 증시 상장 추진설 재해명…\"확정된 것 없어\" - 조세금융신문",
       "source": "조세금융신문",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyTVVsQmdJT0ttaUxwVDJoMFdrQjVoZzRlLW9SZzBYN1pINElvZDBGd1VUOGtZc1FmdGFQNDBMczhOYmpvbFRpNFVzOE9DUTlBX1lmeExXSW9IbkRubjl2b3BjRQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "美국채 5%대, 주식 수익률과 같아졌다…증시 ‘위험선’은 7% - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON1MyRENDR01OaHhkWG9KZ1A5VXNEWlNGUWcydndmODhGNHEtUU9wYzBBTWpwQ2NMSGRBeFY2SlNnekxXeUdNV0MzRThhbEN0OWJaUURfRjVlUnBTVzFyOHhNZEhTMUJrZTRXbFdrLWxoUkNsTnV5dG4wRzh5VVV1Mw?oc=5"
     },
     {
       "tag": "시장 뉴스",
