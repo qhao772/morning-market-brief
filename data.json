@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-02T20:17:22Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.03 05:17 (한국시간)",
+  "updatedAtISO": "2026-10-02T21:17:45Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.03 06:17 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.61,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1343.31,
-  "usdJpy": 157.85,
-  "jpyKrw100": 850.98,
+  "usdKrw": 1342.51,
+  "usdJpy": 157.83,
+  "jpyKrw100": 850.61,
   "indices": {
     "kospi": {
       "value": 7003.74,
@@ -35,8 +35,8 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "유럽증시, 유로존 인플레이션과 미국의 고용 지표 소화하며 일제히 상승 - 뉴스핌",
-      "source": "뉴스핌",
+      "title": "유럽증시, 유로존 인플레이션과 미국의 고용 지표 소화하며 일제히 상승 - newspim.com",
+      "source": "newspim.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xbzY0T0JmcExyYXFQVkRHUTB6M21Xb3B6S3FCcG5kUmhWWFZxbm8xOGNPQ2J0ckxWbEVBSFFCcV9kdk5SYmVQaFJidTF2cDJkNVEzRktfWXliWjhL?oc=5"
     },
     {
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시, 반도체 강세 속 주요 지수 혼조권 상승 마감 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPcklHeTVldTRuV2ZvT0ZIS2dldXREYm05ZjhPa08xMDdlV2NTY0NfRlBmdmtYY0FMZmxSazBfeXlkcUNIMEJvWnNJSFRBYm1vRmMxdkNsLV8zNkJ6STVTQWN6V0NqT0xabjZjMG9qX3lla3U2ZnRRVDJYMGZmdw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "미국증시 고용둔화에 장초반 급등…금리·유가 하락에 AI반도체 강세 - TopStarNews",
       "source": "TopStarNews",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83ZUVMekRRVTlKY3hEMkt3UHBaeUhqODJ3NjB6UVUzampNbk16VmJlUGpuNlJNNE43ZWFRWTZFRkJFaHc3b0IxbEdGbnFYdE5qaFdLR1FwN1BnQ1FhZmtGTWhrYmVybFEtUUNqeEVTOG5zZw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[서울데이터랩]미국 증시, 반도체 강세 속 주요 지수 혼조권 상승 마감 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPcklHeTVldTRuV2ZvT0ZIS2dldXREYm05ZjhPa08xMDdlV2NTY0NfRlBmdmtYY0FMZmxSazBfeXlkcUNIMEJvWnNJSFRBYm1vRmMxdkNsLV8zNkJ6STVTQWN6V0NqT0xabjZjMG9qX3lla3U2ZnRRVDJYMGZmdw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
