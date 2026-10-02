@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-01T23:14:50Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.02 08:14 (한국시간)",
+  "updatedAtISO": "2026-10-02T00:26:09Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.02 09:26 (한국시간)",
   "us10y": 5.29,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1359.44,
-  "usdJpy": 157.97,
-  "jpyKrw100": 860.56,
+  "usdKrw": 1363.88,
+  "usdJpy": 158.03,
+  "jpyKrw100": 863.08,
   "indices": {
     "kospi": {
-      "value": 6971.35,
-      "changePct": 1.95
+      "value": 6949.9,
+      "changePct": -0.31
     },
     "kosdaq": {
-      "value": 894.29,
-      "changePct": 4.48
+      "value": 899.8,
+      "changePct": 0.62
     },
     "sp500": {
       "value": 7666.45,
@@ -35,15 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, 국채금리 급등락 속 강보합 마감 - 연합뉴스TV",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjYjFuUjdxMUNyVkRoblFQRERjb0RyNlpvbjRKajgxeXdDOHNhMHRpZFNMajJwdi1TWlE2TTZZNjBRWXpNbm0zSU9ZelV0NlBET3BQRkswZ3hLdGZYMTNCdFZQdjV4eVk?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "[서울데이터랩]미국 증시, 반도체 강세 속 주요 지수 혼조권 상승 마감 - 서울신문",
       "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPcklHeTVldTRuV2ZvT0ZIS2dldXREYm05ZjhPa08xMDdlV2NTY0NfRlBmdmtYY0FMZmxSazBfeXlkcUNIMEJvWnNJSFRBYm1vRmMxdkNsLV8zNkJ6STVTQWN6V0NqT0xabjZjMG9qX3lla3U2ZnRRVDJYMGZmdw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[3분증시] 뉴욕증시, 국채금리 급등락 속 강보합 마감 - 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzV01LT25UMWRnOFpJWU5pZG1oaWE1R0U2Y3ZWQ3hhQU44bktyVFFsbUJNZExLZ0lmdE1Fa2RNMFlpaEFxLWI0RV9RaEdnMXRCR2VBQw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "5%대 국채에도 美 증시가 버티고 있는 까닭은? - 조선일보",
-      "source": "조선일보",
+      "title": "5%대 국채에도 美 증시가 버티고 있는 까닭은? - chosun.com",
+      "source": "chosun.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRnNmdkM4dlZfRVptUjk3SDliZDFWczBDcTQ0SkwtS2xYODRTRDd4TDJqdFp1MUpDWnA2LVJ3UHlTY3dfbW01cDlJWGdJRnVzRkF2Zm9LeE80aV83emlTM3VZdDFzMjBrLXNJbUZUeVZseVh0d1poVTVNalR6eTRzRw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 상승 마감…금리 급락에 반도체 반등 SK하이닉스 ADR 5%↑ - topstarnews.net",
-      "source": "topstarnews.net",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtQ1l4dXJwZTR6Mm90WGdIUjZkSTdoM0t1V0hEcU9YZmlMSjlhc0NSUlZtZDQ0NVVRT2Q3ekNFYXFNeTFPUXkxWHRtODNxU2R0UDJGYVk1LUwxOEJiVzZtck1faWxTUzB4eDV5VmNMY2g2QQ?oc=5"
+      "title": "[굿모닝 증시]韓증시 소폭 상승 전망…\"美 고용지표 주목하는 시장\" - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15am85Ui1wbk8xeGxsSlZtdEZNemhDemFFVk0xZUdBTDNqVDl3VmlCTXVLTDB0R3dsVDJWY0xFdFh4MWFYT0liWXRwTlJNekU?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
