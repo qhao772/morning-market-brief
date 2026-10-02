@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-02T03:18:29Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.02 12:18 (한국시간)",
+  "updatedAtISO": "2026-10-02T04:19:09Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.02 13:19 (한국시간)",
   "us10y": 5.29,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1357.82,
-  "usdJpy": 157.93,
-  "jpyKrw100": 859.77,
+  "usdKrw": 1357.38,
+  "usdJpy": 157.91,
+  "jpyKrw100": 859.6,
   "indices": {
     "kospi": {
-      "value": 6985.99,
-      "changePct": 0.21
+      "value": 6974.55,
+      "changePct": 0.05
     },
     "kosdaq": {
-      "value": 894.17,
-      "changePct": -0.01
+      "value": 888.16,
+      "changePct": -0.69
     },
     "sp500": {
       "value": 7666.45,
@@ -59,8 +59,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "상위 1%가 주식 절반을 쥔 뉴욕증시 랠리…미국 경제를 두 토막 내는 악어 경제 - g-enews.com",
-      "source": "g-enews.com",
+      "title": "상위 1%가 주식 절반을 쥔 뉴욕증시 랠리…미국 경제를 두 토막 내는 악어 경제 - 글로벌이코노믹",
+      "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcTA5bGlmN3FYeGpSczBaaWl5al9Kdzgxb1RiV2FjR01idUM4OUZlaWsxNHVJQ08xc09ROUpJS1lXZGpsTzB1X1dWeHNNbE0yZ003WUt4RVg3Skcyd1FYV0F2WE9WVEhId1JrTXEyNGx6ZUQwUTF5YjZKTkFyZmwxQ3VkV3hVb0x3?oc=5"
     }
   ],
