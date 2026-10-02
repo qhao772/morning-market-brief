@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-02T17:18:19Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.03 02:18 (한국시간)",
+  "updatedAtISO": "2026-10-02T18:22:26Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.03 03:22 (한국시간)",
   "us10y": 5.29,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1345.89,
-  "usdJpy": 157.8,
-  "jpyKrw100": 852.89,
+  "usdKrw": 1345.47,
+  "usdJpy": 157.83,
+  "jpyKrw100": 852.5,
   "indices": {
     "kospi": {
       "value": 7003.74,
@@ -20,16 +20,16 @@
       "changePct": -0.11
     },
     "sp500": {
-      "value": 7724.17,
-      "changePct": 0.75
+      "value": 7716.12,
+      "changePct": 0.65
     },
     "nasdaq": {
-      "value": 27195.4,
-      "changePct": 1.21
+      "value": 27162.78,
+      "changePct": 1.08
     },
     "sox": {
-      "value": 13159.75,
-      "changePct": 2.58
+      "value": 13130.34,
+      "changePct": 2.35
     }
   },
   "issues": [
@@ -38,6 +38,12 @@
       "title": "미국 증시 선물 소폭 상승, 비농업 고용지표 주목 - Investing.com 한국어",
       "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80RzNBcW5UM2dEZXN4MnE4RlJtUExxX19qMFJSVUtWa2xSdzdvX1VHLTl2NE9MNXNaazRIVVU5d1dyd2xMWEx2SnFleFdpd2Rtc1NrVnBONmZFWGJ0dFN3bHZQTmhTU3R6aHFka05Xa1U?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "유럽증시, 유로존 인플레이션과 미국의 고용 지표 소화하며 일제히 상승 - newspim.com",
+      "source": "newspim.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xbzY0T0JmcExyYXFQVkRHUTB6M21Xb3B6S3FCcG5kUmhWWFZxbm8xOGNPQ2J0ckxWbEVBSFFCcV9kdk5SYmVQaFJidTF2cDJkNVEzRktfWXliWjhL?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,14 +59,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국 특징주] 로빈후드 주식 토큰발 투기 열풍...주식이 밈코인의 '판돈'으로 - 뉴스핌",
-      "source": "뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qaFRCRTNsOURMb3RNWGJreWozejlDb1liTDhueE1hQjVOeFJRZjF6Rkxzd3RsTkVEb1Ewbk1wdDN3SzZIR1RrRDVxWWlJSUxkMFRxRDQxVHBCUlRr?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "금리 하락에 미 증시 10월 상승 출발 - kbthink.com",
-      "source": "kbthink.com",
+      "title": "금리 하락에 미 증시 10월 상승 출발 - KB Think",
+      "source": "KB Think",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ROVRCdTZYQWt6OFpWVHhQOVItVnZJRXNvdWtYRXJFQ1Atei1YMlFZTmwtQlJMTnY0TWk2MkIyRlp6dXNFR05fS2FyWTFubXBtWms4TkhXdFV0M3U5T0FTQXRBYXUwYkFEV0NpaA?oc=5"
     }
   ],
