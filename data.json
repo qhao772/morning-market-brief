@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-02T05:17:47Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.02 14:17 (한국시간)",
+  "updatedAtISO": "2026-10-02T06:23:17Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.02 15:23 (한국시간)",
   "us10y": 5.29,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1354.98,
-  "usdJpy": 157.82,
-  "jpyKrw100": 858.53,
+  "usdKrw": 1349.92,
+  "usdJpy": 157.69,
+  "jpyKrw100": 856.05,
   "indices": {
     "kospi": {
-      "value": 6985.01,
-      "changePct": 0.2
+      "value": 6986.62,
+      "changePct": 0.22
     },
     "kosdaq": {
-      "value": 892.44,
-      "changePct": -0.21
+      "value": 891.5,
+      "changePct": -0.31
     },
     "sp500": {
       "value": 7666.45,
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "5%대 국채에도 美 증시가 버티고 있는 까닭은? - 조선일보",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRnNmdkM4dlZfRVptUjk3SDliZDFWczBDcTQ0SkwtS2xYODRTRDd4TDJqdFp1MUpDWnA2LVJ3UHlTY3dfbW01cDlJWGdJRnVzRkF2Zm9LeE80aV83emlTM3VZdDFzMjBrLXNJbUZUeVZseVh0d1poVTVNalR6eTRzRw?oc=5"
+      "title": "블룸버그 \"SK하이닉스 대규모 상장으로 3분기 미국 IPO 시장 활력 유지\" - theguru.co.kr",
+      "source": "theguru.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrT1dlTFFrZzNyaGdOa3BzTmszTXlpUUF4ZzdmaUFkZkxXS0Q3ZEJMNmhCZWNFaW0tc082OW5rS2lZLUVpcllBWkVmOUFkR3M4MWlqejhQMVJtUjJSSjdEcFZKMA?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, 국채금리 급등락 속 강보합 마감 - 연합뉴스TV",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzV01LT25UMWRnOFpJWU5pZG1oaWE1R0U2Y3ZWQ3hhQU44bktyVFFsbUJNZExLZ0lmdE1Fa2RNMFlpaEFxLWI0RV9RaEdnMXRCR2VBQw?oc=5"
+      "title": "5%대 국채에도 美 증시가 버티고 있는 까닭은? - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRnNmdkM4dlZfRVptUjk3SDliZDFWczBDcTQ0SkwtS2xYODRTRDd4TDJqdFp1MUpDWnA2LVJ3UHlTY3dfbW01cDlJWGdJRnVzRkF2Zm9LeE80aV83emlTM3VZdDFzMjBrLXNJbUZUeVZseVh0d1poVTVNalR6eTRzRw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
