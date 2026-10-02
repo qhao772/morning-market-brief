@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-02T11:17:34Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.02 20:17 (한국시간)",
+  "updatedAtISO": "2026-10-02T12:23:09Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.02 21:23 (한국시간)",
   "us10y": 5.29,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1348.19,
-  "usdJpy": 157.76,
-  "jpyKrw100": 854.58,
+  "usdKrw": 1348.74,
+  "usdJpy": 157.66,
+  "jpyKrw100": 855.5,
   "indices": {
     "kospi": {
       "value": 7003.74,
@@ -47,12 +47,6 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국증시] 켄 피셔 \"중간선거 기적\"…3년차 수익률 17.1% - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WOE53OHhDcFdqSnRsM3g1RHNuUmtIWXlZRUplcWktc1FWdlluVDhGOWxjZFNORUFTbk1fYjRCNU1mVEF6ZG5JY1puWG56bkxyQ09IVFhYSFlXeVNHYkZ3bTBKWmNtM3c?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "블룸버그 \"SK하이닉스 대규모 상장으로 3분기 미국 IPO 시장 활력 유지\" - 더구루",
       "source": "더구루",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrT1dlTFFrZzNyaGdOa3BzTmszTXlpUUF4ZzdmaUFkZkxXS0Q3ZEJMNmhCZWNFaW0tc082OW5rS2lZLUVpcllBWkVmOUFkR3M4MWlqejhQMVJtUjJSSjdEcFZKMA?oc=5"
@@ -62,6 +56,12 @@
       "title": "[3분증시] 뉴욕증시, 국채금리 급등락 속 강보합 마감 - 연합뉴스TV",
       "source": "연합뉴스TV",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzV01LT25UMWRnOFpJWU5pZG1oaWE1R0U2Y3ZWQ3hhQU44bktyVFFsbUJNZExLZ0lmdE1Fa2RNMFlpaEFxLWI0RV9RaEdnMXRCR2VBQw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "상위 1%가 주식 절반을 쥔 뉴욕증시 랠리…미국 경제를 두 토막 내는 악어 경제 - 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcTA5bGlmN3FYeGpSczBaaWl5al9Kdzgxb1RiV2FjR01idUM4OUZlaWsxNHVJQ08xc09ROUpJS1lXZGpsTzB1X1dWeHNNbE0yZ003WUt4RVg3Skcyd1FYV0F2WE9WVEhId1JrTXEyNGx6ZUQwUTF5YjZKTkFyZmwxQ3VkV3hVb0x3?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
