@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-02T15:20:25Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.03 00:20 (한국시간)",
+  "updatedAtISO": "2026-10-02T16:19:00Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.03 01:19 (한국시간)",
   "us10y": 5.29,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1346.18,
-  "usdJpy": 157.69,
-  "jpyKrw100": 853.66,
+  "usdKrw": 1344.96,
+  "usdJpy": 157.75,
+  "jpyKrw100": 852.57,
   "indices": {
     "kospi": {
       "value": 7003.74,
@@ -20,16 +20,16 @@
       "changePct": -0.11
     },
     "sp500": {
-      "value": 7708.23,
-      "changePct": 0.55
+      "value": 7725.63,
+      "changePct": 0.77
     },
     "nasdaq": {
-      "value": 27143.9,
-      "changePct": 1.01
+      "value": 27222.25,
+      "changePct": 1.3
     },
     "sox": {
-      "value": 13166.4,
-      "changePct": 2.63
+      "value": 13238.34,
+      "changePct": 3.19
     }
   },
   "issues": [
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "금리 하락에 미 증시 10월 상승 출발 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ROVRCdTZYQWt6OFpWVHhQOVItVnZJRXNvdWtYRXJFQ1Atei1YMlFZTmwtQlJMTnY0TWk2MkIyRlp6dXNFR05fS2FyWTFubXBtWms4TkhXdFV0M3U5T0FTQXRBYXUwYkFEV0NpaA?oc=5"
+      "title": "[미국 특징주] 로빈후드 주식 토큰발 투기 열풍...주식이 밈코인의 '판돈'으로 - 뉴스핌",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qaFRCRTNsOURMb3RNWGJreWozejlDb1liTDhueE1hQjVOeFJRZjF6Rkxzd3RsTkVEb1Ewbk1wdDN3SzZIR1RrRDVxWWlJSUxkMFRxRDQxVHBCUlRr?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "블룸버그 \"SK하이닉스 대규모 상장으로 3분기 미국 IPO 시장 활력 유지\" - 더구루",
-      "source": "더구루",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrT1dlTFFrZzNyaGdOa3BzTmszTXlpUUF4ZzdmaUFkZkxXS0Q3ZEJMNmhCZWNFaW0tc082OW5rS2lZLUVpcllBWkVmOUFkR3M4MWlqejhQMVJtUjJSSjdEcFZKMA?oc=5"
+      "title": "금리 하락에 미 증시 10월 상승 출발 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ROVRCdTZYQWt6OFpWVHhQOVItVnZJRXNvdWtYRXJFQ1Atei1YMlFZTmwtQlJMTnY0TWk2MkIyRlp6dXNFR05fS2FyWTFubXBtWms4TkhXdFV0M3U5T0FTQXRBYXUwYkFEV0NpaA?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
