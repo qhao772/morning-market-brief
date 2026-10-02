@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-02T22:17:13Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.03 07:17 (한국시간)",
+  "updatedAtISO": "2026-10-02T23:14:26Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.03 08:14 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.61,
   "fedFundsLow": 3.75,
@@ -35,9 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "유럽증시, 유로존 인플레이션과 미국의 고용 지표 소화하며 일제히 상승 - 뉴스핌",
-      "source": "뉴스핌",
+      "title": "유럽증시, 유로존 인플레이션과 미국의 고용 지표 소화하며 일제히 상승 - newspim.com",
+      "source": "newspim.com",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xbzY0T0JmcExyYXFQVkRHUTB6M21Xb3B6S3FCcG5kUmhWWFZxbm8xOGNPQ2J0ckxWbEVBSFFCcV9kdk5SYmVQaFJidTF2cDJkNVEzRktfWXliWjhL?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시, 고용 둔화에 상승…금리 재반등에도 반도체·테슬라 강세 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aMHBLRWpqYXhvUGtzTk9IU1VPeUxEOHl0YkRuRW51RFo4eThMMWQxTEtSMm1rcFZ0dnVTSHBJTGpKczNsRXRtM2hkYWNxNGRXSElQUW5Hc0JLSHVBT254QzdqeWFReHlLLTVDMzJITTlSQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,21 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 상승세로 전환…나스닥 1.10%↑ - 블루밍비트",
-      "source": "블루밍비트",
+      "title": "뉴욕증시, 상승세로 전환…나스닥 1.10%↑ - bloomingbit.io",
+      "source": "bloomingbit.io",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zRDZsNzByc1dMMV9wT2pxbDltZWtNWk9BODI1TER0QndySnJoVmItZlBUODNxdjNrTTFTSnZ1UllHOEtJOEttTW5Ld2ZWSXRZ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시, 반도체 강세 속 주요 지수 혼조권 상승 마감 - seoul.co.kr",
-      "source": "seoul.co.kr",
+      "title": "[서울데이터랩]미국 증시, 반도체 강세 속 주요 지수 혼조권 상승 마감 - 서울신문",
+      "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPcklHeTVldTRuV2ZvT0ZIS2dldXREYm05ZjhPa08xMDdlV2NTY0NfRlBmdmtYY0FMZmxSazBfeXlkcUNIMEJvWnNJSFRBYm1vRmMxdkNsLV8zNkJ6STVTQWN6V0NqT0xabjZjMG9qX3lla3U2ZnRRVDJYMGZmdw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시 고용둔화에 장초반 급등…금리·유가 하락에 AI반도체 강세 - TopStarNews",
-      "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83ZUVMekRRVTlKY3hEMkt3UHBaeUhqODJ3NjB6UVUzampNbk16VmJlUGpuNlJNNE43ZWFRWTZFRkJFaHc3b0IxbEdGbnFYdE5qaFdLR1FwN1BnQ1FhZmtGTWhrYmVybFEtUUNqeEVTOG5zZw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
