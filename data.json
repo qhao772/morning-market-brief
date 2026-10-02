@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-02T16:19:00Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.03 01:19 (한국시간)",
+  "updatedAtISO": "2026-10-02T17:18:19Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.03 02:18 (한국시간)",
   "us10y": 5.29,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1344.96,
-  "usdJpy": 157.75,
-  "jpyKrw100": 852.57,
+  "usdKrw": 1345.89,
+  "usdJpy": 157.8,
+  "jpyKrw100": 852.89,
   "indices": {
     "kospi": {
       "value": 7003.74,
@@ -20,16 +20,16 @@
       "changePct": -0.11
     },
     "sp500": {
-      "value": 7725.63,
-      "changePct": 0.77
+      "value": 7724.17,
+      "changePct": 0.75
     },
     "nasdaq": {
-      "value": 27222.25,
-      "changePct": 1.3
+      "value": 27195.4,
+      "changePct": 1.21
     },
     "sox": {
-      "value": 13238.34,
-      "changePct": 3.19
+      "value": 13159.75,
+      "changePct": 2.58
     }
   },
   "issues": [
@@ -59,8 +59,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "금리 하락에 미 증시 10월 상승 출발 - KB Think",
-      "source": "KB Think",
+      "title": "금리 하락에 미 증시 10월 상승 출발 - kbthink.com",
+      "source": "kbthink.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ROVRCdTZYQWt6OFpWVHhQOVItVnZJRXNvdWtYRXJFQ1Atei1YMlFZTmwtQlJMTnY0TWk2MkIyRlp6dXNFR05fS2FyWTFubXBtWms4TkhXdFV0M3U5T0FTQXRBYXUwYkFEV0NpaA?oc=5"
     }
   ],
