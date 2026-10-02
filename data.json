@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-02T00:26:09Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.02 09:26 (한국시간)",
+  "updatedAtISO": "2026-10-02T01:18:21Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.02 10:18 (한국시간)",
   "us10y": 5.29,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1363.88,
-  "usdJpy": 158.03,
-  "jpyKrw100": 863.08,
+  "usdKrw": 1362.58,
+  "usdJpy": 158.18,
+  "jpyKrw100": 861.43,
   "indices": {
     "kospi": {
-      "value": 6949.9,
-      "changePct": -0.31
+      "value": 6993.36,
+      "changePct": 0.32
     },
     "kosdaq": {
-      "value": 899.8,
-      "changePct": 0.62
+      "value": 903.44,
+      "changePct": 1.02
     },
     "sp500": {
       "value": 7666.45,
@@ -41,6 +41,12 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "5%대 국채에도 美 증시가 버티고 있는 까닭은? - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRnNmdkM4dlZfRVptUjk3SDliZDFWczBDcTQ0SkwtS2xYODRTRDd4TDJqdFp1MUpDWnA2LVJ3UHlTY3dfbW01cDlJWGdJRnVzRkF2Zm9LeE80aV83emlTM3VZdDFzMjBrLXNJbUZUeVZseVh0d1poVTVNalR6eTRzRw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[3분증시] 뉴욕증시, 국채금리 급등락 속 강보합 마감 - 연합뉴스TV",
       "source": "연합뉴스TV",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzV01LT25UMWRnOFpJWU5pZG1oaWE1R0U2Y3ZWQ3hhQU44bktyVFFsbUJNZExLZ0lmdE1Fa2RNMFlpaEFxLWI0RV9RaEdnMXRCR2VBQw?oc=5"
@@ -53,15 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "5%대 국채에도 美 증시가 버티고 있는 까닭은? - chosun.com",
-      "source": "chosun.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRnNmdkM4dlZfRVptUjk3SDliZDFWczBDcTQ0SkwtS2xYODRTRDd4TDJqdFp1MUpDWnA2LVJ3UHlTY3dfbW01cDlJWGdJRnVzRkF2Zm9LeE80aV83emlTM3VZdDFzMjBrLXNJbUZUeVZseVh0d1poVTVNalR6eTRzRw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[굿모닝 증시]韓증시 소폭 상승 전망…\"美 고용지표 주목하는 시장\" - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15am85Ui1wbk8xeGxsSlZtdEZNemhDemFFVk0xZUdBTDNqVDl3VmlCTXVLTDB0R3dsVDJWY0xFdFh4MWFYT0liWXRwTlJNekU?oc=5"
+      "title": "美국채 금리 따라 등락 반복한 뉴욕증시…강보합 마감(종합) - 연합뉴스",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pNEFldzlESHl2NnlYU2xQaG1OTFpmb1NZdl9kRmRTTVh4OFppUXpQbDA5cEVldU5HRmt2WVhqWDRMUlM2b0prQk5CbzVnbERvQkpnTkxtd2pObzTSAWBBVV95cUxNclljaVdsdmFUX2VEV19uVGd0LV9xMGNJb092ZzVEcV9Ya3dFSzlLbDRoY0ljSUtVRnpmTjBvcS1aeFFoTHNmeTZyRnZ3OU1YNE13c0JkNnVzQnV6akwyeUs?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
