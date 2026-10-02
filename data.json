@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-02T06:23:17Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.02 15:23 (한국시간)",
+  "updatedAtISO": "2026-10-02T07:19:50Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.02 16:19 (한국시간)",
   "us10y": 5.29,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1349.92,
-  "usdJpy": 157.69,
-  "jpyKrw100": 856.05,
+  "usdKrw": 1350.48,
+  "usdJpy": 157.84,
+  "jpyKrw100": 855.59,
   "indices": {
     "kospi": {
-      "value": 6986.62,
-      "changePct": 0.22
+      "value": 7003.74,
+      "changePct": 0.47
     },
     "kosdaq": {
-      "value": 891.5,
-      "changePct": -0.31
+      "value": 893.29,
+      "changePct": -0.11
     },
     "sp500": {
       "value": 7666.45,
@@ -35,27 +35,27 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시, 반도체 강세 속 주요 지수 혼조권 상승 마감 - 서울신문",
-      "source": "서울신문",
+      "title": "[서울데이터랩]미국 증시, 반도체 강세 속 주요 지수 혼조권 상승 마감 - seoul.co.kr",
+      "source": "seoul.co.kr",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPcklHeTVldTRuV2ZvT0ZIS2dldXREYm05ZjhPa08xMDdlV2NTY0NfRlBmdmtYY0FMZmxSazBfeXlkcUNIMEJvWnNJSFRBYm1vRmMxdkNsLV8zNkJ6STVTQWN6V0NqT0xabjZjMG9qX3lla3U2ZnRRVDJYMGZmdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "금리 하락에 미 증시 10월 상승 출발 - KB Think",
-      "source": "KB Think",
+      "title": "금리 하락에 미 증시 10월 상승 출발 - kbthink.com",
+      "source": "kbthink.com",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ROVRCdTZYQWt6OFpWVHhQOVItVnZJRXNvdWtYRXJFQ1Atei1YMlFZTmwtQlJMTnY0TWk2MkIyRlp6dXNFR05fS2FyWTFubXBtWms4TkhXdFV0M3U5T0FTQXRBYXUwYkFEV0NpaA?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "블룸버그 \"SK하이닉스 대규모 상장으로 3분기 미국 IPO 시장 활력 유지\" - 더구루",
+      "source": "더구루",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrT1dlTFFrZzNyaGdOa3BzTmszTXlpUUF4ZzdmaUFkZkxXS0Q3ZEJMNmhCZWNFaW0tc082OW5rS2lZLUVpcllBWkVmOUFkR3M4MWlqejhQMVJtUjJSSjdEcFZKMA?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "[미국증시] 켄 피셔 \"중간선거 기적\"…3년차 수익률 17.1% - 자본시장뉴스",
       "source": "자본시장뉴스",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WOE53OHhDcFdqSnRsM3g1RHNuUmtIWXlZRUplcWktc1FWdlluVDhGOWxjZFNORUFTbk1fYjRCNU1mVEF6ZG5JY1puWG56bkxyQ09IVFhYSFlXeVNHYkZ3bTBKWmNtM3c?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "블룸버그 \"SK하이닉스 대규모 상장으로 3분기 미국 IPO 시장 활력 유지\" - theguru.co.kr",
-      "source": "theguru.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrT1dlTFFrZzNyaGdOa3BzTmszTXlpUUF4ZzdmaUFkZkxXS0Q3ZEJMNmhCZWNFaW0tc082OW5rS2lZLUVpcllBWkVmOUFkR3M4MWlqejhQMVJtUjJSSjdEcFZKMA?oc=5"
     },
     {
       "tag": "시장 뉴스",
