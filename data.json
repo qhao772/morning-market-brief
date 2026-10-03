@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-03T13:24:59Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.03 22:24 (한국시간)",
+  "updatedAtISO": "2026-10-03T18:32:03Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.04 03:32 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.61,
   "fedFundsLow": 3.75,
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "\"美 토큰화 주식 거래, 10건 중 7건은 정규장 밖에서 이뤄져\" - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xOWZoZHBoZFNXbHZhN09oTEhiRkhXc3Q0ZlM3V2Jxa3VLTUFXWUVPUXdVVkF0aE1ESTA2dVUxd3pnY3Rud3htU3JmTnUxUVJn?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "\"이 신호 보이면 위험\"…서학개미 떨게 한 '시나리오' 뭐길래 [분석+] - 한국경제",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OZUFQTGlGVVFnaVpGaWU0d1owYWs3cm54cHZyLUU5X3lLUlVqekh3VC12bmlXQWxaZktyeHNWZFQ1alF5VVBZVUV6RUp3Q0NBMUItZUZBMEY5QQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "美 고용 둔화 속...미국증시 '상승', 나스닥 '활짝' - 초이스경제",
-      "source": "초이스경제",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VT3M2SnNmQVBRcXZITTJodExPM2t3TW95MTZxSjA4ZFJ1djEtVHZoVTdoLWE5U0xsd0pINEJlQ3J0UXJHMWg5T19vbmcyR2lwbXpKcnlSdUVuMVBLQWs5VnpyejFKV3ZHOXJ2STcyRnHSAXNBVV95cUxOc192TnQ2LXJ2TnZfcTR5cktHUVpwRFpBYVdYZ2Jwcko0V0VzRkpGeUpDZEtDWGFIWGZneEtEU253OS1RUHE1RVZ6bzM5X3ppRGdPZmxzaVloeVdrUXZsRU94dm1OTS0tYV9VemlBU21NMW1n?oc=5"
+      "title": "미국 증시 선물 소폭 상승, 비농업 고용지표 주목 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80RzNBcW5UM2dEZXN4MnE4RlJtUExxX19qMFJSVUtWa2xSdzdvX1VHLTl2NE9MNXNaazRIVVU5d1dyd2xMWEx2SnFleFdpd2Rtc1NrVnBONmZFWGJ0dFN3bHZQTmhTU3R6aHFka05Xa1U?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 10월 금리 인상 기대 후퇴에 상승 마감 - 뉴스핌",
+      "title": "미국투자이민 EB-5 수수료 조정…접수비 인상 - 뉴스핌",
       "source": "뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aM3lSMmlSTDBYSjFxSWZhdHRqV3lGZTRuaUFYeEl6TXFGSlpkb25kcWZFR256OV9zMExWVWdGR1lMMVhqQzZGSDNUNnY1YUhoeUFWdEIyQ2JjeElk?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "美증시 23시간 체제로…서학개미 '주간거래' 판 커진다 - ebn.co.kr",
-      "source": "ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oUXVaQXBmQUJxX3FBTmc3alBKeldGcFlKVTdpSEsyYlVuTWhVRDRJU2dDcWstSHl3dklLejItbnR2MHgxRlFHb1l3X1pOU0xOOFFSN2lXUzJSQWdVYVFYMWtxcXY4MUU4?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YMHgycFVDdkNCMU95QmRaalNsV1NyNG92aV85bzZrLVJpc0VzcmpqdU1tUi1mblFlOGFfQW94R253VUUzN21ZY2dYbjFGMmpmZF9neXE3cFRVZk1B?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
