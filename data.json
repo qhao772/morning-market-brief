@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-03T04:18:52Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.03 13:18 (한국시간)",
+  "updatedAtISO": "2026-10-03T05:16:38Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.03 14:16 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.61,
   "fedFundsLow": 3.75,
@@ -41,15 +41,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "유럽증시, 유로존 인플레이션과 미국의 고용 지표 소화하며 일제히 상승 - 뉴스핌",
-      "source": "뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xbzY0T0JmcExyYXFQVkRHUTB6M21Xb3B6S3FCcG5kUmhWWFZxbm8xOGNPQ2J0ckxWbEVBSFFCcV9kdk5SYmVQaFJidTF2cDJkNVEzRktfWXliWjhL?oc=5"
+      "title": "나스닥 1%, 美반도체지수 2% 상승…연휴 뒤 韓증시도 따라 웃을까 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GQUJPZWpQTkRCcnBveEF1VVNJbGtadmxBVjRBNWpjU0UtODdwS2tGZGZyOFNjcFo5aEFvYnVoa1lfQldSN2RqeFhrejNvMEl5YkE?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "나스닥 1%, 美반도체지수 2% 상승…연휴 뒤 韓증시도 따라 웃을까 - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jMWRHNlVSVTZjd1E5TkRIelZmd1dzb2ZZa0cxbjlpNVh6cFAtZElycDVaWmlkQWlqLThtRVJ6MUowT1hyTVpwcEx4OExCa00?oc=5"
+      "title": "유럽증시, 유로존 인플레이션과 미국의 고용 지표 소화하며 일제히 상승 - 뉴스핌",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xbzY0T0JmcExyYXFQVkRHUTB6M21Xb3B6S3FCcG5kUmhWWFZxbm8xOGNPQ2J0ckxWbEVBSFFCcV9kdk5SYmVQaFJidTF2cDJkNVEzRktfWXliWjhL?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시, 고용 둔화에 상승…금리 재반등에도 반도체·테슬라 강세 - TopStarNews",
-      "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aMHBLRWpqYXhvUGtzTk9IU1VPeUxEOHl0YkRuRW51RFo4eThMMWQxTEtSMm1rcFZ0dnVTSHBJTGpKczNsRXRtM2hkYWNxNGRXSElQUW5Hc0JLSHVBT254QzdqeWFReHlLLTVDMzJITTlSQQ?oc=5"
+      "title": "[10월 첫째 주 세계경제동향 브리핑] 코스피 7,000선 회복…코스닥 5%대 강세 - v.daum.net",
+      "source": "v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9taHNOVXc1RXdYenpZOFFKVjhWSzlSYUs1enM0RmJvaE12djVBY1lieVhiMDB4dzljdDROcGJORllKX25TbmQzdkktZ2xpUUk?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
