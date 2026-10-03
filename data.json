@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-03T02:19:28Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.03 11:19 (한국시간)",
+  "updatedAtISO": "2026-10-03T03:23:25Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.03 12:23 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.61,
   "fedFundsLow": 3.75,
@@ -35,6 +35,12 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "[서울데이터랩]미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1%대 오름세 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VSHowRlhZVGNPeXI4WlA3RHVmMmk5TVZQNlRMd19YNnRSUldESEdJbktKVkE1bmhTNF9tZUJRNU9BZXMzOHhqWHRtSHFwc19ieUFvRVhGQVdzUFdPODdzN0pvMF9JSFo1bzZpZndPUTJ3NEEzZ1lkVzl2NktjQQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "유럽증시, 유로존 인플레이션과 미국의 고용 지표 소화하며 일제히 상승 - 뉴스핌",
       "source": "뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xbzY0T0JmcExyYXFQVkRHUTB6M21Xb3B6S3FCcG5kUmhWWFZxbm8xOGNPQ2J0ckxWbEVBSFFCcV9kdk5SYmVQaFJidTF2cDJkNVEzRktfWXliWjhL?oc=5"
@@ -47,21 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "美 고용 둔화 속...미국증시 '상승', 나스닥 '활짝' - 초이스경제",
+      "source": "초이스경제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VT3M2SnNmQVBRcXZITTJodExPM2t3TW95MTZxSjA4ZFJ1djEtVHZoVTdoLWE5U0xsd0pINEJlQ3J0UXJHMWg5T19vbmcyR2lwbXpKcnlSdUVuMVBLQWs5VnpyejFKV3ZHOXJ2STcyRnHSAXNBVV95cUxOc192TnQ2LXJ2TnZfcTR5cktHUVpwRFpBYVdYZ2Jwcko0V0VzRkpGeUpDZEtDWGFIWGZneEtEU253OS1RUHE1RVZ6bzM5X3ppRGdPZmxzaVloeVdrUXZsRU94dm1OTS0tYV9VemlBU21NMW1n?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "미국증시, 고용 둔화에 상승…금리 재반등에도 반도체·테슬라 강세 - TopStarNews",
       "source": "TopStarNews",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aMHBLRWpqYXhvUGtzTk9IU1VPeUxEOHl0YkRuRW51RFo4eThMMWQxTEtSMm1rcFZ0dnVTSHBJTGpKczNsRXRtM2hkYWNxNGRXSElQUW5Hc0JLSHVBT254QzdqeWFReHlLLTVDMzJITTlSQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "뉴욕증시, 상승세로 전환…나스닥 1.10%↑ - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zRDZsNzByc1dMMV9wT2pxbDltZWtNWk9BODI1TER0QndySnJoVmItZlBUODNxdjNrTTFTSnZ1UllHOEtJOEttTW5Ld2ZWSXRZ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국 증시 선물 소폭 상승, 비농업 고용지표 주목 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80RzNBcW5UM2dEZXN4MnE4RlJtUExxX19qMFJSVUtWa2xSdzdvX1VHLTl2NE9MNXNaazRIVVU5d1dyd2xMWEx2SnFleFdpd2Rtc1NrVnBONmZFWGJ0dFN3bHZQTmhTU3R6aHFka05Xa1U?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
