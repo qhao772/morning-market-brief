@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-03T10:16:12Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.03 19:16 (한국시간)",
+  "updatedAtISO": "2026-10-03T13:24:59Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.03 22:24 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.61,
   "fedFundsLow": 3.75,
@@ -41,9 +41,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 10월 금리 인상 기대 후퇴에 상승 마감 - newspim.com",
-      "source": "newspim.com",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aM3lSMmlSTDBYSjFxSWZhdHRqV3lGZTRuaUFYeEl6TXFGSlpkb25kcWZFR256OV9zMExWVWdGR1lMMVhqQzZGSDNUNnY1YUhoeUFWdEIyQ2JjeElk?oc=5"
+      "title": "\"이 신호 보이면 위험\"…서학개미 떨게 한 '시나리오' 뭐길래 [분석+] - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OZUFQTGlGVVFnaVpGaWU0d1owYWs3cm54cHZyLUU5X3lLUlVqekh3VC12bmlXQWxaZktyeHNWZFQ1alF5VVBZVUV6RUp3Q0NBMUItZUZBMEY5QQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "美증시 23시간 체제로…서학개미 '주간거래' 판 커진다 - ebn.co.kr",
-      "source": "ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oUXVaQXBmQUJxX3FBTmc3alBKeldGcFlKVTdpSEsyYlVuTWhVRDRJU2dDcWstSHl3dklLejItbnR2MHgxRlFHb1l3X1pOU0xOOFFSN2lXUzJSQWdVYVFYMWtxcXY4MUU4?oc=5"
+      "title": "뉴욕증시, 10월 금리 인상 기대 후퇴에 상승 마감 - 뉴스핌",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aM3lSMmlSTDBYSjFxSWZhdHRqV3lGZTRuaUFYeEl6TXFGSlpkb25kcWZFR256OV9zMExWVWdGR1lMMVhqQzZGSDNUNnY1YUhoeUFWdEIyQ2JjeElk?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[10월 첫째 주 세계경제동향 브리핑] 코스피 7,000선 회복…코스닥 5%대 강세 - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9taHNOVXc1RXdYenpZOFFKVjhWSzlSYUs1enM0RmJvaE12djVBY1lieVhiMDB4dzljdDROcGJORllKX25TbmQzdkktZ2xpUUk?oc=5"
+      "title": "美증시 23시간 체제로…서학개미 '주간거래' 판 커진다 - ebn.co.kr",
+      "source": "ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oUXVaQXBmQUJxX3FBTmc3alBKeldGcFlKVTdpSEsyYlVuTWhVRDRJU2dDcWstSHl3dklLejItbnR2MHgxRlFHb1l3X1pOU0xOOFFSN2lXUzJSQWdVYVFYMWtxcXY4MUU4?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
