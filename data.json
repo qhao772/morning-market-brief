@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-04T22:17:11Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.05 07:17 (한국시간)",
+  "updatedAtISO": "2026-10-04T23:15:07Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.05 08:15 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.61,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1342.9,
-  "usdJpy": 157.75,
-  "jpyKrw100": 851.27,
+  "usdKrw": 1342.89,
+  "usdJpy": 157.69,
+  "jpyKrw100": 851.62,
   "indices": {
     "kospi": {
       "value": 7003.74,
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "역대 미국 중간선거 전후 코스피 향방 어땠나? - MTN 머니투데이방송",
-      "source": "MTN 머니투데이방송",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PSEFXZlFHSkJTSkpYS0ZHTDlieEhjVmViemVZcTJrMzFHc2ZOTVEyUGFNY1FBc2Z3YnBvRHhDTVlnX0tNdlNfODZ3cm9OUmtjYzR3YmlLYjZSdmx3MFFxX0xHVEI?oc=5"
+      "title": "미국 증시 선물 소폭 상승, 비농업 고용지표 주목 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80RzNBcW5UM2dEZXN4MnE4RlJtUExxX19qMFJSVUtWa2xSdzdvX1VHLTl2NE9MNXNaazRIVVU5d1dyd2xMWEx2SnFleFdpd2Rtc1NrVnBONmZFWGJ0dFN3bHZQTmhTU3R6aHFka05Xa1U?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
