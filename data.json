@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-04T05:12:16Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.04 14:12 (한국시간)",
+  "updatedAtISO": "2026-10-04T11:34:33Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.04 20:34 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.61,
   "fedFundsLow": 3.75,
@@ -35,8 +35,8 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 100년 부를 일군 46개 종목의 비밀… '핵심 투자 후 탐색'이 월가를 바꿨다 - g-enews.com",
-      "source": "g-enews.com",
+      "title": "미국 증시 100년 부를 일군 46개 종목의 비밀… '핵심 투자 후 탐색'이 월가를 바꿨다 - 글로벌이코노믹",
+      "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGt2TmpTQnRackxHU1YwX0dNdzBOMUhCMkY2SUpUcU91ODhoQ3JQZ2w1OUszN1lQNlpOaC1vYkVzOUxYN0JsNTNReUtuZ29zbzg1X3BrT0NNcnRQaEVvSjVIVTc4bzJSREtQOUpZMDNKeVlSNG9IanprUVFpN1RIUzJSYzhtMm5m?oc=5"
     },
     {
@@ -47,21 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "수익률 높아지니 \"미장 타자\"…美 주식에 개미 자금 1900억달러 몰려 - v.daum.net",
-      "source": "v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fSUJTTkZ4Nmo4YU1pdElFQmlmd0s1cjhlMzFzWlFOVm5JSms4cUhVY0FqWHYwZjR1dWZJNGkzLUZFSExqdThtUGJ5V3VVY3c?oc=5"
+      "title": "\"미국 주식은 무조건 오른다고 해서 샀더니\"…AI·고금리 불안에 주목할 '이 ETF'[주末머니] - 아시아경제",
+      "source": "아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wdzhrNlpoTTVObkpMclczcHVjenZKUEpCazd6MFQ2Y29RYzhPYnZMQlR2TzZKRVlJVHRkbGJpSEsxSWJOYS1nZW1pdFBUN1VITHBBZEVkRzNQTzdWWHVTRA?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[김진호의 금융포커스] 돈에는 애국심이 없다 - 부산일보",
+      "source": "부산일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wMW9kendhSk5pZzZONnZnMmpGUnZKYjM5ek5icC1CNWY0RjRjRDhOeC1oTmRvVVk1emJ0RTlSbHNYNmowNWtxam1scWR2cWFDRHRiRjE3UkU1elIzV2NrZHRPNUVpYVZtV2RYalZjX3FzOXl4?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "[서울데이터랩]미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1%대 오름세 - 서울신문",
       "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VSHowRlhZVGNPeXI4WlA3RHVmMmk5TVZQNlRMd19YNnRSUldESEdJbktKVkE1bmhTNF9tZUJRNU9BZXMzOHhqWHRtSHFwc19ieUFvRVhGQVdzUFdPODdzN0pvMF9JSFo1bzZpZndPUTJ3NEEzZ1lkVzl2NktjQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "美는 260만원인데 왜 한국에선 180만원?…속타는 SK하이닉스 투자자들의 의문 [증시레이더] - 디지털데일리",
-      "source": "디지털데일리",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SZlVXcVhWRzVCM3JxU1VHMTBuYmhxTmcyMGJFbDQ5RHp2Sy1KelMxVW9QWldiMWlCcVhud2lnQXJnS1FKamZSUEszU2c0RWpBeHpmc25RVjdKbVBDa3pCcVBjYnQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
