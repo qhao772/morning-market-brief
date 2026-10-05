@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-05T17:17:01Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.06 02:17 (한국시간)",
+  "updatedAtISO": "2026-10-05T18:22:50Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.06 03:22 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.61,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1341.94,
-  "usdJpy": 158.13,
-  "jpyKrw100": 848.63,
+  "usdKrw": 1341.82,
+  "usdJpy": 158.07,
+  "jpyKrw100": 848.89,
   "indices": {
     "kospi": {
       "value": 7003.74,
@@ -20,16 +20,16 @@
       "changePct": -0.11
     },
     "sp500": {
-      "value": 7772.18,
-      "changePct": 0.64
+      "value": 7777.72,
+      "changePct": 0.71
     },
     "nasdaq": {
-      "value": 27439.3,
-      "changePct": 0.91
+      "value": 27464.24,
+      "changePct": 1.0
     },
     "sox": {
-      "value": 13131.19,
-      "changePct": -0.04
+      "value": 13159.92,
+      "changePct": 0.18
     }
   },
   "issues": [
@@ -53,9 +53,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "‘변동성의 달’ 10월, 실제론 강해…美증시 평균 1.9%↑ - 마켓인",
-      "source": "마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wVGhoZmhLa256dnNLLUV3ZlJkMGw3d0I1aUhSMHBXaEIyN3VvY2pKWmlvaGNyUlNTN2lSdTFWLTl2Mjg0cUxhYkFpQkYtRlVINl8yMlBTMzRubERzbXhlclhhUkpxMUpFdk40a19sTmJBZkU?oc=5"
+      "title": "뉴욕증시 개장 전 특징주...브라질관련株·PTC·드래프트킹스↑ VS 인텔·마이크론↓ - 뉴스핌",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QVlliT01Za1c3b1lZVzJqZHpLRzA2OExUcWRibENiOXdVX0hMMXRCWWs2d0ZsWnFVdGo1d3REN0c5RGJ6WGZtQU9Oa0JkVUFhTnAtSGUzNjkxT2hJ?oc=5"
     },
     {
       "tag": "시장 뉴스",
