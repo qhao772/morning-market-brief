@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-05T13:23:50Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.05 22:23 (한국시간)",
+  "updatedAtISO": "2026-10-05T14:23:21Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.05 23:23 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.61,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1343.23,
-  "usdJpy": 158.27,
-  "jpyKrw100": 848.71,
+  "usdKrw": 1340.58,
+  "usdJpy": 158.08,
+  "jpyKrw100": 848.02,
   "indices": {
     "kospi": {
       "value": 7003.74,
@@ -20,16 +20,16 @@
       "changePct": -0.11
     },
     "sp500": {
-      "value": 7722.72,
-      "changePct": 0.73
+      "value": 7756.16,
+      "changePct": 0.43
     },
     "nasdaq": {
-      "value": 27190.86,
-      "changePct": 1.19
+      "value": 27390.36,
+      "changePct": 0.73
     },
     "sox": {
-      "value": 13136.67,
-      "changePct": 2.4
+      "value": 13096.81,
+      "changePct": -0.3
     }
   },
   "issues": [
@@ -47,8 +47,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "한국증시 뛰었는데…개인 4.9조는 美 S&P500 ETF로 - m-i.kr",
-      "source": "m-i.kr",
+      "title": "한국증시 뛰었는데…개인 4.9조는 美 S&P500 ETF로 - 매일일보",
+      "source": "매일일보",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kYjZrQWtpWUUtaDV3QkZDb3VnM2ZCZHE1VmhJcDg4S0ZaQkw2OVlCRjR1a1BGd2huOW83aVlDRFNDbEVnLW42N0UyaVprdjJ2STNqa1lSbmdBN0ZQUEMwcjlPVE0?oc=5"
     },
     {
