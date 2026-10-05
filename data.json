@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-05T07:21:58Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.05 16:21 (한국시간)",
+  "updatedAtISO": "2026-10-05T08:21:17Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.05 17:21 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.61,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1344.7,
-  "usdJpy": 157.74,
-  "jpyKrw100": 852.49,
+  "usdKrw": 1343.32,
+  "usdJpy": 157.7,
+  "jpyKrw100": 851.82,
   "indices": {
     "kospi": {
       "value": 7003.74,
@@ -53,9 +53,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "98년 만에 여섯 번째 울린 월가 과열 경보, 질주하던 미국 증시 멈춰 서나 - 글로벌이코노믹",
+      "title": "미국 증시 100년 부를 일군 46개 종목의 비밀… '핵심 투자 후 탐색'이 월가를 바꿨다 - 글로벌이코노믹",
       "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTDM4Qmw4eW1DSTNJRUwwYXp6RmxwVVdJanpMbm5QU09YMExmV3pmRjd4R2pkcTdyNy1ZU2txMFV6c2huM2ZyUHRXb0JJZU9MVjFHSGxxRFAzYWNoWDVEdFFRTjhpUjdYOHlHdVBLUEk3QmkzcXRpSmdBUVBtTGxJOHA1VzhaMmxE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGt2TmpTQnRackxHU1YwX0dNdzBOMUhCMkY2SUpUcU91ODhoQ3JQZ2w1OUszN1lQNlpOaC1vYkVzOUxYN0JsNTNReUtuZ29zbzg1X3BrT0NNcnRQaEVvSjVIVTc4bzJSREtQOUpZMDNKeVlSNG9IanprUVFpN1RIUzJSYzhtMm5m?oc=5"
     },
     {
       "tag": "시장 뉴스",
