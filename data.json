@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-05T00:27:53Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.05 09:27 (한국시간)",
+  "updatedAtISO": "2026-10-05T01:18:00Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.05 10:18 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.61,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1344.82,
-  "usdJpy": 157.7,
-  "jpyKrw100": 852.78,
+  "usdKrw": 1339.67,
+  "usdJpy": 157.5,
+  "jpyKrw100": 850.58,
   "indices": {
     "kospi": {
       "value": 7003.74,
@@ -35,15 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 100년 부를 일군 46개 종목의 비밀… '핵심 투자 후 탐색'이 월가를 바꿨다 - 글로벌이코노믹",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGt2TmpTQnRackxHU1YwX0dNdzBOMUhCMkY2SUpUcU91ODhoQ3JQZ2w1OUszN1lQNlpOaC1vYkVzOUxYN0JsNTNReUtuZ29zbzg1X3BrT0NNcnRQaEVvSjVIVTc4bzJSREtQOUpZMDNKeVlSNG9IanprUVFpN1RIUzJSYzhtMm5m?oc=5"
+      "title": "日 닛케이, 美 금리 인상 기대 약화로 2% 넘게 상승 출발 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXdVVUelViNjRoQWxpN21nb2FtUEFBUHVtbGdWQzdlUUpMVWxpZlZKMXRaXzBfM0Z3LXdRZVhFN0xSUVBjXzZ0eDNNVTJ1NTRGNDZ6NUlaYllrSlNYbE84WktqUnlMMUVodXlDWHRNZ1FyUQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "\"미국 증시 계속 사도 될까\"…전문가들이 짚은 투자 전략 - 뉴시스",
-      "source": "뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rMTRfcW1KMjdKZ0o0WF9lQkFpRFVTMGFhdDhuSmlTTVdNMHlPMW9mbEcwc3dzUDduZi1iQUFEOUEycFM3NmlCS0JtTjJaV2hUQmtFUm42aGg4RFUtWHNMONIBeEFVX3lxTE1LZU9VdWYxOUhHY2U5REEyWDgtMEVBMlNFMVE4UC1xeElFbkRUTUdfdlpJS2pyYW1UZWQtQng5b0p6alhMWTVvaEdMc284OUM5U2FSc2RxSl9BYlZOQlBVNmppeVQ3ZFo2cnFIRzdsam9zVFYtSThCeQ?oc=5"
+      "title": "98년 만에 여섯 번째 울린 월가 과열 경보, 질주하던 미국 증시 멈춰 서나 - 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTDM4Qmw4eW1DSTNJRUwwYXp6RmxwVVdJanpMbm5QU09YMExmV3pmRjd4R2pkcTdyNy1ZU2txMFV6c2huM2ZyUHRXb0JJZU9MVjFHSGxxRFAzYWNoWDVEdFFRTjhpUjdYOHlHdVBLUEk3QmkzcXRpSmdBUVBtTGxJOHA1VzhaMmxE?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "역대 미국 중간선거 전후 코스피 향방 어땠나? - MTN 머니투데이방송",
-      "source": "MTN 머니투데이방송",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PSEFXZlFHSkJTSkpYS0ZHTDlieEhjVmViemVZcTJrMzFHc2ZOTVEyUGFNY1FBc2Z3YnBvRHhDTVlnX0tNdlNfODZ3cm9OUmtjYzR3YmlLYjZSdmx3MFFxX0xHVEI?oc=5"
+      "title": "\"미국 증시 계속 사도 될까\"…전문가들이 짚은 투자 전략 - newsis.com",
+      "source": "newsis.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rMTRfcW1KMjdKZ0o0WF9lQkFpRFVTMGFhdDhuSmlTTVdNMHlPMW9mbEcwc3dzUDduZi1iQUFEOUEycFM3NmlCS0JtTjJaV2hUQmtFUm42aGg4RFUtWHNMONIBeEFVX3lxTE1LZU9VdWYxOUhHY2U5REEyWDgtMEVBMlNFMVE4UC1xeElFbkRUTUdfdlpJS2pyYW1UZWQtQng5b0p6alhMWTVvaEdMc284OUM5U2FSc2RxSl9BYlZOQlBVNmppeVQ3ZFo2cnFIRzdsam9zVFYtSThCeQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
