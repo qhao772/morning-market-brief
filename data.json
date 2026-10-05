@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-05T22:17:28Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.06 07:17 (한국시간)",
+  "updatedAtISO": "2026-10-05T23:15:42Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.06 08:15 (한국시간)",
   "us10y": 5.28,
   "us30y": 5.63,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1342.58,
-  "usdJpy": 157.93,
-  "jpyKrw100": 850.1,
+  "usdKrw": 1341.92,
+  "usdJpy": 157.89,
+  "jpyKrw100": 849.89,
   "indices": {
     "kospi": {
       "value": 7003.74,
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "[3분증시] 뉴욕증시, 고금리 우려에도 기술주 강세로 상승 - 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKRE9HVFBlamJqaEsxVC1aeW92cUFaOXloUXB3NWxsbDh2M3JCdW1xQ1pDREJBRHhRbzBHVERhY2NRSmZTTm5MZlNSbWlHaENycjEwbw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[시황] 미국증시, 금리 부담에도 AI·반도체 강세에 상승 - 버핏연구소",
+      "source": "버핏연구소",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QYmhjU3RmcjBwSXc3YkhpZjU1c3ZOSzc1WEdxWW5OZTFQNVpQQzZTSUk5VFZhcWRTUTR0djdaclItRzlvdndJU2N3SVhMM3VFSWdDUVJLRnRHZlVsaWlnNEl3?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시, 5.31% 금리도 못 눌렀다…AI 대형주가 나스닥 최고치 견인 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sVDROZy0xVklwX3lVSV83dEZnOEtYTkNYc2pHaEU5TVRGTHMwcm1QNldIRi15Q3QzSnloRm1xNG9wYnVramx1ZEtEeXQ2UWFndUgyNHVTZ0cxdHVBSmlRd0pOM2VaYU14NC00SURxU2NsUQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "뉴욕증시 프리뷰, 주가 선물 혼조...국채금리 5.27%·고유가에 기술주 '주춤' - 뉴스핌",
       "source": "뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42a0N5M0I5RWRkRFZxYXI5U1Z3LWRtZFRkekdGbjRxSmFvT1FoZGZqanpLbHB1RG1mQjBFVlcyUjhvR3k4LTkyOFgxd2hNbnNqTXBGNjVkclpPOGt2?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[속보]미국 증시 혼조...나스닥종합지수는 138.13포인트(0.51%) 오른 27,328.99 - CBC뉴스",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qSGlRdnJRYUUwTXdrci1xZGtIZFZoM0xZWXFCU3RJNGxCSkUyODFZdFhMWmRER29mckk4d3FSM3JSZjdSRjdhVkVneVQxTmFtY2VmbXpBNE9xbkJHUDNtSENPeTNrbE56?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "이번 주 미국 증시 어디로 가나···S&P 500 지수 움직일 주요 촉매제 - Benzinga",
-      "source": "Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQRFNzdFZJRVhSS3JhNzQ0R0xWSkpzYjc2Q1hvOERsZUc4QjFJd29sNl9UQmY1Y2wxb2R6UXEzdXA0VnlHTktlYm8wMFMySGdnM09uNzd0aHl5RkVRZ3RzUlI5cTBiLWxQMmc1YVJyQjRUcUZ6Q2Z1QmJtX0VrdFZzS0EwZ05KdHMwYWdLYjZvQkMzMXFydFNxX1JrUGlhMUZIdzFEd1NSS3JqZXhNZG83aEFfQVg3QWl6YXlnUWVmX3VHZVVISWg0OXFJX1hOQ3ktOHd6aDhsSVZsRHpnUG02WlFjRUhmSkdfc3VWbjFaNkV2WXd5MTJIU2R2RkI5RTA0ZWtyeEpxLWNtbWUtWjhzb1VEWGVlR1dUS2lFUGN3TXJBSDJWVGkxckFFa2FZUlJlaVh3ejFXc1NWNWxHSDBv?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시 장초반 혼조, 엔비디아 AI 서버 강세에도 국채금리 부담 - TopStarNews",
-      "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZZlE0THNWTWxBc3FvM3hNS0xqVGlPVHFPbFZDemdIekdXUVNqQ21SRkxXRGZzZGdRY1YzZWJTTGRNOEQ1eS1vb3JQYTRVVFJLX3BNMzBoU1Z5NllVR3ZoMnFwb1BTWGdNUWFvcVctbUVEUQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
