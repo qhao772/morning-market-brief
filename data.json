@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-05T02:18:54Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.05 11:18 (한국시간)",
+  "updatedAtISO": "2026-10-05T03:20:27Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.05 12:20 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.61,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1344.24,
-  "usdJpy": 157.8,
-  "jpyKrw100": 851.88,
+  "usdKrw": 1344.0,
+  "usdJpy": 157.95,
+  "jpyKrw100": 850.91,
   "indices": {
     "kospi": {
       "value": 7003.74,
@@ -47,15 +47,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1%대 오름세 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VSHowRlhZVGNPeXI4WlA3RHVmMmk5TVZQNlRMd19YNnRSUldESEdJbktKVkE1bmhTNF9tZUJRNU9BZXMzOHhqWHRtSHFwc19ieUFvRVhGQVdzUFdPODdzN0pvMF9JSFo1bzZpZndPUTJ3NEEzZ1lkVzl2NktjQQ?oc=5"
+      "title": "한국증시 뛰었는데…개인 4.9조는 美 S&P500 ETF로 - 매일일보",
+      "source": "매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kYjZrQWtpWUUtaDV3QkZDb3VnM2ZCZHE1VmhJcDg4S0ZaQkw2OVlCRjR1a1BGd2huOW83aVlDRFNDbEVnLW42N0UyaVprdjJ2STNqa1lSbmdBN0ZQUEMwcjlPVE0?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "\"미국 주식은 무조건 오른다고 해서 샀더니\"…AI·고금리 불안에 주목할 '이 ETF'[주末머니] - 아시아경제",
-      "source": "아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wdzhrNlpoTTVObkpMclczcHVjenZKUEpCazd6MFQ2Y29RYzhPYnZMQlR2TzZKRVlJVHRkbGJpSEsxSWJOYS1nZW1pdFBUN1VITHBBZEVkRzNQTzdWWHVTRA?oc=5"
+      "title": "[서울데이터랩]미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1%대 오름세 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VSHowRlhZVGNPeXI4WlA3RHVmMmk5TVZQNlRMd19YNnRSUldESEdJbktKVkE1bmhTNF9tZUJRNU9BZXMzOHhqWHRtSHFwc19ieUFvRVhGQVdzUFdPODdzN0pvMF9JSFo1bzZpZndPUTJ3NEEzZ1lkVzl2NktjQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
