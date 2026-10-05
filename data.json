@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-05T01:18:00Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.05 10:18 (한국시간)",
+  "updatedAtISO": "2026-10-05T02:18:54Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.05 11:18 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.61,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1339.67,
-  "usdJpy": 157.5,
-  "jpyKrw100": 850.58,
+  "usdKrw": 1344.24,
+  "usdJpy": 157.8,
+  "jpyKrw100": 851.88,
   "indices": {
     "kospi": {
       "value": 7003.74,
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 선물 소폭 상승, 비농업 고용지표 주목 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80RzNBcW5UM2dEZXN4MnE4RlJtUExxX19qMFJSVUtWa2xSdzdvX1VHLTl2NE9MNXNaazRIVVU5d1dyd2xMWEx2SnFleFdpd2Rtc1NrVnBONmZFWGJ0dFN3bHZQTmhTU3R6aHFka05Xa1U?oc=5"
+      "title": "\"미국 주식은 무조건 오른다고 해서 샀더니\"…AI·고금리 불안에 주목할 '이 ETF'[주末머니] - 아시아경제",
+      "source": "아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wdzhrNlpoTTVObkpMclczcHVjenZKUEpCazd6MFQ2Y29RYzhPYnZMQlR2TzZKRVlJVHRkbGJpSEsxSWJOYS1nZW1pdFBUN1VITHBBZEVkRzNQTzdWWHVTRA?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "\"미국 증시 계속 사도 될까\"…전문가들이 짚은 투자 전략 - newsis.com",
-      "source": "newsis.com",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rMTRfcW1KMjdKZ0o0WF9lQkFpRFVTMGFhdDhuSmlTTVdNMHlPMW9mbEcwc3dzUDduZi1iQUFEOUEycFM3NmlCS0JtTjJaV2hUQmtFUm42aGg4RFUtWHNMONIBeEFVX3lxTE1LZU9VdWYxOUhHY2U5REEyWDgtMEVBMlNFMVE4UC1xeElFbkRUTUdfdlpJS2pyYW1UZWQtQng5b0p6alhMWTVvaEdMc284OUM5U2FSc2RxSl9BYlZOQlBVNmppeVQ3ZFo2cnFIRzdsam9zVFYtSThCeQ?oc=5"
+      "title": "미국 증시 선물 소폭 상승, 비농업 고용지표 주목 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80RzNBcW5UM2dEZXN4MnE4RlJtUExxX19qMFJSVUtWa2xSdzdvX1VHLTl2NE9MNXNaazRIVVU5d1dyd2xMWEx2SnFleFdpd2Rtc1NrVnBONmZFWGJ0dFN3bHZQTmhTU3R6aHFka05Xa1U?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
