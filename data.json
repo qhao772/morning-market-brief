@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-05T21:31:38Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.06 06:31 (한국시간)",
+  "updatedAtISO": "2026-10-05T22:17:28Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.06 07:17 (한국시간)",
   "us10y": 5.28,
   "us30y": 5.63,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1341.31,
-  "usdJpy": 157.92,
-  "jpyKrw100": 849.38,
+  "usdKrw": 1342.58,
+  "usdJpy": 157.93,
+  "jpyKrw100": 850.1,
   "indices": {
     "kospi": {
       "value": 7003.74,
@@ -47,8 +47,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[속보]미국 증시 혼조...나스닥종합지수는 138.13포인트(0.51%) 오른 27,328.99 - cbci.co.kr",
-      "source": "cbci.co.kr",
+      "title": "[속보]미국 증시 혼조...나스닥종합지수는 138.13포인트(0.51%) 오른 27,328.99 - CBC뉴스",
+      "source": "CBC뉴스",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qSGlRdnJRYUUwTXdrci1xZGtIZFZoM0xZWXFCU3RJNGxCSkUyODFZdFhMWmRER29mckk4d3FSM3JSZjdSRjdhVkVneVQxTmFtY2VmbXpBNE9xbkJHUDNtSENPeTNrbE56?oc=5"
     },
     {
