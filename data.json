@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-05T08:21:17Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.05 17:21 (한국시간)",
+  "updatedAtISO": "2026-10-05T09:21:42Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.05 18:21 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.61,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1343.32,
-  "usdJpy": 157.7,
-  "jpyKrw100": 851.82,
+  "usdKrw": 1342.99,
+  "usdJpy": 157.82,
+  "jpyKrw100": 850.98,
   "indices": {
     "kospi": {
       "value": 7003.74,
@@ -47,6 +47,12 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "한국증시 뛰었는데…개인 4.9조는 美 S&P500 ETF로 - 매일일보",
+      "source": "매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kYjZrQWtpWUUtaDV3QkZDb3VnM2ZCZHE1VmhJcDg4S0ZaQkw2OVlCRjR1a1BGd2huOW83aVlDRFNDbEVnLW42N0UyaVprdjJ2STNqa1lSbmdBN0ZQUEMwcjlPVE0?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "이번 주 미국 증시 어디로 가나···S&P 500 지수 움직일 주요 촉매제 - Benzinga",
       "source": "Benzinga",
       "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQRFNzdFZJRVhSS3JhNzQ0R0xWSkpzYjc2Q1hvOERsZUc4QjFJd29sNl9UQmY1Y2wxb2R6UXEzdXA0VnlHTktlYm8wMFMySGdnM09uNzd0aHl5RkVRZ3RzUlI5cTBiLWxQMmc1YVJyQjRUcUZ6Q2Z1QmJtX0VrdFZzS0EwZ05KdHMwYWdLYjZvQkMzMXFydFNxX1JrUGlhMUZIdzFEd1NSS3JqZXhNZG83aEFfQVg3QWl6YXlnUWVmX3VHZVVISWg0OXFJX1hOQ3ktOHd6aDhsSVZsRHpnUG02WlFjRUhmSkdfc3VWbjFaNkV2WXd5MTJIU2R2RkI5RTA0ZWtyeEpxLWNtbWUtWjhzb1VEWGVlR1dUS2lFUGN3TXJBSDJWVGkxckFFa2FZUlJlaVh3ejFXc1NWNWxHSDBv?oc=5"
@@ -56,12 +62,6 @@
       "title": "미국 증시 100년 부를 일군 46개 종목의 비밀… '핵심 투자 후 탐색'이 월가를 바꿨다 - 글로벌이코노믹",
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGt2TmpTQnRackxHU1YwX0dNdzBOMUhCMkY2SUpUcU91ODhoQ3JQZ2w1OUszN1lQNlpOaC1vYkVzOUxYN0JsNTNReUtuZ29zbzg1X3BrT0NNcnRQaEVvSjVIVTc4bzJSREtQOUpZMDNKeVlSNG9IanprUVFpN1RIUzJSYzhtMm5m?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "한국증시 뛰었는데…개인 4.9조는 美 S&P500 ETF로 - 매일일보",
-      "source": "매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kYjZrQWtpWUUtaDV3QkZDb3VnM2ZCZHE1VmhJcDg4S0ZaQkw2OVlCRjR1a1BGd2huOW83aVlDRFNDbEVnLW42N0UyaVprdjJ2STNqa1lSbmdBN0ZQUEMwcjlPVE0?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
