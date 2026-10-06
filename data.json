@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-06T08:20:05Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.06 17:20 (한국시간)",
+  "updatedAtISO": "2026-10-06T09:19:44Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.06 18:19 (한국시간)",
   "us10y": 5.28,
   "us30y": 5.63,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1339.81,
-  "usdJpy": 158.22,
-  "jpyKrw100": 846.81,
+  "usdKrw": 1338.84,
+  "usdJpy": 158.17,
+  "jpyKrw100": 846.44,
   "indices": {
     "kospi": {
       "value": 6941.39,
@@ -41,6 +41,12 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "[미국 주식 돋보기] 데이터센터 전력 구원투수 '비코' 고공행진 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96ajBFM3VrWjJ3bFVERVJER3ljWGhaQmdwQkw2c3Y4TWowNEhLRGk2RHVkSVBZbDNBNnhRYnlubkFSUVB2RG9mSnVNUjJWY1M2NHc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "기술주 강세에도 안심은 이르다…금리·중동 변수에 ‘촉각’ [글로벌 레이더] - 에너지경제신문",
       "source": "에너지경제신문",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94a1JlS2Q2THJrSTN5bTQwOTFsMFdEWUprVmN5VlZ6OE9yTzctLTkyQlhURVdlYzJ5aWIySV9mNVp6MXdGVWZPeXJPd0JzMk1WNG9vUU1fQjJXT2c?oc=5"
@@ -53,15 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[오늘의 미국금리와 서민경제] 미국 증시 신고가에도 고금리 부담…한국 가계, 주거비·생활비 압박 지속 - gnsiminsori.com",
-      "source": "gnsiminsori.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQaDdfTld5eFBzYUlkdjNJSGdZbThLU2syenJkeDdlbmVqWHdTTzF2NkZ5OFBGTDBqUTloQlI0Q2hpaFJISkR5YVc2bGVPMGMyUkJyYVY0cmJ6cWRvYWQ0M1dra1dUY3ZZTHcyTkxn?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[미국증시] 국채금리 2002년래 최고에도 증시 신고가…불편한 동행 - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ySHdVVElIN1dZYzVpYlFSMnhOOExPNml6NkV6VlZnaS03TE5lRFZobmtvZjZUVjVvWWhsXzU0a1F0Z3NNenl2NEZnTWtJVTQtUnpoakhRZllGRFNHNTVXZnRSUDgxTEE?oc=5"
+      "title": "고금리 공포에도…나스닥·엔비디아 '사상 최고가' - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xUzhaWEl6WGw3RkY5RHZHMmNyQU1iVzlqdnJ0LUJMbV92QWxkbWxybkdnVEo5R2Jzbk9OTUtFVExxZl9xclV0UVU3cXJmemdvUXhGS1kxRVZQUQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
