@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-06T13:20:24Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.06 22:20 (한국시간)",
+  "updatedAtISO": "2026-10-06T14:20:05Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.06 23:20 (한국시간)",
   "us10y": 5.28,
   "us30y": 5.63,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1339.05,
-  "usdJpy": 158.01,
-  "jpyKrw100": 847.42,
+  "usdKrw": 1339.18,
+  "usdJpy": 158.09,
+  "jpyKrw100": 847.1,
   "indices": {
     "kospi": {
       "value": 6941.39,
@@ -20,24 +20,24 @@
       "changePct": 2.98
     },
     "sp500": {
-      "value": 7773.95,
-      "changePct": 0.66
+      "value": 7824.82,
+      "changePct": 0.65
     },
     "nasdaq": {
-      "value": 27477.31,
-      "changePct": 1.05
+      "value": 27674.46,
+      "changePct": 0.72
     },
     "sox": {
-      "value": 13172.74,
-      "changePct": 0.28
+      "value": 13302.33,
+      "changePct": 0.98
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "목요일 실적 발표 시즌 앞두고 미국 증시 상승 By Investing.com - Investing.com 한국어",
+      "title": "미국 증시 선물, 금리 하락 및 유가 완화에 상승 - Investing.com 한국어",
       "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiMng2YVUxMU4tQXRUTjJfSTlSeXYwbUx5U0ZnU2Rrb1BYNWxWVUdPbDJHdjhnLThzTVRUU3hiTkxHZ1pYMExRSlZvUmVoQ2NwUjNHcW8waUVCOTdRU2tabG5lQW5OWUd5SkFRRkhGbXRWSnJ0SFU0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Qd0ZWZVNtZzBxSXZYRVItRE8tVkJSOThUU1lteUtteU1vZUh5V180VjJmRFhEMWhHZ1VwV3g0OF9GMlJHd1RUYjh5clpFaGxPdmplQ1RmMUFGYW4wVEFzM2VPcjZFWXFNdV9XcU9yUEE?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "기술주 강세에도 안심은 이르다…금리·중동 변수에 ‘촉각’ [글로벌 레이더] - 에너지경제신문",
-      "source": "에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94a1JlS2Q2THJrSTN5bTQwOTFsMFdEWUprVmN5VlZ6OE9yTzctLTkyQlhURVdlYzJ5aWIySV9mNVp6MXdGVWZPeXJPd0JzMk1WNG9vUU1fQjJXT2c?oc=5"
+      "title": "미국증시 장초반 상승…금리·유가 숨고르자 AI주 재점화, 메모리는 엇갈려 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5LWp4MlAzaFh1S3hMUURCMGpHSU5oQWZWTW45czNQczhYTFp3Z1l3QlEzTlFsNEZhYVpqbTVxaGJZa0N0UEhRT1I4TlNyMUIxLU0ySEd5SnZzWDVRT3NCN3FpVmpnTk1NbGthdHdudTczdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "고금리 공포에도…나스닥·엔비디아 '사상 최고가' - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xUzhaWEl6WGw3RkY5RHZHMmNyQU1iVzlqdnJ0LUJMbV92QWxkbWxybkdnVEo5R2Jzbk9OTUtFVExxZl9xclV0UVU3cXJmemdvUXhGS1kxRVZQUQ?oc=5"
+      "title": "기술주 강세에도 안심은 이르다…금리·중동 변수에 ‘촉각’ [글로벌 레이더] - 에너지경제신문",
+      "source": "에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94a1JlS2Q2THJrSTN5bTQwOTFsMFdEWUprVmN5VlZ6OE9yTzctLTkyQlhURVdlYzJ5aWIySV9mNVp6MXdGVWZPeXJPd0JzMk1WNG9vUU1fQjJXT2c?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
