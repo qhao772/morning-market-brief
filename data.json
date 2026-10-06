@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-06T02:17:52Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.06 11:17 (한국시간)",
+  "updatedAtISO": "2026-10-06T03:18:14Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.06 12:18 (한국시간)",
   "us10y": 5.28,
   "us30y": 5.63,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1343.78,
-  "usdJpy": 157.95,
-  "jpyKrw100": 850.78,
+  "usdKrw": 1342.11,
+  "usdJpy": 157.97,
+  "jpyKrw100": 849.58,
   "indices": {
     "kospi": {
-      "value": 6986.32,
-      "changePct": -0.25
+      "value": 6947.93,
+      "changePct": -0.8
     },
     "kosdaq": {
-      "value": 915.37,
-      "changePct": 2.47
+      "value": 914.99,
+      "changePct": 2.43
     },
     "sp500": {
       "value": 7773.95,
@@ -35,9 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "목요일 실적 발표 시즌 앞두고 미국 증시 상승 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
+      "title": "목요일 실적 발표 시즌 앞두고 미국 증시 상승 - kr.investing.com",
+      "source": "kr.investing.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiMng2YVUxMU4tQXRUTjJfSTlSeXYwbUx5U0ZnU2Rrb1BYNWxWVUdPbDJHdjhnLThzTVRUU3hiTkxHZ1pYMExRSlZvUmVoQ2NwUjNHcW8waUVCOTdRU2tabG5lQW5OWUd5SkFRRkhGbXRWSnJ0SFU0?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "日 증시, 美 강세장 힘입어 상승…일부 반도체주 차익 실현 매도세 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1RnZISi1CQVdUVWFDcHNCQXNVRHJfNnlHOGJRM0V1WXhBaFhiYTdJOW9vZE9uQUFMVmVxSm5rZ05PUUM3N3FHTEp6TVBzNkFxZlJjemhNM0JmU1A0dExXcU5WYllROFJ5MkVMRVlsa1RQdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -56,12 +62,6 @@
       "title": "[미국증시] 국채금리 2002년래 최고에도 증시 신고가…불편한 동행 - 자본시장뉴스",
       "source": "자본시장뉴스",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ySHdVVElIN1dZYzVpYlFSMnhOOExPNml6NkV6VlZnaS03TE5lRFZobmtvZjZUVjVvWWhsXzU0a1F0Z3NNenl2NEZnTWtJVTQtUnpoakhRZllGRFNHNTVXZnRSUDgxTEE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[굿모닝증시]美, 국내 휴장 기간 연속 강세…韓은 금리·삼전 실적 주목 - 아시아경제",
-      "source": "아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJQm5tM1doSHN4anFPcTdWem1nRmlIaVRJWUFJZlpPUExfVDVzVm1PR0pic0VZVzNNSlpsNWk5Mkg5TEpuc24xWUg0SXlENEZsbmtidVdSWU1Ld0RMSU1TUk1B?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
