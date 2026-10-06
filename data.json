@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-06T18:20:09Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.07 03:20 (한국시간)",
+  "updatedAtISO": "2026-10-06T19:16:52Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.07 04:16 (한국시간)",
   "us10y": 5.28,
   "us30y": 5.63,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1338.26,
-  "usdJpy": 158.06,
-  "jpyKrw100": 846.66,
+  "usdKrw": 1337.31,
+  "usdJpy": 158.15,
+  "jpyKrw100": 845.59,
   "indices": {
     "kospi": {
       "value": 6941.39,
@@ -20,16 +20,16 @@
       "changePct": 2.98
     },
     "sp500": {
-      "value": 7827.86,
+      "value": 7827.68,
       "changePct": 0.69
     },
     "nasdaq": {
-      "value": 27656.32,
-      "changePct": 0.65
+      "value": 27642.42,
+      "changePct": 0.6
     },
     "sox": {
-      "value": 13275.73,
-      "changePct": 0.78
+      "value": 13272.69,
+      "changePct": 0.76
     }
   },
   "issues": [
@@ -41,9 +41,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국 주식 돋보기] 데이터센터 전력 구원투수 '비코' 고공행진 - 매일경제 마켓",
+      "title": "[이슈앤피플] 글로벌 국채금리 경고음…주식시장 랠리 계속될까? - 매일경제 마켓",
       "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96ajBFM3VrWjJ3bFVERVJER3ljWGhaQmdwQkw2c3Y4TWowNEhLRGk2RHVkSVBZbDNBNnhRYnlubkFSUVB2RG9mSnVNUjJWY1M2NHc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00Z1pkZmhMVFg3bXRCcVZjc0ZUU0tyLWRSVFhMQUh6RjBJT0RSNF8zbnN6YndCZklxa1ROM1NxU0loR3gyaXFjWjhjRl84dG5jR3c?oc=5"
     },
     {
       "tag": "시장 뉴스",
