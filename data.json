@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-06T21:17:28Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.07 06:17 (한국시간)",
+  "updatedAtISO": "2026-10-06T22:18:02Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.07 07:18 (한국시간)",
   "us10y": 5.31,
   "us30y": 5.66,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1337.81,
-  "usdJpy": 158.13,
-  "jpyKrw100": 846.0,
+  "usdKrw": 1336.82,
+  "usdJpy": 158.16,
+  "jpyKrw100": 845.24,
   "indices": {
     "kospi": {
       "value": 6941.39,
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "댓글 : 미국 증시는 비싸진 것이 아니라, 이익이 따라잡고 있다. 제일 부합되는 확실한 기업은? - 프리미엄콘텐츠",
-      "source": "프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUHhjVm93RHE4UjJQUFlWUmdkVUFKemd5TWp4Z3BBMUJFeGdhZFljakVzd1BuekF3bFJYTVhqdWY2MkRvWjliRWt4NUVxeTh4UmhDam56TzlSQU9vdEktQjNRTkFnQXlSdUppVFJpQ0JhT2VpcHMxSl84YkVrUF9sXw?oc=5"
+      "title": "또 미국 주식 신고가! 계속 상승하는 이유는? - 네이버 프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZFFKZU96MkRjankyLW0zQ1ZzVVJ0RVZqY19xVV9HNmgwVlR4OV95U3JrLWxHMnJ0YUVjTnFmLVpzWExiQl9VNG5zWGJkc3NNaENaZ1ZNTWF1TUZmVV9LclZ5RkVWNFJ5dXl6NDU2ZXNRM3VwWENLaUhMZHZoZS13RDBuSkFFajRvbjJj?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 상승세로 마감…나스닥 0.45%↑ - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0TlV3eXlrWVNGM014OE1ZWWYzMmg4Yy1GYnZkZnN0TEJKdFpPOWJ6cllQRG83SmxMbG9SdkFOTU11MURTdkxvdDhKdWlRNXNn?oc=5"
+      "title": "미국증시 사상최고…금리 하락에 AI 인프라 강세, 메모리는 약세 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BYUxOMFdSeDFNYzdnWDlreDU0azZwcFRBbTl0UjlWbGo0dXI0OV9TWmh2TzVxU18xbUJLVzV2allTVDQ2V2hRcWwtLUlGOGFJYzB1UWZ0RldrX1RfdTQyWnFFWXJPQVluZG1DVF93ZWthQQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
