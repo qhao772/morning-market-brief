@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-06T12:22:49Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.06 21:22 (한국시간)",
+  "updatedAtISO": "2026-10-06T13:20:24Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.06 22:20 (한국시간)",
   "us10y": 5.28,
   "us30y": 5.63,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1338.47,
-  "usdJpy": 158.16,
-  "jpyKrw100": 846.26,
+  "usdKrw": 1339.05,
+  "usdJpy": 158.01,
+  "jpyKrw100": 847.42,
   "indices": {
     "kospi": {
       "value": 6941.39,
@@ -47,8 +47,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시를 흔든 주요 기업 주간 이슈 - 마이크론 테크놀러지 외 17종목 - choicestock.co.kr",
-      "source": "choicestock.co.kr",
+      "title": "미국증시를 흔든 주요 기업 주간 이슈 - 마이크론 테크놀러지 외 17종목 - 초이스스탁US",
+      "source": "초이스스탁US",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XcS1zdl9OSGdiOVdLdlFDS0xPblRVQThaTG50ZTJiMnZwdVRMVV9HNU9RUVA1YURVTnBwX0Rubms5QUZYcDZ0Mm8yTVNsR1VfMG5BRkJRdEFLVTA0NGJCa1g2N2xvVFJ5SkE?oc=5"
     },
     {
