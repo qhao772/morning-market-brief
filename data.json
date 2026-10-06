@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-06T05:18:03Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.06 14:18 (한국시간)",
+  "updatedAtISO": "2026-10-06T06:23:28Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.06 15:23 (한국시간)",
   "us10y": 5.28,
   "us30y": 5.63,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1342.58,
-  "usdJpy": 158.15,
-  "jpyKrw100": 848.96,
+  "usdKrw": 1343.34,
+  "usdJpy": 158.08,
+  "jpyKrw100": 849.81,
   "indices": {
     "kospi": {
-      "value": 6918.3,
-      "changePct": -1.22
+      "value": 6937.99,
+      "changePct": -0.94
     },
     "kosdaq": {
-      "value": 915.86,
-      "changePct": 2.53
+      "value": 916.85,
+      "changePct": 2.64
     },
     "sp500": {
       "value": 7773.95,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "목요일 실적 발표 시즌 앞두고 미국 증시 상승 - kr.investing.com",
-      "source": "kr.investing.com",
+      "title": "목요일 실적 발표 시즌 앞두고 미국 증시 상승 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiMng2YVUxMU4tQXRUTjJfSTlSeXYwbUx5U0ZnU2Rrb1BYNWxWVUdPbDJHdjhnLThzTVRUU3hiTkxHZ1pYMExRSlZvUmVoQ2NwUjNHcW8waUVCOTdRU2tabG5lQW5OWUd5SkFRRkhGbXRWSnJ0SFU0?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, 고금리 우려에도 기술주 강세로 상승 - 연합뉴스TV",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKRE9HVFBlamJqaEsxVC1aeW92cUFaOXloUXB3NWxsbDh2M3JCdW1xQ1pDREJBRHhRbzBHVERhY2NRSmZTTm5MZlNSbWlHaENycjEwbw?oc=5"
+      "title": "기술주 강세에도 안심은 이르다…금리·중동 변수에 ‘촉각’ [글로벌 레이더] - 에너지경제신문",
+      "source": "에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94a1JlS2Q2THJrSTN5bTQwOTFsMFdEWUprVmN5VlZ6OE9yTzctLTkyQlhURVdlYzJ5aWIySV9mNVp6MXdGVWZPeXJPd0JzMk1WNG9vUU1fQjJXT2c?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "긴축 우려 완화, 나스닥 사상 최고치 - kbthink.com",
-      "source": "kbthink.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfMXJQWWNKeWpURkUxc0lNN2t2Yl9uTWxvaDhVV1N4VXFxbmpfSU9NYml3WlpqblF6UXlYckxOZlpWcXVfNE9yZXBQaGZERXdqeUdkQUhnV0s1MlFySGRZQVBLOVB2eU5jdGZsZg?oc=5"
+      "title": "미국증시를 흔든 주요 기업 주간 이슈 - 마이크론 테크놀러지 외 17종목 - 초이스스탁US",
+      "source": "초이스스탁US",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XcS1zdl9OSGdiOVdLdlFDS0xPblRVQThaTG50ZTJiMnZwdVRMVV9HNU9RUVA1YURVTnBwX0Rubms5QUZYcDZ0Mm8yTVNsR1VfMG5BRkJRdEFLVTA0NGJCa1g2N2xvVFJ5SkE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[미국증시] 국채금리 2002년래 최고에도 증시 신고가…불편한 동행 - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ySHdVVElIN1dZYzVpYlFSMnhOOExPNml6NkV6VlZnaS03TE5lRFZobmtvZjZUVjVvWWhsXzU0a1F0Z3NNenl2NEZnTWtJVTQtUnpoakhRZllGRFNHNTVXZnRSUDgxTEE?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "[오늘의 미국금리와 서민경제] 미국 증시 신고가에도 고금리 부담…한국 가계, 주거비·생활비 압박 지속 - 전국시민의소리",
       "source": "전국시민의소리",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQaDdfTld5eFBzYUlkdjNJSGdZbThLU2syenJkeDdlbmVqWHdTTzF2NkZ5OFBGTDBqUTloQlI0Q2hpaFJISkR5YVc2bGVPMGMyUkJyYVY0cmJ6cWRvYWQ0M1dra1dUY3ZZTHcyTkxn?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "LG이노텍 주가 장중 9%대 올라, 미국 기술주 훈풍에 삼성전기 주가도 강세 - 비즈니스포스트",
-      "source": "비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tOTVrdGJQZmZ6MWtTNUZNQmh0SHVnNnhJR3hETUhrTXk5eUlVT1lVNllRLVRkb2NEQnQ1TkR2UE9salp2ZUlGRGZWVnlHaFZwaWM1bzQzOF8ySGhuQnkwSzNWdi1lYUc3ZUNCTXFkb25wZ0k?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
