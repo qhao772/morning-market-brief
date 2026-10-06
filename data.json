@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-06T22:18:02Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.07 07:18 (한국시간)",
+  "updatedAtISO": "2026-10-06T23:16:04Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.07 08:16 (한국시간)",
   "us10y": 5.31,
   "us30y": 5.66,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1336.82,
-  "usdJpy": 158.16,
-  "jpyKrw100": 845.24,
+  "usdKrw": 1337.01,
+  "usdJpy": 158.21,
+  "jpyKrw100": 845.06,
   "indices": {
     "kospi": {
       "value": 6941.39,
@@ -24,7 +24,7 @@
       "changePct": 0.58
     },
     "nasdaq": {
-      "value": 27599.79,
+      "value": 27599.89,
       "changePct": 0.45
     },
     "sox": {
@@ -47,9 +47,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국 주식 돋보기] 데이터센터 전력 구원투수 '비코' 고공행진 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96ajBFM3VrWjJ3bFVERVJER3ljWGhaQmdwQkw2c3Y4TWowNEhLRGk2RHVkSVBZbDNBNnhRYnlubkFSUVB2RG9mSnVNUjJWY1M2NHc?oc=5"
+      "title": "[3분증시] 뉴욕증시, 국채금리 하락 속 상승…S&P 최고치 - 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1SFQxdzB6aWg1Y2plQi1wcDRUUER1OFNlZTNtVFBOYnVYWlFPQ3haSUJrbkpWcndKdEQ3Z2V0c1djS1VKb0hvcE5jUGJwbGt6WTFPVw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 사상최고…금리 하락에 AI 인프라 강세, 메모리는 약세 - TopStarNews",
-      "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BYUxOMFdSeDFNYzdnWDlreDU0azZwcFRBbTl0UjlWbGo0dXI0OV9TWmh2TzVxU18xbUJLVzV2allTVDQ2V2hRcWwtLUlGOGFJYzB1UWZ0RldrX1RfdTQyWnFFWXJPQVluZG1DVF93ZWthQQ?oc=5"
+      "title": "[미국 주식 돋보기] 데이터센터 전력 구원투수 '비코' 고공행진 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96ajBFM3VrWjJ3bFVERVJER3ljWGhaQmdwQkw2c3Y4TWowNEhLRGk2RHVkSVBZbDNBNnhRYnlubkFSUVB2RG9mSnVNUjJWY1M2NHc?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
