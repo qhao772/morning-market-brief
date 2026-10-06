@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-06T03:18:14Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.06 12:18 (한국시간)",
+  "updatedAtISO": "2026-10-06T04:19:32Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.06 13:19 (한국시간)",
   "us10y": 5.28,
   "us30y": 5.63,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1342.11,
-  "usdJpy": 157.97,
-  "jpyKrw100": 849.58,
+  "usdKrw": 1342.6,
+  "usdJpy": 158.06,
+  "jpyKrw100": 849.42,
   "indices": {
     "kospi": {
-      "value": 6947.93,
-      "changePct": -0.8
+      "value": 6920.47,
+      "changePct": -1.19
     },
     "kosdaq": {
-      "value": 914.99,
-      "changePct": 2.43
+      "value": 915.84,
+      "changePct": 2.52
     },
     "sp500": {
       "value": 7773.95,
@@ -35,8 +35,8 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "목요일 실적 발표 시즌 앞두고 미국 증시 상승 - kr.investing.com",
-      "source": "kr.investing.com",
+      "title": "목요일 실적 발표 시즌 앞두고 미국 증시 상승 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiMng2YVUxMU4tQXRUTjJfSTlSeXYwbUx5U0ZnU2Rrb1BYNWxWVUdPbDJHdjhnLThzTVRUU3hiTkxHZ1pYMExRSlZvUmVoQ2NwUjNHcW8waUVCOTdRU2tabG5lQW5OWUd5SkFRRkhGbXRWSnJ0SFU0?oc=5"
     },
     {
