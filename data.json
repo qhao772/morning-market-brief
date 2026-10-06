@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-06T20:18:26Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.07 05:18 (한국시간)",
+  "updatedAtISO": "2026-10-06T21:17:28Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.07 06:17 (한국시간)",
   "us10y": 5.31,
   "us30y": 5.66,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1338.24,
-  "usdJpy": 158.15,
-  "jpyKrw100": 846.18,
+  "usdKrw": 1337.81,
+  "usdJpy": 158.13,
+  "jpyKrw100": 846.0,
   "indices": {
     "kospi": {
       "value": 6941.39,
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[이슈앤피플] 글로벌 국채금리 경고음…주식시장 랠리 계속될까? - 매일경제 마켓",
+      "title": "[서울데이터랩] 미국 증시, 주요 지수 동반 상승 마감…반도체는 종목별 엇갈려 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53SlBHMFdlbmhjVmZfdm1qWWVYYUh0OEFHYkdTV1B6NU5tbVE2aFFoT1FwMlZrcEZKSjl6OGloWVZZN3l3T011Nm5rQW9JRmZzYUdfTTRCRkE0MXJycmNidGtDQjJZVXNPVGMtaEZFNA?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[미국 주식 돋보기] 데이터센터 전력 구원투수 '비코' 고공행진 - 매일경제 마켓",
       "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00Z1pkZmhMVFg3bXRCcVZjc0ZUU0tyLWRSVFhMQUh6RjBJT0RSNF8zbnN6YndCZklxa1ROM1NxU0loR3gyaXFjWjhjRl84dG5jR3c?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96ajBFM3VrWjJ3bFVERVJER3ljWGhaQmdwQkw2c3Y4TWowNEhLRGk2RHVkSVBZbDNBNnhRYnlubkFSUVB2RG9mSnVNUjJWY1M2NHc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "댓글 : 미국 증시는 비싸진 것이 아니라, 이익이 따라잡고 있다. 제일 부합되는 확실한 기업은? - 프리미엄콘텐츠",
+      "source": "프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUHhjVm93RHE4UjJQUFlWUmdkVUFKemd5TWp4Z3BBMUJFeGdhZFljakVzd1BuekF3bFJYTVhqdWY2MkRvWjliRWt4NUVxeTh4UmhDam56TzlSQU9vdEktQjNRTkFnQXlSdUppVFJpQ0JhT2VpcHMxSl84YkVrUF9sXw?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "뉴욕증시, 상승세로 마감…나스닥 0.45%↑ - 블루밍비트",
       "source": "블루밍비트",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0TlV3eXlrWVNGM014OE1ZWWYzMmg4Yy1GYnZkZnN0TEJKdFpPOWJ6cllQRG83SmxMbG9SdkFOTU11MURTdkxvdDhKdWlRNXNn?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시 장초반 상승…금리·유가 숨고르자 AI주 재점화, 메모리는 엇갈려 - TopStarNews",
-      "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5LWp4MlAzaFh1S3hMUURCMGpHSU5oQWZWTW45czNQczhYTFp3Z1l3QlEzTlFsNEZhYVpqbTVxaGJZa0N0UEhRT1I4TlNyMUIxLU0ySEd5SnZzWDVRT3NCN3FpVmpnTk1NbGthdHdudTczdw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시를 흔든 주요 기업 주간 이슈 - 마이크론 테크놀러지 외 17종목 - 초이스스탁US",
-      "source": "초이스스탁US",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XcS1zdl9OSGdiOVdLdlFDS0xPblRVQThaTG50ZTJiMnZwdVRMVV9HNU9RUVA1YURVTnBwX0Rubms5QUZYcDZ0Mm8yTVNsR1VfMG5BRkJRdEFLVTA0NGJCa1g2N2xvVFJ5SkE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
