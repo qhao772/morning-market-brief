@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-06T00:28:21Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.06 09:28 (한국시간)",
+  "updatedAtISO": "2026-10-06T01:17:46Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.06 10:17 (한국시간)",
   "us10y": 5.28,
   "us30y": 5.63,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1342.58,
-  "usdJpy": 157.92,
-  "jpyKrw100": 850.15,
+  "usdKrw": 1344.34,
+  "usdJpy": 157.83,
+  "jpyKrw100": 851.79,
   "indices": {
     "kospi": {
-      "value": 7010.01,
-      "changePct": 0.09
+      "value": 6991.07,
+      "changePct": -0.18
     },
     "kosdaq": {
-      "value": 908.99,
-      "changePct": 1.76
+      "value": 913.11,
+      "changePct": 2.22
     },
     "sp500": {
       "value": 7773.95,
@@ -47,8 +47,8 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[시황] 미국증시, 금리 부담에도 AI·반도체 강세에 상승 - 버핏연구소",
-      "source": "버핏연구소",
+      "title": "[시황] 미국증시, 금리 부담에도 AI·반도체 강세에 상승 - buffettlab.co.kr",
+      "source": "buffettlab.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QYmhjU3RmcjBwSXc3YkhpZjU1c3ZOSzc1WEdxWW5OZTFQNVpQQzZTSUk5VFZhcWRTUTR0djdaclItRzlvdndJU2N3SVhMM3VFSWdDUVJLRnRHZlVsaWlnNEl3?oc=5"
     },
     {
