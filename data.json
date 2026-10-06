@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-06T19:16:52Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.07 04:16 (한국시간)",
-  "us10y": 5.28,
-  "us30y": 5.63,
+  "updatedAtISO": "2026-10-06T20:18:26Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.07 05:18 (한국시간)",
+  "us10y": 5.31,
+  "us30y": 5.66,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1337.31,
+  "usdKrw": 1338.24,
   "usdJpy": 158.15,
-  "jpyKrw100": 845.59,
+  "jpyKrw100": 846.18,
   "indices": {
     "kospi": {
       "value": 6941.39,
@@ -20,16 +20,16 @@
       "changePct": 2.98
     },
     "sp500": {
-      "value": 7827.68,
-      "changePct": 0.69
+      "value": 7818.93,
+      "changePct": 0.58
     },
     "nasdaq": {
-      "value": 27642.42,
-      "changePct": 0.6
+      "value": 27599.79,
+      "changePct": 0.45
     },
     "sox": {
-      "value": 13272.69,
-      "changePct": 0.76
+      "value": 13217.82,
+      "changePct": 0.34
     }
   },
   "issues": [
@@ -47,9 +47,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시를 흔든 주요 기업 주간 이슈 - 마이크론 테크놀러지 외 17종목 - 초이스스탁US",
-      "source": "초이스스탁US",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XcS1zdl9OSGdiOVdLdlFDS0xPblRVQThaTG50ZTJiMnZwdVRMVV9HNU9RUVA1YURVTnBwX0Rubms5QUZYcDZ0Mm8yTVNsR1VfMG5BRkJRdEFLVTA0NGJCa1g2N2xvVFJ5SkE?oc=5"
+      "title": "뉴욕증시, 상승세로 마감…나스닥 0.45%↑ - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0TlV3eXlrWVNGM014OE1ZWWYzMmg4Yy1GYnZkZnN0TEJKdFpPOWJ6cllQRG83SmxMbG9SdkFOTU11MURTdkxvdDhKdWlRNXNn?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "기술주 강세에도 안심은 이르다…금리·중동 변수에 ‘촉각’ [글로벌 레이더] - 에너지경제신문",
-      "source": "에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94a1JlS2Q2THJrSTN5bTQwOTFsMFdEWUprVmN5VlZ6OE9yTzctLTkyQlhURVdlYzJ5aWIySV9mNVp6MXdGVWZPeXJPd0JzMk1WNG9vUU1fQjJXT2c?oc=5"
+      "title": "미국증시를 흔든 주요 기업 주간 이슈 - 마이크론 테크놀러지 외 17종목 - 초이스스탁US",
+      "source": "초이스스탁US",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XcS1zdl9OSGdiOVdLdlFDS0xPblRVQThaTG50ZTJiMnZwdVRMVV9HNU9RUVA1YURVTnBwX0Rubms5QUZYcDZ0Mm8yTVNsR1VfMG5BRkJRdEFLVTA0NGJCa1g2N2xvVFJ5SkE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
