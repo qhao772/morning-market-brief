@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-05T23:15:42Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.06 08:15 (한국시간)",
+  "updatedAtISO": "2026-10-06T00:28:21Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.06 09:28 (한국시간)",
   "us10y": 5.28,
   "us30y": 5.63,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1341.92,
-  "usdJpy": 157.89,
-  "jpyKrw100": 849.89,
+  "usdKrw": 1342.58,
+  "usdJpy": 157.92,
+  "jpyKrw100": 850.15,
   "indices": {
     "kospi": {
-      "value": 7003.74,
-      "changePct": 0.47
+      "value": 7010.01,
+      "changePct": 0.09
     },
     "kosdaq": {
-      "value": 893.29,
-      "changePct": -0.11
+      "value": 908.99,
+      "changePct": 1.76
     },
     "sp500": {
       "value": 7773.95,
@@ -35,8 +35,8 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "목요일 실적 발표 시즌 앞두고 미국 증시 상승 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
+      "title": "목요일 실적 발표 시즌 앞두고 미국 증시 상승 - kr.investing.com",
+      "source": "kr.investing.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiMng2YVUxMU4tQXRUTjJfSTlSeXYwbUx5U0ZnU2Rrb1BYNWxWVUdPbDJHdjhnLThzTVRUU3hiTkxHZ1pYMExRSlZvUmVoQ2NwUjNHcW8waUVCOTdRU2tabG5lQW5OWUd5SkFRRkhGbXRWSnJ0SFU0?oc=5"
     },
     {
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시, 5.31% 금리도 못 눌렀다…AI 대형주가 나스닥 최고치 견인 - TopStarNews",
-      "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sVDROZy0xVklwX3lVSV83dEZnOEtYTkNYc2pHaEU5TVRGTHMwcm1QNldIRi15Q3QzSnloRm1xNG9wYnVramx1ZEtEeXQ2UWFndUgyNHVTZ0cxdHVBSmlRd0pOM2VaYU14NC00SURxU2NsUQ?oc=5"
+      "title": "[미국증시] 국채금리 2002년래 최고에도 증시 신고가…불편한 동행 - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ySHdVVElIN1dZYzVpYlFSMnhOOExPNml6NkV6VlZnaS03TE5lRFZobmtvZjZUVjVvWWhsXzU0a1F0Z3NNenl2NEZnTWtJVTQtUnpoakhRZllGRFNHNTVXZnRSUDgxTEE?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시 프리뷰, 주가 선물 혼조...국채금리 5.27%·고유가에 기술주 '주춤' - 뉴스핌",
-      "source": "뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42a0N5M0I5RWRkRFZxYXI5U1Z3LWRtZFRkekdGbjRxSmFvT1FoZGZqanpLbHB1RG1mQjBFVlcyUjhvR3k4LTkyOFgxd2hNbnNqTXBGNjVkclpPOGt2?oc=5"
+      "title": "미국증시, 5.31% 금리도 못 눌렀다…AI 대형주가 나스닥 최고치 견인 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sVDROZy0xVklwX3lVSV83dEZnOEtYTkNYc2pHaEU5TVRGTHMwcm1QNldIRi15Q3QzSnloRm1xNG9wYnVramx1ZEtEeXQ2UWFndUgyNHVTZ0cxdHVBSmlRd0pOM2VaYU14NC00SURxU2NsUQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
