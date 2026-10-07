@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-07T13:21:53Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.07 22:21 (한국시간)",
+  "updatedAtISO": "2026-10-07T14:20:28Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.07 23:20 (한국시간)",
   "us10y": 5.31,
   "us30y": 5.66,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1339.06,
-  "usdJpy": 158.32,
-  "jpyKrw100": 845.79,
+  "usdKrw": 1339.1,
+  "usdJpy": 158.17,
+  "jpyKrw100": 846.64,
   "indices": {
     "kospi": {
       "value": 6803.9,
@@ -20,16 +20,16 @@
       "changePct": -2.34
     },
     "sp500": {
-      "value": 7818.93,
-      "changePct": 0.58
+      "value": 7775.65,
+      "changePct": -0.55
     },
     "nasdaq": {
-      "value": 27599.89,
-      "changePct": 0.45
+      "value": 27407.86,
+      "changePct": -0.7
     },
     "sox": {
-      "value": 13217.82,
-      "changePct": 0.34
+      "value": 12968.38,
+      "changePct": -1.89
     }
   },
   "issues": [
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "美 증시와 거꾸로 가는 코스피, 6800선으로 하락 - 전자신문",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZcmZyQm16bUxlU3h2dC1ldlJlTV83TWVLeTRPUzMyZTlzUmRIN3p0c0FDNG0wVEdfN3hOOTE0Yk5VUXRqeDNxbTh0akJaQQ?oc=5"
+      "title": "미국증시 장초반 동반 하락…유가·장기금리 급등에 AI반도체·중소형주 흔들 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MUlZXRnY1b3JFcVBIYlV4WFotSlo3a3N5N0VUUnMwY2I3eGxBa0p0RHY1RVhKYnhiSjVuYThFRXRneW9BNzV1bUtSTU1YWjZjNllKeWxRLUtUZGlQQmRwNUtuMTBlT0xwWjZvN184OXg2UQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
