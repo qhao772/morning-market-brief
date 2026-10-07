@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-07T14:20:28Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.07 23:20 (한국시간)",
+  "updatedAtISO": "2026-10-07T15:29:44Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.08 00:29 (한국시간)",
   "us10y": 5.31,
   "us30y": 5.66,
   "fedFundsLow": 3.75,
@@ -8,8 +8,8 @@
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
   "usdKrw": 1339.1,
-  "usdJpy": 158.17,
-  "jpyKrw100": 846.64,
+  "usdJpy": 158.15,
+  "jpyKrw100": 846.73,
   "indices": {
     "kospi": {
       "value": 6803.9,
@@ -20,16 +20,16 @@
       "changePct": -2.34
     },
     "sp500": {
-      "value": 7775.65,
+      "value": 7775.86,
       "changePct": -0.55
     },
     "nasdaq": {
-      "value": 27407.86,
-      "changePct": -0.7
+      "value": 27415.9,
+      "changePct": -0.67
     },
     "sox": {
-      "value": 12968.38,
-      "changePct": -1.89
+      "value": 12964.21,
+      "changePct": -1.92
     }
   },
   "issues": [
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 주요 지수 동반 상승 마감…반도체는 종목별 엇갈려 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53SlBHMFdlbmhjVmZfdm1qWWVYYUh0OEFHYkdTV1B6NU5tbVE2aFFoT1FwMlZrcEZKSjl6OGloWVZZN3l3T011Nm5rQW9JRmZzYUdfTTRCRkE0MXJycmNidGtDQjJZVXNPVGMtaEZFNA?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "미국증시 장초반 동반 하락…유가·장기금리 급등에 AI반도체·중소형주 흔들 - TopStarNews",
       "source": "TopStarNews",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MUlZXRnY1b3JFcVBIYlV4WFotSlo3a3N5N0VUUnMwY2I3eGxBa0p0RHY1RVhKYnhiSjVuYThFRXRneW9BNzV1bUtSTU1YWjZjNllKeWxRLUtUZGlQQmRwNUtuMTBlT0xwWjZvN184OXg2UQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[서울데이터랩] 미국 증시, 주요 지수 동반 상승 마감…반도체는 종목별 엇갈려 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53SlBHMFdlbmhjVmZfdm1qWWVYYUh0OEFHYkdTV1B6NU5tbVE2aFFoT1FwMlZrcEZKSjl6OGloWVZZN3l3T011Nm5rQW9JRmZzYUdfTTRCRkE0MXJycmNidGtDQjJZVXNPVGMtaEZFNA?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
