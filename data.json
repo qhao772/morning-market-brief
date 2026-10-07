@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-07T02:18:19Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.07 11:18 (한국시간)",
+  "updatedAtISO": "2026-10-07T03:19:09Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.07 12:19 (한국시간)",
   "us10y": 5.31,
   "us30y": 5.66,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1340.5,
-  "usdJpy": 158.42,
-  "jpyKrw100": 846.19,
+  "usdKrw": 1338.11,
+  "usdJpy": 158.4,
+  "jpyKrw100": 844.79,
   "indices": {
     "kospi": {
-      "value": 6887.03,
-      "changePct": -0.78
+      "value": 6873.09,
+      "changePct": -0.98
     },
     "kosdaq": {
-      "value": 909.14,
-      "changePct": -1.17
+      "value": 905.34,
+      "changePct": -1.58
     },
     "sp500": {
       "value": 7818.93,
@@ -47,21 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "美 증시는 사상 최고치인데 코스피는 왜 7000에서 번번이 미끄러지나 - 조선일보",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd0NXVjVkbVlocGlzX3Y5cTJTYUFWQllNbU5aLU5tdFRDYzJoOU96NUFnWjRBRmlGUGQtMWJHbmsxU09scUIzY1ZVa0wzdnNJSnlRdThER1dnOVJBa29vWHh4cUJvc01YcVNpc1QwM2ZuR18ta0RrZVFQcjBSM3VqeA?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "서학 개미, 美 주식 보유액 4개월만에 2천억 달러 재돌파 - Daum",
       "source": "Daum",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44RHpCM1lyV3NJMlVHR1F3T1JZRnRZanZRNUZrcDlOcEZNYTNMck1XOHhVU1FBcGVPS01CZmlOT25yWU9pekZ5YUM3Tm5YV3c?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "서학 개미 미국 주식 보유액 4개월만에 2000억 달러 재돌파 - 강원도민일보",
-      "source": "강원도민일보",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6VHRTWmxFTFd5YzVOOXJ5STRlZlRQWW1JcWtwcVZuVFgwQnZKdlQ5RDVRRnJNLUNGcU0xTld5SXdyTFBUOG40MExiZzd6VHd0Y09DNWZmRFJpY2dpYkJib1ZRd1JKUVE?oc=5"
+      "title": "美 증시는 사상 최고치인데 코스피는 왜 7000에서 번번이 미끄러지나 - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd0NXVjVkbVlocGlzX3Y5cTJTYUFWQllNbU5aLU5tdFRDYzJoOU96NUFnWjRBRmlGUGQtMWJHbmsxU09scUIzY1ZVa0wzdnNJSnlRdThER1dnOVJBa29vWHh4cUJvc01YcVNpc1QwM2ZuR18ta0RrZVFQcjBSM3VqeA?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "\"美 증시는 날아가는데\"…눈치보는 국내 증시, 소부장 팔고 순환매 - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5RjJmMEZvLWtSS2FpTUt6Y25FcmFxUmtPTDFHNFhGaERTUzZVd3J6bE9SaGR5cERMdEpWOGZFS21JNTRNaFJKcTdodDd3OFQ2X2lDZEhfSGVCQQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
