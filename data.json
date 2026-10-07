@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-07T09:19:50Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.07 18:19 (한국시간)",
+  "updatedAtISO": "2026-10-07T10:19:30Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.07 19:19 (한국시간)",
   "us10y": 5.31,
   "us30y": 5.66,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1338.32,
-  "usdJpy": 158.24,
-  "jpyKrw100": 845.77,
+  "usdKrw": 1337.88,
+  "usdJpy": 158.29,
+  "jpyKrw100": 845.2,
   "indices": {
     "kospi": {
       "value": 6803.9,
@@ -47,15 +47,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "'공포의 10월'? 98년간 미 증시 성적표 뜯어보니 '반전' - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xUFNBaUlBVk1fWWNHdjA4S2gtSUhhMjM4eFl3aHcteXdzbDY4NUNLQVpYcC1Pck1oSUdaclpOZmJwaWw5U2lLOGF5dkJ4S3pQWXBwM0JjWk1odw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "[서울데이터랩] 미국 증시, 주요 지수 동반 상승 마감…반도체는 종목별 엇갈려 - 서울신문",
       "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53SlBHMFdlbmhjVmZfdm1qWWVYYUh0OEFHYkdTV1B6NU5tbVE2aFFoT1FwMlZrcEZKSjl6OGloWVZZN3l3T011Nm5rQW9JRmZzYUdfTTRCRkE0MXJycmNidGtDQjJZVXNPVGMtaEZFNA?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "'공포의 10월'? 98년간 미 증시 성적표 뜯어보니 '반전' - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xUFNBaUlBVk1fWWNHdjA4S2gtSUhhMjM4eFl3aHcteXdzbDY4NUNLQVpYcC1Pck1oSUdaclpOZmJwaWw5U2lLOGF5dkJ4S3pQWXBwM0JjWk1odw?oc=5"
     },
     {
       "tag": "시장 뉴스",
