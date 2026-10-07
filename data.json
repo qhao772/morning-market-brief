@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-07T00:28:54Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.07 09:28 (한국시간)",
+  "updatedAtISO": "2026-10-07T01:18:56Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.07 10:18 (한국시간)",
   "us10y": 5.31,
   "us30y": 5.66,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1339.77,
-  "usdJpy": 158.44,
-  "jpyKrw100": 845.57,
+  "usdKrw": 1337.77,
+  "usdJpy": 158.45,
+  "jpyKrw100": 844.28,
   "indices": {
     "kospi": {
-      "value": 6878.47,
-      "changePct": -0.91
+      "value": 6943.08,
+      "changePct": 0.02
     },
     "kosdaq": {
-      "value": 920.77,
-      "changePct": 0.09
+      "value": 909.15,
+      "changePct": -1.17
     },
     "sp500": {
       "value": 7818.93,
@@ -47,21 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "서학 개미, 美 주식 보유액 4개월만에 2천억 달러 재돌파 - Daum",
+      "source": "Daum",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44RHpCM1lyV3NJMlVHR1F3T1JZRnRZanZRNUZrcDlOcEZNYTNMck1XOHhVU1FBcGVPS01CZmlOT25yWU9pekZ5YUM3Tm5YV3c?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "美 증시는 사상 최고치인데 코스피는 왜 7000에서 번번이 미끄러지나 - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd0NXVjVkbVlocGlzX3Y5cTJTYUFWQllNbU5aLU5tdFRDYzJoOU96NUFnWjRBRmlGUGQtMWJHbmsxU09scUIzY1ZVa0wzdnNJSnlRdThER1dnOVJBa29vWHh4cUJvc01YcVNpc1QwM2ZuR18ta0RrZVFQcjBSM3VqeA?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[3분증시] 뉴욕증시, 국채금리 하락 속 상승…S&P 최고치 - 연합뉴스TV",
       "source": "연합뉴스TV",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1SFQxdzB6aWg1Y2plQi1wcDRUUER1OFNlZTNtVFBOYnVYWlFPQ3haSUJrbkpWcndKdEQ3Z2V0c1djS1VKb0hvcE5jUGJwbGt6WTFPVw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[마켓뷰] 연일 최고치 경신 美증시…코스피, 반등 탄력 삼나 - Daum",
-      "source": "Daum",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03azAxRW05WUZCV19yR21kbjdrYTR5dzZ5bW5sYVlUMVl6YmNILTVPSXlfaWRMNE5pYm82VERKaGZiV2ZKX1FENEMtakgxRlU?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "또 미국 주식 신고가! 계속 상승하는 이유는? - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZFFKZU96MkRjankyLW0zQ1ZzVVJ0RVZqY19xVV9HNmgwVlR4OV95U3JrLWxHMnJ0YUVjTnFmLVpzWExiQl9VNG5zWGJkc3NNaENaZ1ZNTWF1TUZmVV9LclZ5RkVWNFJ5dXl6NDU2ZXNRM3VwWENLaUhMZHZoZS13RDBuSkFFajRvbjJj?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
