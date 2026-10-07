@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-07T04:19:16Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.07 13:19 (한국시간)",
+  "updatedAtISO": "2026-10-07T05:19:08Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.07 14:19 (한국시간)",
   "us10y": 5.31,
   "us30y": 5.66,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1338.78,
+  "usdKrw": 1338.23,
   "usdJpy": 158.41,
-  "jpyKrw100": 845.14,
+  "jpyKrw100": 844.82,
   "indices": {
     "kospi": {
-      "value": 6876.98,
-      "changePct": -0.93
+      "value": 6848.2,
+      "changePct": -1.34
     },
     "kosdaq": {
-      "value": 907.26,
-      "changePct": -1.38
+      "value": 904.21,
+      "changePct": -1.71
     },
     "sp500": {
       "value": 7818.93,
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "서학 개미 미국 주식 보유액 4개월만에 2000억 달러 재돌파 - 강원도민일보",
-      "source": "강원도민일보",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QMzNCcDFKZ1JpMkZRYWpDSjNPRTR3blRqUXZKMWI1VTZwdjFLZktQNi1HaW1JTFh6UEJYV3FqMkhPcVV1S1QyX2lVM1FESU05WXF6N0NBU3dKMG92VlJwRllFdWZrUG5S?oc=5"
+      "title": "나스닥·S&P 500 동반 신고가 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nVFoxZ1RMRXVaX21sWHdxclg1eG9PZ0ZRbnBEMm1obXBUS1R3Z25pUG1QWVlkY3hFWlhnN2VhSjQ0ZDdPcjQzWGg4THgwWGhLTXgycTBod0RoUUtGaVBUY21fbFJNaHRuWVNjRQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
