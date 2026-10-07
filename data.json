@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-07T16:21:04Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.08 01:21 (한국시간)",
+  "updatedAtISO": "2026-10-07T17:23:04Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.08 02:23 (한국시간)",
   "us10y": 5.31,
   "us30y": 5.66,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1338.65,
-  "usdJpy": 158.02,
-  "jpyKrw100": 847.16,
+  "usdKrw": 1337.95,
+  "usdJpy": 157.96,
+  "jpyKrw100": 847.05,
   "indices": {
     "kospi": {
       "value": 6803.9,
@@ -20,24 +20,36 @@
       "changePct": -2.34
     },
     "sp500": {
-      "value": 7793.88,
-      "changePct": -0.32
+      "value": 7803.6,
+      "changePct": -0.2
     },
     "nasdaq": {
-      "value": 27474.1,
-      "changePct": -0.46
+      "value": 27503.94,
+      "changePct": -0.35
     },
     "sox": {
-      "value": 12986.94,
-      "changePct": -1.75
+      "value": 13033.85,
+      "changePct": -1.39
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "美 국채금리 상승에 증시 랠리 제동 - 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMGtsVkhQYXNmZV90V1gxSDhPNHZNMVRUdmdOUVE1VW1odWNReXVTQXNjZEZMQXgxY2xlNHJlRXI5Ry0tS3d1MEdwZzNJMHZoOGxRMkN0R2t2dVJWaWMwTnZfaDdjVnJ4aGZaZXVUTV9VSmdzbjRieWQ3WkRoS0xVQ201enZjSHM?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[亞증시-종합] 반도체 약세·유가 상승에 일제히 하락 - KB Think",
       "source": "KB Think",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3ZzlxNFNrNER5YVhaYUswRXlBR1pDRVJxYXI3Q3BGU0ZNaGl6X3EwSTU4aFpQS3RkUTRHTjdka2pZQW9PWmROamRBMGZWeEFDZ3ZWdGVFT1VVR09BeUdMUWp6bHA1bFZUZzJkWlFwYkVrdw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "뉴욕증시, 하락세로 전환…나스닥 0.43%↓ - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ya0I2Zml1bEVVUDhHeVNGTVpBQ0pUMXlzQko0ZHdjemVmelhvdFZDU29LWTdINWJIS2NKN3hvQ2Z1c2ItSV9iM3c1WS1wZ1h6?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -50,18 +62,6 @@
       "title": "개미 돌아오나…하닉·마이크론 다시 사들인다 - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NOEEtR0I3QjBDcjZqSGoxRGRUNHRxT2c5aDVoeFZ0azVCYzV1aktRWUI2RzV0U0FkZmFTYUZER0lTMW5XM3daT2xyVDdjU2Jxamc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시 장초반 동반 하락…유가·장기금리 급등에 AI반도체·중소형주 흔들 - TopStarNews",
-      "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MUlZXRnY1b3JFcVBIYlV4WFotSlo3a3N5N0VUUnMwY2I3eGxBa0p0RHY1RVhKYnhiSjVuYThFRXRneW9BNzV1bUtSTU1YWjZjNllKeWxRLUtUZGlQQmRwNUtuMTBlT0xwWjZvN184OXg2UQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 주요 지수 동반 상승 마감…반도체는 종목별 엇갈려 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53SlBHMFdlbmhjVmZfdm1qWWVYYUh0OEFHYkdTV1B6NU5tbVE2aFFoT1FwMlZrcEZKSjl6OGloWVZZN3l3T011Nm5rQW9JRmZzYUdfTTRCRkE0MXJycmNidGtDQjJZVXNPVGMtaEZFNA?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
