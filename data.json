@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-07T20:19:05Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.08 05:19 (한국시간)",
+  "updatedAtISO": "2026-10-07T21:18:40Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.08 06:18 (한국시간)",
   "us10y": 5.27,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1339.6,
-  "usdJpy": 158.09,
-  "jpyKrw100": 847.38,
+  "usdKrw": 1339.23,
+  "usdJpy": 158.04,
+  "jpyKrw100": 847.41,
   "indices": {
     "kospi": {
       "value": 6803.9,
@@ -53,9 +53,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 하락세로 전환…나스닥 0.43%↓ - 블루밍비트",
+      "title": "뉴욕증시, 하락세로 마감…나스닥 0.22%↓ - 블루밍비트",
       "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ya0I2Zml1bEVVUDhHeVNGTVpBQ0pUMXlzQko0ZHdjemVmelhvdFZDU29LWTdINWJIS2NKN3hvQ2Z1c2ItSV9iM3c1WS1wZ1h6?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HYUM4ZXZfSWUzdkthWENab3JsQTluVzdxX0pYaTZXWDk5dGM4bkNDOHR0TjZscVNtZzNLdlVkS2xxREljY2o1dkFDVnkxQk5f?oc=5"
     },
     {
       "tag": "시장 뉴스",
