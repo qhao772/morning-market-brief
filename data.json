@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-07T19:19:09Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.08 04:19 (한국시간)",
-  "us10y": 5.31,
-  "us30y": 5.66,
+  "updatedAtISO": "2026-10-07T20:19:05Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.08 05:19 (한국시간)",
+  "us10y": 5.27,
+  "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1338.89,
-  "usdJpy": 158.01,
-  "jpyKrw100": 847.32,
+  "usdKrw": 1339.6,
+  "usdJpy": 158.09,
+  "jpyKrw100": 847.38,
   "indices": {
     "kospi": {
       "value": 6803.9,
@@ -20,16 +20,16 @@
       "changePct": -2.34
     },
     "sp500": {
-      "value": 7799.75,
-      "changePct": -0.24
+      "value": 7801.77,
+      "changePct": -0.22
     },
     "nasdaq": {
-      "value": 27513.09,
-      "changePct": -0.31
+      "value": 27538.69,
+      "changePct": -0.22
     },
     "sox": {
-      "value": 13006.41,
-      "changePct": -1.6
+      "value": 13066.15,
+      "changePct": -1.15
     }
   },
   "issues": [
@@ -47,15 +47,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 하락세로 전환…나스닥 0.43%↓ - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ya0I2Zml1bEVVUDhHeVNGTVpBQ0pUMXlzQko0ZHdjemVmelhvdFZDU29LWTdINWJIS2NKN3hvQ2Z1c2ItSV9iM3c1WS1wZ1h6?oc=5"
+      "title": "\"폭락 예측말고 대비하라\"…'블랙스완'탈레브 美증시 경고 - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmbk9NTDhlb2hQc3c0Sy1XXzNzc0E3alV3VS1WQm02Mm5PV3Y3ajMzcWxteDNQYlN2REQ4YnRpMVFKbkZXVUZyNVQza2hHNXpjd0IyeEZ5UUlXUQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "'공포의 10월'? 98년간 미 증시 성적표 뜯어보니 '반전' - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xUFNBaUlBVk1fWWNHdjA4S2gtSUhhMjM4eFl3aHcteXdzbDY4NUNLQVpYcC1Pck1oSUdaclpOZmJwaWw5U2lLOGF5dkJ4S3pQWXBwM0JjWk1odw?oc=5"
+      "title": "뉴욕증시, 하락세로 전환…나스닥 0.43%↓ - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ya0I2Zml1bEVVUDhHeVNGTVpBQ0pUMXlzQko0ZHdjemVmelhvdFZDU29LWTdINWJIS2NKN3hvQ2Z1c2ItSV9iM3c1WS1wZ1h6?oc=5"
     },
     {
       "tag": "시장 뉴스",
