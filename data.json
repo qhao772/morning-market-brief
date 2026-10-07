@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-07T18:22:26Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.08 03:22 (한국시간)",
+  "updatedAtISO": "2026-10-07T19:19:09Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.08 04:19 (한국시간)",
   "us10y": 5.31,
   "us30y": 5.66,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1338.56,
-  "usdJpy": 157.97,
-  "jpyKrw100": 847.37,
+  "usdKrw": 1338.89,
+  "usdJpy": 158.01,
+  "jpyKrw100": 847.32,
   "indices": {
     "kospi": {
       "value": 6803.9,
@@ -20,16 +20,16 @@
       "changePct": -2.34
     },
     "sp500": {
-      "value": 7801.95,
-      "changePct": -0.22
+      "value": 7799.75,
+      "changePct": -0.24
     },
     "nasdaq": {
-      "value": 27511.25,
-      "changePct": -0.32
+      "value": 27513.09,
+      "changePct": -0.31
     },
     "sox": {
-      "value": 13019.18,
-      "changePct": -1.5
+      "value": 13006.41,
+      "changePct": -1.6
     }
   },
   "issues": [
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "개미 돌아오나…하닉·마이크론 다시 사들인다 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NOEEtR0I3QjBDcjZqSGoxRGRUNHRxT2c5aDVoeFZ0azVCYzV1aktRWUI2RzV0U0FkZmFTYUZER0lTMW5XM3daT2xyVDdjU2Jxamc?oc=5"
+      "title": "미국 증시 선물 하락, 높아진 금리와 연준 동결 기대감 저울질 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80ZV9KZFlfUF9zdVJTVXdocmR1M1dHM3RjcW9tRlBJdmxEMUVLQUU4VXNzSld2WV9jMmhWYnJpNUdyRl9waFBOcjhtLUpsV1NxN3hjX2lFZFlwSmdaUlpDaHRIdjgydTlvUmYyc1ZMZjI?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
