@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-07T22:16:03Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.08 07:16 (한국시간)",
+  "updatedAtISO": "2026-10-07T23:14:58Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.08 08:14 (한국시간)",
   "us10y": 5.27,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1339.41,
-  "usdJpy": 158.0,
-  "jpyKrw100": 847.72,
+  "usdKrw": 1339.35,
+  "usdJpy": 158.01,
+  "jpyKrw100": 847.64,
   "indices": {
     "kospi": {
       "value": 6803.9,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "[3분증시] 뉴욕증시, 프랑스 금리 급등에 약세 마감 - 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WZ3h1YVFfNTRpems4MXpjQndSNEkwbEN0aW50Z1hlSjBWY1YtSEpjN2p5SWNCOVpYRVpnSUNvOVdENElyRmRoVW9MY0ZJZ1pTX2NDcVk5WjBJYjBSUHVhU2k1WFY1UzQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "‘AI 랠리~테슬라·엔비디아 다시 살까?’…서학개미 268조원 美증시로 - 문화일보",
+      "source": "문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjV0NWM3FRbjBzcVFpd3F6U0pVdGh4THRtSXRqUWw0SEI0MzBiaTczbVJLYnJEUm1vRmR2MzVOTmtfUXdOckthX0VQcW4xUGtZ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[3분증시] 뉴욕증시, 프랑스 금리 급등에 약세 마감 - 연합뉴스 한민족센터",
+      "source": "연합뉴스 한민족센터",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44NGVQV3dXdnc1MlBsdHBhTjJIY2sxalktQkQ0al9mbGtmVTVsZG43czlKTGNSeUNDRWI5UGJieEVXOVBmZzFXQXFoWEZTX3gzUUs4cmNnUElzUk1KZEllNFN0OWtrV3U3TFkzaTF1b1owMFZr?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "“떨어질 만큼 떨어졌죠? 주워보겠습니다”…14조 팔고 돌아온 개미들 - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UOXVpMzY4QzBtZlM1NjNwSkhnN1Q1MzhLWWZ4dDV6MEY0a1R5M2xBd0hpWm5CVzRnQkZHbU96dXIzSXROQm04SXRpTXRhNWF0R1E?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시, 국채금리 5.36% 충격에 하락…마이크론만 4%대 역주행 - TopStarNews",
-      "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03dEhYUXo1ZVJ0RF82dVFvM1p6NVJHZ1B1bkszVGFvWGdVQlpWbWVyVmsweUJHSU9oaUtHdzdoYjEtRC1QQS1pZDN6eTJjOXBJR3V1RnhJSWlXb0hJRHBMYmgwdlYwOWctaWttVXpobzhUQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "美 국채금리 상승에 증시 랠리 제동 - 글로벌이코노믹",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMGtsVkhQYXNmZV90V1gxSDhPNHZNMVRUdmdOUVE1VW1odWNReXVTQXNjZEZMQXgxY2xlNHJlRXI5Ry0tS3d1MEdwZzNJMHZoOGxRMkN0R2t2dVJWaWMwTnZfaDdjVnJ4aGZaZXVUTV9VSmdzbjRieWQ3WkRoS0xVQ201enZjSHM?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "뉴욕증시, 하락세로 전환…나스닥 0.43%↓ - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ya0I2Zml1bEVVUDhHeVNGTVpBQ0pUMXlzQko0ZHdjemVmelhvdFZDU29LWTdINWJIS2NKN3hvQ2Z1c2ItSV9iM3c1WS1wZ1h6?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[亞증시-종합] 반도체 약세·유가 상승에 일제히 하락 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3ZzlxNFNrNER5YVhaYUswRXlBR1pDRVJxYXI3Q3BGU0ZNaGl6X3EwSTU4aFpQS3RkUTRHTjdka2pZQW9PWmROamRBMGZWeEFDZ3ZWdGVFT1VVR09BeUdMUWp6bHA1bFZUZzJkWlFwYkVrdw?oc=5"
+      "title": "[AI MY 증시전망] 美 반도체 약세…삼성전자 실적 '주목' - 뉴스핌",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85MnhFdEx0LUxVMHhrcDNHajZUSmNPY2pkS2ZrT25STzhoRkVLM0wwV1RPTFZjaVRKTzNhTU15dW9BV1pNZ2hfWHBEMzFfSjdob0RWd3ZYc0hYdmZQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
