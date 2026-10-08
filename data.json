@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-08T13:22:50Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.08 22:22 (한국시간)",
+  "updatedAtISO": "2026-10-08T14:21:58Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.08 23:21 (한국시간)",
   "us10y": 5.27,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1342.41,
-  "usdJpy": 158.17,
-  "jpyKrw100": 848.71,
+  "usdKrw": 1342.16,
+  "usdJpy": 158.12,
+  "jpyKrw100": 848.8,
   "indices": {
     "kospi": {
       "value": 6625.93,
@@ -20,16 +20,16 @@
       "changePct": -0.69
     },
     "sp500": {
-      "value": 7801.77,
-      "changePct": -0.22
+      "value": 7789.34,
+      "changePct": -0.16
     },
     "nasdaq": {
-      "value": 27538.69,
-      "changePct": -0.22
+      "value": 27441.65,
+      "changePct": -0.35
     },
     "sox": {
-      "value": 13066.15,
-      "changePct": -1.15
+      "value": 12912.14,
+      "changePct": -1.18
     }
   },
   "issues": [
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "'부동산으로 돈 번다고? 꿈 깼어요'…집 대신 주식 산다 - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54UTcwR3JROXRwZm8zSXM3SUtPY3ptajh1SEdRZUdZZ0R4NlVseE91UTBkc2MyUDd2clRqTTViZThFcVRDTnF1bjlEaHkxWmVsdHNKNlJLMkVHUQ?oc=5"
+      "title": "[시황] 미국증시, 국채금리 상승 부담에 하락 마감 - 버핏연구소",
+      "source": "버핏연구소",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtTlJsWmc5c0ZLa1g4dlhYaEZjdWVCVXNMQlc4N0ZILWl3d2d3Y1VWMTVwYjJqY0ZHa3FHVzNHZXhTUkpRX1BCWHAwaldmQmhibEVxSmZ3NkFUd0pSX1kycWVR?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
