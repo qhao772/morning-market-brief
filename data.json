@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-08T19:18:54Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.09 04:18 (한국시간)",
-  "us10y": 5.27,
-  "us30y": 5.64,
+  "updatedAtISO": "2026-10-08T20:20:13Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.09 05:20 (한국시간)",
+  "us10y": 5.28,
+  "us30y": 5.67,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1341.84,
-  "usdJpy": 157.82,
-  "jpyKrw100": 850.25,
+  "usdKrw": 1342.22,
+  "usdJpy": 157.86,
+  "jpyKrw100": 850.24,
   "indices": {
     "kospi": {
       "value": 6625.93,
@@ -20,16 +20,16 @@
       "changePct": -0.69
     },
     "sp500": {
-      "value": 7755.2,
-      "changePct": -0.6
+      "value": 7765.36,
+      "changePct": -0.47
     },
     "nasdaq": {
-      "value": 27148.16,
-      "changePct": -1.42
+      "value": 27193.34,
+      "changePct": -1.25
     },
     "sox": {
-      "value": 12545.22,
-      "changePct": -3.99
+      "value": 12623.72,
+      "changePct": -3.39
     }
   },
   "issues": [
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "스트래티지, 29일 미국 증시 마감 후 3분기 실적 발표 - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DWm5ZdUlwbmQzWG9mdEhnQVEwMHg2M1hCcG1RaVV5Z1M4V2VtWTl0ZEhJd25tM1NNUFNyNU9BV1p1ak8yUmVGVVBsUVpza2Qx?oc=5"
+      "title": "미국증시, 이란 전쟁에 유가·금리 동반 급등…엔비디아·반도체 약세, 팔란티어 상승 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56bjRfanRBY2RlVEhvWkdGUElSYXBLQWdRQ3N2QmUzZ0d6eERzYXJxVTBkM2htTVJXTTR5U0VqeVhIUlhuMGpVOUJydWg0cHM1SkpXUG5lNzg1LUZKZWp5Q2tpclI2OE0tMDJSbDFFeU02Zw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "국내, 미국증시 전망 : 10월 옵션만기 영향, 삼성전자 잠정실적 발표와 미국채금리 - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYVlySTNxR1NPcW1xdEJtLVFDZ2ltc01sRnp0ZDdhZElZdW5WcmJ0YkpvTFAtMHA4T2ljRkl0RkdjN0U2YjlmWTVmUUU1OV9YaWtGaS1WSXQxN042OEhJSVJxVThYZDl3N3g3bG5XYmphNS0wT2JtQWZpcmlNX1pLa2ZnQQ?oc=5"
+      "title": "스트래티지, 29일 미국 증시 마감 후 3분기 실적 발표 - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DWm5ZdUlwbmQzWG9mdEhnQVEwMHg2M1hCcG1RaVV5Z1M4V2VtWTl0ZEhJd25tM1NNUFNyNU9BV1p1ak8yUmVGVVBsUVpza2Qx?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
