@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-08T04:19:27Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.08 13:19 (한국시간)",
+  "updatedAtISO": "2026-10-08T05:18:55Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.08 14:18 (한국시간)",
   "us10y": 5.27,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1336.79,
+  "usdKrw": 1337.21,
   "usdJpy": 158.18,
-  "jpyKrw100": 845.12,
+  "jpyKrw100": 845.36,
   "indices": {
     "kospi": {
-      "value": 6650.4,
-      "changePct": -2.26
+      "value": 6723.27,
+      "changePct": -1.19
     },
     "kosdaq": {
-      "value": 886.16,
-      "changePct": -1.37
+      "value": 895.87,
+      "changePct": -0.28
     },
     "sp500": {
       "value": 7801.77,
@@ -35,9 +35,21 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "日 증시, 美 따라 하락 개장…7만선 깨져 - KB Think",
+      "title": "서학 개미, 美 주식 보유액 4개월만에 2천억 달러 재돌파 - 세무사신문",
+      "source": "세무사신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NYzhzRHdnNWNwRjRINXNIYVg5cl9XYTJaRTZSQTFsQUtsUjFEV1Utc0dKTWxTT2p3Z2NnQnhLRlFTeHdHOGJFcWRXNFltMkhidUlFY0k5YzZkOVJTdV9ZTWVmZGFrMnZKWDk5NQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "'빅쇼트' 마이클 버리 \"증시 붕괴 1단계 진입…6~9개월 뒤 다음 단계\" - KB Think",
       "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UX0ZBM3JITU1TNnpUM0E0Y0Y5UjVhZ0stUE44QzBSckJxOUluUDNXdnhzS0hLT2FFRjhjNml2T2xUeVJpalhLb2hPdF85T1RLMWxCcnlFbnB0OEwtMkpkb1NSaFZXQ3lsZGpVWEJlWXNMZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55T2Y1RkV0THRaY291NTJ5UV9jS2Y2dVNqSUNiUW1oS2o3TFNJSHNJa3JrWWduU0lXcm9lQmJ1Qy16TkIxV2l1YjhHYUpjcmlUdksydnhQN1FORk5tRndEdDFid1hPT0Z0NzdrT01OR0NXUQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "국내, 미국증시 전망 : 10월 옵션만기 영향, 삼성전자 잠정실적 발표와 미국채금리 - 네이버 프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYVlySTNxR1NPcW1xdEJtLVFDZ2ltc01sRnp0ZDdhZElZdW5WcmJ0YkpvTFAtMHA4T2ljRkl0RkdjN0U2YjlmWTVmUUU1OV9YaWtGaS1WSXQxN042OEhJSVJxVThYZDl3N3g3bG5XYmphNS0wT2JtQWZpcmlNX1pLa2ZnQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,21 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "‘AI 랠리~테슬라·엔비디아 다시 살까?’…서학개미 268조원 美증시로 - 문화일보",
-      "source": "문화일보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjV0NWM3FRbjBzcVFpd3F6U0pVdGh4THRtSXRqUWw0SEI0MzBiaTczbVJLYnJEUm1vRmR2MzVOTmtfUXdOckthX0VQcW4xUGtZ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "블룸버그 \"솔리다임, 골드만삭스 등 IPO 주관사 선정\" - 연합뉴스",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DS2ZmOTUyZ1JfUERnVlJCVzNvUWtiRWxGVEo4UlR5VzNDXy1FX0ZBQzYxX3Q5UUw2a3hURGdmQ2VCZFI4bkVCZ3RYb0dFWkZfQUtFTEFIXy10cFHSAWBBVV95cUxPcEJFdGJTLTN0TnZiZEcxZ1kycXd6Tk9IZVY0XzdXa2E1em1oX2UySmhiMFo1V040by1CYkdJc3Q4WEM5azl5VGhjcmtoMF9yMVBEYWlPeFl4Vmt2eE44MkM?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "“떨어질 만큼 떨어졌죠? 주워보겠습니다”…14조 팔고 돌아온 개미들 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UOXVpMzY4QzBtZlM1NjNwSkhnN1Q1MzhLWWZ4dDV6MEY0a1R5M2xBd0hpWm5CVzRnQkZHbU96dXIzSXROQm04SXRpTXRhNWF0R1E?oc=5"
+      "title": "\"미국증시, 폭락의 첫 단계에 진입\"...영화 '빅쇼트' 주인공 마이클 버리 경고 - 비욘드포스트",
+      "source": "비욘드포스트",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mVVRWN3RUNUZsUWhOdklGc25qelVUU1IzTFN6ZlhOQ0pRYUR6N3pRWFJGd3ZFNnpUZ0hpeEpfLTBmZDY1ZXN5bGwzMWNNM1dmWnhnMmd2cVZzVW9JZnl6QmE0QU5GR3VrV3RuTWlIR3FaQTdBUVFIQWhtX1Y?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
