@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-08T20:20:13Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.09 05:20 (한국시간)",
+  "updatedAtISO": "2026-10-08T21:18:59Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.09 06:18 (한국시간)",
   "us10y": 5.28,
   "us30y": 5.67,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1342.22,
-  "usdJpy": 157.86,
-  "jpyKrw100": 850.24,
+  "usdKrw": 1342.87,
+  "usdJpy": 157.81,
+  "jpyKrw100": 850.91,
   "indices": {
     "kospi": {
       "value": 6625.93,
@@ -41,9 +41,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[도쿄증시-마감] 美 증시·금리 부담에 닛케이 70,000선 하회 - KB Think",
+      "title": "[亞증시-종합] 매크로가 심상찮다…일제히 하락 - KB Think",
       "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IVnN1Yk1Mel9RN2ZQeTF5U0pCZU1HRUNJM1k2V0xOeGtQbVp1bjhtMFJrbHp3aDJUSm1hbnpuVDVWZnpFcXQ2d0FJMVUwM3lEaDNmVkk3Tzh3Tk5HR2VQRFFYd3BIbUd3YzVQRDRqN2FEUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FRlBWYUVScW1kaWhOYnFqakQxdDU4UURBaE11UHZORGNUOVR3dURuUEhxWHJ3VU8tY2tNSXZrbGZ2NWtNMTJLNDlSVDltOE1VR3dSVTBINjBXRWtnTUpwblF5d3BUb2V0cXlIT2lkUjhSQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시, 이란 전쟁에 유가·금리 동반 급등…엔비디아·반도체 약세, 팔란티어 상승 - TopStarNews",
-      "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56bjRfanRBY2RlVEhvWkdGUElSYXBLQWdRQ3N2QmUzZ0d6eERzYXJxVTBkM2htTVJXTTR5U0VqeVhIUlhuMGpVOUJydWg0cHM1SkpXUG5lNzg1LUZKZWp5Q2tpclI2OE0tMDJSbDFFeU02Zw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "스트래티지, 29일 미국 증시 마감 후 3분기 실적 발표 - 블루밍비트",
       "source": "블루밍비트",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DWm5ZdUlwbmQzWG9mdEhnQVEwMHg2M1hCcG1RaVV5Z1M4V2VtWTl0ZEhJd25tM1NNUFNyNU9BV1p1ak8yUmVGVVBsUVpza2Qx?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시, 이란 전쟁에 유가·금리 동반 급등…엔비디아·반도체 약세, 팔란티어 상승 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56bjRfanRBY2RlVEhvWkdGUElSYXBLQWdRQ3N2QmUzZ0d6eERzYXJxVTBkM2htTVJXTTR5U0VqeVhIUlhuMGpVOUJydWg0cHM1SkpXUG5lNzg1LUZKZWp5Q2tpclI2OE0tMDJSbDFFeU02Zw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
