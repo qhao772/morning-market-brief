@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-08T11:19:06Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.08 20:19 (한국시간)",
+  "updatedAtISO": "2026-10-08T12:25:14Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.08 21:25 (한국시간)",
   "us10y": 5.27,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1344.71,
-  "usdJpy": 158.28,
-  "jpyKrw100": 849.6,
+  "usdKrw": 1342.56,
+  "usdJpy": 158.21,
+  "jpyKrw100": 848.62,
   "indices": {
     "kospi": {
       "value": 6625.93,
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, 프랑스 금리 급등에 약세 마감 - 연합뉴스TV",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3RWNhMlVEYlZIZjBqUFZNeG9uS1gtOXBiUUVtSUxFdDlBZVRsdnFKSXo1NXdhQVJsQmZtTHNsMXR4Umh5UDhIX0FoUTFGbkhkVHd1TQ?oc=5"
+      "title": "'부동산으로 돈 번다고? 꿈 깼어요'…집 대신 주식 산다 - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54UTcwR3JROXRwZm8zSXM3SUtPY3ptajh1SEdRZUdZZ0R4NlVseE91UTBkc2MyUDd2clRqTTViZThFcVRDTnF1bjlEaHkxWmVsdHNKNlJLMkVHUQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
