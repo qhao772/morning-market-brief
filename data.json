@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-08T09:19:52Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.08 18:19 (한국시간)",
+  "updatedAtISO": "2026-10-08T10:20:41Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.08 19:20 (한국시간)",
   "us10y": 5.27,
   "us30y": 5.64,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1343.92,
-  "usdJpy": 158.2,
-  "jpyKrw100": 849.51,
+  "usdKrw": 1344.39,
+  "usdJpy": 158.21,
+  "jpyKrw100": 849.76,
   "indices": {
     "kospi": {
       "value": 6625.93,
@@ -35,9 +35,9 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[도쿄증시-마감] 美 증시·금리 부담에 닛케이 70,000선 하회 - KB Think",
+      "title": "[亞증시-종합] 매크로가 심상찮다…일제히 하락 - KB Think",
       "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IVnN1Yk1Mel9RN2ZQeTF5U0pCZU1HRUNJM1k2V0xOeGtQbVp1bjhtMFJrbHp3aDJUSm1hbnpuVDVWZnpFcXQ2d0FJMVUwM3lEaDNmVkk3Tzh3Tk5HR2VQRFFYd3BIbUd3YzVQRDRqN2FEUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FRlBWYUVScW1kaWhOYnFqakQxdDU4UURBaE11UHZORGNUOVR3dURuUEhxWHJ3VU8tY2tNSXZrbGZ2NWtNMTJLNDlSVDltOE1VR3dSVTBINjBXRWtnTUpwblF5d3BUb2V0cXlIT2lkUjhSQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
