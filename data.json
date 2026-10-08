@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-08T21:18:59Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.09 06:18 (한국시간)",
+  "updatedAtISO": "2026-10-08T22:18:23Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.09 07:18 (한국시간)",
   "us10y": 5.28,
   "us30y": 5.67,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1342.87,
-  "usdJpy": 157.81,
-  "jpyKrw100": 850.91,
+  "usdKrw": 1342.5,
+  "usdJpy": 157.86,
+  "jpyKrw100": 850.45,
   "indices": {
     "kospi": {
       "value": 6625.93,
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "[서울데이터랩] 미국 증시 혼조 마감…다우 강보합, 나스닥 1%대 하락 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Idk45YVI3V2J0V0dDLWF2eEtMZDFRS3REem05UDU3WW9Pdm5UYTdHYW5KaGVOZllmSUxDbG5ibHdiYlVuT1Z0cUtRaGxFNE5yb3REcEMzWl9kQ245XzJmUnlpQjU0eVduOXBQOGk5WQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "'빅쇼트' 마이클 버리 \"증시 붕괴 1단계 진입…6~9개월 뒤 다음 단계\" - 연합인포맥스",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwT2ZnOGpHdEg0X2xVbnVvck5zc2VLcDllMUUwa0tra1AzX2FBdmRvVjZwQWFzdERrOHcxdXBtNUltODRGNkhUQ2s5OE9EUVVHcGlJRDR0Mmw3M1hYd3hDbVg4VGhRSF95UjVwQ09Hb3I?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시 나스닥 1.25% 하락…유가 급등에 AI 수익성 우려, 반도체주 급락 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jaHROenNLS3lDLXltY2kzSzVWOGN6c1ZDM0Z0aFR5cnlkY2wyVEhFOWJUT2NTNlhZYXFvZmlwUnFHYzlDZ2M4M2ZELUNzNWMtQnoyeE1GTlhkTUxmd18wb1pGaFVlR1dPOEJFMTc2RWRwUQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[亞증시-종합] 매크로가 심상찮다…일제히 하락 - KB Think",
       "source": "KB Think",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FRlBWYUVScW1kaWhOYnFqakQxdDU4UURBaE11UHZORGNUOVR3dURuUEhxWHJ3VU8tY2tNSXZrbGZ2NWtNMTJLNDlSVDltOE1VR3dSVTBINjBXRWtnTUpwblF5d3BUb2V0cXlIT2lkUjhSQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "서학 개미, 美 주식 보유액 4개월만에 2천억 달러 재돌파 - 세무사신문",
-      "source": "세무사신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NYzhzRHdnNWNwRjRINXNIYVg5cl9XYTJaRTZSQTFsQUtsUjFEV1Utc0dKTWxTT2p3Z2NnQnhLRlFTeHdHOGJFcWRXNFltMkhidUlFY0k5YzZkOVJTdV9ZTWVmZGFrMnZKWDk5NQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "스트래티지, 29일 미국 증시 마감 후 3분기 실적 발표 - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DWm5ZdUlwbmQzWG9mdEhnQVEwMHg2M1hCcG1RaVV5Z1M4V2VtWTl0ZEhJd25tM1NNUFNyNU9BV1p1ak8yUmVGVVBsUVpza2Qx?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시, 이란 전쟁에 유가·금리 동반 급등…엔비디아·반도체 약세, 팔란티어 상승 - TopStarNews",
-      "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56bjRfanRBY2RlVEhvWkdGUElSYXBLQWdRQ3N2QmUzZ0d6eERzYXJxVTBkM2htTVJXTTR5U0VqeVhIUlhuMGpVOUJydWg0cHM1SkpXUG5lNzg1LUZKZWp5Q2tpclI2OE0tMDJSbDFFeU02Zw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
