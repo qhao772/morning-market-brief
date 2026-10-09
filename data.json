@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-09T22:17:47Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.10 07:17 (한국시간)",
+  "updatedAtISO": "2026-10-09T23:16:38Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.10 08:16 (한국시간)",
   "us10y": 5.22,
   "us30y": 5.6,
   "fedFundsLow": 3.75,
@@ -47,21 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "미국증시 다우 423포인트 상승…이란 공격 유예에 안도, 반도체는 약세 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KUkpYTXUtOW5TWDVZenZsNTVZQ2ZPbndYM09MNjQ0RjFTWTJRVkNOdlJkNFBXYWQ2N0x0eHBQOGt1eDdMRUt5ZTU4X3YyMDlqcUtGR2dlaGYxSW9hX0k0eDQ5dFhibVJTMUtDU1dxSkVzUQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "미국증시 대반전! AI 거품론 뒤집은 충격적인 숫자 - 네이버 프리미엄콘텐츠",
       "source": "네이버 프리미엄콘텐츠",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPczJEeWxiQlV3Skt3M2Q3ZjNJRDNEVV9OMmRCT0dUWVBrTHByZ3ZwX25wOWVtSk5tcF80YTA1UVhhNDEtbDI1ZEp5dWg5VkczUlNFdDQwVVpOeGdtV09JS2o5S2xvbDV6VkJCSE1KRkpRSk1XQk9FT19QRzVDaUt3UmVyNTNld2dfcG9B?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시, 유가 하락에 나스닥 반등…엔비디아·테슬라 상승, 애플은 급락 - TopStarNews",
-      "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoZXlFSXl1OTNyck9fQjBQUEZQandzQTJxOWd2QjJlRnN3QkdfdklTYXFaelRDNV9fZHdnZkFobHFmVHV3QW04blFLLTRfTnJQb2ZRVDhZMGE2Wml0ci00UUR1eHdWdHBLVkRjS0ZzOTgwdw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "뉴욕증시, 유가 하락에 상승 출발 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkS2NnZ1dmNl9qdXBjRkFjSmNRcGhkWEctUThsOG90d016Y0ZhdC1rYndzajBPNjJYUW5aTW5RM1FKZFZxajdNcnFjTDhGOGxhcUE?oc=5"
+      "title": "'빅쇼트' 마이클 버리 \"증시 붕괴 1단계 진입…6~9개월 뒤 다음 단계\" - 연합인포맥스",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwT2ZnOGpHdEg0X2xVbnVvck5zc2VLcDllMUUwa0tra1AzX2FBdmRvVjZwQWFzdERrOHcxdXBtNUltODRGNkhUQ2s5OE9EUVVHcGlJRDR0Mmw3M1hYd3hDbVg4VGhRSF95UjVwQ09Hb3I?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
