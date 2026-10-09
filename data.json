@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-09T20:17:34Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.10 05:17 (한국시간)",
+  "updatedAtISO": "2026-10-09T21:18:00Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.10 06:18 (한국시간)",
   "us10y": 5.22,
   "us30y": 5.6,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1340.66,
-  "usdJpy": 158.24,
-  "jpyKrw100": 847.23,
+  "usdKrw": 1340.02,
+  "usdJpy": 158.25,
+  "jpyKrw100": 846.8,
   "indices": {
     "kospi": {
       "value": 6625.93,
@@ -41,15 +41,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "\"하루에 1조 벌었는데…\" 한국 개미들 다시 '미장' 가는 이유 [분석+] - 블루밍비트",
+      "title": "뉴욕증시, 상승세로 마감…나스닥 0.64%↑ - 블루밍비트",
       "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sdEJBdmg1c1JKUFI4a29FWU5SSko5QUNOSk12dUdnc1lqZW5qaElIZHJMV1BTVUFrNVdKdVhSZDd6UTh4WUowdy1sRWFpOUQ0?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "뉴욕증시, 유가 하락에 상승 출발 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkS2NnZ1dmNl9qdXBjRkFjSmNRcGhkWEctUThsOG90d016Y0ZhdC1rYndzajBPNjJYUW5aTW5RM1FKZFZxajdNcnFjTDhGOGxhcUE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4c2dnTndkRk82QUoxcXdOZkM4WTZrOUI2dk9PdlZrS3dKdlRfQWFyQS10RjlaMW11Z2JCc0N3RVIyVGJ1bTYzZVZuN1g5WmVh?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "\"하루에 1조 벌었는데…\" 한국 개미들 다시 '미장' 가는 이유 [분석+] - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIQ0pfLUVHV2JLaUtMRzRkd1diQVlMUV9aMXViVHdiVDB0VDQxa0RyczVPM0M0Z0VFalZwb21ock5RN3FnMHl6NUJLWDhFSFM2SEFMem04YUNpZw?oc=5"
+      "title": "뉴욕증시, 유가 하락에 상승 출발 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkS2NnZ1dmNl9qdXBjRkFjSmNRcGhkWEctUThsOG90d016Y0ZhdC1rYndzajBPNjJYUW5aTW5RM1FKZFZxajdNcnFjTDhGOGxhcUE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "'빅쇼트' 마이클 버리 \"증시 붕괴 1단계 진입…6~9개월 뒤 다음 단계\" - 연합인포맥스",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwT2ZnOGpHdEg0X2xVbnVvck5zc2VLcDllMUUwa0tra1AzX2FBdmRvVjZwQWFzdERrOHcxdXBtNUltODRGNkhUQ2s5OE9EUVVHcGlJRDR0Mmw3M1hYd3hDbVg4VGhRSF95UjVwQ09Hb3I?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
