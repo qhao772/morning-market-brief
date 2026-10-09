@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-09T07:20:24Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.09 16:20 (한국시간)",
+  "updatedAtISO": "2026-10-09T08:20:36Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.09 17:20 (한국시간)",
   "us10y": 5.28,
   "us30y": 5.67,
   "fedFundsLow": 3.75,
@@ -8,8 +8,8 @@
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
   "usdKrw": 1339.4,
-  "usdJpy": 158.25,
-  "jpyKrw100": 846.39,
+  "usdJpy": 158.3,
+  "jpyKrw100": 846.12,
   "indices": {
     "kospi": {
       "value": 6625.93,
@@ -47,7 +47,7 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국증시] 치폴레 6%대 급등…스타벅스 인수 검토 보도에 들썩 - 자본시장뉴스",
+      "title": "[미국증시] 치폴레 6%대 급등·반도체 급락…허리케인에 유가 4%대 상승 - 자본시장뉴스",
       "source": "자본시장뉴스",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SYk9WcWRqRDdXU3JxRHZuWkdMQkFURDk4UHRHQUowZkFjZHBnSFZRZGFBSFd6ekoyYV9xeE41c0M1ZE9sU21DekFKcDhzdFl5SnFFR0EyUHV4MmJJNGNPOG9VOWc2UjQ?oc=5"
     },
