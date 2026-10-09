@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-09T19:17:10Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.10 04:17 (한국시간)",
-  "us10y": 5.28,
-  "us30y": 5.67,
+  "updatedAtISO": "2026-10-09T20:17:34Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.10 05:17 (한국시간)",
+  "us10y": 5.22,
+  "us30y": 5.6,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1341.1,
+  "usdKrw": 1340.66,
   "usdJpy": 158.24,
-  "jpyKrw100": 847.5,
+  "jpyKrw100": 847.23,
   "indices": {
     "kospi": {
       "value": 6625.93,
@@ -20,24 +20,24 @@
       "changePct": -0.69
     },
     "sp500": {
-      "value": 7816.93,
-      "changePct": 0.66
+      "value": 7811.54,
+      "changePct": 0.59
     },
     "nasdaq": {
-      "value": 27379.92,
-      "changePct": 0.69
+      "value": 27366.17,
+      "changePct": 0.64
     },
     "sox": {
-      "value": 12576.8,
-      "changePct": -0.37
+      "value": 12572.42,
+      "changePct": -0.41
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 유가 하락에 상승 출발 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkS2NnZ1dmNl9qdXBjRkFjSmNRcGhkWEctUThsOG90d016Y0ZhdC1rYndzajBPNjJYUW5aTW5RM1FKZFZxajdNcnFjTDhGOGxhcUE?oc=5"
+      "title": "미국증시 대반전! AI 거품론 뒤집은 충격적인 숫자 - 네이버 프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPczJEeWxiQlV3Skt3M2Q3ZjNJRDNEVV9OMmRCT0dUWVBrTHByZ3ZwX25wOWVtSk5tcF80YTA1UVhhNDEtbDI1ZEp5dWg5VkczUlNFdDQwVVpOeGdtV09JS2o5S2xvbDV6VkJCSE1KRkpRSk1XQk9FT19QRzVDaUt3UmVyNTNld2dfcG9B?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,21 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "\"하루에 1조 벌었는데…\" 한국 개미들 다시 '미장' 가는 이유 [분석+] - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIQ0pfLUVHV2JLaUtMRzRkd1diQVlMUV9aMXViVHdiVDB0VDQxa0RyczVPM0M0Z0VFalZwb21ock5RN3FnMHl6NUJLWDhFSFM2SEFMem04YUNpZw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "'빅쇼트' 마이클 버리 \"증시 붕괴 1단계 진입…6~9개월 뒤 다음 단계\" - 연합인포맥스",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwT2ZnOGpHdEg0X2xVbnVvck5zc2VLcDllMUUwa0tra1AzX2FBdmRvVjZwQWFzdERrOHcxdXBtNUltODRGNkhUQ2s5OE9EUVVHcGlJRDR0Mmw3M1hYd3hDbVg4VGhRSF95UjVwQ09Hb3I?oc=5"
+      "title": "뉴욕증시, 유가 하락에 상승 출발 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkS2NnZ1dmNl9qdXBjRkFjSmNRcGhkWEctUThsOG90d016Y0ZhdC1rYndzajBPNjJYUW5aTW5RM1FKZFZxajdNcnFjTDhGOGxhcUE?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "미국증시, 유가 하락에 나스닥 반등…엔비디아·테슬라 상승, 애플은 급락 - TopStarNews",
       "source": "TopStarNews",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoZXlFSXl1OTNyck9fQjBQUEZQandzQTJxOWd2QjJlRnN3QkdfdklTYXFaelRDNV9fZHdnZkFobHFmVHV3QW04blFLLTRfTnJQb2ZRVDhZMGE2Wml0ci00UUR1eHdWdHBLVkRjS0ZzOTgwdw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "\"하루에 1조 벌었는데…\" 한국 개미들 다시 '미장' 가는 이유 [분석+] - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIQ0pfLUVHV2JLaUtMRzRkd1diQVlMUV9aMXViVHdiVDB0VDQxa0RyczVPM0M0Z0VFalZwb21ock5RN3FnMHl6NUJLWDhFSFM2SEFMem04YUNpZw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
