@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-09T04:20:20Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.09 13:20 (한국시간)",
+  "updatedAtISO": "2026-10-09T05:18:43Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.09 14:18 (한국시간)",
   "us10y": 5.28,
   "us30y": 5.67,
   "fedFundsLow": 3.75,
@@ -9,7 +9,7 @@
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
   "usdKrw": 1344.1,
   "usdJpy": 158.06,
-  "jpyKrw100": 850.38,
+  "jpyKrw100": 850.36,
   "indices": {
     "kospi": {
       "value": 6625.93,
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "'빅쇼트' 마이클 버리 \"증시 붕괴 1단계 진입…6~9개월 뒤 다음 단계\" - 연합인포맥스",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwT2ZnOGpHdEg0X2xVbnVvck5zc2VLcDllMUUwa0tra1AzX2FBdmRvVjZwQWFzdERrOHcxdXBtNUltODRGNkhUQ2s5OE9EUVVHcGlJRDR0Mmw3M1hYd3hDbVg4VGhRSF95UjVwQ09Hb3I?oc=5"
+      "title": "스트래티지, 29일 미국 증시 마감 후 3분기 실적 발표 - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DWm5ZdUlwbmQzWG9mdEhnQVEwMHg2M1hCcG1RaVV5Z1M4V2VtWTl0ZEhJd25tM1NNUFNyNU9BV1p1ak8yUmVGVVBsUVpza2Qx?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
