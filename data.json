@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-10T05:17:25Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.10 14:17 (한국시간)",
+  "updatedAtISO": "2026-10-10T06:22:32Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.10 15:22 (한국시간)",
   "us10y": 5.22,
   "us30y": 5.6,
   "fedFundsLow": 3.75,
@@ -47,15 +47,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국증시] 델타항공 왜 아마존 레오 택했나…T모바일 13.27% 급락 - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uOFpPekVNaXFmWmdrc080Rl95SVR4YmtJd0o0RlJDNHFqaHVzaXVQbkh1WEtTZjZDbTROU3EwOEFzOWNEVEJiVm8zaHFRUTd0azBNdXZzV25wZ1V2bkNnbjc0ZlhhTmc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "미국 증시 반등했지만, 아직 안심하면 안 되는 3가지 이유 - 네이버 프리미엄콘텐츠",
       "source": "네이버 프리미엄콘텐츠",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXludDZMUUZJRzQxVzJUUXpqQ3h1M3FxS0tVaVVIQ0F4R1FTeVZSUGQ2QjNfbWtkN0NWWGFqRENCWktzNGZNNm1tSEtrVFRBOVplWW1QZkZPZnBNRnAwLVZ4ZGVDM3RjT09WdG1PUG90TktkMmg3Y0F2dDZWQ2Y5czVMcDNFN1g0MnNn?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[미국증시] 델타항공 왜 아마존 레오 택했나…T모바일 13.27% 급락 - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uOFpPekVNaXFmWmdrc080Rl95SVR4YmtJd0o0RlJDNHFqaHVzaXVQbkh1WEtTZjZDbTROU3EwOEFzOWNEVEJiVm8zaHFRUTd0azBNdXZzV25wZ1V2bkNnbjc0ZlhhTmc?oc=5"
     },
     {
       "tag": "시장 뉴스",
