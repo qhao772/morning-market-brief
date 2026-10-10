@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-09T23:16:38Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.10 08:16 (한국시간)",
+  "updatedAtISO": "2026-10-10T00:28:30Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.10 09:28 (한국시간)",
   "us10y": 5.22,
   "us30y": 5.6,
   "fedFundsLow": 3.75,
@@ -41,6 +41,12 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "미국 증시 반등했지만, 아직 안심하면 안 되는 3가지 이유 - 네이버 프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRXludDZMUUZJRzQxVzJUUXpqQ3h1M3FxS0tVaVVIQ0F4R1FTeVZSUGQ2QjNfbWtkN0NWWGFqRENCWktzNGZNNm1tSEtrVFRBOVplWW1QZkZPZnBNRnAwLVZ4ZGVDM3RjT09WdG1PUG90TktkMmg3Y0F2dDZWQ2Y5czVMcDNFN1g0MnNn?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "뉴욕증시, 상승세로 마감…나스닥 0.64%↑ - 블루밍비트",
       "source": "블루밍비트",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4c2dnTndkRk82QUoxcXdOZkM4WTZrOUI2dk9PdlZrS3dKdlRfQWFyQS10RjlaMW11Z2JCc0N3RVIyVGJ1bTYzZVZuN1g5WmVh?oc=5"
@@ -50,12 +56,6 @@
       "title": "미국증시 다우 423포인트 상승…이란 공격 유예에 안도, 반도체는 약세 - TopStarNews",
       "source": "TopStarNews",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KUkpYTXUtOW5TWDVZenZsNTVZQ2ZPbndYM09MNjQ0RjFTWTJRVkNOdlJkNFBXYWQ2N0x0eHBQOGt1eDdMRUt5ZTU4X3YyMDlqcUtGR2dlaGYxSW9hX0k0eDQ5dFhibVJTMUtDU1dxSkVzUQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시 대반전! AI 거품론 뒤집은 충격적인 숫자 - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPczJEeWxiQlV3Skt3M2Q3ZjNJRDNEVV9OMmRCT0dUWVBrTHByZ3ZwX25wOWVtSk5tcF80YTA1UVhhNDEtbDI1ZEp5dWg5VkczUlNFdDQwVVpOeGdtV09JS2o5S2xvbDV6VkJCSE1KRkpRSk1XQk9FT19QRzVDaUt3UmVyNTNld2dfcG9B?oc=5"
     },
     {
       "tag": "시장 뉴스",
