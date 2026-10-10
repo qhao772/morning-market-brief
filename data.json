@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-10T03:17:59Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.10 12:17 (한국시간)",
+  "updatedAtISO": "2026-10-10T04:18:09Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.10 13:18 (한국시간)",
   "us10y": 5.22,
   "us30y": 5.6,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1340.02,
+  "usdKrw": 1340.9,
   "usdJpy": 158.25,
-  "jpyKrw100": 846.8,
+  "jpyKrw100": 847.35,
   "indices": {
     "kospi": {
       "value": 6625.93,
@@ -41,9 +41,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시 반등에도 코스피 ‘제자리’…연휴 이후 반등할까 - 에너지경제신문",
+      "title": "“美 증시 이제 끝물인가”…4년 강세장에 숨겨진 위험 신호 [머니+] - 에너지경제신문",
       "source": "에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsV3duNWdwQXZ5SG4zV1dJOHotNk1hUE50VTNFUmxBU2h4SkU2RklMLXI0SkVmd3dmbVlMQ0FFYlgzbVdaVnU3Q3dSeXA0b3FQQXFaUWVwYktPTlU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96ZFJWSUg5QWl5ZHQyR0xlVXgyS1F2YXprMW5NbzRwRzI3R0EwNTBZS1p4dzZYUUlubUJ1d0hyanpQWENlTllGR1JUNXFadHBUYVVqT0tCNnBVVUs4eFFaWmFxZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
