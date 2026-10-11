@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-11T12:36:40Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.11 21:36 (한국시간)",
+  "updatedAtISO": "2026-10-11T17:59:25Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.12 02:59 (한국시간)",
   "us10y": 5.22,
   "us30y": 5.6,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1340.9,
+  "usdKrw": 1340.02,
   "usdJpy": 158.25,
-  "jpyKrw100": 847.35,
+  "jpyKrw100": 846.8,
   "indices": {
     "kospi": {
       "value": 6625.93,
@@ -35,6 +35,12 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "[미국 주식 돋보기] 빅테크와 원전 동맹…콘스텔레이션 강세 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90UkdLMGxkd081eHcyWFUwUEV4cGtpWXdXYVN5TkdnOUhIWXBJSnQ2NjY1N053X2dSQWdvY0Fia25xMHN0Qi1POFpLU0ZpVUVackE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "개인투자자, 하반기 국내 주식 5.5조 팔고 美 주식 10조 샀다 - 연합뉴스",
       "source": "연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EbEdwa3JtaEdHOTlVaEgwNlE0MlBuOFo0cWVRWlFKZUprWF9VUjRqY1NWZWhDbGxZbDk0aEc1cFp2RVEwaTZuWUR0UE1IM1EtUTNCTFloZWt3Y0ZDOWMxN9IBYEFVX3lxTE5EbEdwa3JtaEdHOTlVaEgwNlE0MlBuOFo0cWVRWlFKZUprWF9VUjRqY1NWZWhDbGxZbDk0aEc1cFp2RVEwaTZuWUR0UE1IM1EtUTNCTFloZWt3Y0ZDOWMxNw?oc=5"
@@ -56,12 +62,6 @@
       "title": "“국장 재미없네”…개인투자자, 3분기 국장 팔고 ‘미장’ 10조 샀다 - 조선비즈 - Chosunbiz",
       "source": "Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjgyUE5oZU1ncVQySnJkVWRYdHF0RWc0aTVsMzg4TXdFZXFibTNWOE9LM2lLTXFwMjV2bVJKSzhzX2VoOE84X3JmeDc5NVNUZzJTOXRTeV83ajZtYW12MXZYb050b04zYkdWT01Ud25NczhvM1VyS0FoQVJqS2szbXpfb045amEt0gGcAUFVX3lxTFBpTHBXaDBuWEJzVW4wajhJR0tVNWxuMGc3ei1FaDJIemFpRlNfMXNtTVVseG5uZzBsZTR4RE4tT2JjM3kwWkZ1RE9jWDFLTXphdmdhd3ZvaFllbkFNZDRzOGRnVFQtX0dmd3hIMkE0NUlhQlkyQjdrUFJYYWF0VzJ3eUk1Q2JBc29LNTA0ZklLZEg1Sk14dmxJMFBseQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "국내 증시 외면하는 개미들 미국 주식으로 이동 - https://www.2news.co.kr/",
-      "source": "https://www.2news.co.kr/",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoSWtTc1VjQzZaZXRSeFZmX0hZVGlwMmcxT2NVTVZYemhkUVNvNjBpY2FHZXRoVU1CMzEwMm5wcF91OWxCaXpfRG1qWjJGNHE0MWs4SU8wYVNpVjNRcDB4aGZPTlU0MnNF?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
