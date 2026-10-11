@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-11T17:59:25Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.12 02:59 (한국시간)",
+  "updatedAtISO": "2026-10-11T21:50:28Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.12 06:50 (한국시간)",
   "us10y": 5.22,
   "us30y": 5.6,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1340.02,
+  "usdKrw": 1341.1,
   "usdJpy": 158.25,
-  "jpyKrw100": 846.8,
+  "jpyKrw100": 847.43,
   "indices": {
     "kospi": {
       "value": 6625.93,
@@ -35,15 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[미국 주식 돋보기] 빅테크와 원전 동맹…콘스텔레이션 강세 - 매일경제 마켓",
+      "title": "“역시 주식은 낮에 하는 게 아니네요”...개미들, 국장 믿음 버리고 미장 갔다 - 매일경제 마켓",
       "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90UkdLMGxkd081eHcyWFUwUEV4cGtpWXdXYVN5TkdnOUhIWXBJSnQ2NjY1N053X2dSQWdvY0Fia25xMHN0Qi1POFpLU0ZpVUVackE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SUVcxc1lQVWNZOUx5enNPYXFaMUtzYmlGV2Z1c29pX1NHbmVZNEdDS3oyZ1h0NDRpREhiT0c2TWVzVjVxLXZiNTJ3eTlnbWNwNFE?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "개인투자자, 하반기 국내 주식 5.5조 팔고 美 주식 10조 샀다 - 연합뉴스",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EbEdwa3JtaEdHOTlVaEgwNlE0MlBuOFo0cWVRWlFKZUprWF9VUjRqY1NWZWhDbGxZbDk0aEc1cFp2RVEwaTZuWUR0UE1IM1EtUTNCTFloZWt3Y0ZDOWMxN9IBYEFVX3lxTE5EbEdwa3JtaEdHOTlVaEgwNlE0MlBuOFo0cWVRWlFKZUprWF9VUjRqY1NWZWhDbGxZbDk0aEc1cFp2RVEwaTZuWUR0UE1IM1EtUTNCTFloZWt3Y0ZDOWMxNw?oc=5"
+      "title": "\"국장 5.6조 팔고 미장 10조 샀다\"…개미들 미국 증시로 이동 - 파이낸셜뉴스",
+      "source": "파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qd1RfWDdlMFB2NVk5WndLbnNJSmlZQlRiZGYwcXVnUTNtbWg5eDA2ZWVwZ0prbFdTTUpZcFJVVzkyaTVCVFdqZ056UnE3WjBsZVpGS2tzdUJ4QQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "국내 주식 팔고 미국 주식 담는 개미…하반기 매매 방향 뒤집혔다 - 신아일보",
-      "source": "신아일보",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10aF96TFVzNUV5T2dmTDN0bmpBSzJGQW9IT3NkSnR6NzVSSjJBOUQ5eEtQeUsxZHc2VkRfUUF0Ty1jY1pDTUhWejR0bEpfS1BkU0FFWnBYbVFMTDZVOU1uZzVSem9YWGlpd2t6blg1dzc?oc=5"
+      "title": "ASML·TSMC 실적, AI주 풍향계…CPI·워시 연설, 금리 분수령[이번주 美 증시는] - 머니투데이 - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfWWFGRElVdi1hQU5obGpZQjVXaXJhelhwUm5QQnFKNmdScFJ2ZUQ0c3AySHc1bkhjWEVhaEVHUFNYU05RYVFDbFFiZWZVdEJyVVRjM0FoNjI5dExZTnA5MTlWYlE4WERU0gFuQVVfeXFMTUxYbnNLNEJtbl9LQnI3V3I0S0RNZEZnUF91UVJ6OV9sRGtoalY1M3hHUzY2N1hZbGlUOFVOeEJ4NEN6TUxYZVdPVXRzQkZUTEZ0SXljUng3aW5WYTU2Mmw5UFlBZnVXdXRNN1E0Rmc?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "“국장 재미없네”…개인투자자, 3분기 국장 팔고 ‘미장’ 10조 샀다 - 조선비즈 - Chosunbiz",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjgyUE5oZU1ncVQySnJkVWRYdHF0RWc0aTVsMzg4TXdFZXFibTNWOE9LM2lLTXFwMjV2bVJKSzhzX2VoOE84X3JmeDc5NVNUZzJTOXRTeV83ajZtYW12MXZYb050b04zYkdWT01Ud25NczhvM1VyS0FoQVJqS2szbXpfb045amEt0gGcAUFVX3lxTFBpTHBXaDBuWEJzVW4wajhJR0tVNWxuMGc3ei1FaDJIemFpRlNfMXNtTVVseG5uZzBsZTR4RE4tT2JjM3kwWkZ1RE9jWDFLTXphdmdhd3ZvaFllbkFNZDRzOGRnVFQtX0dmd3hIMkE0NUlhQlkyQjdrUFJYYWF0VzJ3eUk1Q2JBc29LNTA0ZklLZEg1Sk14dmxJMFBseQ?oc=5"
+      "title": "개인투자자, 하반기 국내 주식 5.5조 팔고 美 주식 10조 샀다 - 연합뉴스",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EbEdwa3JtaEdHOTlVaEgwNlE0MlBuOFo0cWVRWlFKZUprWF9VUjRqY1NWZWhDbGxZbDk0aEc1cFp2RVEwaTZuWUR0UE1IM1EtUTNCTFloZWt3Y0ZDOWMxN9IBYEFVX3lxTE5EbEdwa3JtaEdHOTlVaEgwNlE0MlBuOFo0cWVRWlFKZUprWF9VUjRqY1NWZWhDbGxZbDk0aEc1cFp2RVEwaTZuWUR0UE1IM1EtUTNCTFloZWt3Y0ZDOWMxNw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
