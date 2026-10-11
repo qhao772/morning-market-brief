@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-11T05:31:54Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.11 14:31 (한국시간)",
+  "updatedAtISO": "2026-10-11T12:36:40Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.11 21:36 (한국시간)",
   "us10y": 5.22,
   "us30y": 5.6,
   "fedFundsLow": 3.75,
@@ -41,15 +41,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "국내 주식 팔고 미국 주식 담는 개미…하반기 매매 방향 뒤집혔다 - 신아일보",
-      "source": "신아일보",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10aF96TFVzNUV5T2dmTDN0bmpBSzJGQW9IT3NkSnR6NzVSSjJBOUQ5eEtQeUsxZHc2VkRfUUF0Ty1jY1pDTUhWejR0bEpfS1BkU0FFWnBYbVFMTDZVOU1uZzVSem9YWGlpd2t6blg1dzc?oc=5"
+      "title": "“코스피 부진 탓”…개인투자자, 3분기 국내 주식 5.6조 팔았다 - 에너지경제신문",
+      "source": "에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TeURxaVBkSThId3RUQ05xTVZUUmgtWjFCZFhHbXNxdXJ3M2RBb3JRN3prc1JaVjRhWUVtcndWU2JuSDAyLWNjM0FWLW4zT1c5SEt0Q1YxVmFOLXlCZ09teUd5cw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "국내 증시 외면하는 개미들 미국 주식으로 이동 - https://www.2news.co.kr/",
-      "source": "https://www.2news.co.kr/",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoSWtTc1VjQzZaZXRSeFZmX0hZVGlwMmcxT2NVTVZYemhkUVNvNjBpY2FHZXRoVU1CMzEwMm5wcF91OWxCaXpfRG1qWjJGNHE0MWs4SU8wYVNpVjNRcDB4aGZPTlU0MnNF?oc=5"
+      "title": "국내 주식 팔고 미국 주식 담는 개미…하반기 매매 방향 뒤집혔다 - 신아일보",
+      "source": "신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10aF96TFVzNUV5T2dmTDN0bmpBSzJGQW9IT3NkSnR6NzVSSjJBOUQ5eEtQeUsxZHc2VkRfUUF0Ty1jY1pDTUhWejR0bEpfS1BkU0FFWnBYbVFMTDZVOU1uZzVSem9YWGlpd2t6blg1dzc?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "\"코스피 5조 팔아 미장 10조 샀다\"…3분기 개미 '엑소더스' - 뉴시스",
-      "source": "뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13MUxGQmxzWkd4RHlXekhmNU1WSElCNEFPNHc4Z2tWV1ZjNkM1MFd5SDFWTkpXVkZfLVFmd0NwdWJNSklvOHpGT1U3dXBoMTJleEpwN1pNNUxobzNmQmJMStIBeEFVX3lxTE94dGJZZXJJRWdUcmlXM2ZDVmUyQ2p2VTg3VkUxREMtd0RDZkE4SHVaTTJDZzVoOVZIY3hJamZyS2NHZUYtWHZuSGVrX256c25mV3ZNaFE5a0hOYzZsTWdvQlVONENqZGFBVmdueWwxdEFEakpLWERkLQ?oc=5"
+      "title": "국내 증시 외면하는 개미들 미국 주식으로 이동 - https://www.2news.co.kr/",
+      "source": "https://www.2news.co.kr/",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoSWtTc1VjQzZaZXRSeFZmX0hZVGlwMmcxT2NVTVZYemhkUVNvNjBpY2FHZXRoVU1CMzEwMm5wcF91OWxCaXpfRG1qWjJGNHE0MWs4SU8wYVNpVjNRcDB4aGZPTlU0MnNF?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
