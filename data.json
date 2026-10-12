@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-11T21:50:28Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.12 06:50 (한국시간)",
+  "updatedAtISO": "2026-10-12T01:09:58Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.12 10:09 (한국시간)",
   "us10y": 5.22,
   "us30y": 5.6,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1341.1,
-  "usdJpy": 158.25,
-  "jpyKrw100": 847.43,
+  "usdKrw": 1335.28,
+  "usdJpy": 158.11,
+  "jpyKrw100": 844.5,
   "indices": {
     "kospi": {
-      "value": 6625.93,
-      "changePct": -2.62
+      "value": 6518.16,
+      "changePct": -1.63
     },
     "kosdaq": {
-      "value": 892.27,
-      "changePct": -0.69
+      "value": 877.16,
+      "changePct": -1.69
     },
     "sp500": {
       "value": 7811.54,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "“역시 주식은 낮에 하는 게 아니네요”...개미들, 국장 믿음 버리고 미장 갔다 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SUVcxc1lQVWNZOUx5enNPYXFaMUtzYmlGV2Z1c29pX1NHbmVZNEdDS3oyZ1h0NDRpREhiT0c2TWVzVjVxLXZiNTJ3eTlnbWNwNFE?oc=5"
+      "title": "\"AI주 제외하면 美 증시, 유럽보다 부진\" - 연합인포맥스",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFRnoyOWpzMHlrNTdrbUF2RUVId0Nhcm1XS2JQUWtldGFYV0pXR19uckZkVFBsUnRUSU1EazBnVGN4Q0tNYmhJVDVOajNGbXppVWJacmZ6WEsyNXJuX1RTdVJuWXl6NTZBYm11aTVkVjM?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "\"국장 5.6조 팔고 미장 10조 샀다\"…개미들 미국 증시로 이동 - 파이낸셜뉴스",
-      "source": "파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qd1RfWDdlMFB2NVk5WndLbnNJSmlZQlRiZGYwcXVnUTNtbWg5eDA2ZWVwZ0prbFdTTUpZcFJVVzkyaTVCVFdqZ056UnE3WjBsZVpGS2tzdUJ4QQ?oc=5"
+      "title": "AI 없이 오르는 미국증시...SK하이닉스 할인은 \"한국 고유 요인\" - 마켓인",
+      "source": "마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlYzNtR0k3b21wU2p5bFZUMUJoNlZ2QS1nRUxSYUQ2MENCRGpMeE5KSTlfdGlOUDJnVTN0ZUdjdmQ2T0tpQkNyRkRZZ3hjcEQ0ZVoyeHBxdHd5SDhla1U5YkxRTWdwS1RFWnBKME5ldlZFS3c?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "“코스피 부진 탓”…개인투자자, 3분기 국내 주식 5.6조 팔았다 - 에너지경제신문",
-      "source": "에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TeURxaVBkSThId3RUQ05xTVZUUmgtWjFCZFhHbXNxdXJ3M2RBb3JRN3prc1JaVjRhWUVtcndWU2JuSDAyLWNjM0FWLW4zT1c5SEt0Q1YxVmFOLXlCZ09teUd5cw?oc=5"
+      "title": "레이 달리오 \"증시 변동폭 줄어…금리 상승·AI 자금 경쟁 부담\" - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FUC1IMUptbksteEQ0MUtQTXdpaWg5b3ZIRkh5RTI0WndWZjZKQzRLTFNUWkNzU1Etdi1PU3RXZ20zeV9rRzJLUEJnT0NjbVNIdnRxRHFsSmJ4d3dxbWdzVV8zd0VzTHladFFiNXFQTHVsUQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "ASML·TSMC 실적, AI주 풍향계…CPI·워시 연설, 금리 분수령[이번주 美 증시는] - 머니투데이 - 머니투데이",
-      "source": "머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfWWFGRElVdi1hQU5obGpZQjVXaXJhelhwUm5QQnFKNmdScFJ2ZUQ0c3AySHc1bkhjWEVhaEVHUFNYU05RYVFDbFFiZWZVdEJyVVRjM0FoNjI5dExZTnA5MTlWYlE4WERU0gFuQVVfeXFMTUxYbnNLNEJtbl9LQnI3V3I0S0RNZEZnUF91UVJ6OV9sRGtoalY1M3hHUzY2N1hZbGlUOFVOeEJ4NEN6TUxYZVdPVXRzQkZUTEZ0SXljUng3aW5WYTU2Mmw5UFlBZnVXdXRNN1E0Rmc?oc=5"
+      "title": "[시황] 미국증시, 기업 실적·AI 모멘텀에 상승…유럽도 금리 안정에 반등 - 버핏연구소",
+      "source": "버핏연구소",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BUTNUaEhvM3NNSUJOQURIaHFRVVNWcXZLSWh0czUxOTFWTFNNWU1lM3BiWHFNMFNTTF9TR0l1VWxRM0N4U3ZSMTk5OFdPTDFoemptbjhyMm1IQ1VfQ241MEJR?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "개인투자자, 하반기 국내 주식 5.5조 팔고 美 주식 10조 샀다 - 연합뉴스",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EbEdwa3JtaEdHOTlVaEgwNlE0MlBuOFo0cWVRWlFKZUprWF9VUjRqY1NWZWhDbGxZbDk0aEc1cFp2RVEwaTZuWUR0UE1IM1EtUTNCTFloZWt3Y0ZDOWMxN9IBYEFVX3lxTE5EbEdwa3JtaEdHOTlVaEgwNlE0MlBuOFo0cWVRWlFKZUprWF9VUjRqY1NWZWhDbGxZbDk0aEc1cFp2RVEwaTZuWUR0UE1IM1EtUTNCTFloZWt3Y0ZDOWMxNw?oc=5"
+      "title": "\"SK하이닉스 ADR 2.5%, 국내 증시 가격결정 영향력 확대\"-리서치알음 - 녹색경제신문",
+      "source": "녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KLU53TFRJQ0luN2phZmZTekE2ZkRoUGRtYUt3UlVNNWJBSnB5ZF9zZ0Nmc2VNQm1NY0NDcS11YjdrNzV2ZzN1ckJOM0Ntd2RBODdrSG5UUEhxNDZtS2VWSlZFV2xGWk5C?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
