@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-12T01:09:58Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.12 10:09 (한국시간)",
+  "updatedAtISO": "2026-10-12T09:01:58Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.12 18:01 (한국시간)",
   "us10y": 5.22,
   "us30y": 5.6,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1335.28,
-  "usdJpy": 158.11,
-  "jpyKrw100": 844.5,
+  "usdKrw": 1330.78,
+  "usdJpy": 158.43,
+  "jpyKrw100": 839.99,
   "indices": {
     "kospi": {
-      "value": 6518.16,
-      "changePct": -1.63
+      "value": 6384.24,
+      "changePct": -3.65
     },
     "kosdaq": {
-      "value": 877.16,
-      "changePct": -1.69
+      "value": 849.19,
+      "changePct": -4.83
     },
     "sp500": {
       "value": 7811.54,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "4년째 이어지는 미국 증시 강세장 '사상누각' 그치나, AI 의존 높아져 금리 상승에 더 취약 - 비즈니스포스트",
+      "source": "비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51WkxOMkdPcWxZZFlDQzJOTjliU0xlbTVwVE8tMF80NW9aVW9ydTFwMzJDdUNHNk53cEQ5REhhcXdVY01CYzlGZ2czcnUzZVlhcmZkM3JvcGhuLWo4d09XQlF4YUlTbmk1T3VSSllyVl96b0k?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[미국 주식 돋보기] 메디케어 별점 뭐기에…美보험주 희비 갈려 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zaWdmZWItei13b1UxaG9ZZ3I5bzA2NW02OERfQXFvX2FjZWd5MUc4TnJORTdjU0I0aGpPZVVTVjh2N0RfQUZUYU9vZl9rMDJlTHc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 증시 선물 상승, 유가 하락 및 3분기 실적 발표 주목 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44VW9uZno1QmtCc3g3M2t4Wm1EZVZMQlZ5SVR5emI0djZkX00yYkZ2M2x3Ry1pVlJ2dHpNZUV2RG9LODFxV3pnb1pveGFhQ3NWS1I1bmU3eFQ0Sms4VHE4X0VraGdCdldrS1hSNlIzYUI?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "개인투자자, 하반기 국내 주식 5.5조 팔고 美 주식 10조 샀다 - 연합뉴스",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EbEdwa3JtaEdHOTlVaEgwNlE0MlBuOFo0cWVRWlFKZUprWF9VUjRqY1NWZWhDbGxZbDk0aEc1cFp2RVEwaTZuWUR0UE1IM1EtUTNCTFloZWt3Y0ZDOWMxN9IBYEFVX3lxTE5EbEdwa3JtaEdHOTlVaEgwNlE0MlBuOFo0cWVRWlFKZUprWF9VUjRqY1NWZWhDbGxZbDk0aEc1cFp2RVEwaTZuWUR0UE1IM1EtUTNCTFloZWt3Y0ZDOWMxNw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "\"AI주 제외하면 美 증시, 유럽보다 부진\" - 연합인포맥스",
       "source": "연합인포맥스",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFRnoyOWpzMHlrNTdrbUF2RUVId0Nhcm1XS2JQUWtldGFYV0pXR19uckZkVFBsUnRUSU1EazBnVGN4Q0tNYmhJVDVOajNGbXppVWJacmZ6WEsyNXJuX1RTdVJuWXl6NTZBYm11aTVkVjM?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "AI 없이 오르는 미국증시...SK하이닉스 할인은 \"한국 고유 요인\" - 마켓인",
-      "source": "마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlYzNtR0k3b21wU2p5bFZUMUJoNlZ2QS1nRUxSYUQ2MENCRGpMeE5KSTlfdGlOUDJnVTN0ZUdjdmQ2T0tpQkNyRkRZZ3hjcEQ0ZVoyeHBxdHd5SDhla1U5YkxRTWdwS1RFWnBKME5ldlZFS3c?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "레이 달리오 \"증시 변동폭 줄어…금리 상승·AI 자금 경쟁 부담\" - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FUC1IMUptbksteEQ0MUtQTXdpaWg5b3ZIRkh5RTI0WndWZjZKQzRLTFNUWkNzU1Etdi1PU3RXZ20zeV9rRzJLUEJnT0NjbVNIdnRxRHFsSmJ4d3dxbWdzVV8zd0VzTHladFFiNXFQTHVsUQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[시황] 미국증시, 기업 실적·AI 모멘텀에 상승…유럽도 금리 안정에 반등 - 버핏연구소",
-      "source": "버핏연구소",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BUTNUaEhvM3NNSUJOQURIaHFRVVNWcXZLSWh0czUxOTFWTFNNWU1lM3BiWHFNMFNTTF9TR0l1VWxRM0N4U3ZSMTk5OFdPTDFoemptbjhyMm1IQ1VfQ241MEJR?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "\"SK하이닉스 ADR 2.5%, 국내 증시 가격결정 영향력 확대\"-리서치알음 - 녹색경제신문",
-      "source": "녹색경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KLU53TFRJQ0luN2phZmZTekE2ZkRoUGRtYUt3UlVNNWJBSnB5ZF9zZ0Nmc2VNQm1NY0NDcS11YjdrNzV2ZzN1ckJOM0Ntd2RBODdrSG5UUEhxNDZtS2VWSlZFV2xGWk5C?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
