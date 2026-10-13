@@ -1,67 +1,67 @@
 {
-  "updatedAtISO": "2026-10-12T19:44:57Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.13 04:44 (한국시간)",
+  "updatedAtISO": "2026-10-13T01:57:29Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.13 10:57 (한국시간)",
   "us10y": 5.22,
   "us30y": 5.6,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1334.29,
-  "usdJpy": 158.66,
-  "jpyKrw100": 840.98,
+  "usdKrw": 1337.52,
+  "usdJpy": 158.31,
+  "jpyKrw100": 844.86,
   "indices": {
     "kospi": {
-      "value": 6384.24,
-      "changePct": -3.65
+      "value": 6011.65,
+      "changePct": -5.84
     },
     "kosdaq": {
-      "value": 849.19,
-      "changePct": -4.83
+      "value": 813.84,
+      "changePct": -4.16
     },
     "sp500": {
-      "value": 7804.34,
-      "changePct": -0.09
+      "value": 7807.24,
+      "changePct": -0.06
     },
     "nasdaq": {
-      "value": 27250.07,
-      "changePct": -0.42
+      "value": 27245.9,
+      "changePct": -0.44
     },
     "sox": {
-      "value": 12248.67,
-      "changePct": -2.58
+      "value": 12236.79,
+      "changePct": -2.67
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "4년째 이어지는 미국 증시 강세장 '사상누각' 그치나, AI 의존 높아져 금리 상승에 더 취약 - 비즈니스포스트",
-      "source": "비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51WkxOMkdPcWxZZFlDQzJOTjliU0xlbTVwVE8tMF80NW9aVW9ydTFwMzJDdUNHNk53cEQ5REhhcXdVY01CYzlGZ2czcnUzZVlhcmZkM3JvcGhuLWo4d09XQlF4YUlTbmk1T3VSSllyVl96b0k?oc=5"
+      "title": "[긴급진단] 미국 증시는 신고가, 한국 증시는 6000선 위협…왜 이런가 - CEONEWS",
+      "source": "CEONEWS",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ISzM3bzJWVm8zaGNhdkpSRmRoQnpNZndvaUM4b3JGV3VjbV9POExGMTlJLWs4czF3VHA4U1E4QkQxSENhVW5GdnJXNDV3clpYWkpUb0V0UkktSGpZUzdr?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 선물 상승, 유가 하락 및 3분기 실적 발표 주목 - Investing.com 한국어",
+      "title": "[뉴욕 인사이트] 미국 증시, 반도체 약세 속 혼조 마감… 다우 상승 vs 나스닥·S&P 하락 (영상) - Investing.com 한국어",
       "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44VW9uZno1QmtCc3g3M2t4Wm1EZVZMQlZ5SVR5emI0djZkX00yYkZ2M2x3Ry1pVlJ2dHpNZUV2RG9LODFxV3pnb1pveGFhQ3NWS1I1bmU3eFQ0Sms4VHE4X0VraGdCdldrS1hSNlIzYUI?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nd3p5WlFmbU01ZHdlSkdLak14LVhRc0pjdGo4R1lGWHNSWFdvTjBLTld0WWxOelJzWmZDTGdYMjRTTGJNR294djN5U2JUb3NMYjZpR2VNT0w4QUJka1JoSg?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국장 닫혀도 주식 사고판다…토큰화 주식 절반이 '장외 거래' - 뉴시스",
+      "title": "\"국장 탈출은 지능순\" 커뮤니티 분통…개인 투자자 10조원 미국 증시로 이동 - 뉴시스",
       "source": "뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HRkExRHl6VHl4QXluREtpT0RncElER2lHdEZBbHJtcjVPd1BuQmRxRDliOVlITTNEc1F4WURpVnVUTG04Z3RpdXlNQzhDa3JTZ0c3SGtRcDJ0TFV1NVVLUNIBeEFVX3lxTE5qVTJXNXI3SEdkdWlfcUhsVVZ0U3BOd2c5MEg4V2kwLXVMUmhUdkVYQUI0TG1hVXJpOElyeHRsb21HY1RaSXcxMWlTN25FX0dBT0tBSG1vUUp6OWNqTFdpQXdERU9IT2l3Q1lYT2YxSEE3T1BkUlpCNg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GY2owTlF4TnNmNXJ4VVdnQXpxalgyTzlLMkY3THNVYjFhTV9GcDFPbGVqRDFtWWpkY1h5M3FRY2JnTXBXMlNic1RzZnBmVVg5dDNnRktpVExRTzJSZGdkStIBeEFVX3lxTFBXZjlyQTNsR0UyZ2RXMVFxWDdMbi1FVVNlRXlHbnRBY2ZkbnJYekJDMTRiVHhmRHk3WkNnUWVqR3FhR1I4Z3cwaW8tY0kxSWg4cmJaUWVJTG5GMHotcmtHS1A4N0otOHFFbDlqanVtdDN2b3ZyV2lKYw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "IMF \"토큰화 주식 거래 절반 이상, 미국 정규장 외 시간에 발생\" - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sY2xrZ0tieXctZGh4YjF0YTdrVnRPVzRKN3N3OFlpQnpGZ29BRUMydl9xU0JIVHJkNVNfRkJaT2Q4SDZ1VHJ0VVBXbm1rcEZj?oc=5"
+      "title": "AI가 이끈 미 증시 강세장 4주년...역대 6번째 장기 랠리 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FZlpPeGl3UHJlSk9jMnZkcmROZkx6V2I4eHdqcU50eEVWb2tDbFVHcU1iZnpxOVBSUWtCQml4WEtxcUtlSDlZZzZTVGl4Z2ZUMURfc2x4RDd6TGMyMnc?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시가 신고가인데 10년 국채금리는 5%대 - 중기이코노미",
-      "source": "중기이코노미",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kOXpsRDMwNVl6TlFqSzhqRnNFOE9Dd290QmFfR2VDRy12TWlTRTJfdGhnTXlSWjZESUUycWloWlJfVjNIbmZMUVRZOWhiQXVMekQ1VHBQR09zSnZ4MFpsU1dPeDhCWmdFekE?oc=5"
+      "title": "美 개별주식옵션 거래 역대급…개미들 위험 감수 - 연합뉴스",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10bEFObS10czBpd3NmUThmc0MtZzRYSkhtVndKMExyYXVYQUJnX3B2VE5Qa0NOa2VNdjRUbU1xWjhfQk1HRVpRMXVSSHg2eFQ3QUpJUllLdWdoYzTSAWBBVV95cUxObU9UVUNFUFljMHZVZEU5Yk51aWtmN3p6ZU00VEFvU1Zia241Qkl4bGVDQ1RjMzNGUVhTc2VCMVlTUWg4M0Z5UTB2VGFyemMxZHcxOUFyT0pXdHFjbWRnWVE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
