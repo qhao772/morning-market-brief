@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-13T22:34:34Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.14 07:34 (한국시간)",
+  "updatedAtISO": "2026-10-14T01:46:28Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.14 10:46 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.6,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1339.38,
-  "usdJpy": 158.34,
-  "jpyKrw100": 845.91,
+  "usdKrw": 1337.78,
+  "usdJpy": 158.44,
+  "jpyKrw100": 844.37,
   "indices": {
     "kospi": {
-      "value": 6035.35,
-      "changePct": -5.46
+      "value": 6080.69,
+      "changePct": 0.75
     },
     "kosdaq": {
-      "value": 837.03,
-      "changePct": -1.43
+      "value": 826.18,
+      "changePct": -1.3
     },
     "sp500": {
       "value": 7805.45,
@@ -35,15 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 주요 지수 혼조 속 약세 마감…대형 기술주 선별적 흐름 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lbUR2RHpjbWo2YUZSak83M3JxNW43cUhJTGM4VzFIWDA5S2pURllYaEtFclF0cUhEUzlJRTY2cXpHM2xIdG85UTQyekU4MWQ2M0NpZmFpck9rY2dsSWJYZ0Rra0R5UG4zMERtRW5OYw?oc=5"
+      "title": "반도체 손실로 월가 하락 후 미국 증시 선물 보합세…CPI 발표 대기 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80b29Ya0JFWDdMcmdyUmNDcUlzQmRwb2hyY20zUEdMXy1mNlZabFo4eFhtNHJ4cGRfQm9BRGEyZmlxb0R5SkxVVE9MSWdSV0lwZjhjWnNyZ09kZjhEZ1BveTBKVENfblRxVkljVElGNF8?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "개인마저 미국장으로…수급 깨진 코스피, 속절 없이 6천선 밀려 | - 연합인포맥스",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBveWlWdGNZZzdJMXNzMXJJdmhyNzhIV0hKVFNQWW5pYnpmZkxDRVU4MmFjdWhGQ1JIcVkwbm52ZGliVUtsWFdJaHZ3bHpXMktlNUllOVZLbXpESFZXWW1HLXhmNlpiTEJUZDhwREU0WnM4eHdR?oc=5"
+      "title": "[서울데이터랩] 미국 증시, 주요 지수 혼조 속 약세 마감…대형 기술주 선별적 흐름 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lbUR2RHpjbWo2YUZSak83M3JxNW43cUhJTGM4VzFIWDA5S2pURllYaEtFclF0cUhEUzlJRTY2cXpHM2xIdG85UTQyekU4MWQ2M0NpZmFpck9rY2dsSWJYZ0Rra0R5UG4zMERtRW5OYw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,9 +53,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "개인투자자, 하반기 국내 주식 5.5조 팔고 美 주식 10조 샀다 - 연합뉴스",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EbEdwa3JtaEdHOTlVaEgwNlE0MlBuOFo0cWVRWlFKZUprWF9VUjRqY1NWZWhDbGxZbDk0aEc1cFp2RVEwaTZuWUR0UE1IM1EtUTNCTFloZWt3Y0ZDOWMxN9IBYEFVX3lxTE5EbEdwa3JtaEdHOTlVaEgwNlE0MlBuOFo0cWVRWlFKZUprWF9VUjRqY1NWZWhDbGxZbDk0aEc1cFp2RVEwaTZuWUR0UE1IM1EtUTNCTFloZWt3Y0ZDOWMxNw?oc=5"
+      "title": "[미국증시] 윌슨 반도체 바닥론…튜더 존스 “2027년 1년 내내 숏” - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfU2cwSnVtUE95aWFjSnZmblk4bndSZnd4VmFDdnd5Q3VnQ0NBZEZ1Nkh3ZWVSMU8yTjNUaHVLQjBxNHVyWk9zUGpmTFhLWHN2dVBDenlpdmtFc21yMklnZXladkhLbDg?oc=5"
     },
     {
       "tag": "시장 뉴스",
