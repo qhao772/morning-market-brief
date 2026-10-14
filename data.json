@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-14T13:35:26Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.14 22:35 (한국시간)",
+  "updatedAtISO": "2026-10-14T18:28:53Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.15 03:28 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.6,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1339.18,
-  "usdJpy": 158.87,
-  "jpyKrw100": 842.96,
+  "usdKrw": 1341.57,
+  "usdJpy": 158.26,
+  "jpyKrw100": 847.67,
   "indices": {
     "kospi": {
       "value": 6008.81,
@@ -20,16 +20,16 @@
       "changePct": -1.57
     },
     "sp500": {
-      "value": 7774.89,
-      "changePct": -0.39
+      "value": 7706.91,
+      "changePct": -1.26
     },
     "nasdaq": {
-      "value": 27041.91,
-      "changePct": -0.6
+      "value": 26673.79,
+      "changePct": -1.95
     },
     "sox": {
-      "value": 11978.73,
-      "changePct": -1.89
+      "value": 11708.96,
+      "changePct": -4.09
     }
   },
   "issues": [
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시, 다우 349P 상승에도 나스닥 하락…SK하이닉스·마이크론 급락에 반도체주 흔들 - 톱스타뉴스",
+      "title": "미국증시, CPI 쇼크에 나스닥 하락·다우 상승…엔비디아·SK하이닉스 ADR 약세 - 톱스타뉴스",
       "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiLWpPaXo5bzNKLTduOVk1eEtzV2dCMVhXNTNXY0lQbWt6OXJXUkV4eGNGVGZnckw5V1VmWERCWTZxRUlMVXp2TXJZaW1SUnB5UHRUXzFmNlI0a3BMUlpwNGd6UWJMbEs2Qi1rWUowWXpGdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55M0JLYk1hTXdfSDFhVXBoQnBGaklvbE9hV0pPVjV4ZmRQeGpWZUNXWmp5c2FuRnVPbXd1aW1vMVFVbU41U1cycUlqUy12T212R1ppTHhJZmlfcTRScVV5MllWWnRMN0EtTC1xYjMybVEtUQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
