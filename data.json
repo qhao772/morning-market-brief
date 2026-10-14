@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-14T01:46:28Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.14 10:46 (한국시간)",
+  "updatedAtISO": "2026-10-14T07:26:53Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.14 16:26 (한국시간)",
   "us10y": 5.24,
   "us30y": 5.6,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1337.78,
-  "usdJpy": 158.44,
-  "jpyKrw100": 844.37,
+  "usdKrw": 1335.55,
+  "usdJpy": 158.24,
+  "jpyKrw100": 844.01,
   "indices": {
     "kospi": {
-      "value": 6080.69,
-      "changePct": 0.75
+      "value": 6008.81,
+      "changePct": -0.44
     },
     "kosdaq": {
-      "value": 826.18,
-      "changePct": -1.3
+      "value": 823.88,
+      "changePct": -1.57
     },
     "sp500": {
       "value": 7805.45,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "반도체 손실로 월가 하락 후 미국 증시 선물 보합세…CPI 발표 대기 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80b29Ya0JFWDdMcmdyUmNDcUlzQmRwb2hyY20zUEdMXy1mNlZabFo4eFhtNHJ4cGRfQm9BRGEyZmlxb0R5SkxVVE9MSWdSV0lwZjhjWnNyZ09kZjhEZ1BveTBKVENfblRxVkljVElGNF8?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 주요 지수 혼조 속 약세 마감…대형 기술주 선별적 흐름 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lbUR2RHpjbWo2YUZSak83M3JxNW43cUhJTGM4VzFIWDA5S2pURllYaEtFclF0cUhEUzlJRTY2cXpHM2xIdG85UTQyekU4MWQ2M0NpZmFpck9rY2dsSWJYZ0Rra0R5UG4zMERtRW5OYw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "국장 살 돈 없다는 개미, 미국 증시엔 석 달간 10조 넣었다 - 뉴스1",
-      "source": "뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6TkJvVmxRV29ES1BwSzVraXpyWFNRX0JhM3hjVjBaS2YyUkxUQnBPdWc1T2hNVzdCejVWSVM4aUkwMVU5bXdLNGlOODRSbURvNlBLeWJxVzdLRDA?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[미국증시] 윌슨 반도체 바닥론…튜더 존스 “2027년 1년 내내 숏” - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfU2cwSnVtUE95aWFjSnZmblk4bndSZnd4VmFDdnd5Q3VnQ0NBZEZ1Nkh3ZWVSMU8yTjNUaHVLQjBxNHVyWk9zUGpmTFhLWHN2dVBDenlpdmtFc21yMklnZXladkhLbDg?oc=5"
+      "title": "미국증시 혼조 출발…중국 메모리 기술 충격에 마이크론·SK하이닉스 급락 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QTzR3aVpmcU1hUktQNmtBMDQxM0RsckEwQVBvNkw5U0tZUW1YV0xNVlRkRWt0ajBVaUJtWXF1UTNnY1FiTE9aQnZ5UjM1TDN2MVJRb29wemNndkppTmRXVVViNXF2d0Z3RHZzSi1Xbmdpdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "\"잘나가는 반도체는 옛말\"…'신고가' 미국 증시 '진짜 주도주'는 - 한국경제",
       "source": "한국경제",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpVnNaTFBCX29PTVZ0YXBLYkZJbGVzWmNjQmlUaEw4NTVKZjlqNk1KeXdOUEV2UlA0UnpYcHBTV1pmUHBLX2NyY3NXSGVrNjk2dUI5V19oWUg5UQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "\"국장 탈출은 지능순\" 커뮤니티 분통…개인 투자자 10조원 미국 증시로 이동 - 뉴시스",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GY2owTlF4TnNmNXJ4VVdnQXpxalgyTzlLMkY3THNVYjFhTV9GcDFPbGVqRDFtWWpkY1h5M3FRY2JnTXBXMlNic1RzZnBmVVg5dDNnRktpVExRTzJSZGdkStIBeEFVX3lxTFBXZjlyQTNsR0UyZ2RXMVFxWDdMbi1FVVNlRXlHbnRBY2ZkbnJYekJDMTRiVHhmRHk3WkNnUWVqR3FhR1I4Z3cwaW8tY0kxSWg4cmJaUWVJTG5GMHotcmtHS1A4N0otOHFFbDlqanVtdDN2b3ZyV2lKYw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "마이크론·JNJ 울고 '이곳' 웃었다…미국증시 승자는? - 위키트리",
+      "source": "위키트리",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRWRGSjUxTmVxc3RPZDU0LWo0cWNDdVY0QUhOaTZNcTVhNDBzYmNSbzdWNjR3Mkk2cjR4SURmbURrRlNMQnF5bTNvUVZNWWxKT09Ra0dR?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시, 다우 349P 상승에도 나스닥 하락…SK하이닉스·마이크론 급락에 반도체주 흔들 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiLWpPaXo5bzNKLTduOVk1eEtzV2dCMVhXNTNXY0lQbWt6OXJXUkV4eGNGVGZnckw5V1VmWERCWTZxRUlMVXp2TXJZaW1SUnB5UHRUXzFmNlI0a3BMUlpwNGd6UWJMbEs2Qi1rWUowWXpGdw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
