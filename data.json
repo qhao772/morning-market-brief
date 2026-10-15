@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-14T22:11:12Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.15 07:11 (한국시간)",
+  "updatedAtISO": "2026-10-15T01:22:24Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.15 10:22 (한국시간)",
   "us10y": 5.21,
   "us30y": 5.56,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1340.81,
-  "usdJpy": 158.29,
-  "jpyKrw100": 847.08,
+  "usdKrw": 1349.37,
+  "usdJpy": 157.7,
+  "jpyKrw100": 855.67,
   "indices": {
     "kospi": {
-      "value": 6008.81,
-      "changePct": -0.44
+      "value": 5601.19,
+      "changePct": -6.78
     },
     "kosdaq": {
-      "value": 823.88,
-      "changePct": -1.57
+      "value": 765.16,
+      "changePct": -7.13
     },
     "sp500": {
       "value": 7718.94,
@@ -35,15 +35,9 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 혼조 출발…중국 메모리 기술 충격에 마이크론·SK하이닉스 급락 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QTzR3aVpmcU1hUktQNmtBMDQxM0RsckEwQVBvNkw5U0tZUW1YV0xNVlRkRWt0ajBVaUJtWXF1UTNnY1FiTE9aQnZ5UjM1TDN2MVJRb29wemNndkppTmRXVVViNXF2d0Z3RHZzSi1Xbmdpdw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시, 기술주 급락에 나스닥 1.88%↓…반도체주 약세 두드러져 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LLTNhUWl5NkZhcnpZVFNyaEowYldpeG0tc1pqYmg3UGZwb2UwOXNqYWt0VkxxdU5NNXQtTXJWRmoxNDJ2MHpyQ3BXWFY1Y25wbVF4V3BSQzdSc3dYRUp6VllxZGJIUFhDcE5vVEh6bllMTjhldEVv?oc=5"
+      "title": "미국 증시 참혹한 악재 발생...\"미국 중간 선거 갈림길\" [자막뉴스] - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QSVRpa3VZZV9HcXJtSndhNzlfejV3bGtPbkU4V3NmUmdnNmxsVjlLQ1pNS1ZBcmVTeHFId0dwazBfeXVra05sSjE3TW5yaU5sbXVSVE9YbDZCQW9sWkE?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "[서울데이터랩]미국 증시, 기술주 급락에 나스닥 1.88%↓…반도체주 약세 두드러져 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LLTNhUWl5NkZhcnpZVFNyaEowYldpeG0tc1pqYmg3UGZwb2UwOXNqYWt0VkxxdU5NNXQtTXJWRmoxNDJ2MHpyQ3BXWFY1Y25wbVF4V3BSQzdSc3dYRUp6VllxZGJIUFhDcE5vVEh6bllMTjhldEVv?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "\"국장 탈출은 지능순\" 커뮤니티 분통…개인 투자자 10조원 미국 증시로 이동 - 뉴시스",
       "source": "뉴시스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GY2owTlF4TnNmNXJ4VVdnQXpxalgyTzlLMkY3THNVYjFhTV9GcDFPbGVqRDFtWWpkY1h5M3FRY2JnTXBXMlNic1RzZnBmVVg5dDNnRktpVExRTzJSZGdkStIBeEFVX3lxTFBXZjlyQTNsR0UyZ2RXMVFxWDdMbi1FVVNlRXlHbnRBY2ZkbnJYekJDMTRiVHhmRHk3WkNnUWVqR3FhR1I4Z3cwaW8tY0kxSWg4cmJaUWVJTG5GMHotcmtHS1A4N0otOHFFbDlqanVtdDN2b3ZyV2lKYw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "마이크론·JNJ 울고 '이곳' 웃었다…미국증시 승자는? - 위키트리",
-      "source": "위키트리",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRWRGSjUxTmVxc3RPZDU0LWo0cWNDdVY0QUhOaTZNcTVhNDBzYmNSbzdWNjR3Mkk2cjR4SURmbURrRlNMQnF5bTNvUVZNWWxKT09Ra0dR?oc=5"
+      "title": "미국증시, CPI 쇼크에 나스닥 하락·다우 상승…엔비디아·SK하이닉스 ADR 약세 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55M0JLYk1hTXdfSDFhVXBoQnBGaklvbE9hV0pPVjV4ZmRQeGpWZUNXWmp5c2FuRnVPbXd1aW1vMVFVbU41U1cycUlqUy12T212R1ppTHhJZmlfcTRScVV5MllWWnRMN0EtTC1xYjMybVEtUQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
