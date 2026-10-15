@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-15T18:10:57Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.16 03:10 (한국시간)",
-  "us10y": 5.21,
-  "us30y": 5.56,
+  "updatedAtISO": "2026-10-15T22:06:29Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.16 07:06 (한국시간)",
+  "us10y": 5.19,
+  "us30y": 5.52,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1341.72,
-  "usdJpy": 158.06,
-  "jpyKrw100": 848.88,
+  "usdKrw": 1341.22,
+  "usdJpy": 157.98,
+  "jpyKrw100": 848.99,
   "indices": {
     "kospi": {
       "value": 5554.22,
@@ -20,16 +20,16 @@
       "changePct": -7.65
     },
     "sp500": {
-      "value": 7726.97,
-      "changePct": 0.1
+      "value": 7744.06,
+      "changePct": 0.33
     },
     "nasdaq": {
-      "value": 26603.68,
-      "changePct": -0.33
+      "value": 26713.03,
+      "changePct": 0.08
     },
     "sox": {
-      "value": 11411.22,
-      "changePct": -2.34
+      "value": 11581.22,
+      "changePct": -0.88
     }
   },
   "issues": [
@@ -47,15 +47,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "\"잘나가는 반도체는 옛말\"…'신고가' 미국 증시 '진짜 주도주'는 - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpVnNaTFBCX29PTVZ0YXBLYkZJbGVzWmNjQmlUaEw4NTVKZjlqNk1KeXdOUEV2UlA0UnpYcHBTV1pmUHBLX2NyY3NXSGVrNjk2dUI5V19oWUg5UQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "미국증시, 나스닥 1.24% 급락·다우 상승…엔비디아·SK하이닉스 반도체 투매 확산 - 톱스타뉴스",
       "source": "톱스타뉴스",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1TYTBiUmZFSGVDRW1mWHlEUWlMZkkySnRQOVI2eEZ1VzNOOER1UVBfVTdCWkhOZzhQWHdxQzNaRV9yZlNGekZYVlR5VjdqejYtRUE3a1MxOVFhMXBPdzNPSV9kVGlrNnE3d2hUZTF3X0tWZw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "\"잘나가는 반도체는 옛말\"…'신고가' 미국 증시 '진짜 주도주'는 - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpVnNaTFBCX29PTVZ0YXBLYkZJbGVzWmNjQmlUaEw4NTVKZjlqNk1KeXdOUEV2UlA0UnpYcHBTV1pmUHBLX2NyY3NXSGVrNjk2dUI5V19oWUg5UQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
