@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-16T01:09:03Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.16 10:09 (한국시간)",
+  "updatedAtISO": "2026-10-16T07:01:33Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.16 16:01 (한국시간)",
   "us10y": 5.19,
   "us30y": 5.52,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1346.68,
-  "usdJpy": 158.15,
-  "jpyKrw100": 851.5,
+  "usdKrw": 1332.08,
+  "usdJpy": 157.91,
+  "jpyKrw100": 843.54,
   "indices": {
     "kospi": {
-      "value": 5680.2,
-      "changePct": 2.27
+      "value": 5668.05,
+      "changePct": 2.05
     },
     "kosdaq": {
-      "value": 785.65,
-      "changePct": 3.26
+      "value": 794.78,
+      "changePct": 4.46
     },
     "sp500": {
       "value": 7744.06,
@@ -35,15 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 참혹한 악재 발생...\"미국 중간 선거 갈림길\" [자막뉴스] - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QSVRpa3VZZV9HcXJtSndhNzlfejV3bGtPbkU4V3NmUmdnNmxsVjlLQ1pNS1ZBcmVTeHFId0dwazBfeXVra05sSjE3TW5yaU5sbXVSVE9YbDZCQW9sWkE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "미국증시 1%대 하락 그쳤는데 코스피만 7%↓'패닉' 왜? - 머니투데이 - 머니투데이",
       "source": "머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0SUt4VW5yakNoZHJ3dHNLaC1CWTVRbE1MbGZobEFYR0d5R2tvM2Z2ZDJqN2NlTEQ5Z3drMElXYy1HRXc2WnZIZzhIaEVhZjVUdXp1QWEyX1NaaXhudWF0eFVvNXZKSVpD0gFuQVVfeXFMT2pWM2FKNDlCT0ktV2RxNmx0QXk5eEszbHdHM0FSRVI3M0dkWGhVN1FEYk1iVE1Vd2J3SXR5cDFXcVBvNGY3MGprcEMzZzJJQkFNeTRZb21UdV9RWXRGM2dfd1RoanF2VWZveHY5eVE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 증시 참혹한 악재 발생...\"미국 중간 선거 갈림길\" [자막뉴스] - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QSVRpa3VZZV9HcXJtSndhNzlfejV3bGtPbkU4V3NmUmdnNmxsVjlLQ1pNS1ZBcmVTeHFId0dwazBfeXVra05sSjE3TW5yaU5sbXVSVE9YbDZCQW9sWkE?oc=5"
     },
     {
       "tag": "시장 뉴스",
