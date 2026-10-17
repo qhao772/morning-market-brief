@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-16T23:25:59Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.17 08:25 (한국시간)",
+  "updatedAtISO": "2026-10-17T04:07:31Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.17 13:07 (한국시간)",
   "us10y": 5.1,
   "us30y": 5.43,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1334.2,
+  "usdKrw": 1329.6,
   "usdJpy": 157.99,
-  "jpyKrw100": 844.5,
+  "jpyKrw100": 841.59,
   "indices": {
     "kospi": {
       "value": 5668.05,
@@ -47,6 +47,12 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "미국증시 나스닥 2.15% 급락…AI 투자 불안·유가 급등에 반도체 매도 확산 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXVVBDNUR1RFNEWVliZ2hPNHc2SVhJNkpaVXN6NDQ2NnBDdWZQRFZ1aURpZEQ4LU5PTFRDcktVb1BXV1JBUTA0Ukk1dk5SR0hGOHAyczRSbm5RYUJYU292Q2dZa3IwY1hhcnR3cm5TOC1hZw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "미국증시, 다우 315P 상승·나스닥 0.54% 하락…AI 반도체 불안에 SK하이닉스 ADR 4% 급락 - 톱스타뉴스",
       "source": "톱스타뉴스",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CaVphYm9hVEtTTTFfeDdQc01hOWtMcFphNzB2dGRLWS1oLTB3dmgteXNoWWZBYjhOaFU2aE1sb3FnY3B6UGJrU1BuVFJQLUhQZmNuZFd5NFVUbmVpclpFb3BiU2FGeWJwZGN5WEFHLXdBZw?oc=5"
@@ -56,12 +62,6 @@
       "title": "국내증시 전망, 코스피 5500선 방어 시험…미국증시 반등에도 반도체 불안 - 톱스타뉴스",
       "source": "톱스타뉴스",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oZHI2RWttRTNacXNrcFFmQ3BDTWhWdTYxaGYxVXJUNFJGc2lONEFvLWNNejlDWEp2a3F3VGhpcTVRM21jamNSNkkwTWN1enlLNDlJdFRkLVdZY1hlNFNCMEl0bmxrMkhfZVBLenpiSEdGQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시, 다우 556P 급등·나스닥 강보합…국채금리 하락에 반전 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxODdrTDM2MlZLVnNnZTNpWE9QTDdOTDRuVmN2YmFIcmJNaGdrVjJqTXJCN2ZNQzlJY1pwQ3N6cE9MUkx4TWY2cHl1S1JvOXl1T29xZnQ4T0hmejBnZW56NUtJdkF0QkgzYWE2bF9uYzVhUQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
