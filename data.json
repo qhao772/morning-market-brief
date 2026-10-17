@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-17T04:07:31Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.17 13:07 (한국시간)",
+  "updatedAtISO": "2026-10-17T09:09:43Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.17 18:09 (한국시간)",
   "us10y": 5.1,
   "us30y": 5.43,
   "fedFundsLow": 3.75,
@@ -47,15 +47,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 나스닥 2.15% 급락…AI 투자 불안·유가 급등에 반도체 매도 확산 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXVVBDNUR1RFNEWVliZ2hPNHc2SVhJNkpaVXN6NDQ2NnBDdWZQRFZ1aURpZEQ4LU5PTFRDcktVb1BXV1JBUTA0Ukk1dk5SR0hGOHAyczRSbm5RYUJYU292Q2dZa3IwY1hhcnR3cm5TOC1hZw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "미국증시, 다우 315P 상승·나스닥 0.54% 하락…AI 반도체 불안에 SK하이닉스 ADR 4% 급락 - 톱스타뉴스",
       "source": "톱스타뉴스",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CaVphYm9hVEtTTTFfeDdQc01hOWtMcFphNzB2dGRLWS1oLTB3dmgteXNoWWZBYjhOaFU2aE1sb3FnY3B6UGJrU1BuVFJQLUhQZmNuZFd5NFVUbmVpclpFb3BiU2FGeWJwZGN5WEFHLXdBZw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시 나스닥 2.15% 급락…AI 투자 불안·유가 급등에 반도체 매도 확산 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXVVBDNUR1RFNEWVliZ2hPNHc2SVhJNkpaVXN6NDQ2NnBDdWZQRFZ1aURpZEQ4LU5PTFRDcktVb1BXV1JBUTA0Ukk1dk5SR0hGOHAyczRSbm5RYUJYU292Q2dZa3IwY1hhcnR3cm5TOC1hZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
