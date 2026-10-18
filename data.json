@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-18T17:58:54Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.19 02:58 (한국시간)",
+  "updatedAtISO": "2026-10-18T20:33:07Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.19 05:33 (한국시간)",
   "us10y": 5.1,
   "us30y": 5.43,
   "fedFundsLow": 3.75,
@@ -8,8 +8,8 @@
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
   "usdKrw": 1334.2,
-  "usdJpy": 157.99,
-  "jpyKrw100": 844.5,
+  "usdJpy": 157.94,
+  "jpyKrw100": 844.72,
   "indices": {
     "kospi": {
       "value": 5668.05,
@@ -35,27 +35,27 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "12월부터 23시간 열리는 미국 증시… 낮과 밤 전략 달라야 - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZU04X1FSZUVWX3dlWmtvazlaS1cxcjFWcDlQeFRYY2lTUlVLWlE0bFF5UUZZN0plY1J4RUFSVTVhT0JlRmtfZkRoZDdkY1c1RGN0UTJvQk90aUpkUDFxZnlObUk2aVJPblRhTFR2X2o5aWVYS2o2LVlVQ0lybGZDWHk4b0xQQmF6czZUbWtn?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "국제유가 105달러, 오늘 미국증시에서 유가·금리·기술주를 함께 봐야 하는 이유 - 네이버 프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVVRrTkRGZEtncnBUX0tjNXVHVlNlRnpSRVZfMWdOTW1jYzFaMW11anNUbnAzZTZ3Y3l5a0ZXV1NUYVNDVFBpbl9sNFBXdm02QmVTSUVuOHoxYlRlMzRJbHFiTTQ0bHg3cHVZUzZiRFptYjVqbXZfU2VmRnNVVHNabGJqMm1HYzhEcXhkTzhPSXQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "\"국장 급락 두려워마라…엔저와 미국증시가 가져올 반등 기회\" - 뉴시스",
       "source": "뉴시스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4VjlRRFdUdEZYQ2F4emNMSTdHYi1kblRtRmh1Uk5JaGFxVkFsTXJnU0s0NDU1ejE2VlNnYk4yRXByek4zTjNVbkdwQTZpd1lHX253eGdKX1ZGalVhaF9HR9IBeEFVX3lxTE1wa2RIeFNHN0xsNW0wY3NzVllPVmtXOEJrODhMQ1NiNlBKeGg1ZDVxVUN0NDZNeWdQam5FNnhIVGJ1b1AzWi0xVm9HcUh6THZTT200SVpScUFuNUE3SkVWclBlSzRXT1lra0tWVkdUdWtVZ1hwRTN4RA?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "월요일 삼전닉스 어떻게 될까…美 반도체주 급락에 '블랙먼데이' 우려도 - 주간조선",
-      "source": "주간조선",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnQkhiUnBTZXlGNFlieGlLV280X0VYMHE3MXZvYlc3MjZHNkNhay1VLWFGenhuMWVWcGFMb3dyVXB3bTN1RTNPRnBQSHZjQVd1d1pGZjR6LTFGclNDX2ZZcTRGUnhQU29jZ0HSAW5BVV95cUxOQmRFOVZsUDV5dXV5ODJ6TW9iUkJwQmhsU2YyeGRscHkwTllFODJxck1ILWdEN19QdVpUeTRiV1hDVVhqd3dmUHdEeE1aQUpEbEFDdGN3RW1CYmx6RmI4WUtObVpTSlRobkc1QkVvQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[중국증시 주간 포인트] 中 3Q GDP∙9월 실물경제 지표, 금융가포럼, APEC 재무장관회의, 엔비디아 GTC, 자율주행∙AI칩 관련 행사, 미국&중국증시 어닝시즌 - 뉴스핌",
-      "source": "뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93VmVZNGxjVkdwRmxoMkdSYW5oaEF5UlZTOG1RZWw2U0NSY2lKZXZaLTV5RFczVmZ1UWwtWWQ3VkNaeXVrcWhzTnk4WVV2dmZyb3lnVy0tUkdkc3Ax?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국 증시 참혹한 악재 발생...\"미국 중간 선거 갈림길\" [자막뉴스] - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sQjJuVEoxN2JEWFpmTDJNRzdVcjZaVWdGRlJYNEdmNmJtLW5mLUhWaFpuNWJ2WlNteUxJaUIwYmJnNHlWRDhVakRaaE14alExS28wMmNlUlI0MDVrenJTRTMyVWVxR0FKeTFNd2N1RWtxb1RXRlE?oc=5"
+      "title": "美 증시 고평가 경고 재부상…실러 PER 42배 육박 - 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNDlCTGR2ODk2RUZ6TXVIdmFDcElrSEJrSjVTaG1RNEFfSmJIMUFNdnFyNW82bmpoSlZLYXVXX3JtblVkYnlkdW9iQmw4aTBYZTdJVFJYVUR2NXhnclJkQ3VFTUtaSWJRT21mdzBra3BzV0I2V2plaHZtdWpZU2Q2eThpZ0xtNzR1?oc=5"
     },
     {
       "tag": "시장 뉴스",
