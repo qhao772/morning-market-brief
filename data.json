@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-17T22:10:02Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.18 07:10 (한국시간)",
+  "updatedAtISO": "2026-10-18T00:49:27Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.18 09:49 (한국시간)",
   "us10y": 5.1,
   "us30y": 5.43,
   "fedFundsLow": 3.75,
@@ -41,15 +41,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 참혹한 악재 발생...\"미국 중간 선거 갈림길\" [자막뉴스] - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QSVRpa3VZZV9HcXJtSndhNzlfejV3bGtPbkU4V3NmUmdnNmxsVjlLQ1pNS1ZBcmVTeHFId0dwazBfeXVra05sSjE3TW5yaU5sbXVSVE9YbDZCQW9sWkE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "미국증시, 다우 315P 상승·나스닥 0.54% 하락…AI 반도체 불안에 SK하이닉스 ADR 4% 급락 - 톱스타뉴스",
       "source": "톱스타뉴스",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CaVphYm9hVEtTTTFfeDdQc01hOWtMcFphNzB2dGRLWS1oLTB3dmgteXNoWWZBYjhOaFU2aE1sb3FnY3B6UGJrU1BuVFJQLUhQZmNuZFd5NFVUbmVpclpFb3BiU2FGeWJwZGN5WEFHLXdBZw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 증시 참혹한 악재 발생...\"미국 중간 선거 갈림길\" [자막뉴스] - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QSVRpa3VZZV9HcXJtSndhNzlfejV3bGtPbkU4V3NmUmdnNmxsVjlLQ1pNS1ZBcmVTeHFId0dwazBfeXVra05sSjE3TW5yaU5sbXVSVE9YbDZCQW9sWkE?oc=5"
     },
     {
       "tag": "시장 뉴스",
