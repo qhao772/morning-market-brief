@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-18T20:33:07Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.19 05:33 (한국시간)",
+  "updatedAtISO": "2026-10-18T22:58:08Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.19 07:58 (한국시간)",
   "us10y": 5.1,
   "us30y": 5.43,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1334.2,
-  "usdJpy": 157.94,
-  "jpyKrw100": 844.72,
+  "usdKrw": 1334.25,
+  "usdJpy": 157.9,
+  "jpyKrw100": 844.98,
   "indices": {
     "kospi": {
       "value": 5668.05,
@@ -41,6 +41,12 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "“국장에 얻어맞고 피난갔더니 지옥이네요”…미장 속슬 폭락 휩쓸려 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cak1hY3lraWw0b1pJM0JhSktEa2NKSi1aakRxbHlyVzFSRm9vVHRxc3JEOEV2b09xVHgwaWZwLXpzX25xeWhCQ1REVDJmY3FrV1E?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "국제유가 105달러, 오늘 미국증시에서 유가·금리·기술주를 함께 봐야 하는 이유 - 네이버 프리미엄콘텐츠",
       "source": "네이버 프리미엄콘텐츠",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVVRrTkRGZEtncnBUX0tjNXVHVlNlRnpSRVZfMWdOTW1jYzFaMW11anNUbnAzZTZ3Y3l5a0ZXV1NUYVNDVFBpbl9sNFBXdm02QmVTSUVuOHoxYlRlMzRJbHFiTTQ0bHg3cHVZUzZiRFptYjVqbXZfU2VmRnNVVHNabGJqMm1HYzhEcXhkTzhPSXQ?oc=5"
@@ -56,12 +62,6 @@
       "title": "美 증시 고평가 경고 재부상…실러 PER 42배 육박 - 글로벌이코노믹",
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNDlCTGR2ODk2RUZ6TXVIdmFDcElrSEJrSjVTaG1RNEFfSmJIMUFNdnFyNW82bmpoSlZLYXVXX3JtblVkYnlkdW9iQmw4aTBYZTdJVFJYVUR2NXhnclJkQ3VFTUtaSWJRT21mdzBra3BzV0I2V2plaHZtdWpZU2Q2eThpZ0xtNzR1?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "한눈에 보는 오늘의 뉴스 (10월 18일) - 데일리바이트(DAILY BYTE)",
-      "source": "데일리바이트(DAILY BYTE)",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hM0hEYnk3S0REQlBzRTl2c3F6UzJJM19JT3NnRFBFYWFLQXlqYm9JTEZ1Q3hfZXBfdS1ON2lIZDdESW5DQnJ4QUZzc2xQRkJ4WDBVcjFCZ2JhdFNJOXBmcTd3?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
