@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-18T10:51:34Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.18 19:51 (한국시간)",
+  "updatedAtISO": "2026-10-18T14:28:05Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.18 23:28 (한국시간)",
   "us10y": 5.1,
   "us30y": 5.43,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1329.6,
+  "usdKrw": 1334.2,
   "usdJpy": 157.99,
-  "jpyKrw100": 841.59,
+  "jpyKrw100": 844.5,
   "indices": {
     "kospi": {
       "value": 5668.05,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "[중국증시 주간 포인트] 中 3Q GDP∙9월 실물경제 지표, 금융가포럼, APEC 재무장관회의, 엔비디아 GTC, 자율주행∙AI칩 관련 행사, 미국&중국증시 어닝시즌 - 뉴스핌",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93VmVZNGxjVkdwRmxoMkdSYW5oaEF5UlZTOG1RZWw2U0NSY2lKZXZaLTV5RFczVmZ1UWwtWWQ3VkNaeXVrcWhzTnk4WVV2dmZyb3lnVy0tUkdkc3Ax?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "월가 보너스 잔치 끝자락에 닥친 유동성 절벽…2027년 미국 증시 약세장 돌아선다 - 글로벌이코노믹",
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFdBT1FvNDNWRmhEeXNaekl5ZE5TNnVLYlFOT0s3dmZzR3Q1dWVTdF9od21RYUMzMXZxeHRMS3QxQ1FVNFhyZzl2NG83RmoyNmNmQ1ZWUkJtQUU5M1h3WE9vVE5QVFVYdUlIb0F1OGx0dGtwVGtfM25vSnpHOWxhQUI0Y1NGZVkt?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "다음주 국내증시, 미국증시 전망 : 코어위브 주가하락과 네오클라우드 사업 우려 부각 - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRDBURXozc0R2b0JZVXpwYlZrMlZnTUdONVR2cThYOGRZT0R0bXhhMGV3cHhhenJReTIza1VDcjdpb2NqUW5KOURBMXdYQUFCdUFHOC15ZDF4eFFMNE5DcUc5ckpMcTVyaUFjRmRVS2FCbWtKSmppNGRFSEdVQVpubng2VQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "美증시로 피난간 개미 '울상' - 매일경제",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3SDJRMlpDaGlWcy1FRkJFNUVaMDVJLTFPQU9Gc3RFMmdTVWpTNDU0TlYxejhrTm4zejRzZHk0MlpmRmVxcWRfWUI4OXIwRHp2akE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[2026 국감] \"미국 증시 상장이 특혜 면허 돼선 안 돼\"…온라인 유통사 현장조사 거부에 입법 보완 검토 - 알티케이뉴스",
-      "source": "알티케이뉴스",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12OXZZRlNmSS1BN01pdEhXVEp1Y3JYVUswSkRSVld5cjhCVTVlRDVveGY1Z01mcEdtNnJ1X0djRTMwVTk3eHlLZjlLVDRlVXdhN0d5Ml9hQWE3aUhMSmtaM2ZJQXV1OGZ5aldXVw?oc=5"
+      "title": "한눈에 보는 오늘의 뉴스 (10월 18일) - 데일리바이트(DAILY BYTE)",
+      "source": "데일리바이트(DAILY BYTE)",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hM0hEYnk3S0REQlBzRTl2c3F6UzJJM19JT3NnRFBFYWFLQXlqYm9JTEZ1Q3hfZXBfdS1ON2lIZDdESW5DQnJ4QUZzc2xQRkJ4WDBVcjFCZ2JhdFNJOXBmcTd3?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "미국 증시 참혹한 악재 발생...\"미국 중간 선거 갈림길\" [자막뉴스] - YTN",
       "source": "YTN",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sQjJuVEoxN2JEWFpmTDJNRzdVcjZaVWdGRlJYNEdmNmJtLW5mLUhWaFpuNWJ2WlNteUxJaUIwYmJnNHlWRDhVakRaaE14alExS28wMmNlUlI0MDVrenJTRTMyVWVxR0FKeTFNd2N1RWtxb1RXRlE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "美증시로 피난간 개미 '울상' - 매일경제",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3SDJRMlpDaGlWcy1FRkJFNUVaMDVJLTFPQU9Gc3RFMmdTVWpTNDU0TlYxejhrTm4zejRzZHk0MlpmRmVxcWRfWUI4OXIwRHp2akE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
