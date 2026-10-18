@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-18T14:28:05Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.18 23:28 (한국시간)",
+  "updatedAtISO": "2026-10-18T17:58:54Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.19 02:58 (한국시간)",
   "us10y": 5.1,
   "us30y": 5.43,
   "fedFundsLow": 3.75,
@@ -35,21 +35,21 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "\"국장 급락 두려워마라…엔저와 미국증시가 가져올 반등 기회\" - 뉴시스",
+      "source": "뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4VjlRRFdUdEZYQ2F4emNMSTdHYi1kblRtRmh1Uk5JaGFxVkFsTXJnU0s0NDU1ejE2VlNnYk4yRXByek4zTjNVbkdwQTZpd1lHX253eGdKX1ZGalVhaF9HR9IBeEFVX3lxTE1wa2RIeFNHN0xsNW0wY3NzVllPVmtXOEJrODhMQ1NiNlBKeGg1ZDVxVUN0NDZNeWdQam5FNnhIVGJ1b1AzWi0xVm9HcUh6THZTT200SVpScUFuNUE3SkVWclBlSzRXT1lra0tWVkdUdWtVZ1hwRTN4RA?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "월요일 삼전닉스 어떻게 될까…美 반도체주 급락에 '블랙먼데이' 우려도 - 주간조선",
+      "source": "주간조선",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnQkhiUnBTZXlGNFlieGlLV280X0VYMHE3MXZvYlc3MjZHNkNhay1VLWFGenhuMWVWcGFMb3dyVXB3bTN1RTNPRnBQSHZjQVd1d1pGZjR6LTFGclNDX2ZZcTRGUnhQU29jZ0HSAW5BVV95cUxOQmRFOVZsUDV5dXV5ODJ6TW9iUkJwQmhsU2YyeGRscHkwTllFODJxck1ILWdEN19QdVpUeTRiV1hDVVhqd3dmUHdEeE1aQUpEbEFDdGN3RW1CYmx6RmI4WUtObVpTSlRobkc1QkVvQQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[중국증시 주간 포인트] 中 3Q GDP∙9월 실물경제 지표, 금융가포럼, APEC 재무장관회의, 엔비디아 GTC, 자율주행∙AI칩 관련 행사, 미국&중국증시 어닝시즌 - 뉴스핌",
       "source": "뉴스핌",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93VmVZNGxjVkdwRmxoMkdSYW5oaEF5UlZTOG1RZWw2U0NSY2lKZXZaLTV5RFczVmZ1UWwtWWQ3VkNaeXVrcWhzTnk4WVV2dmZyb3lnVy0tUkdkc3Ax?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "월가 보너스 잔치 끝자락에 닥친 유동성 절벽…2027년 미국 증시 약세장 돌아선다 - 글로벌이코노믹",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFdBT1FvNDNWRmhEeXNaekl5ZE5TNnVLYlFOT0s3dmZzR3Q1dWVTdF9od21RYUMzMXZxeHRMS3QxQ1FVNFhyZzl2NG83RmoyNmNmQ1ZWUkJtQUU5M1h3WE9vVE5QVFVYdUlIb0F1OGx0dGtwVGtfM25vSnpHOWxhQUI0Y1NGZVkt?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "한눈에 보는 오늘의 뉴스 (10월 18일) - 데일리바이트(DAILY BYTE)",
-      "source": "데일리바이트(DAILY BYTE)",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hM0hEYnk3S0REQlBzRTl2c3F6UzJJM19JT3NnRFBFYWFLQXlqYm9JTEZ1Q3hfZXBfdS1ON2lIZDdESW5DQnJ4QUZzc2xQRkJ4WDBVcjFCZ2JhdFNJOXBmcTd3?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "美증시로 피난간 개미 '울상' - 매일경제",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3SDJRMlpDaGlWcy1FRkJFNUVaMDVJLTFPQU9Gc3RFMmdTVWpTNDU0TlYxejhrTm4zejRzZHk0MlpmRmVxcWRfWUI4OXIwRHp2akE?oc=5"
+      "title": "한눈에 보는 오늘의 뉴스 (10월 18일) - 데일리바이트(DAILY BYTE)",
+      "source": "데일리바이트(DAILY BYTE)",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hM0hEYnk3S0REQlBzRTl2c3F6UzJJM19JT3NnRFBFYWFLQXlqYm9JTEZ1Q3hfZXBfdS1ON2lIZDdESW5DQnJ4QUZzc2xQRkJ4WDBVcjFCZ2JhdFNJOXBmcTd3?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
