@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-18T22:58:08Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.19 07:58 (한국시간)",
+  "updatedAtISO": "2026-10-19T01:06:02Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.19 10:06 (한국시간)",
   "us10y": 5.1,
   "us30y": 5.43,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1334.25,
-  "usdJpy": 157.9,
-  "jpyKrw100": 844.98,
+  "usdKrw": 1335.28,
+  "usdJpy": 157.88,
+  "jpyKrw100": 845.73,
   "indices": {
     "kospi": {
-      "value": 5668.05,
-      "changePct": 2.05
+      "value": 5595.24,
+      "changePct": -1.28
     },
     "kosdaq": {
-      "value": 794.78,
-      "changePct": 4.46
+      "value": 786.36,
+      "changePct": -1.06
     },
     "sp500": {
       "value": 7659.44,
@@ -41,9 +41,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "“국장에 얻어맞고 피난갔더니 지옥이네요”…미장 속슬 폭락 휩쓸려 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Cak1hY3lraWw0b1pJM0JhSktEa2NKSi1aakRxbHlyVzFSRm9vVHRxc3JEOEV2b09xVHgwaWZwLXpzX25xeWhCQ1REVDJmY3FrV1E?oc=5"
+      "title": "코스피, 3%대 하락 출발...미 증시 AI 투자 수익성 우려 탓 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5abnZHQXZPREh1ZkdySnRvNE92MF9JQWVaNTNxaE5ZMURQcVZKV3FPcWhNR0hDUWhVY1Jjb0plMjA0QlFKeW1pZncyOUZDSTVmUUFFVjdQekpKSXBoMFE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[미국증시] 켄 피셔 중간선거 랠리 84%…AI 투자엔 왜 경고했나 - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1INlVGTl9yUWFIOFp5Y1B0WmQ5T3J3Y3hVazRnVDV5NTEzVVpZLXpxeWVsQ3R6bzZIOENMMkQ3QkthREExSDJleGMyWk1nYkpkREg5T00tbFl6a0V3TUdZTVl0WHptQ1k?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -56,12 +62,6 @@
       "title": "\"국장 급락 두려워마라…엔저와 미국증시가 가져올 반등 기회\" - 뉴시스",
       "source": "뉴시스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4VjlRRFdUdEZYQ2F4emNMSTdHYi1kblRtRmh1Uk5JaGFxVkFsTXJnU0s0NDU1ejE2VlNnYk4yRXByek4zTjNVbkdwQTZpd1lHX253eGdKX1ZGalVhaF9HR9IBeEFVX3lxTE1wa2RIeFNHN0xsNW0wY3NzVllPVmtXOEJrODhMQ1NiNlBKeGg1ZDVxVUN0NDZNeWdQam5FNnhIVGJ1b1AzWi0xVm9HcUh6THZTT200SVpScUFuNUE3SkVWclBlSzRXT1lra0tWVkdUdWtVZ1hwRTN4RA?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "美 증시 고평가 경고 재부상…실러 PER 42배 육박 - 글로벌이코노믹",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNDlCTGR2ODk2RUZ6TXVIdmFDcElrSEJrSjVTaG1RNEFfSmJIMUFNdnFyNW82bmpoSlZLYXVXX3JtblVkYnlkdW9iQmw4aTBYZTdJVFJYVUR2NXhnclJkQ3VFTUtaSWJRT21mdzBra3BzV0I2V2plaHZtdWpZU2Q2eThpZ0xtNzR1?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
