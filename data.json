@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-19T01:06:02Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.19 10:06 (한국시간)",
+  "updatedAtISO": "2026-10-19T07:38:52Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.19 16:38 (한국시간)",
   "us10y": 5.1,
   "us30y": 5.43,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1335.28,
-  "usdJpy": 157.88,
-  "jpyKrw100": 845.73,
+  "usdKrw": 1330.86,
+  "usdJpy": 158.09,
+  "jpyKrw100": 841.85,
   "indices": {
     "kospi": {
-      "value": 5595.24,
-      "changePct": -1.28
+      "value": 5768.01,
+      "changePct": 1.76
     },
     "kosdaq": {
-      "value": 786.36,
-      "changePct": -1.06
+      "value": 808.89,
+      "changePct": 1.77
     },
     "sp500": {
       "value": 7659.44,
@@ -35,6 +35,12 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야” - 경향신문",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DS1FGNFRiWlo1T1pHN1NGT1lQU2tLN0lFVnBxNXBMZkNqR1JBV1RrS1pja051SG9yMjBaMEYxLWR1UlR6dnRxN2FjWG4yZkU5bzNxbzM0R3RkQdIBX0FVX3lxTFBsaTl3d1VKT2ZUWjhYS0Y5N18ybG5hakFZQW0tRTU3OVM4TUktYWxUWVJaZl9TVTVHMzlQR0Y2Vk04cFQ2SThUblhQLU9WVU5WUjM5S3d6NF9aT1MyX2g0?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "12월부터 23시간 열리는 미국 증시… 낮과 밤 전략 달라야 - 조선일보",
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZU04X1FSZUVWX3dlWmtvazlaS1cxcjFWcDlQeFRYY2lTUlVLWlE0bFF5UUZZN0plY1J4RUFSVTVhT0JlRmtfZkRoZDdkY1c1RGN0UTJvQk90aUpkUDFxZnlObUk2aVJPblRhTFR2X2o5aWVYS2o2LVlVQ0lybGZDWHk4b0xQQmF6czZUbWtn?oc=5"
@@ -47,21 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국증시] 켄 피셔 중간선거 랠리 84%…AI 투자엔 왜 경고했나 - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1INlVGTl9yUWFIOFp5Y1B0WmQ5T3J3Y3hVazRnVDV5NTEzVVpZLXpxeWVsQ3R6bzZIOENMMkQ3QkthREExSDJleGMyWk1nYkpkREg5T00tbFl6a0V3TUdZTVl0WHptQ1k?oc=5"
+      "title": "국장 피해 미장 갔는데…서학개미 美주식 보관액 일주일 새 16조 증발 - 머니투데이 - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56X0hJWHJJVnh4UGhIWER1QTQ2YlduaGloS3h2ZFJPeUZRWGx0TVZjMWdIMXpLMlk1YjlLU3lnU0tXSVdhdkhKNG42V1dneGN4ZXFXVEtQenlQejNzOEpGdkljX3AxZHJ6VVowUFhwcnp5N3I2RkHSAXtBVV95cUxNQzFXcE1BcUxhcGEwS2pZMldsM3loc25rQ0RObXBzeml4ZjJCVU5NUDd0azlkOHZNLU8tT196cHRTY0NLZ3E2S1Y5bm90OGFncThuZ25HMWMxMDhjNmxmVjJCWGRpdjJGaFRPWHNteS1Wcy0wOEgtZW1QMHc?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "국제유가 105달러, 오늘 미국증시에서 유가·금리·기술주를 함께 봐야 하는 이유 - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVVRrTkRGZEtncnBUX0tjNXVHVlNlRnpSRVZfMWdOTW1jYzFaMW11anNUbnAzZTZ3Y3l5a0ZXV1NUYVNDVFBpbl9sNFBXdm02QmVTSUVuOHoxYlRlMzRJbHFiTTQ0bHg3cHVZUzZiRFptYjVqbXZfU2VmRnNVVHNabGJqMm1HYzhEcXhkTzhPSXQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "\"국장 급락 두려워마라…엔저와 미국증시가 가져올 반등 기회\" - 뉴시스",
-      "source": "뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4VjlRRFdUdEZYQ2F4emNMSTdHYi1kblRtRmh1Uk5JaGFxVkFsTXJnU0s0NDU1ejE2VlNnYk4yRXByek4zTjNVbkdwQTZpd1lHX253eGdKX1ZGalVhaF9HR9IBeEFVX3lxTE1wa2RIeFNHN0xsNW0wY3NzVllPVmtXOEJrODhMQ1NiNlBKeGg1ZDVxVUN0NDZNeWdQam5FNnhIVGJ1b1AzWi0xVm9HcUh6THZTT200SVpScUFuNUE3SkVWclBlSzRXT1lra0tWVkdUdWtVZ1hwRTN4RA?oc=5"
+      "title": "다올투자증권, '트레이딩뷰'서 미국 주식 거래 지원 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11YmNQV0ljbnRHc0llRC1aSjRYcHduX3RPaWNMbkk0MFdJeF9DNGNsOFJBVVZfZFExVWVxSlE5eElmZ1dvbUVSaXFEVmJ2cWJERWc?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
