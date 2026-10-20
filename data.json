@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-20T05:52:09Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.20 14:52 (한국시간)",
+  "updatedAtISO": "2026-10-20T11:21:57Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.20 20:21 (한국시간)",
   "us10y": 5.09,
   "us30y": 5.43,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1327.97,
-  "usdJpy": 158.13,
-  "jpyKrw100": 839.79,
+  "usdKrw": 1327.29,
+  "usdJpy": 158.19,
+  "jpyKrw100": 839.04,
   "indices": {
     "kospi": {
-      "value": 5518.33,
-      "changePct": -4.33
+      "value": 5552.74,
+      "changePct": -3.73
     },
     "kosdaq": {
-      "value": 783.03,
-      "changePct": -3.2
+      "value": 781.97,
+      "changePct": -3.33
     },
     "sp500": {
       "value": 7690.73,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야” - 경향신문",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DS1FGNFRiWlo1T1pHN1NGT1lQU2tLN0lFVnBxNXBMZkNqR1JBV1RrS1pja051SG9yMjBaMEYxLWR1UlR6dnRxN2FjWG4yZkU5bzNxbzM0R3RkQdIBX0FVX3lxTFBsaTl3d1VKT2ZUWjhYS0Y5N18ybG5hakFZQW0tRTU3OVM4TUktYWxUWVJaZl9TVTVHMzlQR0Y2Vk04cFQ2SThUblhQLU9WVU5WUjM5S3d6NF9aT1MyX2g0?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "국고채 금리, 외인 순매수·증시 급락에 하락…위험회피 심리↑(종합) - 연합뉴스",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yY1NqMEp1RHFPOFJrSjdMNXM2bnNoMUpLRTdWaTNaUHFIYjRzRjZRMGlBVkViZ3hfbHZReURhSkcyR2ZIdS1pS2NXbVFheHFSaWdLVnN5em9ZNzg?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "속지 마세요. 미국 주식 실적은 부풀려져 있습니다 - 네이버 프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdHdDX0V3OTd3WVFoOW1Yb2NEam5HdFBKZ0ZLVHllTTlJNjlnbDk4QlFHbGtfbGRab1RiTC1VYjMxM2k3MTZxZG5jYnlXUS1JZ3EwNDhIZ292ZEdtdGoxdGxZRFNzcXNmbFJnaHRsckVfcWxxejhwaXQ4NWNTZW1LM1ljc2Z1aVA4TkZn?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "미국 증시 조정 마무리 국면, 저점 매수 준비해야 - 모건 스탠리 - Investing.com 한국어",
       "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KLUJWbkV5UHhfUjhfQzQ1UWVQUWJKREdOT251X2pzMUNfUEJjLXBTTFlKMm84bFhDNE9CdTNGbGM3YUtaYTduQmhLYThxNUsxMTMtTnZBaFFFZGRoSTBxQ3hxR0NkRThpYnRiQk5CRmE?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야” - 경향신문",
-      "source": "경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DS1FGNFRiWlo1T1pHN1NGT1lQU2tLN0lFVnBxNXBMZkNqR1JBV1RrS1pja051SG9yMjBaMEYxLWR1UlR6dnRxN2FjWG4yZkU5bzNxbzM0R3RkQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "日 증시, 美 기술주 반등에도 이틀 연속 하락 개장 - KB Think",
       "source": "KB Think",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4a0FIb0c5eFdiQ0pjQUU5aU81d3R2S2dwVElONHI5Ukc3VUYxV1FDQmtFNEJybjgyZ1VvVTdYOEV0WW52YnBvQWVCM29jNnVLMm1tejBEZGxoY0x6UElLb0dzSXpHZWRGYy1zelE1eDdZdw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[미국증시] 코어위브 목표가 106달러…골드만 그래도 매수 왜 - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44bzlKdzU4SEVtN2RTYTUyTnhDQVFhTHBneDh4MkVQZzFFX08tUmdfTzcwNGRvNUYxNm9IWGxRb3I0eGNHSGpzMWp0Sm9ObFplcElTNDNsWWpzcmRLX0dLdlBrX0lxclE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "다올투자증권, 국내 증권사 최초 ‘트레이딩뷰’서 미국주식 거래 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHVi1FOWFjNW1HbFRyWFd2ODJtY0xrYmwwTVYzSHJJYlhFUnV1ejlBVktTaXU0N1A0Wk84aTNaandFMjdTOTY3Mlk5QUtyTng5b2c?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
