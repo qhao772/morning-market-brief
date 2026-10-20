@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-19T20:59:05Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.20 05:59 (한국시간)",
+  "updatedAtISO": "2026-10-20T00:15:33Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.20 09:15 (한국시간)",
   "us10y": 5.09,
   "us30y": 5.43,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1331.61,
-  "usdJpy": 158.53,
-  "jpyKrw100": 839.98,
+  "usdKrw": 1325.88,
+  "usdJpy": 158.51,
+  "jpyKrw100": 836.48,
   "indices": {
     "kospi": {
       "value": 5768.01,
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "SK하이닉스 손자회사 '중복상장' 논란에...금감원 \"문제 있어\" - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKeUJuWEdfWVdzWEE4S2VZUXV3ZnBkS0RMWEUxdjR4NXNJLU5PVGdvVnQ0dXNpaVVzcU5FT05yNzlSX1hQX1RlWnhoMXNqcDRZR19LQXhXbXljMGl2aFE?oc=5"
+      "title": "[시황] 미국증시, AI 기술주 저가 매수세 유입에 나스닥 반등, 다우는 금리 상승에 소폭 하락 혼조 - 버핏연구소",
+      "source": "버핏연구소",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxb0FieWZjbWhyNGFTbFRSSnpCM0xkdHhyMFppaUY3Skg3bkxMX19pOEZwc2RTSFpBam5vdTJGZVZ6dkRkUy1lb0FjWVNibnNscm0xOTZCMmZuMmZKVThGODNR?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "12월부터 23시간 열리는 미국 증시… 낮과 밤 전략 달라야 - 조선일보",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZU04X1FSZUVWX3dlWmtvazlaS1cxcjFWcDlQeFRYY2lTUlVLWlE0bFF5UUZZN0plY1J4RUFSVTVhT0JlRmtfZkRoZDdkY1c1RGN0UTJvQk90aUpkUDFxZnlObUk2aVJPblRhTFR2X2o5aWVYS2o2LVlVQ0lybGZDWHk4b0xQQmF6czZUbWtn?oc=5"
+      "title": "미국 주식 쓸어 담았는데 또 이 업종을…서학개미 잔고 16조 증발 - 머니투데이 - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mZGdxcnh1UXJBVVVmeXp1ZEx5WjRfb3p6UHMwalhWcUpXczhPQUtZWnJoMTJxaG5HUGNMbjNRLThzSEdicXRjaGRnbHJWWjNlNVNOdmJRd0VWblludzJMWTZJQklVUXZB0gFuQVVfeXFMUHAxSTYycHB2d0s1MVMwbEp1UEg5dlJBNUdROGZ2Sng4anRtejNrNUliVmcyemlBNjIyQlk4aVFJV1pDUW45MlZCN1Y1bEVzU2J5TWRHNmtRTG5kNGxjQzVtWTNlTEM1U1hvb29iQmc?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
