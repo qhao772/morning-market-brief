@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-20T00:15:33Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.20 09:15 (한국시간)",
+  "updatedAtISO": "2026-10-20T05:52:09Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.20 14:52 (한국시간)",
   "us10y": 5.09,
   "us30y": 5.43,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1325.88,
-  "usdJpy": 158.51,
-  "jpyKrw100": 836.48,
+  "usdKrw": 1327.97,
+  "usdJpy": 158.13,
+  "jpyKrw100": 839.79,
   "indices": {
     "kospi": {
-      "value": 5768.01,
-      "changePct": 1.76
+      "value": 5518.33,
+      "changePct": -4.33
     },
     "kosdaq": {
-      "value": 808.89,
-      "changePct": 1.77
+      "value": 783.03,
+      "changePct": -3.2
     },
     "sp500": {
       "value": 7690.73,
@@ -43,25 +43,25 @@
       "tag": "시장 뉴스",
       "title": "안철수 “이 대통령, SK하이닉스 손자회사 ‘솔리다임’ 미국 증시 상장 반드시 막아야” - 경향신문",
       "source": "경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DS1FGNFRiWlo1T1pHN1NGT1lQU2tLN0lFVnBxNXBMZkNqR1JBV1RrS1pja051SG9yMjBaMEYxLWR1UlR6dnRxN2FjWG4yZkU5bzNxbzM0R3RkQdIBX0FVX3lxTFBsaTl3d1VKT2ZUWjhYS0Y5N18ybG5hakFZQW0tRTU3OVM4TUktYWxUWVJaZl9TVTVHMzlQR0Y2Vk04cFQ2SThUblhQLU9WVU5WUjM5S3d6NF9aT1MyX2g0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DS1FGNFRiWlo1T1pHN1NGT1lQU2tLN0lFVnBxNXBMZkNqR1JBV1RrS1pja051SG9yMjBaMEYxLWR1UlR6dnRxN2FjWG4yZkU5bzNxbzM0R3RkQQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "日 증시, 美 기술주 반등에도 이틀 연속 하락 개장 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4a0FIb0c5eFdiQ0pjQUU5aU81d3R2S2dwVElONHI5Ukc3VUYxV1FDQmtFNEJybjgyZ1VvVTdYOEV0WW52YnBvQWVCM29jNnVLMm1tejBEZGxoY0x6UElLb0dzSXpHZWRGYy1zelE1eDdZdw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[미국증시] 코어위브 목표가 106달러…골드만 그래도 매수 왜 - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44bzlKdzU4SEVtN2RTYTUyTnhDQVFhTHBneDh4MkVQZzFFX08tUmdfTzcwNGRvNUYxNm9IWGxRb3I0eGNHSGpzMWp0Sm9ObFplcElTNDNsWWpzcmRLX0dLdlBrX0lxclE?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "다올투자증권, 국내 증권사 최초 ‘트레이딩뷰’서 미국주식 거래 - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHVi1FOWFjNW1HbFRyWFd2ODJtY0xrYmwwTVYzSHJJYlhFUnV1ejlBVktTaXU0N1A0Wk84aTNaandFMjdTOTY3Mlk5QUtyTng5b2c?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[시황] 미국증시, AI 기술주 저가 매수세 유입에 나스닥 반등, 다우는 금리 상승에 소폭 하락 혼조 - 버핏연구소",
-      "source": "버핏연구소",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxb0FieWZjbWhyNGFTbFRSSnpCM0xkdHhyMFppaUY3Skg3bkxMX19pOEZwc2RTSFpBam5vdTJGZVZ6dkRkUy1lb0FjWVNibnNscm0xOTZCMmZuMmZKVThGODNR?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국 주식 쓸어 담았는데 또 이 업종을…서학개미 잔고 16조 증발 - 머니투데이 - 머니투데이",
-      "source": "머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mZGdxcnh1UXJBVVVmeXp1ZEx5WjRfb3p6UHMwalhWcUpXczhPQUtZWnJoMTJxaG5HUGNMbjNRLThzSEdicXRjaGRnbHJWWjNlNVNOdmJRd0VWblludzJMWTZJQklVUXZB0gFuQVVfeXFMUHAxSTYycHB2d0s1MVMwbEp1UEg5dlJBNUdROGZ2Sng4anRtejNrNUliVmcyemlBNjIyQlk4aVFJV1pDUW45MlZCN1Y1bEVzU2J5TWRHNmtRTG5kNGxjQzVtWTNlTEM1U1hvb29iQmc?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
