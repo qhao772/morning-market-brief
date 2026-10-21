@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-20T23:46:05Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.21 08:46 (한국시간)",
+  "updatedAtISO": "2026-10-21T04:27:06Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.21 13:27 (한국시간)",
   "us10y": 5.15,
   "us30y": 5.48,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1324.07,
-  "usdJpy": 158.29,
-  "jpyKrw100": 836.47,
+  "usdKrw": 1324.14,
+  "usdJpy": 158.12,
+  "jpyKrw100": 837.43,
   "indices": {
     "kospi": {
-      "value": 5552.74,
-      "changePct": -3.73
+      "value": 5690.33,
+      "changePct": 2.48
     },
     "kosdaq": {
-      "value": 781.97,
-      "changePct": -3.33
+      "value": 791.42,
+      "changePct": 1.21
     },
     "sp500": {
       "value": 7712.57,
@@ -47,9 +47,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 전망, AI주 다시 흔들…유가 110달러·실적 시험대 - 톱스타뉴스",
+      "title": "미국증시, AI 투자 불안·유가 급등에 나스닥 하락…SK하이닉스 3%대 약세 - 톱스타뉴스",
       "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pS1RDdWRYMEdRdURmRlEtaXpZeHZXMnpMV0NtSGxFQnRGVkVvVDN6R1VtTGFPTVZRaTNVTzRBbFlpZUVLYVAzcTZ3TDRvc202ZS1FaDAtclpJYmdaSzNpSC1PUldqZVQtRzlVSDA2WHN1dw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CV0Z1SmRqWlF3RlZGMGtRa2hXaXlUX0s0M0l6TEV4S0RCNllsN1RwcWVuOThxS2RJLVpTV0xXY2d2Yjl4cVZWbzQ0eWNIdGpIY3dDNnpZc2xQSnBlWHZJWFU3WGl4aXNXZVhPOHVMUFRyQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
