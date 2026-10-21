@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-21T04:27:06Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.21 13:27 (한국시간)",
+  "updatedAtISO": "2026-10-21T10:00:37Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.21 19:00 (한국시간)",
   "us10y": 5.15,
   "us30y": 5.48,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1324.14,
-  "usdJpy": 158.12,
-  "jpyKrw100": 837.43,
+  "usdKrw": 1323.4,
+  "usdJpy": 158.15,
+  "jpyKrw100": 836.83,
   "indices": {
     "kospi": {
-      "value": 5690.33,
-      "changePct": 2.48
+      "value": 5735.66,
+      "changePct": 3.29
     },
     "kosdaq": {
-      "value": 791.42,
-      "changePct": 1.21
+      "value": 792.76,
+      "changePct": 1.38
     },
     "sp500": {
       "value": 7712.57,
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "다음주 국내증시, 미국증시 전망 : 코어위브 주가하락과 네오클라우드 사업 우려 부각 - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRDBURXozc0R2b0JZVXpwYlZrMlZnTUdONVR2cThYOGRZT0R0bXhhMGV3cHhhenJReTIza1VDcjdpb2NqUW5KOURBMXdYQUFCdUFHOC15ZDF4eFFMNE5DcUc5ckpMcTVyaUFjRmRVS2FCbWtKSmppNGRFSEdVQVpubng2VQ?oc=5"
+      "title": "미국증시, 다우 1%대 상승·나스닥 약보합…중동 긴장 완화 기대에 낙폭 회복, 반도체는 약세 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hRmxldks2emdkUjhYLWFVTEtmWnZReUQtbGJBalUyQzhzZ2d0LWg5RHZYdnM3b1VzWjliTGwxc2lIZF82VmpNSjZEM25wT1lpM0tqY1JhQ2NpTkVpOWl0MEpEUlNsZGtMRUFvUEc4Zk1mQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시, 다우 1%대 상승·나스닥 약보합…중동 긴장 완화 기대에 낙폭 회복, 반도체는 약세 - 톱스타뉴스",
+      "title": "미국증시, 반도체 급락 뒤 반격…SOXL 9% 급등·SK하이닉스 4% 상승 - 톱스타뉴스",
       "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hRmxldks2emdkUjhYLWFVTEtmWnZReUQtbGJBalUyQzhzZ2d0LWg5RHZYdnM3b1VzWjliTGwxc2lIZF82VmpNSjZEM25wT1lpM0tqY1JhQ2NpTkVpOWl0MEpEUlNsZGtMRUFvUEc4Zk1mQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zTXhCOVBlM2toZzV4cjBfMmJLNk5qR0xoVXc1aXRtRWpKbzJnYTdQYXJlc2ZiWmRFRTlXdnAyZ1FuMWFfZDRUOG54NWxVNVFlR2wtVENIcU9sOFhwc1RkRkxORXFCRnZnWm1VWnhFeFAwUQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
