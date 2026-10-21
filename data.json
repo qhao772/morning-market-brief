@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-21T20:02:42Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.22 05:02 (한국시간)",
+  "updatedAtISO": "2026-10-21T23:58:06Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.22 08:58 (한국시간)",
   "us10y": 5.15,
   "us30y": 5.48,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1326.08,
-  "usdJpy": 158.2,
-  "jpyKrw100": 838.22,
+  "usdKrw": 1326.15,
+  "usdJpy": 158.14,
+  "jpyKrw100": 838.59,
   "indices": {
     "kospi": {
       "value": 5735.66,
@@ -20,7 +20,7 @@
       "changePct": 1.38
     },
     "sp500": {
-      "value": 7757.22,
+      "value": 7757.17,
       "changePct": 0.58
     },
     "nasdaq": {
@@ -47,21 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시, AI 투자 불안·유가 급등에 나스닥 하락…SK하이닉스 3%대 약세 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CV0Z1SmRqWlF3RlZGMGtRa2hXaXlUX0s0M0l6TEV4S0RCNllsN1RwcWVuOThxS2RJLVpTV0xXY2d2Yjl4cVZWbzQ0eWNIdGpIY3dDNnpZc2xQSnBlWHZJWFU3WGl4aXNXZVhPOHVMUFRyQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시 전망, 메타·테슬라 실적 앞두고 AI주 재반등 시험대 - TopStarNews",
-      "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04bmFXbmZ4LUc1YmJXakNZejVPTlFDZWh0aFE4di15bHBwbUF0ejB2SmpVbGVRV2N1cTladERRTXRhcldsTC1UN0ZpUDR4MEQ4X2FMRXg4YjgwdmZMcW90RjMwMmNTbWhmc05JM2dIdU5SZw?oc=5"
+      "title": "12월부터 23시간 열리는 미국 증시… 낮과 밤 전략 달라야 - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZU04X1FSZUVWX3dlWmtvazlaS1cxcjFWcDlQeFRYY2lTUlVLWlE0bFF5UUZZN0plY1J4RUFSVTVhT0JlRmtfZkRoZDdkY1c1RGN0UTJvQk90aUpkUDFxZnlObUk2aVJPblRhTFR2X2o5aWVYS2o2LVlVQ0lybGZDWHk4b0xQQmF6czZUbWtn?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "미국증시, 다우 1%대 상승·나스닥 약보합…중동 긴장 완화 기대에 낙폭 회복, 반도체는 약세 - TopStarNews",
       "source": "TopStarNews",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hRmxldks2emdkUjhYLWFVTEtmWnZReUQtbGJBalUyQzhzZ2d0LWg5RHZYdnM3b1VzWjliTGwxc2lIZF82VmpNSjZEM25wT1lpM0tqY1JhQ2NpTkVpOWl0MEpEUlNsZGtMRUFvUEc4Zk1mQQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시 전망, 메타·테슬라 실적 앞두고 AI주 재반등 시험대 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04bmFXbmZ4LUc1YmJXakNZejVPTlFDZWh0aFE4di15bHBwbUF0ejB2SmpVbGVRV2N1cTladERRTXRhcldsTC1UN0ZpUDR4MEQ4X2FMRXg4YjgwdmZMcW90RjMwMmNTbWhmc05JM2dIdU5SZw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
