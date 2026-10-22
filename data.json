@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-22T15:09:16Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.23 00:09 (한국시간)",
+  "updatedAtISO": "2026-10-22T19:56:42Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.23 04:56 (한국시간)",
   "us10y": 5.12,
   "us30y": 5.42,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1325.25,
-  "usdJpy": 157.18,
-  "jpyKrw100": 843.17,
+  "usdKrw": 1325.89,
+  "usdJpy": 156.84,
+  "jpyKrw100": 845.38,
   "indices": {
     "kospi": {
       "value": 5533.77,
@@ -20,16 +20,16 @@
       "changePct": -3.62
     },
     "sp500": {
-      "value": 7651.71,
-      "changePct": -1.36
+      "value": 7661.92,
+      "changePct": -1.23
     },
     "nasdaq": {
-      "value": 26083.04,
-      "changePct": -2.32
+      "value": 26006.12,
+      "changePct": -2.61
     },
     "sox": {
-      "value": 10822.59,
-      "changePct": -5.94
+      "value": 10744.13,
+      "changePct": -6.62
     }
   },
   "issues": [
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1%대 올라 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42V3ExVml4ZDk5UVVvdTBqd2daN3JXZUl2bnNURnBoM1lRTkpFTjRkLWVYR1NqMUZJZkUzVF9KdDRla1NqV3FsRXpDNUdtbUZlb0tFcmxYZDlTb1BfQWtYb1VPUTRQX3JrUi1NdDUtT051bHBXd2lidUhTZ3ZYUQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "환헤지 ETF 사길 잘했네…수익률 10%P 더 높았다 - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPMDg1ZzlUMlBDWTZrc1ZVQ2pZelNsbXBoZTVCS2d5OVFhQ09neW5KYTNOWlhYUHo0aG0yOVhLMVNHOHA0cThfSUl1SHExRXRiX0E?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "AI 호실적에 미 3대 지수 모두 상승 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IelZaM25QSXZDSVR2Ykg5bUNiRkI0SXZidVJkeUlFS2lmenpraVRFQThNZVJLbGpWR1RXQWp0X1ZiNWJrTDRyZ051N2dtb3M0VWx2OV84U2JIakEwSkhwOGdPM2JteUdEMEV6OA?oc=5"
+      "title": "[서울데이터랩]미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1%대 올라 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42V3ExVml4ZDk5UVVvdTBqd2daN3JXZUl2bnNURnBoM1lRTkpFTjRkLWVYR1NqMUZJZkUzVF9KdDRla1NqV3FsRXpDNUdtbUZlb0tFcmxYZDlTb1BfQWtYb1VPUTRQX3JrUi1NdDUtT051bHBXd2lidUhTZ3ZYUQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 전망, 나스닥 선물 급락…AI 투자 불안·유가 급등 - TopStarNews",
+      "title": "뉴욕증시, 하락세로 전환…나스닥 2.23%↓ - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IREUxb05SbjlTekNFNGFKaTNRemRJbk93N1dsYVF0dmR2ZHg3SVliUDVjeXB4QkNHcUxnNm5UWGNsaUtvczVhU0t0SUJ4V1ll?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시, 테슬라·메타 AI 투자 우려에 나스닥 급락…반도체·SK하이닉스 동반 약세 - TopStarNews",
       "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xWWQ5bkZWYmxuQ0xWYzZ2QUxfTE9Fd2FIb3VRdlpOeHo4c253bFNXZXRUOVhSTkg3M0ZGeHZHSXRFZlRqM1NZeDg0RTNhb2N1QXJzWW9xNktBdm01N1BLNVhEbGR3VnU5TUI3NFVrYjlaZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TVzRpQTB5a0ZrU1JJZl9ZcTlzS1ZVUDJZRjRaUmxXeWkyaWdCR2NtZ0pSWEFXd1pPeVJLcGJWQXp2YnNWX3pLZHE2RncwSktXeXQ3Qnc5MllzaHd2eEJRV2hlbUhWNzFUUWU5QWplLXdGQQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
