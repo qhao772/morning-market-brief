@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-21T23:58:06Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.22 08:58 (한국시간)",
+  "updatedAtISO": "2026-10-22T04:30:43Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.22 13:30 (한국시간)",
   "us10y": 5.15,
   "us30y": 5.48,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1326.15,
-  "usdJpy": 158.14,
-  "jpyKrw100": 838.59,
+  "usdKrw": 1322.8,
+  "usdJpy": 157.7,
+  "jpyKrw100": 838.82,
   "indices": {
     "kospi": {
-      "value": 5735.66,
-      "changePct": 3.29
+      "value": 5560.53,
+      "changePct": -3.05
     },
     "kosdaq": {
-      "value": 792.76,
-      "changePct": 1.38
+      "value": 772.7,
+      "changePct": -2.53
     },
     "sp500": {
       "value": 7757.17,
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시, 다우 1%대 상승·나스닥 약보합…중동 긴장 완화 기대에 낙폭 회복, 반도체는 약세 - TopStarNews",
-      "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hRmxldks2emdkUjhYLWFVTEtmWnZReUQtbGJBalUyQzhzZ2d0LWg5RHZYdnM3b1VzWjliTGwxc2lIZF82VmpNSjZEM25wT1lpM0tqY1JhQ2NpTkVpOWl0MEpEUlNsZGtMRUFvUEc4Zk1mQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "미국증시 전망, 메타·테슬라 실적 앞두고 AI주 재반등 시험대 - TopStarNews",
       "source": "TopStarNews",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04bmFXbmZ4LUc1YmJXakNZejVPTlFDZWh0aFE4di15bHBwbUF0ejB2SmpVbGVRV2N1cTladERRTXRhcldsTC1UN0ZpUDR4MEQ4X2FMRXg4YjgwdmZMcW90RjMwMmNTbWhmc05JM2dIdU5SZw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시, 다우 1%대 상승·나스닥 약보합…중동 긴장 완화 기대에 낙폭 회복, 반도체는 약세 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hRmxldks2emdkUjhYLWFVTEtmWnZReUQtbGJBalUyQzhzZ2d0LWg5RHZYdnM3b1VzWjliTGwxc2lIZF82VmpNSjZEM25wT1lpM0tqY1JhQ2NpTkVpOWl0MEpEUlNsZGtMRUFvUEc4Zk1mQQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
