@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-23T04:30:46Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.23 13:30 (한국시간)",
+  "updatedAtISO": "2026-10-23T09:54:55Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.23 18:54 (한국시간)",
   "us10y": 5.13,
   "us30y": 5.42,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1324.49,
-  "usdJpy": 156.88,
-  "jpyKrw100": 844.26,
+  "usdKrw": 1324.88,
+  "usdJpy": 156.61,
+  "jpyKrw100": 845.99,
   "indices": {
     "kospi": {
-      "value": 5491.12,
-      "changePct": -0.77
+      "value": 5550.3,
+      "changePct": 0.3
     },
     "kosdaq": {
-      "value": 746.11,
-      "changePct": -2.35
+      "value": 751.69,
+      "changePct": -1.62
     },
     "sp500": {
       "value": 7663.43,
@@ -35,15 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[뉴욕증시] 메타, AI의 늪에 빠져드나…나스닥 2.6% 급락 - 연합인포맥스",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JUExDSnNoT3FmTW11X3Z4RERLdHJkajJEa21kVlBoWVVBVGF1NW4zcU1vM3hPV0M1LUlzeXFsY0s0ekpmRlRUMExKWkVWQkE0UDdobzg3eGUwbVFJQVBRTWhteVV6alNiMHR4TWxDVUU?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "SK하이닉스, 손자회사 솔리다임 미국 증시 상장 철회 - 전자신문",
       "source": "전자신문",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBudGZqNGQ3VHBHN1hDclp3QkVTRHBkd0pSdzJ0Ql80V1J5YU1BSVAtTnZjR3dCZk0wSlVpUjZzeXNxUDJOc04wenBVcWxZZw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시, 테슬라·메타 AI 투자 우려에 나스닥 급락…반도체·SK하이닉스 동반 약세 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TVzRpQTB5a0ZrU1JJZl9ZcTlzS1ZVUDJZRjRaUmxXeWkyaWdCR2NtZ0pSWEFXd1pPeVJLcGJWQXp2YnNWX3pLZHE2RncwSktXeXQ3Qnc5MllzaHd2eEJRV2hlbUhWNzFUUWU5QWplLXdGQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미 증시 약세에 코스피 하락세...장중 5,400선 하회 - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NV3VTT3BOMUpxQldHZFYwbHpoZjRMYWdYNm5XdUhjTy1zelRGVFNMR0VWZmdJVFZwcUQxdGtsVnFhRFllSW9hT0RjMDNfOWNHTkZES2pKLVpxYnJMcUE?oc=5"
+      "title": "미국증시 전망, 나스닥 선물 급락…AI 투자 불안·유가 급등 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xWWQ5bkZWYmxuQ0xWYzZ2QUxfTE9Fd2FIb3VRdlpOeHo4c253bFNXZXRUOVhSTkg3M0ZGeHZHSXRFZlRqM1NZeDg0RTNhb2N1QXJzWW9xNktBdm01N1BLNVhEbGR3VnU5TUI3NFVrYjlaZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "나스닥, 6월 이후 최대 하락 기록 후 미국 주식 선물 보합세 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZNVFrcGRTeTBxXy1pOENDMi0wR21TRlMyVk9nMk9WVnAyWGxmWjZIakNFVG00aTc4STdsMmw3MDloREtST3RKS0VLXzNJYzdCTFVNazhQUGFmSWpXYVhYZjFKaF9LMEFEb1o2cTJWMEg?oc=5"
+      "title": "미국증시, 스페이스X·테슬라 호재에 나스닥 상승…AI반도체 반등에도 다우 약세 - TopStarNews",
+      "source": "TopStarNews",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rcGgyNXozVWhfTzREWjltb1loNXUyS1FHQ3h2ZGQ4YjlTZ1JLMjloU1hJSEtfakNHMHBjX0lsTW1TaHd3ZllCdVYtMTBteWNRcnkzMVh6UjE0azJpN3RSemJfY0xaeGUxLWpJRDM5a3FvQQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
