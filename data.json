@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-22T23:13:27Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.23 08:13 (한국시간)",
+  "updatedAtISO": "2026-10-23T04:30:46Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.23 13:30 (한국시간)",
   "us10y": 5.13,
   "us30y": 5.42,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1325.26,
-  "usdJpy": 156.52,
-  "jpyKrw100": 846.71,
+  "usdKrw": 1324.49,
+  "usdJpy": 156.88,
+  "jpyKrw100": 844.26,
   "indices": {
     "kospi": {
-      "value": 5533.77,
-      "changePct": -3.52
+      "value": 5491.12,
+      "changePct": -0.77
     },
     "kosdaq": {
-      "value": 764.1,
-      "changePct": -3.62
+      "value": 746.11,
+      "changePct": -2.35
     },
     "sp500": {
       "value": 7663.43,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "[뉴욕증시] 메타, AI의 늪에 빠져드나…나스닥 2.6% 급락 - 연합인포맥스",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JUExDSnNoT3FmTW11X3Z4RERLdHJkajJEa21kVlBoWVVBVGF1NW4zcU1vM3hPV0M1LUlzeXFsY0s0ekpmRlRUMExKWkVWQkE0UDdobzg3eGUwbVFJQVBRTWhteVV6alNiMHR4TWxDVUU?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "SK하이닉스, 손자회사 솔리다임 미국 증시 상장 철회 - 전자신문",
       "source": "전자신문",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBudGZqNGQ3VHBHN1hDclp3QkVTRHBkd0pSdzJ0Ql80V1J5YU1BSVAtTnZjR3dCZk0wSlVpUjZzeXNxUDJOc04wenBVcWxZZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시도 곧 조정에 들어갈 것 코스피는 못 버틸 겁니다 - 연합인포맥스",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90Ni1yaThPQmE4Z29GN3FrZGlpa1RqWDRBYXVtWllnRDlYM0dQMVg5WnFpa0xEZ0cyN2phcjNEX2V5ZUFQOHlVNEI4MUdtcnpNekJaZ3JQTjR1N0ZuY1F5cVczU3hvRGFtOVNxaUxRWUnSAXRBVV95cUxOam4yMmF3dWU5X3FkdjZBNHZVVFFSQk4wdHhnWmk0WmZHRGNqeDcyVTBaOUkxRlBmcGcyX0NCdV9tRF9PZEI1aHk5XzZReHUtM1RHd1Y0NVdmTVZyeTBWZzJiTXRObmtIMVJ0X3VqREsyNF85UQ?oc=5"
+      "title": "미국 증시 12월부터 하루 23시간 거래…투자판 바뀐다 - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYbkp3bHdlS3BoZFhTS1NkNDVvT3lISWF6Y29XUllkTzhtVUNkWlU5MGw3MTNHVmZDN2xoeDhXdHFtSi11OVFrQWFNYjdsdldLMGlZZGl6d0tTZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[속보] SK하이닉스, 솔리다임 미국 상장 계획 접는다 - 한겨레",
-      "source": "한겨레",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4cjBiVkdZSHJJVXk5YTM1Ui1wSkJaU1RWNFhnUVh1SC0yUjdIZ3pfRzFFYmMxNTBIY0pFUmlEbnZMLW44aHNmRVQ4YVpyM0lMMUJKdFNhcVAzeFZMMjVDT2JBaUp1XzFxaUE?oc=5"
+      "title": "미 증시 약세에 코스피 하락세...장중 5,400선 하회 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NV3VTT3BOMUpxQldHZFYwbHpoZjRMYWdYNm5XdUhjTy1zelRGVFNMR0VWZmdJVFZwcUQxdGtsVnFhRFllSW9hT0RjMDNfOWNHTkZES2pKLVpxYnJMcUE?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 하락세로 전환…나스닥 2.23%↓ - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IREUxb05SbjlTekNFNGFKaTNRemRJbk93N1dsYVF0dmR2ZHg3SVliUDVjeXB4QkNHcUxnNm5UWGNsaUtvczVhU0t0SUJ4V1ll?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시, 기술주 강세에 일제히 상승 마감…나스닥 1%대 올라 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42V3ExVml4ZDk5UVVvdTBqd2daN3JXZUl2bnNURnBoM1lRTkpFTjRkLWVYR1NqMUZJZkUzVF9KdDRla1NqV3FsRXpDNUdtbUZlb0tFcmxYZDlTb1BfQWtYb1VPUTRQX3JrUi1NdDUtT051bHBXd2lidUhTZ3ZYUQ?oc=5"
+      "title": "나스닥, 6월 이후 최대 하락 기록 후 미국 주식 선물 보합세 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZNVFrcGRTeTBxXy1pOENDMi0wR21TRlMyVk9nMk9WVnAyWGxmWjZIakNFVG00aTc4STdsMmw3MDloREtST3RKS0VLXzNJYzdCTFVNazhQUGFmSWpXYVhYZjFKaF9LMEFEb1o2cTJWMEg?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
