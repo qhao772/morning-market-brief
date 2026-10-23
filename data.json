@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-23T09:54:55Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.23 18:54 (한국시간)",
+  "updatedAtISO": "2026-10-23T14:52:58Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.23 23:52 (한국시간)",
   "us10y": 5.13,
   "us30y": 5.42,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1324.88,
-  "usdJpy": 156.61,
-  "jpyKrw100": 845.99,
+  "usdKrw": 1325.46,
+  "usdJpy": 156.85,
+  "jpyKrw100": 845.03,
   "indices": {
     "kospi": {
       "value": 5550.3,
@@ -20,16 +20,16 @@
       "changePct": -1.62
     },
     "sp500": {
-      "value": 7663.43,
-      "changePct": -1.21
+      "value": 7653.83,
+      "changePct": -0.12
     },
     "nasdaq": {
-      "value": 26008.86,
-      "changePct": -2.6
+      "value": 26107.73,
+      "changePct": 0.38
     },
     "sox": {
-      "value": 10731.98,
-      "changePct": -6.72
+      "value": 10921.14,
+      "changePct": 1.76
     }
   },
   "issues": [
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 전망, 나스닥 선물 급락…AI 투자 불안·유가 급등 - TopStarNews",
+      "title": "미국증시 전망, AI 불안에 유가·금리까지 재상승 - TopStarNews",
       "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xWWQ5bkZWYmxuQ0xWYzZ2QUxfTE9Fd2FIb3VRdlpOeHo4c253bFNXZXRUOVhSTkg3M0ZGeHZHSXRFZlRqM1NZeDg0RTNhb2N1QXJzWW9xNktBdm01N1BLNVhEbGR3VnU5TUI3NFVrYjlaZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4ejNSMG05U2FVX25LVjR0UnhZYXZka3NKUENRc0hkN1BMeXp3QjJHWUJ2V1p0VWMtM0NZOG1wQmI0Z2I0S3owdG9BWV9MaFluQmpMemEtLVQ1QmZYbjQ5NmFSRGllc0xPczY2ZVhzT1JfQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시, 스페이스X·테슬라 호재에 나스닥 상승…AI반도체 반등에도 다우 약세 - TopStarNews",
+      "title": "미국증시 전망, 나스닥 선물 급락…AI 투자 불안·유가 급등 - TopStarNews",
       "source": "TopStarNews",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rcGgyNXozVWhfTzREWjltb1loNXUyS1FHQ3h2ZGQ4YjlTZ1JLMjloU1hJSEtfakNHMHBjX0lsTW1TaHd3ZllCdVYtMTBteWNRcnkzMVh6UjE0azJpN3RSemJfY0xaeGUxLWpJRDM5a3FvQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xWWQ5bkZWYmxuQ0xWYzZ2QUxfTE9Fd2FIb3VRdlpOeHo4c253bFNXZXRUOVhSTkg3M0ZGeHZHSXRFZlRqM1NZeDg0RTNhb2N1QXJzWW9xNktBdm01N1BLNVhEbGR3VnU5TUI3NFVrYjlaZw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
