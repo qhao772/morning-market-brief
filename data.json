@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-25T18:19:41Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.26 03:19 (한국시간)",
+  "updatedAtISO": "2026-10-25T21:37:57Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.26 06:37 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1323.66,
-  "usdJpy": 156.81,
-  "jpyKrw100": 844.1,
+  "usdKrw": 1323.61,
+  "usdJpy": 156.99,
+  "jpyKrw100": 843.13,
   "indices": {
     "kospi": {
       "value": 5550.3,
@@ -35,9 +35,9 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[뉴욕증시] 메타, AI의 늪에 빠져드나…나스닥 2.6% 급락 - 연합인포맥스",
+      "title": "미국증시도 곧 조정에 들어갈 것 코스피는 못 버틸 겁니다 - 연합인포맥스",
       "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JUExDSnNoT3FmTW11X3Z4RERLdHJkajJEa21kVlBoWVVBVGF1NW4zcU1vM3hPV0M1LUlzeXFsY0s0ekpmRlRUMExKWkVWQkE0UDdobzg3eGUwbVFJQVBRTWhteVV6alNiMHR4TWxDVUU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90Ni1yaThPQmE4Z29GN3FrZGlpa1RqWDRBYXVtWllnRDlYM0dQMVg5WnFpa0xEZ0cyN2phcjNEX2V5ZUFQOHlVNEI4MUdtcnpNekJaZ3JQTjR1N0ZuY1F5cVczU3hvRGFtOVNxaUxRWUnSAXRBVV95cUxOam4yMmF3dWU5X3FkdjZBNHZVVFFSQk4wdHhnWmk0WmZHRGNqeDcyVTBaOUkxRlBmcGcyX0NCdV9tRF9PZEI1aHk5XzZReHUtM1RHd1Y0NVdmTVZyeTBWZzJiTXRObmtIMVJ0X3VqREsyNF85UQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,9 +53,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "솔리다임 상장 철회 후폭풍…해외 IPO 막힐라, 현대차·LG·두산 '난처' - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05Sy0zektxaDVXN0FpTU1WelJPMWlFSkctTUpvSG1pTGpNVW4wZEs5cTRCa3E0YXcyRExSSnhNT3dZTURDS2NIQ3JXb3pLR1BDRVE?oc=5"
+      "title": "AI주 줄줄이 실적, 반등 기회 잡을까…FOMC, 금리 동결 예상되지만[이번주 美 증시는] - 머니투데이 - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5NVDdNY0c4cmZpWHlXZmtpRWprYzluTG9RRmEwS1ZJN3RQOXNrMXZBeTNoM28zVXVVRU9QdEZIYkhoa2didTVpbXBwWTRZU0Y3T01lMmNJcDg3MWFkNGdKMFFfaFhZV2dT0gFuQVVfeXFMT29Ga3pZMDBGcHlmenV6WTZwMXlMemFEdF9sdm5nRnRqY0JzYzl6cEI4Ymd6SHNoOTRsWnIxZzZEdjBocFBUN3ZtRkw2eFNFQS15QlJxSEQ2cnEwZUljcTBTTXJTcm5uT1ZDbkdhWVE?oc=5"
     },
     {
       "tag": "시장 뉴스",
