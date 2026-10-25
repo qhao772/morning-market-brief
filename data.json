@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-25T09:42:54Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.25 18:42 (한국시간)",
+  "updatedAtISO": "2026-10-25T14:14:46Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.25 23:14 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1325.4,
+  "usdKrw": 1323.66,
   "usdJpy": 156.81,
-  "jpyKrw100": 845.21,
+  "jpyKrw100": 844.1,
   "indices": {
     "kospi": {
       "value": 5550.3,
@@ -41,7 +41,7 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "해외 IPO 막힐라 … 현대차·LG·두산 '난처' - 매일경제 마켓",
+      "title": "솔리다임 상장 철회 후폭풍…해외 IPO 막힐라, 현대차·LG·두산 '난처' - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05Sy0zektxaDVXN0FpTU1WelJPMWlFSkctTUpvSG1pTGpNVW4wZEs5cTRCa3E0YXcyRExSSnhNT3dZTURDS2NIQ3JXb3pLR1BDRVE?oc=5"
     },
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국도 중국도 '초긴장'…개미들 피 마르는 '운명의 한 주' - 한국경제",
+      "title": "미국 증시 12월부터 하루 23시간 거래…투자판 바뀐다 - 한국경제",
       "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3OGVuOW9obUpPSVBLcWQ1S2tqWG1QakZLY2F6THB4Tk9nMDVlLUZvYkl1OXVidVl3UXBuNHZNSFR3LVVFYXg3bFZQcTFIYlRqR1k4Uy1qV0tOZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYbkp3bHdlS3BoZFhTS1NkNDVvT3lISWF6Y29XUllkTzhtVUNkWlU5MGw3MTNHVmZDN2xoeDhXdHFtSi11OVFrQWFNYjdsdldLMGlZZGl6d0tTZw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
