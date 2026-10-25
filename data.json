@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-25T14:14:46Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.25 23:14 (한국시간)",
+  "updatedAtISO": "2026-10-25T18:19:41Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.26 03:19 (한국시간)",
   "us10y": 4.96,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
@@ -41,12 +41,6 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "솔리다임 상장 철회 후폭풍…해외 IPO 막힐라, 현대차·LG·두산 '난처' - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05Sy0zektxaDVXN0FpTU1WelJPMWlFSkctTUpvSG1pTGpNVW4wZEs5cTRCa3E0YXcyRExSSnhNT3dZTURDS2NIQ3JXb3pLR1BDRVE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "골드만삭스 “기술주 실적·거시경제 변화에 미국 증시 하락” - Investing.com 한국어",
       "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUYUE5TnltWUFWV2h1NmZNdlR5TW1GeWNPaFdGQ3ozNDFHa1ZzdllsaDItWUg1aEFkY1JzN2JWUnUyVlJwQkhNT1Q2WDdsWTl2alcxRjlSNDU5WmJfLU9NT042TnM0ZjdULXh4WGc5RTVFMkd6bFRr?oc=5"
@@ -56,6 +50,12 @@
       "title": "SK하이닉스, 손자회사 솔리다임 미국 증시 상장 철회 - 전자신문",
       "source": "전자신문",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBudGZqNGQ3VHBHN1hDclp3QkVTRHBkd0pSdzJ0Ql80V1J5YU1BSVAtTnZjR3dCZk0wSlVpUjZzeXNxUDJOc04wenBVcWxZZw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "솔리다임 상장 철회 후폭풍…해외 IPO 막힐라, 현대차·LG·두산 '난처' - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05Sy0zektxaDVXN0FpTU1WelJPMWlFSkctTUpvSG1pTGpNVW4wZEs5cTRCa3E0YXcyRExSSnhNT3dZTURDS2NIQ3JXb3pLR1BDRVE?oc=5"
     },
     {
       "tag": "시장 뉴스",
