@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-27T04:47:08Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.27 13:47 (한국시간)",
+  "updatedAtISO": "2026-10-27T10:21:24Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.27 19:21 (한국시간)",
   "us10y": 5.0,
   "us30y": 5.33,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1324.34,
-  "usdJpy": 157.59,
-  "jpyKrw100": 840.37,
+  "usdKrw": 1328.25,
+  "usdJpy": 157.77,
+  "jpyKrw100": 841.88,
   "indices": {
     "kospi": {
-      "value": 5660.17,
-      "changePct": 3.49
+      "value": 5638.34,
+      "changePct": 3.09
     },
     "kosdaq": {
-      "value": 745.17,
-      "changePct": 2.47
+      "value": 743.83,
+      "changePct": 2.29
     },
     "sp500": {
       "value": 7676.77,
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "앤트로픽 상장 도전…AI 훈풍에 국내 반도체주 들썩 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFbEdsdU9kNkxXNzExRGl5UjdsTmNUSHl4aE1BSjZpdUN0Ym9iS0ZiLURjTEgwdW9xbXBDSi1OOWR2dGNUczY1amJicHliRnBWdGc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "뉴욕증시 일제히 상승…AI 투자 열기 되살아나나 - 네이버페이 머니스토리",
+      "source": "네이버페이 머니스토리",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qdF9aQTM3bnpXWFlsdE9Wc19aTUVpRVJfQTJJMURQVjNCYy1JTGpTMlJTUGw5TGFOazB4aUJDbmtsYWVQaEpzYUJ2TEtONnR2WU5nX3dQWWQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "日 증시, 美앤트로픽 훈풍에 1%대 상승 개장 - KB Think",
       "source": "KB Think",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zWllKMkYyaUY0MUtpZzBIOEh2MmpIbEtiOV9GVFgwc0s3UUlNRVRpdnRnLUE0STI0d3pjaFIwRnZfVF80bDR3SHQtWnp0bE41cTNnMTE3REpiR3UxaEFUZnVZeEFOcWhQbXdILUR5TkFHZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "美 국채 금리 5% 넘었는데 증시는 왜 버티나… BofA 금리 총괄 \"성장 견조, 금융 여건 위축 없어\" - 조선일보",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWTZXRDF3cHZzUkx3c1czWXR1MVZKcFBKdkhLQ251WVA4NV9Fa0Q3dXhJOFNhQXBkNG9mM1Rual9pb24yWERiaVdyWFFzZ1F3TG1qSGgyUklNam5kYzczS0llTDdWejluWkVIVFUyUm9adGZmcjlrM1k4RURQNzJkWWNfd254bGhrZlhz?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[미국증시] 야데니 7900 낮췄다…증시 재상승 막는 4개 고비 - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYMFVLZHpWbklEN29fY1lnMUJhYUlTX2M0LXlPQzFCMXFmZDZ5R2t4b0FBN0pYX2gyeU5iRzNlRVlDZEN5dlFQV253Mmo5TXJtRWVIMU9CNDNBOXZ0czRHN2RLeHpYbzA?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "AI불안 완화..미국증시 반도체주 '껑충', 엔비디아·인텔·ARM '활짝' - 초이스경제",
-      "source": "초이스경제",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLaVktUDA1TVZGbkp0OTVLd0ZhZ0JYZG9PczRVNHFtVHdLem4xVjJjeG9SVWk0Wmc3TkhNbjlZaUJQVzlOLTQwRTlxZTFLd09mZzZHdlFGcWV2Nk1rZUNjeGdmakRBb0ltQXB5eF9LMNIBc0FVX3lxTE9pN1ZaNzV5MldJZndSMTdkX2NkWTJuSlI1TTJ6UTdETzFmMkMyb1VXTXIwMDZBbHhmSDUyZnJtS0R3bVY2UWhJM3NibFVWVUEyNkdodkRCbkhRWXNROUsyN19hUk1BeWMtVE44aW1ycXVlZ1E?oc=5"
+      "title": "앤트로픽 IPO 공식화에 뉴욕증시 들썩…나스닥 0.8%↑(종합) - 연합뉴스",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ibHh4TlpmMnVOYWhsZG1pUGoxTF9fR0lXVk5BdW1VUWxXdE45UVFDVTYxRWZ4eW8yRXZNT3BMcV90eGZpc3pnaWlqekFkcjhkeVlOZWxQSFFuRFXSAWBBVV95cUxQNFA5bEpkamRTLTgtLWhGbzRVekU0Z2pBYmJ1engyaFRQSTh6Rjd3N1J2TW1NNzZUR19Ic0tIUVlkLW1PVWpHdE5tUjljN3pQY2d6SVZ4VnJGNlotTTFLWjc?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
