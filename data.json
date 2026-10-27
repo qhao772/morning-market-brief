@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-27T10:21:24Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.27 19:21 (한국시간)",
+  "updatedAtISO": "2026-10-27T16:23:37Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.28 01:23 (한국시간)",
   "us10y": 5.0,
   "us30y": 5.33,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1328.25,
-  "usdJpy": 157.77,
-  "jpyKrw100": 841.88,
+  "usdKrw": 1326.08,
+  "usdJpy": 157.87,
+  "jpyKrw100": 840.01,
   "indices": {
     "kospi": {
       "value": 5638.34,
@@ -20,19 +20,25 @@
       "changePct": 2.29
     },
     "sp500": {
-      "value": 7676.77,
-      "changePct": 0.7
+      "value": 7729.22,
+      "changePct": 0.68
     },
     "nasdaq": {
-      "value": 26169.38,
-      "changePct": 0.82
+      "value": 26516.91,
+      "changePct": 1.33
     },
     "sox": {
-      "value": 11083.47,
-      "changePct": 2.82
+      "value": 11457.31,
+      "changePct": 3.37
     }
   },
   "issues": [
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시 선물 상승…나스닥 반등, FOMC·빅테크 실적 시험대 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ENXNSWVFqcnMxWkZoRlRmZ1paM1F2YVpiQ0toU1VFVUh2b0dvenhUeWhaTVlaOXAyVzR2RE9QRDFveWg2eEZyY3NlZUswWGo2Yzh5T0ZNZzZPcmJEanFjWVBmY2hETUxEX3lFako5b3p0Zw?oc=5"
+    },
     {
       "tag": "시장 뉴스",
       "title": "[서울데이터랩] 미국 증시, 기술주·반도체 강세에 일제히 상승 마감 - 서울신문",
@@ -47,21 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시 일제히 상승…AI 투자 열기 되살아나나 - 네이버페이 머니스토리",
-      "source": "네이버페이 머니스토리",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qdF9aQTM3bnpXWFlsdE9Wc19aTUVpRVJfQTJJMURQVjNCYy1JTGpTMlJTUGw5TGFOazB4aUJDbmtsYWVQaEpzYUJ2TEtONnR2WU5nX3dQWWQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "日 증시, 美앤트로픽 훈풍에 1%대 상승 개장 - KB Think",
       "source": "KB Think",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zWllKMkYyaUY0MUtpZzBIOEh2MmpIbEtiOV9GVFgwc0s3UUlNRVRpdnRnLUE0STI0d3pjaFIwRnZfVF80bDR3SHQtWnp0bE41cTNnMTE3REpiR3UxaEFUZnVZeEFOcWhQbXdILUR5TkFHZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "앤트로픽 IPO 공식화에 뉴욕증시 들썩…나스닥 0.8%↑(종합) - 연합뉴스",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ibHh4TlpmMnVOYWhsZG1pUGoxTF9fR0lXVk5BdW1VUWxXdE45UVFDVTYxRWZ4eW8yRXZNT3BMcV90eGZpc3pnaWlqekFkcjhkeVlOZWxQSFFuRFXSAWBBVV95cUxQNFA5bEpkamRTLTgtLWhGbzRVekU0Z2pBYmJ1engyaFRQSTh6Rjd3N1J2TW1NNzZUR19Ic0tIUVlkLW1PVWpHdE5tUjljN3pQY2d6SVZ4VnJGNlotTTFLWjc?oc=5"
+      "title": "'몸값 2700조' 앤트로픽 “삼전닉스가 반도체 안주면 AI 멈춘다” - 전자신문",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nZEpSc1NHYnBqMEpRV1hxZlNLVFRTYXp4LXllQ3VTeXJFZEhKdVB1LUtQT0xIWVRiQjA0am5HWXo1V1hnZE15dVlpdnl0UQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
