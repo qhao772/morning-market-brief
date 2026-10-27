@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-27T16:23:37Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.28 01:23 (한국시간)",
+  "updatedAtISO": "2026-10-27T21:12:05Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.28 06:12 (한국시간)",
   "us10y": 5.0,
-  "us30y": 5.33,
+  "us30y": 5.31,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1326.08,
-  "usdJpy": 157.87,
-  "jpyKrw100": 840.01,
+  "usdKrw": 1326.81,
+  "usdJpy": 157.92,
+  "jpyKrw100": 840.16,
   "indices": {
     "kospi": {
       "value": 5638.34,
@@ -20,16 +20,16 @@
       "changePct": 2.29
     },
     "sp500": {
-      "value": 7729.22,
-      "changePct": 0.68
+      "value": 7722.6,
+      "changePct": 0.6
     },
     "nasdaq": {
-      "value": 26516.91,
-      "changePct": 1.33
+      "value": 26477.81,
+      "changePct": 1.18
     },
     "sox": {
-      "value": 11457.31,
-      "changePct": 3.37
+      "value": 11482.5,
+      "changePct": 3.6
     }
   },
   "issues": [
@@ -41,9 +41,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 기술주·반도체 강세에 일제히 상승 마감 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VdHRIcXJIakFKNUJUeTZPNGhKZ3FzcjFnZ3NLeFVnR2NNeGFYbnB4MENVU2MxSUdCOGZfZzhha3BPUjJDVk8tLXk5Q0lGeGZHdF9rOUR5bmFUMnZNX01hR1UtLS0xNmJIRFJZZnN5dw?oc=5"
+      "title": "뉴욕증시, 상승세로 마감…나스닥 1.18%↑ - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPOW9HVUlzdDEyb0Q2Vmx2cXktRVZ1UVFyOVBGclRFLWVEV3JpNnhRS1pwYTd0MEVqaFFZVE93ZXhiN1Qta2VvREFoYUFDLVZX?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,9 +53,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "日 증시, 美앤트로픽 훈풍에 1%대 상승 개장 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zWllKMkYyaUY0MUtpZzBIOEh2MmpIbEtiOV9GVFgwc0s3UUlNRVRpdnRnLUE0STI0d3pjaFIwRnZfVF80bDR3SHQtWnp0bE41cTNnMTE3REpiR3UxaEFUZnVZeEFOcWhQbXdILUR5TkFHZw?oc=5"
+      "title": "뉴욕증시 일제히 상승…AI 투자 열기 되살아나나 - 네이버페이 머니스토리",
+      "source": "네이버페이 머니스토리",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qdF9aQTM3bnpXWFlsdE9Wc19aTUVpRVJfQTJJMURQVjNCYy1JTGpTMlJTUGw5TGFOazB4aUJDbmtsYWVQaEpzYUJ2TEtONnR2WU5nX3dQWWQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
