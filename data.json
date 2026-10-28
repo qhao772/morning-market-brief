@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-28T15:54:10Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.29 00:54 (한국시간)",
-  "us10y": 5.0,
-  "us30y": 5.31,
+  "updatedAtISO": "2026-10-28T20:56:07Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.29 05:56 (한국시간)",
+  "us10y": 4.99,
+  "us30y": 5.3,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1343.4,
-  "usdJpy": 158.24,
-  "jpyKrw100": 848.99,
+  "usdKrw": 1341.92,
+  "usdJpy": 157.84,
+  "jpyKrw100": 850.19,
   "indices": {
     "kospi": {
       "value": 6012.44,
@@ -20,16 +20,16 @@
       "changePct": 3.69
     },
     "sp500": {
-      "value": 7735.22,
-      "changePct": 0.16
+      "value": 7743.98,
+      "changePct": 0.28
     },
     "nasdaq": {
-      "value": 26455.16,
-      "changePct": -0.09
+      "value": 26549.85,
+      "changePct": 0.27
     },
     "sox": {
-      "value": 11565.87,
-      "changePct": 0.73
+      "value": 11684.0,
+      "changePct": 1.75
     }
   },
   "issues": [
