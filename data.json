@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-28T01:07:39Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.28 10:07 (한국시간)",
+  "updatedAtISO": "2026-10-28T08:16:07Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.28 17:16 (한국시간)",
   "us10y": 5.0,
   "us30y": 5.31,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1332.88,
-  "usdJpy": 157.91,
-  "jpyKrw100": 844.06,
+  "usdKrw": 1337.77,
+  "usdJpy": 157.73,
+  "jpyKrw100": 848.15,
   "indices": {
     "kospi": {
-      "value": 5861.02,
-      "changePct": 3.95
+      "value": 6012.44,
+      "changePct": 6.63
     },
     "kosdaq": {
-      "value": 772.18,
-      "changePct": 3.81
+      "value": 771.28,
+      "changePct": 3.69
     },
     "sp500": {
       "value": 7722.6,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시, AI와 반도체 강세로 기술주 상승세 지속 - 공감신문",
-      "source": "공감신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yZXNvdmRmNGxyYVFtamc5SGxiblZwZmhSdm9ZazJSZ0M5bEwxamZwazg4WlduVXNxYXBEQTUxTExFLXlBNlVodUtja3RqSW4yN2szVlFnYkFZUGpfd3BrajM3NmQ1R19B?oc=5"
+      "title": "[서울데이터랩]미국 증시, 기술주·반도체 강세에 일제히 상승 마감…나스닥 1%대 올라 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01Yk1uZ0hKUHp6MjVzXy1vYVI5MlhxODJWNlVWaGhvXzR2X2ljVTZfaWNLVE5zTkpWcmhoeC0yLVdDbGQzdHhad3gwVnhhUUVkaDhWeWI1Y2RvTllpbTFHLW9QMFFCQ1ZkVmZmSnI3cmJjVlluTjY1eW1PUXJadw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 장초반 동반 상승…유가 하락에 테슬라·엔비디아·SK하이닉스 강세 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56dlI1UVhIeEJ3RTl0NUZCY1lTbjBxdWZDc3NHQmRzb09lV2QxcHRfS0pHVzVGTU41Y3E1d0xleGgzTjRIZUxMS2g2TFduUmF3TUdBZmNfMHliZGtyT1hDdWgyaEpwUTFzME9TSktncm5hQQ?oc=5"
+      "title": "금값 vs 백금값…월가 '숨은 지표'가 띄운 증시 경고 - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JSXV6TFp4dko2anEzOEE5VXFMZlBwMFVRVnczR2FhWWhFYzdTQnUyQTJEdnV2RDBRb1k4N29mTXE0a2V4MHZUSnJ2X0Z5cWxfUGVxYUNNRXl6UQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 나스닥 1.18% 상승…앤트로픽 기대에 반도체 반등, 다우는 강보합 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tWmRyYmg2M0tBZUo2T0ZzYzkyUTNDZVk5NkVyXzlrMlYyNDVuaXJoallyWmZKQWxjOXktWThXYjNsODkycC1zMGFhb2lfc1BaVE5GTEIyMFgya19BamRYSFNNUjF3aGR5R3BaVHJ6RmhNQQ?oc=5"
+      "title": "日 증시, 메타발 美 강세장 연동하며 상승 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5ZTBqQTJuTDYzVlh1R0xqbjRydjVlU3p4QXhOY01naDJ5Rld5YUx1bjJXTGF4UEFJVlE2dTh4OHNJWUZvakJzMU5MY1JJTWxueUxYV3c4WExFTnZDalhiWTlkeldkc0l0RnRBLUMyWEZsQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 선물 상승…나스닥 반등, FOMC·빅테크 실적 시험대 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ENXNSWVFqcnMxWkZoRlRmZ1paM1F2YVpiQ0toU1VFVUh2b0dvenhUeWhaTVlaOXAyVzR2RE9QRDFveWg2eEZyY3NlZUswWGo2Yzh5T0ZNZzZPcmJEanFjWVBmY2hETUxEX3lFako5b3p0Zw?oc=5"
+      "title": "인도 투자자들, 미국 주식으로 자금 대거 이동 - IDNFinancials",
+      "source": "IDNFinancials",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOeUZPZklDLWgxVERIMnVTbWNIWU9LbVpsVjMzNEZEWDNkSDYxMFAxaFNHYkxmQ281SmZJZ2lMWTJUdWcxbzhOWUtmVl9RM2d4SHlweUVTZ1hrakdBU3pqX1dxZWVBZzB2Y0EtNXM0b3A5YUxwaU1RZzV5MG5MMndwNG1QYjl0YUZNdUs5WTJuc2pDeGVyemNwTE9iWTFrN21yRDBwcmdFNjZUd0ktMWVJdUdyNUw1aXZWQnFWaVhnYlE4Zk43Yy05LW1TeUVOOHkwaUk0cFpma0RZR25VYVJ0UjV3RW5JMkZpTmJDTmJyYUJRUEdOYkhCRUtxSXY2SXNXM2d6UlAxQTA5M1NZVENVdlNMRWxRQkZXR3ZMS0FlNUJ4RGF6UHlGTTNKNENLTWpEaVZwYjN2Yw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 나스닥 0.83% 상승…SK하이닉스 4%·반도체 반등, AI 자금조달 우려는 지속 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WUTZtUDd2dTRIbTVyeFJ1MHo4RTVXNHM4WUlsLWpNc1p1ZzRqN0FRcU9QT0pYdDJRTUNUa1FUOHFpeDdDT3M3VEluQ0M4ZE8ySGJaX0VKYXo4cDlYT0ZkcnBIOVJoRm5URXlUMW1fZ2c4QQ?oc=5"
+      "title": "[미국증시] 알파벳·MS·FOMC·이스라엘 총선…이벤트 3중고 - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IUlp2ZTBXUDdudFpiLUpNcWpDdDFZZ3UwRktYR2pHYVkwMEFWRjVmSzkyWDVKZHlQdUh4NGZ2WHZfVm1mcWIzR1NaR0llOTFHazRSS3FrYU82bEU2RTFKbUM4dXFaa2c?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
