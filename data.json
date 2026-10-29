@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-28T20:56:07Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.29 05:56 (한국시간)",
+  "updatedAtISO": "2026-10-29T00:46:03Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.29 09:46 (한국시간)",
   "us10y": 4.99,
   "us30y": 5.3,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1341.92,
-  "usdJpy": 157.84,
-  "jpyKrw100": 850.19,
+  "usdKrw": 1336.68,
+  "usdJpy": 157.94,
+  "jpyKrw100": 846.33,
   "indices": {
     "kospi": {
-      "value": 6012.44,
-      "changePct": 6.63
+      "value": 6093.82,
+      "changePct": 1.35
     },
     "kosdaq": {
-      "value": 771.28,
-      "changePct": 3.69
+      "value": 764.13,
+      "changePct": -0.93
     },
     "sp500": {
       "value": 7743.98,
@@ -35,15 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 전망…SK하이닉스 훈풍에도 FOMC·빅테크 '분수령' - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kbWkxLUQwWFlZcFVGVFVPTHRRZ3ZublFUb2dqUVBQVzlWMlkxV2RWaDUwNk93WTRkdVUyMDFzZGVQdlRPMXh4ZnJoel9xN3ViSHRwU0lOc1lTWU13bi1ycGdnSmFDalYwTEtuYjNhV0Zfdw?oc=5"
+      "title": "[서울데이터랩] 미국 증시, 반도체 강세 속 혼조…S＆P500·나스닥 상승 마감 - www.twig24.com",
+      "source": "www.twig24.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4ZUJ0T3dDNjNzR3FkWWJRRDl3QWt1U0EyWE1HRXFhUHRmeW9pUFBCZzVMeFJ6UTF4N2JwSXVLZlloN1ZqQjc3WUVEcDlKWmlwVU1RcFlpVEZKV2JUaTRQdE1KMA?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 나스닥 1.18% 상승…앤트로픽 기대에 반도체 반등, 다우는 강보합 - 톱스타뉴스",
+      "title": "미국증시 전망…SK하이닉스 훈풍에도 FOMC·빅테크 '분수령' - 톱스타뉴스",
       "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tWmRyYmg2M0tBZUo2T0ZzYzkyUTNDZVk5NkVyXzlrMlYyNDVuaXJoallyWmZKQWxjOXktWThXYjNsODkycC1zMGFhb2lfc1BaVE5GTEIyMFgya19BamRYSFNNUjF3aGR5R3BaVHJ6RmhNQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kbWkxLUQwWFlZcFVGVFVPTHRRZ3ZublFUb2dqUVBQVzlWMlkxV2RWaDUwNk93WTRkdVUyMDFzZGVQdlRPMXh4ZnJoel9xN3ViSHRwU0lOc1lTWU13bi1ycGdnSmFDalYwTEtuYjNhV0Zfdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 선물 상승…나스닥 반등, FOMC·빅테크 실적 시험대 - 톱스타뉴스",
+      "title": "미국증시 나스닥 1.18% 상승…앤트로픽 기대에 반도체 반등, 다우는 강보합 - 톱스타뉴스",
       "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ENXNSWVFqcnMxWkZoRlRmZ1paM1F2YVpiQ0toU1VFVUh2b0dvenhUeWhaTVlaOXAyVzR2RE9QRDFveWg2eEZyY3NlZUswWGo2Yzh5T0ZNZzZPcmJEanFjWVBmY2hETUxEX3lFako5b3p0Zw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tWmRyYmg2M0tBZUo2T0ZzYzkyUTNDZVk5NkVyXzlrMlYyNDVuaXJoallyWmZKQWxjOXktWThXYjNsODkycC1zMGFhb2lfc1BaVE5GTEIyMFgya19BamRYSFNNUjF3aGR5R3BaVHJ6RmhNQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 장초반 동반 상승…유가 하락에 테슬라·엔비디아·SK하이닉스 강세 - 톱스타뉴스",
+      "title": "미국증시 선물 상승…나스닥 반등, FOMC·빅테크 실적 시험대 - 톱스타뉴스",
       "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56dlI1UVhIeEJ3RTl0NUZCY1lTbjBxdWZDc3NHQmRzb09lV2QxcHRfS0pHVzVGTU41Y3E1d0xleGgzTjRIZUxMS2g2TFduUmF3TUdBZmNfMHliZGtyT1hDdWgyaEpwUTFzME9TSktncm5hQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ENXNSWVFqcnMxWkZoRlRmZ1paM1F2YVpiQ0toU1VFVUh2b0dvenhUeWhaTVlaOXAyVzR2RE9QRDFveWg2eEZyY3NlZUswWGo2Yzh5T0ZNZzZPcmJEanFjWVBmY2hETUxEX3lFako5b3p0Zw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
