@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-29T06:55:45Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.29 15:55 (한국시간)",
+  "updatedAtISO": "2026-10-29T14:06:28Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.29 23:06 (한국시간)",
   "us10y": 4.99,
   "us30y": 5.3,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1335.48,
-  "usdJpy": 157.8,
-  "jpyKrw100": 846.31,
+  "usdKrw": 1338.31,
+  "usdJpy": 157.87,
+  "jpyKrw100": 847.75,
   "indices": {
     "kospi": {
       "value": 5937.66,
@@ -20,30 +20,30 @@
       "changePct": -2.34
     },
     "sp500": {
-      "value": 7743.98,
-      "changePct": 0.28
+      "value": 7716.66,
+      "changePct": -0.35
     },
     "nasdaq": {
-      "value": 26549.85,
-      "changePct": 0.27
+      "value": 26195.4,
+      "changePct": -1.33
     },
     "sox": {
-      "value": 11684.0,
-      "changePct": 1.75
+      "value": 11476.43,
+      "changePct": -1.78
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 전망…SK하이닉스 훈풍에도 FOMC·빅테크 '분수령' - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kbWkxLUQwWFlZcFVGVFVPTHRRZ3ZublFUb2dqUVBQVzlWMlkxV2RWaDUwNk93WTRkdVUyMDFzZGVQdlRPMXh4ZnJoel9xN3ViSHRwU0lOc1lTWU13bi1ycGdnSmFDalYwTEtuYjNhV0Zfdw?oc=5"
+      "title": "미국 증시 '검은 화요일' 대폭락…튀르키예 공화국 수립 선포 - VOA 한국어 홈페이지",
+      "source": "VOA 한국어 홈페이지",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xYndQQWtCU29KcDFDQ1ZIYWtSZlFGY3A4RFhHLVVvNE5Pbi1neHNHNlNqOUliaUktSjJ0elJseC1rSmF3WjF5dlVvR2lMX1JLN1dkekdrUzFsYjVPNXk0VC1oN3F1Mng0TG5aSS1ud0PSAXNBVV95cUxQeGdjakQ4U01KaW04ZVlBUmNtTEZGbm5Ud2lGOVNGVFRWLUJvSjI2R0pzU1dud2NvSHR3b3BaX0dJNTNIM1Jxc0V4M0p1RTBaeXpQc3phc1FfbVo2NE5BSGN5TDBvZkFhYmlEZTc2djkyVmdv?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "유가 116달러·美금리 5% 육박…코스피 또 흔들리나[뉴스새벽배송] - 이데일리",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSnVsdU1VanZsX2ZhWnhxUzRVVEdxVTNfckwyYkM0VDRxZDFmMmpIV0lzM01EQjFGOXpFdDc0QkVUWXUwcUFiS2g5QmRtMWR4OEJ5RGdPNDJJcHIxVmNtR2NGNURKRlFYcWtHRG9MWG90aWxzQXROd3hXOHl5WlN0Tw?oc=5"
+      "title": "미국증시 전망…SK하이닉스 훈풍에도 FOMC·빅테크 '분수령' - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kbWkxLUQwWFlZcFVGVFVPTHRRZ3ZublFUb2dqUVBQVzlWMlkxV2RWaDUwNk93WTRkdVUyMDFzZGVQdlRPMXh4ZnJoel9xN3ViSHRwU0lOc1lTWU13bi1ycGdnSmFDalYwTEtuYjNhV0Zfdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 상승 출발…SK하이닉스 11% 급등·마이크론 5% 강세, 연준 결정 앞두고 관망 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45TnBfcUVGbHpFR3VpaGpSTHdKYU90S1ZwZUdsTFI1UFd5aGt3bmhCMk9tZ0dIdUk4TFVKUGVLVVhHcEVkcVk3TFo5aEdWbnZkc2tlbEMzSDJsd3RwVjJoMzdaN3h3YXJEQmhkd0tia3V0QQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "미국증시 장중 하락 뒤 소폭 상승…연준 금리 동결에 SK하이닉스 13.3% 급등 - 톱스타뉴스",
       "source": "톱스타뉴스",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mMVRQcHVBZjlDSjVleWVvVFZNcmQ5Q2Roa2N4TDFVQmtBSHlLNHFEdXBxXzFJbmFPQVdfYWJEWEpXZnBzSGpZY3BlMVFqakdCLUYwSTdoTnFTRUViN0djeTlPUzhET1ZPTUxxT2ZJUGFtQQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시 상승 출발…SK하이닉스 11% 급등·마이크론 5% 강세, 연준 결정 앞두고 관망 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45TnBfcUVGbHpFR3VpaGpSTHdKYU90S1ZwZUdsTFI1UFd5aGt3bmhCMk9tZ0dIdUk4TFVKUGVLVVhHcEVkcVk3TFo5aEdWbnZkc2tlbEMzSDJsd3RwVjJoMzdaN3h3YXJEQmhkd0tia3V0QQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
