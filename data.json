@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-30T14:00:38Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.30 23:00 (한국시간)",
+  "updatedAtISO": "2026-10-30T19:53:58Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.31 04:53 (한국시간)",
   "us10y": 5.05,
   "us30y": 5.37,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1332.78,
-  "usdJpy": 157.34,
-  "jpyKrw100": 847.1,
+  "usdKrw": 1333.04,
+  "usdJpy": 157.55,
+  "jpyKrw100": 846.1,
   "indices": {
     "kospi": {
       "value": 5730.74,
@@ -20,16 +20,16 @@
       "changePct": -3.83
     },
     "sp500": {
-      "value": 7634.74,
-      "changePct": -1.11
+      "value": 7557.46,
+      "changePct": -2.11
     },
     "nasdaq": {
-      "value": 25666.86,
-      "changePct": -1.98
+      "value": 25447.32,
+      "changePct": -2.82
     },
     "sox": {
-      "value": 10919.43,
-      "changePct": -5.2
+      "value": 10485.89,
+      "changePct": -8.96
     }
   },
   "issues": [
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[정인호 객원기자칼럼] 중간 점검이 필요한 한국의 증시 정책 - 주간한국",
-      "source": "주간한국",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuMW9HWENlNkFBVFFCUnVJV3FCMWJQeERJeTR2UnM0ci1KNjhLUGliUV9WbXQ0eUM3a2lha04wSGtxY3dDSlRQelRDQ0x6YWdubUtud3VUYmRMWDkzRDl1ZjZyNDJYT1JMMHJDZkJpTDjSAXRBVV95cUxOOHE3Mm1jV3I0Zi1wU1N6Y29vQ29VVi1SaExyWm1VbTVucDk0OXhXMXZQQVhzbkVDblk3MVhZRWEtSmg0Nk5mWEtxa3doSVFULWRtTkNmOTFUVUdSMTJZYXBpeExOczRRMWpodlNVeTF5VXBrdA?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "S&P 기대수익률 밑도는 美 국채 금리…증시 빙하기 오나 - 마켓인",
-      "source": "마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VLWkwdXNhVXIxcWdtN2lhcndINC1pUm9BZkM1dzhrTTRka3JRX3R0a1NHZU1zZjFNQWQxelZmVHM1SDFPNWRqUEUyNXBMWHU3dkZBWjItZUpITG5pWlhXTzBqM1ozZlBqcDZzZ3JYMUhjTjQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "미국 증시 '검은 화요일' 대폭락…튀르키예 공화국 수립 선포 - VOA 한국어 홈페이지",
       "source": "VOA 한국어 홈페이지",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xYndQQWtCU29KcDFDQ1ZIYWtSZlFGY3A4RFhHLVVvNE5Pbi1neHNHNlNqOUliaUktSjJ0elJseC1rSmF3WjF5dlVvR2lMX1JLN1dkekdrUzFsYjVPNXk0VC1oN3F1Mng0TG5aSS1ud0PSAXNBVV95cUxQeGdjakQ4U01KaW04ZVlBUmNtTEZGbm5Ud2lGOVNGVFRWLUJvSjI2R0pzU1dud2NvSHR3b3BaX0dJNTNIM1Jxc0V4M0p1RTBaeXpQc3phc1FfbVo2NE5BSGN5TDBvZkFhYmlEZTc2djkyVmdv?oc=5"
     },
     {
       "tag": "시장 뉴스",
+      "title": "\"외국인 1.6조 던졌다\"…미국서 날아온 악재에 '비명' - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4cjB1am05LVE2VmFDX1BlZVh4aUhZeUd0ZWdxZkJXQlYtbmhpZlIxbHBLMjVPSHNQNHRjd3pPeFM2UnNzNEI5eUNuMXJCbW1nbEV2LWs3TVlIZw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "\"믿을건 반도체 3X였는데…\" 서학개미 씁쓸 - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54OEtYMi1ramNnRDAyTlhaRTFsdUpTMGxKclViWUpneHA1NW16UEFvdEp5cXRuX1ZGZ2JmbnVOUXpLcmVSQTZhaTQ3YmJUR185V0E?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "머스크, 테슬라·스페이스X 합병 후 종목코드 'X' 채택할까 - 초이스스탁US",
+      "source": "초이스스탁US",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94WktDVUt2WDVYT2gtaVYxaDlnQkJ5N2Z3WEJER0F1M1g2SFFBZ0dmaVVaX1I1ajc4SkNMa0xhY0NwejYyTkRwTzZLbE1ZVng4THpfV2RIX1IzQUE0X1V2T01YeFppdEk?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
