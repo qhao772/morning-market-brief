@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-10-29T20:10:49Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.30 05:10 (한국시간)",
-  "us10y": 4.99,
-  "us30y": 5.3,
+  "updatedAtISO": "2026-10-30T00:46:23Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.30 09:46 (한국시간)",
+  "us10y": 5.05,
+  "us30y": 5.37,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1338.87,
-  "usdJpy": 157.71,
-  "jpyKrw100": 848.97,
+  "usdKrw": 1338.6,
+  "usdJpy": 157.51,
+  "jpyKrw100": 849.84,
   "indices": {
     "kospi": {
-      "value": 5937.66,
-      "changePct": -1.24
+      "value": 5710.77,
+      "changePct": -3.82
     },
     "kosdaq": {
-      "value": 753.23,
-      "changePct": -2.34
+      "value": 735.68,
+      "changePct": -2.33
     },
     "sp500": {
       "value": 7720.39,
@@ -41,21 +41,21 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 알파벳 13% 폭락에 하락 출발…AI 투자 우려에 나스닥 1.53%↓ - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NajUwZWRENkZTdkgxVThURU1CS0tXcXBKRVBIcXZhczNCNVJmb2x1TVR2bFpvTXBQdTFOR3dNWkZUUThkaThLVzRsc0lxeEt2QVBkdnFET1lCcEpXLXZqV3c1Y291YzltVWo0Z1NybVFkZw?oc=5"
+      "title": "[미국증시] 드러켄밀러 24시간 선물 베팅…AI 흔들리자 돈 이동 - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGdWxvWjJNYml2ZTRFM2ZORWFnbmRpWDNKd3VJYlJSOEl6d1JLcnotVmc2S1J6SVdrb1lWYlJQVDl5Tk9OMk44S2NLaV9uWEstTEtFOXZpV1diNF9lWC0weHh6V25GTlk?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 전망…SK하이닉스 훈풍에도 FOMC·빅테크 '분수령' - 톱스타뉴스",
+      "title": "미국증시 나스닥 1.38% 하락…알파벳 12% 급락에도 중소형주 반등 - 톱스타뉴스",
       "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kbWkxLUQwWFlZcFVGVFVPTHRRZ3ZublFUb2dqUVBQVzlWMlkxV2RWaDUwNk93WTRkdVUyMDFzZGVQdlRPMXh4ZnJoel9xN3ViSHRwU0lOc1lTWU13bi1ycGdnSmFDalYwTEtuYjNhV0Zfdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEMU8zd2JRQzA5NGZUOHcxcUMtTjNhMnBTaVlqdzBqTEtKUk5GeFpxcW5DWTlCTF80MWR6WW95aTU5NVR0VExxRm5ESGEwUV9fajJvWERtdUl3UExHVy1lLVEtSGxWSlBPa3lOZUtDQjVrdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 나스닥 1.18% 상승…앤트로픽 기대에 반도체 반등, 다우는 강보합 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tWmRyYmg2M0tBZUo2T0ZzYzkyUTNDZVk5NkVyXzlrMlYyNDVuaXJoallyWmZKQWxjOXktWThXYjNsODkycC1zMGFhb2lfc1BaVE5GTEIyMFgya19BamRYSFNNUjF3aGR5R3BaVHJ6RmhNQQ?oc=5"
+      "title": "누부루 하루 만에 115.98% 폭등…미국 증시 급등주 10개 보니 - 핀포인트뉴스",
+      "source": "핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Xd0dXRTJ1SGpzdm5TcS0zc1Y0ZS1RSkliZnJYVDdmYTJJM2xuZnp5WGJUWmVkTmgxdjZGTjJFT2tPWUZOaXNOcGU1dTBKcU1fRVlLNXpkMlYzVW12M1BSaEhEUkNISXYyemg0U29zUmhCYnfSAXdBVV95cUxNdEwzVHpLV3JaQ1VOblJkOURyOHQ2ajMtWlJ4MVk3TmFJT0RTUUlSSU9BQjZEQy14UE1HNEFLWXR3UmdKeXVsUWZYNVlaekZMdWlGalhSMFZsZnQyeTlobndtWEctcGFYZVppMjJkYmhLMGlsa0JQOA?oc=5"
     },
     {
       "tag": "시장 뉴스",
