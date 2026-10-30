@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-30T06:58:30Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.30 15:58 (한국시간)",
+  "updatedAtISO": "2026-10-30T14:00:38Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.30 23:00 (한국시간)",
   "us10y": 5.05,
   "us30y": 5.37,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1334.2,
-  "usdJpy": 157.71,
-  "jpyKrw100": 846.0,
+  "usdKrw": 1332.78,
+  "usdJpy": 157.34,
+  "jpyKrw100": 847.1,
   "indices": {
     "kospi": {
       "value": 5730.74,
@@ -20,48 +20,48 @@
       "changePct": -3.83
     },
     "sp500": {
-      "value": 7720.39,
-      "changePct": -0.3
+      "value": 7634.74,
+      "changePct": -1.11
     },
     "nasdaq": {
-      "value": 26184.72,
-      "changePct": -1.38
+      "value": 25666.86,
+      "changePct": -1.98
     },
     "sox": {
-      "value": 11518.2,
-      "changePct": -1.42
+      "value": 10919.43,
+      "changePct": -5.2
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 나스닥 1.38% 하락…알파벳 12% 급락에도 중소형주 반등 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEMU8zd2JRQzA5NGZUOHcxcUMtTjNhMnBTaVlqdzBqTEtKUk5GeFpxcW5DWTlCTF80MWR6WW95aTU5NVR0VExxRm5ESGEwUV9fajJvWERtdUl3UExHVy1lLVEtSGxWSlBPa3lOZUtDQjVrdw?oc=5"
+      "title": "Coinbase 주가, 미국 증시 개장 전 거래에서 하락하는 이유는? - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sM0J6OTY2dml1Q3ZmMUx3c2NoT0tWSGJQVGRWekc4RG9aaEFlMWNFa2tfbEVJZFQ0QVBqcWUyd3JmcHdZZ3JPM2pBRkpIOUFOeEliZHZtRVltbW1jVGg5UkxHd3d3ZzVpMC0ydGluT25fNXpPcl9z?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "퀵 리드 30-10: 알파벳 주가 폭락으로 미국 증시 하락, MB, 3조 VND 자본금으로 자회사 은행 설립. - Vietnam.vn",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPODA1R1Z5VlNhVFE2czVaWXBCYVBrZXZCc0NmZlVBOFNvdFctVUdmbFh6TkljMmczdklpTjJEOGdoeE9Jd3hwX0tLeDBLU0lpMEhtVHRtTVg4V1o5aUJYZGZSQ0hxMGpJOHVZVDRISEJUTVRkQWtEeFVuTkZCd0FNZnhlajdmWFlkOElhSHJLTmt3d08xWFpNWmVGNXpWNG5NcmVxUmlCN2dudWJkYVpuOHE2Ui1UdFNOZ2gxQ1hmUEUwWUg5NHNnYktMdE8?oc=5"
+      "title": "[정인호 객원기자칼럼] 중간 점검이 필요한 한국의 증시 정책 - 주간한국",
+      "source": "주간한국",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuMW9HWENlNkFBVFFCUnVJV3FCMWJQeERJeTR2UnM0ci1KNjhLUGliUV9WbXQ0eUM3a2lha04wSGtxY3dDSlRQelRDQ0x6YWdubUtud3VUYmRMWDkzRDl1ZjZyNDJYT1JMMHJDZkJpTDjSAXRBVV95cUxOOHE3Mm1jV3I0Zi1wU1N6Y29vQ29VVi1SaExyWm1VbTVucDk0OXhXMXZQQVhzbkVDblk3MVhZRWEtSmg0Nk5mWEtxa3doSVFULWRtTkNmOTFUVUdSMTJZYXBpeExOczRRMWpodlNVeTF5VXBrdA?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국증시] 드러켄밀러 24시간 선물 베팅…AI 흔들리자 돈 이동 - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGdWxvWjJNYml2ZTRFM2ZORWFnbmRpWDNKd3VJYlJSOEl6d1JLcnotVmc2S1J6SVdrb1lWYlJQVDl5Tk9OMk44S2NLaV9uWEstTEtFOXZpV1diNF9lWC0weHh6V25GTlk?oc=5"
+      "title": "S&P 기대수익률 밑도는 美 국채 금리…증시 빙하기 오나 - 마켓인",
+      "source": "마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VLWkwdXNhVXIxcWdtN2lhcndINC1pUm9BZkM1dzhrTTRka3JRX3R0a1NHZU1zZjFNQWQxelZmVHM1SDFPNWRqUEUyNXBMWHU3dkZBWjItZUpITG5pWlhXTzBqM1ozZlBqcDZzZ3JYMUhjTjQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "알파벳 주가가 12% 이상 급락하면서 미국 증시는 상당한 압박을 받았습니다. - Vietnam.vn",
-      "source": "Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM2lpNElFZTNYRWZKWW1ZdGxvb1NwSTQwMEp5U2FMYVBrR0xzSDM5WkJYMkVzZnRwOHZsekpVWHR5Q2l6eVdGQmJaVF9mMU5iQlZKSWNhNnBSaDR4blg1V05pMExHODYtdXRWUGhraVRfLXJLS0FHeUtzcXVCVW00V1NOaUpCN1JzaFBlZXVDWHFoaTBnelFRdw?oc=5"
+      "title": "미국 증시 '검은 화요일' 대폭락…튀르키예 공화국 수립 선포 - VOA 한국어 홈페이지",
+      "source": "VOA 한국어 홈페이지",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xYndQQWtCU29KcDFDQ1ZIYWtSZlFGY3A4RFhHLVVvNE5Pbi1neHNHNlNqOUliaUktSjJ0elJseC1rSmF3WjF5dlVvR2lMX1JLN1dkekdrUzFsYjVPNXk0VC1oN3F1Mng0TG5aSS1ud0PSAXNBVV95cUxQeGdjakQ4U01KaW04ZVlBUmNtTEZGbm5Ud2lGOVNGVFRWLUJvSjI2R0pzU1dud2NvSHR3b3BaX0dJNTNIM1Jxc0V4M0p1RTBaeXpQc3phc1FfbVo2NE5BSGN5TDBvZkFhYmlEZTc2djkyVmdv?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 알파벳 13% 폭락에 하락 출발…AI 투자 우려에 나스닥 1.53%↓ - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NajUwZWRENkZTdkgxVThURU1CS0tXcXBKRVBIcXZhczNCNVJmb2x1TVR2bFpvTXBQdTFOR3dNWkZUUThkaThLVzRsc0lxeEt2QVBkdnFET1lCcEpXLXZqV3c1Y291YzltVWo0Z1NybVFkZw?oc=5"
+      "title": "\"믿을건 반도체 3X였는데…\" 서학개미 씁쓸 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54OEtYMi1ramNnRDAyTlhaRTFsdUpTMGxKclViWUpneHA1NW16UEFvdEp5cXRuX1ZGZ2JmbnVOUXpLcmVSQTZhaTQ3YmJUR185V0E?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
