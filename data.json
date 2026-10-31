@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-10-30T23:36:22Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.31 08:36 (한국시간)",
+  "updatedAtISO": "2026-10-31T05:17:45Z",
+  "updatedAtLabel": "자동 갱신: 2026.10.31 14:17 (한국시간)",
   "us10y": 4.98,
   "us30y": 5.32,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1333.44,
+  "usdKrw": 1335.1,
   "usdJpy": 157.52,
-  "jpyKrw100": 846.53,
+  "jpyKrw100": 847.58,
   "indices": {
     "kospi": {
       "value": 5730.74,
@@ -35,9 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "Coinbase 주가, 미국 증시 개장 전 거래에서 하락하는 이유는? - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sM0J6OTY2dml1Q3ZmMUx3c2NoT0tWSGJQVGRWekc4RG9aaEFlMWNFa2tfbEVJZFQ0QVBqcWUyd3JmcHdZZ3JPM2pBRkpIOUFOeEliZHZtRVltbW1jVGg5UkxHd3d3ZzVpMC0ydGluT25fNXpPcl9z?oc=5"
+      "title": "156년 만에 세 번째 선 경고등… 40.7 치솟은 미국 증시 밸류에이션 - 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU01qdDYxeDNYZnhubF9FZHNCYklSTWRJb1NzZjFOcU5wdUlzVVFxWUZQX0xGRkZja3YteWg1eFc0WlNxUWt3VFRtRkkyRWhEbEdacy0yeVg1dWNNOW5oSG5tR3JfdWJWWjhIdko2QkhmWnB2QjgtRGxRUnJQNmd6cWY5LVp1T1p5?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[미국증시] AWS 39.3% 성장에도…나스닥 최악의 10월 - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMcFlvZ2JWXzg5bi0wSVgtVzRjQXZxelNLdjhaYWkxTW5SanZCbWJ5UGo1T3FBVk9sWDJSTVY4a3lmMFNUS1Nkb1FHTk1YQlQ2UEs5SkswVkM4RE5Oc3d2aVBNa3hKeUU?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,21 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 하락세로 마감…나스닥 2.86%↓ - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jMnptUF9sdHhnaWZmSWFRb0xjeUpZakx1MlZsSEk5Mk1nc0hJd3pTamxTbEUtaEJTWUUyQnF6RUVTR0NadHRZSzM4WHZKWV8t?oc=5"
+      "title": "인텔, 52년 만의 최악 폭락...뉴욕 증시도 털썩 - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa2ZpbmUzZ1loZ2thRlNwaVlLQmFSTUp1emJiNHl1VjBBdk1tem42NWt3YWlrZ0Q0cXo1QTNXczRDVzBDaW9OdkJTZk9JQnJJdnFKek1IdTFKbzAtdHc4UnRfN0xQWmFTVTRtMmpHTURoSGxfa2RyWnlhc05ZQU9xSnU5LXE1UXFSOF8yT2czVQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "\"중간 선거후 강세장…美 주식 늘려라\" - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPc09KdWlQRzdTZ05xeFZWUzFUUlFUQWVqMWZ6aGROd2ZMcm9pcXdKVjNLeXpaTTIxc1N5a3RjeTRvZ1prV0JpcU4tNDJ5SUFrTXc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "\"외국인 1.6조 던졌다\"…미국서 날아온 악재에 '비명' - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4cjB1am05LVE2VmFDX1BlZVh4aUhZeUd0ZWdxZkJXQlYtbmhpZlIxbHBLMjVPSHNQNHRjd3pPeFM2UnNzNEI5eUNuMXJCbW1nbEV2LWs3TVlIZw?oc=5"
+      "title": "다음주 미국증시, 국내증시 전망 : 필라델피아 반도체 지수 -7% 하락 이유, 다시 반등할까? - 네이버 프리미엄콘텐츠",
+      "source": "네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOekdlazlQakJiRkNmOW9YcFNWemRFX09BZmI3ejljYlNSUW5UYXpLU0dIc1VkaExBeGIyTW5JX3A5OFNxejhqeFJtb1RoeTlJeE9QUHpPQURFSkc2MXdXdVpqZ0JOTVNCeS1fTlRfalhuUmltb3k0b29FX2NYVmRfUFNCVQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
