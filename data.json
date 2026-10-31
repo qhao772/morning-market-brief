@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-31T12:08:21Z",
-  "updatedAtLabel": "자동 갱신: 2026.10.31 21:08 (한국시간)",
+  "updatedAtISO": "2026-10-31T17:37:21Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.01 02:37 (한국시간)",
   "us10y": 4.98,
   "us30y": 5.32,
   "fedFundsLow": 3.75,
@@ -35,15 +35,9 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "‘AI 투자 우려’에 인텔 29% 폭락…국내 증시 여파 촉각 - JTBC",
-      "source": "JTBC",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxbklwTUVFRF9rZGlDbDNPUzlwUTFab3lERXhkVEJCd1JaMm9kTk9uSmJLWlY3VG9VTHR2NFZ4MXdQRVExeHhxaWtyRFoxZE5aOVdNeg?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "156년 만에 세 번째 선 경고등… 40.7 치솟은 미국 증시 밸류에이션 - 글로벌이코노믹",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU01qdDYxeDNYZnhubF9FZHNCYklSTWRJb1NzZjFOcU5wdUlzVVFxWUZQX0xGRkZja3YteWg1eFc0WlNxUWt3VFRtRkkyRWhEbEdacy0yeVg1dWNNOW5oSG5tR3JfdWJWWjhIdko2QkhmWnB2QjgtRGxRUnJQNmd6cWY5LVp1T1p5?oc=5"
+      "title": "인텔 주가 29% 폭락…AI 거품 공포 확산에 미 증시 ↓ - KBS 뉴스",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6bVhrbWV2Q24zMlJHTGhWbWRsUzZfbmVrRE1UQUJhaklXc3hfVDF1X1FlZTlvblAycFhkTGRseWdsV1hWMjRiSTBYNlZ1ajNzU0hjQlRZa0V5YWc?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,9 +47,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "다음주 미국증시, 국내증시 전망 : 필라델피아 반도체 지수 -7% 하락 이유, 다시 반등할까? - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOekdlazlQakJiRkNmOW9YcFNWemRFX09BZmI3ejljYlNSUW5UYXpLU0dIc1VkaExBeGIyTW5JX3A5OFNxejhqeFJtb1RoeTlJeE9QUHpPQURFSkc2MXdXdVpqZ0JOTVNCeS1fTlRfalhuUmltb3k0b29FX2NYVmRfUFNCVQ?oc=5"
+      "title": "156년 만에 세 번째 선 경고등… 40.7 치솟은 미국 증시 밸류에이션 - 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU01qdDYxeDNYZnhubF9FZHNCYklSTWRJb1NzZjFOcU5wdUlzVVFxWUZQX0xGRkZja3YteWg1eFc0WlNxUWt3VFRtRkkyRWhEbEdacy0yeVg1dWNNOW5oSG5tR3JfdWJWWjhIdko2QkhmWnB2QjgtRGxRUnJQNmd6cWY5LVp1T1p5?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "월요일 증시가 두렵다…인텔 52년 만의 폭락에 삼전닉스 투자자 ‘긴장’ - 경북매일",
+      "source": "경북매일",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uaGE2S3JsQU93cEQ0blBNNXpKVFhtbndzckl2OFFnQ1JvSWltNmlZS1hWbGZpS1BTYVhMOUltbUxCV25xRjRtSWNCVG5DR0h3c0VucmhacmJZQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
