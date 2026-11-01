@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-01T19:30:23Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.02 04:30 (한국시간)",
+  "updatedAtISO": "2026-11-01T23:28:49Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.02 08:28 (한국시간)",
   "us10y": 4.98,
   "us30y": 5.32,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1333.44,
-  "usdJpy": 157.52,
-  "jpyKrw100": 846.53,
+  "usdKrw": 1333.51,
+  "usdJpy": 157.6,
+  "jpyKrw100": 846.11,
   "indices": {
     "kospi": {
       "value": 5730.74,
@@ -35,6 +35,12 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "흔들리는 숏스퀴즈에 빅테크 쇼크까지…그래도 증시 떠나면 안 되는 이유 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zQzlxdGdRbnJjUGxjZFVjbWFxMERjZV9FQ0lqOVZXTkdUcldtM0dlWnBUUlJ2elR3OXFPWXdsY25zQ2VvRENGM0Q0ZHhTR3lUSG4tc2xZZ0tvZExHLTlRZE1IcVdOMngxN3V0MUZhZ2E0QQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "\"미국 주식, 한 번에 사지 마라\"…교수가 짚은 노후 투자법 - 뉴시스",
       "source": "뉴시스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Tc0RpeWlYd2VydTZreUF0M3RBZ0pTblUxRHlLS29KVXZkTWZvaTNTNFpDbXZURXBBYW96UGRmRHRiVm9pQUdsWm9YUl9INzFOVEx1SjBMWDFMYl9NS0hTN9IBeEFVX3lxTE9iY0xxS2FVRU1TTkJxNFRic1pTMDFJSXlHUUN6RFhMdE1WdEhQZEVwTjIwTS1zZTdMRVZfZm5QTVE4VW5tVHVOZVQyNXJsX0Q1ZUxJaDdjd3FNa2ZhX1VpaW02NS1SZElPV3pVU3BPUWFXblNmUzFYUw?oc=5"
@@ -56,12 +62,6 @@
       "title": "앤스로픽 상장 임박… 증시에 약 될까 독 될까 - 조선일보",
       "source": "조선일보",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFZ5VFRHUmhvZGdEczlSMzNkSjRtXzhKR055SlZuQ2ZHVk9FZUIzYWRmYlVYOUZrczVKQkI1ZndPaGd2bGF6V3FOc0RhUEdsdUFuNmtDU3cwM3NuUVU1Nmc1VDNPQV9xVjBFWVdRQzlZSVhlcHRoZlloN0tuT3V0RDlqM1B3RzFhZk14UkFn?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국 증시 '검은 화요일' 대폭락…튀르키예 공화국 수립 선포 - VOA 한국어 홈페이지",
-      "source": "VOA 한국어 홈페이지",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xYndQQWtCU29KcDFDQ1ZIYWtSZlFGY3A4RFhHLVVvNE5Pbi1neHNHNlNqOUliaUktSjJ0elJseC1rSmF3WjF5dlVvR2lMX1JLN1dkekdrUzFsYjVPNXk0VC1oN3F1Mng0TG5aSS1ud0PSAXNBVV95cUxQeGdjakQ4U01KaW04ZVlBUmNtTEZGbm5Ud2lGOVNGVFRWLUJvSjI2R0pzU1dud2NvSHR3b3BaX0dJNTNIM1Jxc0V4M0p1RTBaeXpQc3phc1FfbVo2NE5BSGN5TDBvZkFhYmlEZTc2djkyVmdv?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
