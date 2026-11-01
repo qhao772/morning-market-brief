@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-10-31T21:22:13Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.01 06:22 (한국시간)",
+  "updatedAtISO": "2026-11-01T00:56:07Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.01 09:56 (한국시간)",
   "us10y": 4.98,
   "us30y": 5.32,
   "fedFundsLow": 3.75,
@@ -41,15 +41,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "인텔 주가 29% 폭락…AI 거품 공포 확산에 미 증시 ↓ - KBS 뉴스",
-      "source": "KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6bVhrbWV2Q24zMlJHTGhWbWRsUzZfbmVrRE1UQUJhaklXc3hfVDF1X1FlZTlvblAycFhkTGRseWdsV1hWMjRiSTBYNlZ1ajNzU0hjQlRZa0V5YWc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "미국 증시 '검은 화요일' 대폭락…튀르키예 공화국 수립 선포 - VOA 한국어 홈페이지",
       "source": "VOA 한국어 홈페이지",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xYndQQWtCU29KcDFDQ1ZIYWtSZlFGY3A4RFhHLVVvNE5Pbi1neHNHNlNqOUliaUktSjJ0elJseC1rSmF3WjF5dlVvR2lMX1JLN1dkekdrUzFsYjVPNXk0VC1oN3F1Mng0TG5aSS1ud0PSAXNBVV95cUxQeGdjakQ4U01KaW04ZVlBUmNtTEZGbm5Ud2lGOVNGVFRWLUJvSjI2R0pzU1dud2NvSHR3b3BaX0dJNTNIM1Jxc0V4M0p1RTBaeXpQc3phc1FfbVo2NE5BSGN5TDBvZkFhYmlEZTc2djkyVmdv?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "인텔 주가 29% 폭락…AI 거품 공포 확산에 미 증시 ↓ - KBS 뉴스",
+      "source": "KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6bVhrbWV2Q24zMlJHTGhWbWRsUzZfbmVrRE1UQUJhaklXc3hfVDF1X1FlZTlvblAycFhkTGRseWdsV1hWMjRiSTBYNlZ1ajNzU0hjQlRZa0V5YWc?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "156년 만에 세 번째 선 경고등… 40.7 치솟은 미국 증시 밸류에이션 - 글로벌이코노믹",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU01qdDYxeDNYZnhubF9FZHNCYklSTWRJb1NzZjFOcU5wdUlzVVFxWUZQX0xGRkZja3YteWg1eFc0WlNxUWt3VFRtRkkyRWhEbEdacy0yeVg1dWNNOW5oSG5tR3JfdWJWWjhIdko2QkhmWnB2QjgtRGxRUnJQNmd6cWY5LVp1T1p5?oc=5"
+      "title": "\"중간 선거후 강세장…美 주식 늘려라\" - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPc09KdWlQRzdTZ05xeFZWUzFUUlFUQWVqMWZ6aGROd2ZMcm9pcXdKVjNLeXpaTTIxc1N5a3RjeTRvZ1prV0JpcU4tNDJ5SUFrTXc?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
