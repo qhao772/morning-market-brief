@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-11-01T14:56:39Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.01 23:56 (한국시간)",
+  "updatedAtISO": "2026-11-01T19:30:23Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.02 04:30 (한국시간)",
   "us10y": 4.98,
   "us30y": 5.32,
   "fedFundsLow": 3.75,
@@ -25,7 +25,7 @@
     },
     "nasdaq": {
       "value": 25437.0,
-      "changePct": -2.86
+      "changePct": -2.85
     },
     "sox": {
       "value": 10688.8,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "“미장할 시간인데 주식창 왜 얼었죠?”…서머타임 해제에 1시간 뒤로 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jMm9zaUtzN0cyZWVxVDRsbEktUDZSZ1pjbktWbEd3VEJVbDBNUWZyUFdjN2ItcmFKZlFIN3JGYVNEeDIwVVA2NTZTQXBSUXRRcHc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "\"미국 주식, 한 번에 사지 마라\"…교수가 짚은 노후 투자법 - 뉴시스",
       "source": "뉴시스",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Tc0RpeWlYd2VydTZreUF0M3RBZ0pTblUxRHlLS29KVXZkTWZvaTNTNFpDbXZURXBBYW96UGRmRHRiVm9pQUdsWm9YUl9INzFOVEx1SjBMWDFMYl9NS0hTN9IBeEFVX3lxTE9iY0xxS2FVRU1TTkJxNFRic1pTMDFJSXlHUUN6RFhMdE1WdEhQZEVwTjIwTS1zZTdMRVZfZm5QTVE4VW5tVHVOZVQyNXJsX0Q1ZUxJaDdjd3FNa2ZhX1VpaW02NS1SZElPV3pVU3BPUWFXblNmUzFYUw?oc=5"
     },
     {
       "tag": "시장 뉴스",
+      "title": "“미장할 시간인데 주식창 왜 얼었죠?”…서머타임 해제에 1시간 뒤로 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jMm9zaUtzN0cyZWVxVDRsbEktUDZSZ1pjbktWbEd3VEJVbDBNUWZyUFdjN2ItcmFKZlFIN3JGYVNEeDIwVVA2NTZTQXBSUXRRcHc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "AI주 시총 5조달러 증발에도 美 증시 반등 기대 나오는 이유 - 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUng5SFpmT0VabExZa19LN3FncWFjZ0I1QnE2bmJzTlRvbU1EOWwtOXZnZ09FS1hUYkQxUVNrQVJCdV9NZ2w2SWlRM3c5bnhkemtkeWRaUTc3dmYyVTJXVHczc0hUYnlmU0dJT0RMcUl3RGFQWklvanNHMnRlaHVYdlhhbXJlWk0?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "앤스로픽 상장 임박… 증시에 약 될까 독 될까 - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFZ5VFRHUmhvZGdEczlSMzNkSjRtXzhKR055SlZuQ2ZHVk9FZUIzYWRmYlVYOUZrczVKQkI1ZndPaGd2bGF6V3FOc0RhUEdsdUFuNmtDU3cwM3NuUVU1Nmc1VDNPQV9xVjBFWVdRQzlZSVhlcHRoZlloN0tuT3V0RDlqM1B3RzFhZk14UkFn?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "미국 증시 '검은 화요일' 대폭락…튀르키예 공화국 수립 선포 - VOA 한국어 홈페이지",
       "source": "VOA 한국어 홈페이지",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xYndQQWtCU29KcDFDQ1ZIYWtSZlFGY3A4RFhHLVVvNE5Pbi1neHNHNlNqOUliaUktSjJ0elJseC1rSmF3WjF5dlVvR2lMX1JLN1dkekdrUzFsYjVPNXk0VC1oN3F1Mng0TG5aSS1ud0PSAXNBVV95cUxQeGdjakQ4U01KaW04ZVlBUmNtTEZGbm5Ud2lGOVNGVFRWLUJvSjI2R0pzU1dud2NvSHR3b3BaX0dJNTNIM1Jxc0V4M0p1RTBaeXpQc3phc1FfbVo2NE5BSGN5TDBvZkFhYmlEZTc2djkyVmdv?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "'AI 수익성 회의론', 증시 계속 짓누르나…美중간선거에 촉각 - 연합뉴스",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mMUNmcGN2bkVDNm0zeEtodzhDeFNUVzBjODRjWE50ZjZMRVZTSnQ1cDlEcnhqNXpmdlk3cEFjZzRzdGdGdFNQZVdyR1RnMHhjc1hUbGwtUzBCWHPSAWBBVV95cUxQMm9lWGR1ZU40RktpZ1BVeFM5RFdCS255eG1LUXR1WUlra1FVeGNkeVFQbDVXWS01a0FsWEVybnotRjkyaU5HVGNtSWdyeFFNb3ZWY0pXeVZ0V2VzMGdOLWU?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[주간 증시전망] 미국 상하원 중간선거···시장 불확실성 완화 - 전북일보 인터넷신문",
-      "source": "전북일보 인터넷신문",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mMjhOUDFrOGUzZGZkTGVHbV9NZ1FzYXVBczdYMGllUmMyRlJDSmtrdWtWeUYzbWVVY21CM3NhWFVKQjljSnRWbUxGWmtKV2dUMVAzVtIBWEFVX3lxTE13R2hla2hoaDhVNlBHZ2JPTGhxbUFlQ1RLVjdpQ3ljNWlxNTVxaXN6Q0w3X195cWNENHVFc2YxLWV2MUZxZWhzNGJnZE5qR0JEVXhsbno4d00?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
