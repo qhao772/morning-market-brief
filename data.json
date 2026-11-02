@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-11-01T23:28:49Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.02 08:28 (한국시간)",
+  "updatedAtISO": "2026-11-02T05:44:33Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.02 14:44 (한국시간)",
   "us10y": 4.98,
   "us30y": 5.32,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1333.51,
-  "usdJpy": 157.6,
-  "jpyKrw100": 846.11,
+  "usdKrw": 1341.38,
+  "usdJpy": 157.8,
+  "jpyKrw100": 850.07,
   "indices": {
     "kospi": {
-      "value": 5730.74,
-      "changePct": -3.48
+      "value": 5882.17,
+      "changePct": 2.64
     },
     "kosdaq": {
-      "value": 724.38,
-      "changePct": -3.83
+      "value": 733.95,
+      "changePct": 1.32
     },
     "sp500": {
       "value": 7580.07,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "흔들리는 숏스퀴즈에 빅테크 쇼크까지…그래도 증시 떠나면 안 되는 이유 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zQzlxdGdRbnJjUGxjZFVjbWFxMERjZV9FQ0lqOVZXTkdUcldtM0dlWnBUUlJ2elR3OXFPWXdsY25zQ2VvRENGM0Q0ZHhTR3lUSG4tc2xZZ0tvZExHLTlRZE1IcVdOMngxN3V0MUZhZ2E0QQ?oc=5"
+      "title": "모건스탠리 \"미국 증시 일시 하락조정 가능성...엄청난 기회\" - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZSjVkSGNVUUs0eXVnX0xrOXRPdVA2SkZlMEQ0U1V0TnVGMlAxNmpyRngzQXZrdXRRMFBLN0puZG5vT25wN0dmeXhibUlJSkR1QWtUUHA2Q3ZZWjN3OUE?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "\"미국 주식, 한 번에 사지 마라\"…교수가 짚은 노후 투자법 - 뉴시스",
-      "source": "뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Tc0RpeWlYd2VydTZreUF0M3RBZ0pTblUxRHlLS29KVXZkTWZvaTNTNFpDbXZURXBBYW96UGRmRHRiVm9pQUdsWm9YUl9INzFOVEx1SjBMWDFMYl9NS0hTN9IBeEFVX3lxTE9iY0xxS2FVRU1TTkJxNFRic1pTMDFJSXlHUUN6RFhMdE1WdEhQZEVwTjIwTS1zZTdMRVZfZm5QTVE4VW5tVHVOZVQyNXJsX0Q1ZUxJaDdjd3FNa2ZhX1VpaW02NS1SZElPV3pVU3BPUWFXblNmUzFYUw?oc=5"
+      "title": "기술주 급락에 미국 증시 변동성 급등…투자자들 하락 방어 수요 확대 - 더구루",
+      "source": "더구루",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Ic18yQXZOa1ZkZE5XaHFHTHpKMFhXNmprRlliMUVJcUVnSjRVcWxMam9Hc3ZEM29ldGJ6am1SWFlwV1ZqcXZmX0h1MUFPSmpUaU5jWk1RTGpLb3h3bHl5SnIyQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "“미장할 시간인데 주식창 왜 얼었죠?”…서머타임 해제에 1시간 뒤로 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jMm9zaUtzN0cyZWVxVDRsbEktUDZSZ1pjbktWbEd3VEJVbDBNUWZyUFdjN2ItcmFKZlFIN3JGYVNEeDIwVVA2NTZTQXBSUXRRcHc?oc=5"
+      "title": "인텔 폭락에 미국 증시 급락, 이번 주는 애플·AMD 실적에 달렸다 - 네이버페이 머니스토리",
+      "source": "네이버페이 머니스토리",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iNkEtbDFWNW9XdkpvSDFGUDFfY0pzcHRqd3UzNEVwRFZWN3VlcWZLUjh3di1YYms4cFhoUmxFZ0lpOW41cmp6VlVWQ3UyZzFZM2xFMGlxMUs?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "AI주 시총 5조달러 증발에도 美 증시 반등 기대 나오는 이유 - 글로벌이코노믹",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUng5SFpmT0VabExZa19LN3FncWFjZ0I1QnE2bmJzTlRvbU1EOWwtOXZnZ09FS1hUYkQxUVNrQVJCdV9NZ2w2SWlRM3c5bnhkemtkeWRaUTc3dmYyVTJXVHczc0hUYnlmU0dJT0RMcUl3RGFQWklvanNHMnRlaHVYdlhhbXJlWk0?oc=5"
+      "title": "\"미 증시 하락조정 있지만 엄청난 기회\"…모건스탠리 전략가 진단 - 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QN2VYZDhVZW5xcUxDLThEWVVkdmp5TzhuVFVBdWVIdTNnLVV4VkduTGIwYmhCQ29vbTYydllJRVdOLWd4TXB1X1J1dW9jaVZNWUcxbXFnWC1CZ1N2Wi05RmVPU0NXY1U?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "앤스로픽 상장 임박… 증시에 약 될까 독 될까 - 조선일보",
+      "title": "\"코스피 반등 기다리기 지쳐\"...국내 투자자, 지난달 미국 주식 올해 최대 순매수 - 조선일보",
       "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFZ5VFRHUmhvZGdEczlSMzNkSjRtXzhKR055SlZuQ2ZHVk9FZUIzYWRmYlVYOUZrczVKQkI1ZndPaGd2bGF6V3FOc0RhUEdsdUFuNmtDU3cwM3NuUVU1Nmc1VDNPQV9xVjBFWVdRQzlZSVhlcHRoZlloN0tuT3V0RDlqM1B3RzFhZk14UkFn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNODFIMjBXcWtaSXVNY3FBZ1gzcDNUX3V3d01fSmxDd1NUaTJhWEdkMm96LUJFWWIyRkdlQmEwVV9hSlRzVUpudFVpYm9WR1h4VDh3VDJfWEl5VU5ubVpFcC1Cb2psWGJSSGMxZGNnYV9OWmdvVlBqX2ZPNkpFY2RDbA?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
