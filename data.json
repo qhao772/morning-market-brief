@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-11-02T23:24:30Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.03 08:24 (한국시간)",
+  "updatedAtISO": "2026-11-03T06:26:14Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.03 15:26 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.31,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1344.77,
-  "usdJpy": 157.94,
-  "jpyKrw100": 851.45,
+  "usdKrw": 1340.78,
+  "usdJpy": 157.84,
+  "jpyKrw100": 849.47,
   "indices": {
     "kospi": {
-      "value": 5859.08,
-      "changePct": 2.24
+      "value": 5641.47,
+      "changePct": -3.71
     },
     "kosdaq": {
-      "value": 734.36,
-      "changePct": 1.38
+      "value": 703.26,
+      "changePct": -4.24
     },
     "sp500": {
       "value": 7541.4,
@@ -47,21 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, 지정학적 완화에도 혼조 마감 - 연합뉴스TV",
-      "source": "연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42dWJZNlE4QTJ4ZFN4RkkyWHRCcVF1eDhYdTM3N1RLbFZRcndMWFM2Z19PQ3ZnZGE0ekYzVFZmZVVvRVdZTDhhaXIydWJBdUZlU0lNdXFmdzZYSVVHdW9rcHdQUl9iak0?oc=5"
+      "title": "미국증시를 흔든 주요 기업 주간 이슈 - 마이크로소프트 외 17종목 - 초이스스탁US",
+      "source": "초이스스탁US",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EeHI2eHlGVWhTM1haTjVHR1NwYjR0U2hKU1FoaWo1cjFzMS1aWDhLTmpXY3RkZ0F3T09pNUduaGI2dTJ0UHA2NGxZQUtncXRuREp0bzlUZUFja1Z0Tm9uREl3anNNTlZqRWc?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[뉴욕증시] 반등하기엔 근심거리가 많다…나스닥 1%↓ - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FU3dxY0lzODZrTWNFSklsZGc0OGhLX2NzNVo4cjVzWlpvbTJZbFFFLU5jOVdNZllMME1CNnZBUmU2Mi1vaWRraFJTQjhJcUcySmo1X2tieTgzM0VGZ2pnZlAyTG9jYTVNS2xBTEs2NllxZw?oc=5"
+      "title": "미·이란 협상 기대감에 시장 출렁...유가 7%대 급락 - 네이버페이 머니스토리",
+      "source": "네이버페이 머니스토리",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ncHdTa2xGWFJobXY2R0stUnU4NUx3cDZ1aWZabm9SMENHQWE0MlE4dlJQa1cwaFhMSE5pSV9XY3diNDNGcEkyQXdhTVo3NVVXSmFpWUEzaUE?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "Citi “공화당이 상원 지키면 미국 증시 상승 가능” - Investing.com 한국어",
+      "title": "미국 주식 선물 소폭 상승, 애플은 실적 발표 후 하락 - Investing.com 한국어",
       "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HTXNaMTFQUjdEaVRGTFdiSHgzUEZWbzJMQW94V2pjWUdreDNTSmhrT3V0QlNZaTFMS18wZHpiSGRYMHFoSUF2b1dJdnV1REZ1M2s3WTBfZ0JVV3NDRjBjejU5NFctdlVXdzNHd29ubnVGOUhHRHU0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGUTdrand3ZlJ5UXN4SXlXTG5NNzREUS1TR2RJUU5HbnRWODJURmNDYVlSeDA3dElKMmpQaGtvMkxuZjRaN09UaURXUkdTbHNTS0ducVljOEJMejNhMHhpVTJ5OFJUdVZuRUhORURlelM?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
