@@ -1,35 +1,35 @@
 {
-  "updatedAtISO": "2026-11-03T06:26:14Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.03 15:26 (한국시간)",
+  "updatedAtISO": "2026-11-03T14:58:35Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.03 23:58 (한국시간)",
   "us10y": 4.94,
   "us30y": 5.31,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1340.78,
-  "usdJpy": 157.84,
-  "jpyKrw100": 849.47,
+  "usdKrw": 1343.17,
+  "usdJpy": 158.28,
+  "jpyKrw100": 848.61,
   "indices": {
     "kospi": {
-      "value": 5641.47,
-      "changePct": -3.71
+      "value": 5648.79,
+      "changePct": -3.59
     },
     "kosdaq": {
-      "value": 703.26,
-      "changePct": -4.24
+      "value": 704.39,
+      "changePct": -4.08
     },
     "sp500": {
-      "value": 7541.4,
-      "changePct": -0.51
+      "value": 7562.32,
+      "changePct": 0.28
     },
     "nasdaq": {
-      "value": 25164.36,
-      "changePct": -1.07
+      "value": 25311.77,
+      "changePct": 0.59
     },
     "sox": {
-      "value": 10328.33,
-      "changePct": -3.37
+      "value": 10611.15,
+      "changePct": 2.74
     }
   },
   "issues": [
@@ -38,6 +38,12 @@
       "title": "앤트로픽도 자금 흡수하나…쏟아지는 미국 주식에 국장 수급 우려 - 인베스트조선",
       "source": "인베스트조선",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcnNZYnFaTGxWZXQybjRMZzJrZl9KUGtfNkRtbXQwOTRLaDZsWDMxUHBhYllieVYwY0x5c2JfZDZ2NHZDUmRBOENxRFVZa0pmZGpESksxN2pJNnZVdnhGdWtPM2JFYmphTmRWNGppSDB3b1dUQWM1VHluMjFFMW03VVJFMA?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "모건 스탠리, 미국 증시 조정 곧 끝날 것으로 전망 - IDNFinancials",
+      "source": "IDNFinancials",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOQ1ZfQUxYWEtCQWV0RGFUZU96T3dSUnp5bXdWNUwxZTRlMDdQYXlEaHJaYWZTY01wTnhpOTlDUDk0Z3JkRlI5Z2hSQVdBYy15anZfd0NOZVd4STk4OXFlak9VdHZGczI2TFVRRG1XY3ExVVRwdHM0S2Z1YzFQOWI0cnNqZVZ4TGVmcFUyMXdzbWc5Y2J2aGdrejFQZFlzRlgySlVzeGQzM2JuOXR0Q2RjUURDTzl1dENLZlZ5SGF4VmdMTUp1LXJUWml5Q1ItRTJQOFVfbVJ3MC1aa3lNNHJuQ0pUOUtDb3NPLVdGQ0ZSYUJYd0tvTkdGZzRlQldTeXJCWnIyWUtEeFdPTlRfX3NkSXQxVUtSamc4OUZvZVdGZTZMM1JyVU5aLXZCa1NZQ1F0NDRXQUhCOUw2MkJYSkd6ZTdPSy1hUQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -50,12 +56,6 @@
       "title": "미국증시를 흔든 주요 기업 주간 이슈 - 마이크로소프트 외 17종목 - 초이스스탁US",
       "source": "초이스스탁US",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EeHI2eHlGVWhTM1haTjVHR1NwYjR0U2hKU1FoaWo1cjFzMS1aWDhLTmpXY3RkZ0F3T09pNUduaGI2dTJ0UHA2NGxZQUtncXRuREp0bzlUZUFja1Z0Tm9uREl3anNNTlZqRWc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미·이란 협상 기대감에 시장 출렁...유가 7%대 급락 - 네이버페이 머니스토리",
-      "source": "네이버페이 머니스토리",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ncHdTa2xGWFJobXY2R0stUnU4NUx3cDZ1aWZabm9SMENHQWE0MlE4dlJQa1cwaFhMSE5pSV9XY3diNDNGcEkyQXdhTVo3NVVXSmFpWUEzaUE?oc=5"
     },
     {
       "tag": "시장 뉴스",
