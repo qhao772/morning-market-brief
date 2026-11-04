@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-04T08:56:23Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.04 17:56 (한국시간)",
+  "updatedAtISO": "2026-11-04T17:03:36Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.05 02:03 (한국시간)",
   "us10y": 4.91,
   "us30y": 5.28,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1339.38,
-  "usdJpy": 158.18,
-  "jpyKrw100": 846.74,
+  "usdKrw": 1341.71,
+  "usdJpy": 158.44,
+  "jpyKrw100": 846.81,
   "indices": {
     "kospi": {
       "value": 5683.8,
@@ -20,16 +20,16 @@
       "changePct": 1.5
     },
     "sp500": {
-      "value": 7568.92,
-      "changePct": 0.36
+      "value": 7699.0,
+      "changePct": 1.72
     },
     "nasdaq": {
-      "value": 25372.01,
-      "changePct": 0.82
+      "value": 25854.22,
+      "changePct": 1.9
     },
     "sox": {
-      "value": 10600.4,
-      "changePct": 2.63
+      "value": 10280.71,
+      "changePct": -3.02
     }
   },
   "issues": [
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 선물 보합세, AMD 강력한 실적에 급등 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDc0ZYczgzSGV5S0FDNkhYMWZmc3RCSzNXRERwMlItZ3JrUzQwSURyR1VRSFFUWXh2N0NwZ3JiZUFxb2VESDY2NGI2c3BIZmYtNVpKMGZ2MnctTk9oQVg4YzktV19IRGJsSUxiNlo0R1A?oc=5"
+      "title": "미국 증시 변동성지수, 약 일주일 만에 최저…16.97 기록 - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ONW52MnhkQWpWZDg2cWU2akxmMmhzWEREazd1dGEwOU56WGFxckNSZFdPQ2o5WkFSZHVvQnA3a0I3dGNiNHI4OUMwRl83Tjdf?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "중간선거 경계에 증시 '출렁'...\"영향 단기적일 듯\" - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IQWpDbGxwZ3RCNkd3X25ISHFmbW40N3JrN2NUTXVTWWNMdmU5S3VQTTBOeVBWX0dzWjQ4bFZleDVxeFNGeEFsalRRd3liY2Q4R0VnY3VkR1hNVTh2ZUE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "\"미국 주식 사라고?\"…'트럼프 카드'에 서학개미 놀랄 반전 전망 - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBobUhJWTVPd2RTQW1MeGhNQ0ppRS1DSlduejM1LVktcXNnN3JvZDJaQ3plZlN3MEVaUU44LVZPZWhsbGJxR1lqNFpkTDk2bVlsakYwTTc4SmxjUQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "중간선거 뒤 상승했던 미국 증시, 마이크론·엔비디아 실적이 연말 길목 가른다 - 글로벌이코노믹",
       "source": "글로벌이코노믹",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkhYOEZXMEVUcUhZM3Q2WWYxNkRaS1RxNHdJeHdSRXRpcnhJbkNqZmQyMFJ3bV8zYmp1eTdiUVZKTnZLSHJTZHA2YUx4ck5DWE9GVV9tTTBMUVA5VVhOUzVIeXhzdWhFcXhYMm85SmtrZzMtMU43dFhiS2VtYmRBNEZvWU15RzFL?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 기술주 강세에 혼조 마감…나스닥 0.83% 상승 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rQzZMYUJNU09Tekg0NG1WNUEyOGR4ZDdHMC1VYnpVWHpBQjhsM3NYYjlHVElHMDYtM2VlRW0xajRZeEhWejRGRm0xdG9pSzh6ZWVPUFlNRHJDY01MUFFLSnVKQUZsQkxUMWFYLU1BTQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "중간선거 주시 속 뉴욕증시 혼조…AI 기업도 시험대 - 네이버페이 머니스토리",
-      "source": "네이버페이 머니스토리",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rYUJrRXRWcjJmV1BWbXdXRzZPRFBNNDRwSkI3bXhzOC0wdTVWSm5fRktjcFVQQUJGbWtqVjB4ODVBQVpGQlYwNk1rck5KWDh0RXJsSzVLaVk?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
