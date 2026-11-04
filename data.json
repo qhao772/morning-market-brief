@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-11-04T01:12:14Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.04 10:12 (한국시간)",
+  "updatedAtISO": "2026-11-04T08:56:23Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.04 17:56 (한국시간)",
   "us10y": 4.91,
   "us30y": 5.28,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1343.28,
-  "usdJpy": 158.26,
-  "jpyKrw100": 848.75,
+  "usdKrw": 1339.38,
+  "usdJpy": 158.18,
+  "jpyKrw100": 846.74,
   "indices": {
     "kospi": {
-      "value": 5729.22,
-      "changePct": 1.42
+      "value": 5683.8,
+      "changePct": 0.62
     },
     "kosdaq": {
-      "value": 706.05,
-      "changePct": 0.24
+      "value": 714.95,
+      "changePct": 1.5
     },
     "sp500": {
       "value": 7568.92,
@@ -35,15 +35,21 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까 - 주간조선",
+      "source": "주간조선",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fLTAxS0JnTUluWnV6TmFYcENYS2psaU5DOU4wM1VvUHFFN20zd29OR29nN09CX3JMcTVpYllvVHlScXlncjc2TWhXVnZsNTVTSW5VNDZXNnJ2U2FKNGRFUjBLaERfSWNkMUHSAW5BVV95cUxNX3JfeFl4SWFHcUQzN18ydnlnNHJsYmRISVBlQXNkano3cHZjNWNqYW5UNnJUemNQbFRVa0FKUkVrdjVCMjJHTy1NcWJOUHlwYm9SN1ZzbXhTd1o0QldkOHpGa2JtX3hibjR4QjkyQQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "미국 증시 선물 보합세, AMD 강력한 실적에 급등 - Investing.com 한국어",
       "source": "Investing.com 한국어",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDc0ZYczgzSGV5S0FDNkhYMWZmc3RCSzNXRERwMlItZ3JrUzQwSURyR1VRSFFUWXh2N0NwZ3JiZUFxb2VESDY2NGI2c3BIZmYtNVpKMGZ2MnctTk9oQVg4YzktV19IRGJsSUxiNlo0R1A?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까 - 주간조선",
-      "source": "주간조선",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fLTAxS0JnTUluWnV6TmFYcENYS2psaU5DOU4wM1VvUHFFN20zd29OR29nN09CX3JMcTVpYllvVHlScXlncjc2TWhXVnZsNTVTSW5VNDZXNnJ2U2FKNGRFUjBLaERfSWNkMUHSAW5BVV95cUxNX3JfeFl4SWFHcUQzN18ydnlnNHJsYmRISVBlQXNkano3cHZjNWNqYW5UNnJUemNQbFRVa0FKUkVrdjVCMjJHTy1NcWJOUHlwYm9SN1ZzbXhTd1o0QldkOHpGa2JtX3hibjR4QjkyQQ?oc=5"
+      "title": "중간선거 뒤 상승했던 미국 증시, 마이크론·엔비디아 실적이 연말 길목 가른다 - 글로벌이코노믹",
+      "source": "글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkhYOEZXMEVUcUhZM3Q2WWYxNkRaS1RxNHdJeHdSRXRpcnhJbkNqZmQyMFJ3bV8zYmp1eTdiUVZKTnZLSHJTZHA2YUx4ck5DWE9GVV9tTTBMUVA5VVhOUzVIeXhzdWhFcXhYMm85SmtrZzMtMU43dFhiS2VtYmRBNEZvWU15RzFL?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "반도체 반등 속 나스닥 상승 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaODVGQTBTZE5RWVhOX3dBTVpmU0dmaXNHdFh3amZqR2dRQVFIX29xUV9HOFkyNTFyZTRkc2QxV3JLTnlXd0NuUFZha2w1aDdVdENpRlB2YWNabmpCaktFaVlWR1NuRFEzaVVFNw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[시황] 미국증시, 중간선거 경계 속 반도체 저가매수에 나스닥 상승, 다우 하락 - 버핏연구소",
-      "source": "버핏연구소",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aUWI0cUg4UTQzSWdUSjA2TGZOZHVwNHNsSWFxNHNsU2tCZzBVRmdSelh0NW96OGR4eHFzQmx1UTZxNmszOTYwNHJNeFIwaTRnNk9Pd3NzNHItLWNVWHl6UzlB?oc=5"
+      "title": "중간선거 주시 속 뉴욕증시 혼조…AI 기업도 시험대 - 네이버페이 머니스토리",
+      "source": "네이버페이 머니스토리",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rYUJrRXRWcjJmV1BWbXdXRzZPRFBNNDRwSkI3bXhzOC0wdTVWSm5fRktjcFVQQUJGbWtqVjB4ODVBQVpGQlYwNk1rck5KWDh0RXJsSzVLaVk?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
