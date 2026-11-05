@@ -1,55 +1,49 @@
 {
-  "updatedAtISO": "2026-11-05T06:23:35Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.05 15:23 (한국시간)",
+  "updatedAtISO": "2026-11-05T15:20:55Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.06 00:20 (한국시간)",
   "us10y": 4.95,
   "us30y": 5.32,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1342.32,
-  "usdJpy": 157.89,
-  "jpyKrw100": 850.17,
+  "usdKrw": 1349.88,
+  "usdJpy": 158.0,
+  "jpyKrw100": 854.34,
   "indices": {
     "kospi": {
-      "value": 5347.19,
-      "changePct": -5.92
+      "value": 5383.8,
+      "changePct": -5.28
     },
     "kosdaq": {
-      "value": 675.09,
-      "changePct": -5.58
+      "value": 678.41,
+      "changePct": -5.11
     },
     "sp500": {
-      "value": 7688.62,
-      "changePct": 1.58
+      "value": 7513.19,
+      "changePct": -2.28
     },
     "nasdaq": {
-      "value": 25736.51,
-      "changePct": 1.44
+      "value": 24749.56,
+      "changePct": -3.83
     },
     "sox": {
-      "value": 10268.65,
-      "changePct": -3.13
+      "value": 9419.92,
+      "changePct": -8.27
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[미국증시] 민주당 압승에 반도체 급락…앤트로픽이 변수 - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XOUp6dHlTQWFrbkxGMDctOVV4MDc2RzV5dVU4UGREMUNfck1mMWVTOVF4TWJGQkp0OUJvR1VjYU5SYkdrZkJHaTJtV1hyZ2MtMUZORldGcWxMSDJreXpZNWFTTGQ5bDA?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시 장초반 강세…민주당 상·하원 승리에 다우 급등, 테슬라·AI주 약세 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DVmdmak5mbExIdVNacGZkM3BJVnJtUUFqVzc2YWRreFJlUG50UndMb3NUX1k3RFdCMmQtZXJwUUNKSGNSazNmQnRHTzc0b2Nob2FHZ2tSTENlUGs4RXdBN0xwNlZnekFmejhGa2pjYkVHZw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "코스피, 미국 증시 강세 마감에도 3%대 하락...매도 사이드카 발동 - YTN",
+      "title": "미국 증시는 급등했는데 삼전닉스는 '급락'...한 번 더 충격 올까? [몇층이세요] - YTN",
       "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OQy1ZYlUzV3ViVXppNzRGR09VZXQzQ0RsVkhMdjR1S2gtcktVSGNMUDBuaTVwTXUtT0UwWDRBek5xOWx6eFdGZVZxRWtvUUtHeHNTRHdMVFZha2JaVmc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pQzRwbS1VZ3FJQXdXZHlFeVBsU3NDM2Y5SDQ4Mm9CZGdLZTZvd2ttbkRmNUlybnJNa1ltV0EwQjVMVUVfVnFDSDdPektxQWZNUVdrSTd4ekRENFljLWc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[3분증시] 뉴욕증시, ’블루 웨이브’ 속 일제히 상승 - 연합뉴스TV",
+      "source": "연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41NC1pOGlFS1puVnlyYkl4UGZXT21yblVtTXVqeDkxdzcyN3N2cVFLWTRyVVNmdjFVdnF0ZUMtSHVkSlZuMTFfSUxjYXNhdmMzdnpZbHpxLVE2MnYtb2pxLUM5VEhLdVE?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 장초반 혼조…엔비디아·SK하이닉스 급등, 애플·팔란티어 급락에 다우 약세 - 톱스타뉴스",
+      "title": "미국증시 장초반 혼조…나스닥 1.55% 급락·다우 상승, AI 반도체 매도 확대 - 톱스타뉴스",
       "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03MGtuVTFvVVFzdGUwNFRYWF9Vb2xDeE1KYmFwWHM5d1EzWlJ3dUt5SjFSMXBIbU9YTEZjcGxRQVRyNW1wb1J3bnRuR015Q3h0Z2x0aE81cXotTDRHYWw5SV9vMlZsRGphRHJUS0loRWZUdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yRzlSZlhXaVYzQWdfWDFDTkx6YTBhSFM4SE9hY1BPVEpnMWR6UEx6enEwdkV6eHdFWmVRZ0t1X1NmZUJkdlJzeHIwNWI1UUNockMtcTJLRkF4RFBIQ0ctbkNZWlhBaWM2Uk9nRnRtanhmdw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "코스피 4950까지 추락 vs 6700까지 반등…美 중간선거 공식 통할까 - 주간조선",
+      "source": "주간조선",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fLTAxS0JnTUluWnV6TmFYcENYS2psaU5DOU4wM1VvUHFFN20zd29OR29nN09CX3JMcTVpYllvVHlScXlncjc2TWhXVnZsNTVTSW5VNDZXNnJ2U2FKNGRFUjBLaERfSWNkMUHSAW5BVV95cUxNX3JfeFl4SWFHcUQzN18ydnlnNHJsYmRISVBlQXNkano3cHZjNWNqYW5UNnJUemNQbFRVa0FKUkVrdjVCMjJHTy1NcWJOUHlwYm9SN1ZzbXhTd1o0QldkOHpGa2JtX3hibjR4QjkyQQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
