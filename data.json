@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-11-06T02:12:29Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.06 11:12 (한국시간)",
+  "updatedAtISO": "2026-11-06T10:41:52Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.06 19:41 (한국시간)",
   "us10y": 4.9,
   "us30y": 5.28,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1356.38,
-  "usdJpy": 157.95,
-  "jpyKrw100": 858.75,
+  "usdKrw": 1353.92,
+  "usdJpy": 158.25,
+  "jpyKrw100": 855.55,
   "indices": {
     "kospi": {
-      "value": 5031.01,
-      "changePct": -6.55
+      "value": 5059.69,
+      "changePct": -6.02
     },
     "kosdaq": {
-      "value": 638.45,
-      "changePct": -5.89
+      "value": 644.27,
+      "changePct": -5.03
     },
     "sp500": {
       "value": 7353.73,
@@ -35,9 +35,15 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 마감 49분 前...4대지수 · 반도체주 · AI기술주 '폭락' - 초이스경제",
-      "source": "초이스경제",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mQXRqVFpyVTdrSVYxZmtHV2tKN0Z2UE1MMXJlcmpPNDZ0WE1sTjRFZ2d2ZUExbjFkVDYxc1hVSXhjQS1mZHJoVUI5dXRtU2hVNkdFQ2wwa0hJZTZxYk03di0xQ2dZNlF4MU1KR1ZMMkXSAXNBVV95cUxORzdXdlRKanhnYVZsWlpPTjA4VEU2YmxiVTJDVzhNcjd2OVlFemY4bEx6V1VVeUEzeXdkcmctUU51bGdPcldEbExyNkEtUEdSUlZleEhfQ0hCY3FVRzNJUER4Y2RlUmx3T09ReWJCTk5ZakFR?oc=5"
+      "title": "'미국 증시 급락', 중간선거 이후 AI 성장 둔화 우려 커지나 - BBC",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01Y0NCUWtoTEZ0dHNmdnZyS2JiLVdOM0s5cldXOW5fUXUzaWViLXlGVnpBWHhBYWVIVEhvZ2VGRWtyeHk4OVM0eFpnR01ET3JaZzZPREQwN2VucHhhaHfSAWNBVV95cUxPMjd4SHBBN0x1RmhZXzlOdGV3c28zeXBVRk1Xc3I5SU5fMlhPWXRxeEgzSV8xMkN4c3JsVTM4NHI2b2FqRWt2VkVoVzF3WVZYYmNrcUFKX2tsZ1JSblF2R0hjR28?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "트럼프 중간선거 패배 후 미국 증시 깜짝 반등한 이유 - 녹색경제신문",
+      "source": "녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hUncwZzYyVXlYU1RSdXBiU1d1d2lUdVlwMmJRNmVYTWcydlk0VDRPX0JWTVZzRXlnY1hCcHAtbXgwM3kyX2NRSjJNa0VmbDNDRnV6SlNKQjFmd3Q0NDdRU0E0LWNGbGgz?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,21 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[블루쓰나미 긴급진단]美상장 한국 ETF 13% 폭락…코스피 추가 급락 우려 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rRzY0eXA4RlgxREV0WW8tdHQwdGJDYTVnUDYxbDRIeVB3SVhNWkJ4UFpBZ3pnZGJCRHdHeE15OGhiV3J4NU9OdE14T1lrVmdqaUFJeEJuR0pOMUZoV1ZRWnZqTC05enBoLWNKU3dfSS1Edw?oc=5"
+      "title": "사규는 AI가 찾고 미국 증시는 AI가 요약한다…하나증권의 AI 실험 - 바이라인네트워크",
+      "source": "바이라인네트워크",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iakdQYzdNbWZlbU1tdWI0RHJ2ZVg5c1pYU3hZRFpsMTJWNmF2X21KRjN2aWFrakNOZTVEblZWWkh4dEtCOTJBVW9uMXo3MHR1?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "유럽 증시, 미국 증시 하락에 상승분 반납 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yUUppYzZnMTRjQWlid2ItRDRyTWJwRkdBT0RQOFhIV1lMTWtZeEROa2NNWjNEdkxFM3VpQ3laT3ZkQ0k4cTBWa09NaFc1SzhWMHNCUDJlYzNLX1JvNElsNTl4Ym02VWIyZGpRYWdubzg?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "하루 만에 4300조 증발…AI 규제 공포가 뉴욕증시 덮쳤다 - 전자신문",
-      "source": "전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QdFVOTDlOa2dRUTlYc3R2N3dqdWdXV0dnSDZZSTJoOVpiUlNaQ0o2RF9CczlfRWMtNy05aXl1WGJOdjR0UUhST3JHY2xEdw?oc=5"
+      "title": "서킷브레이커 발동 등 폭락세...\"미 증시 하락 여파\" - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91V3BvaE9uZFItVTA4V3ZwTzkxbHFQVjhwa0N5dXlwb2ZQcWZxZ2lRSm1lT2R6RzhaWU1Rd2RiRUFFcFVDY1U5OV96STk3MDh1RXQzR2FtcV9tVG5PZnc?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
