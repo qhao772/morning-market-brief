@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-11-05T21:53:59Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.06 06:53 (한국시간)",
+  "updatedAtISO": "2026-11-06T02:12:29Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.06 11:12 (한국시간)",
   "us10y": 4.9,
   "us30y": 5.28,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1357.44,
-  "usdJpy": 157.72,
-  "jpyKrw100": 860.69,
+  "usdKrw": 1356.38,
+  "usdJpy": 157.95,
+  "jpyKrw100": 858.75,
   "indices": {
     "kospi": {
-      "value": 5383.8,
-      "changePct": -5.28
+      "value": 5031.01,
+      "changePct": -6.55
     },
     "kosdaq": {
-      "value": 678.41,
-      "changePct": -5.11
+      "value": 638.45,
+      "changePct": -5.89
     },
     "sp500": {
       "value": 7353.73,
@@ -35,9 +35,21 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시 급락 반전…나스닥 장중 4% 이상↓ 조정국면 진입 - 연합뉴스",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rUF9wVHpjMlAwcTZnNGpfMlNQenFwX1dVSjExRm90aHlwMGduM2hKS2VBYTd3eDByeXZmLUt6V1NmRmUwZHhJZGVfUmZyME82OUN4U2t0MmhBQWfSAWBBVV95cUxONmlGcld3ZnNzRFVwdXROT05nOU1vVHp2Zk55NGllSG5yc1F6WWRrUndWMWVfdVpqY2VrLU9ybUdTVjc5MHA0el9PVlliTXozR3RPMWtBQUtWTVB1Q2dmM1Q?oc=5"
+      "title": "미국증시 마감 49분 前...4대지수 · 반도체주 · AI기술주 '폭락' - 초이스경제",
+      "source": "초이스경제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mQXRqVFpyVTdrSVYxZmtHV2tKN0Z2UE1MMXJlcmpPNDZ0WE1sTjRFZ2d2ZUExbjFkVDYxc1hVSXhjQS1mZHJoVUI5dXRtU2hVNkdFQ2wwa0hJZTZxYk03di0xQ2dZNlF4MU1KR1ZMMkXSAXNBVV95cUxORzdXdlRKanhnYVZsWlpPTjA4VEU2YmxiVTJDVzhNcjd2OVlFemY4bEx6V1VVeUEzeXdkcmctUU51bGdPcldEbExyNkEtUEdSUlZleEhfQ0hCY3FVRzNJUER4Y2RlUmx3T09ReWJCTk5ZakFR?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 증시, 데이터센터 규제 우려에 AI 투매로 급락…나스닥 5.52% 하락해 기술적 조정장 진입 - 와우넷 오늘장전략 - 한국경제TV",
+      "source": "한국경제TV",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56V3RzdXVKWHUwTTRTcXZNb1FRYkt5MHh0Mm1UMG40N3lhSDdaZkJjbGpyVWtUSlZaeEpFWEItalNIbnJ5WTNDT0xpMl9XS0hSaWY4UjF6UGpCR01hUEVoeWRLWlZMeFpQb2ZyNS1DbUUzX3pMSUZj?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[블루쓰나미 긴급진단]美상장 한국 ETF 13% 폭락…코스피 추가 급락 우려 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rRzY0eXA4RlgxREV0WW8tdHQwdGJDYTVnUDYxbDRIeVB3SVhNWkJ4UFpBZ3pnZGJCRHdHeE15OGhiV3J4NU9OdE14T1lrVmdqaUFJeEJuR0pOMUZoV1ZRWnZqTC05enBoLWNKU3dfSS1Edw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,21 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "코스피, 미국 증시 강세 마감에도 3%대 하락...매도 사이드카 발동 - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lNXI1SFpvQXNkQTJsZV9VSld2ZW41TnpHcDRSaS1Sak5ZV2QxNzNyU2twR1EzaG9mUjhDMTZWNzZaQVNxQ0dUa1VUZnVzSllvbXFKOXpXYmJPTnlPblE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "BTIG \"미국 증시 업종 순환매에 시장 취약성 확대…광범위한 매도 가능성\" - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vandmeVJQLXBudlZxbUoyT0hsazBSMms2aUxxdTg1QXdwMW45eTRqdktxcVd1WElycTB2V2xPR3hoTUJ3VUZMc1k1Q0JlZVkx?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국 증시 폭락 이유…20조 달러 증발 3가지 원인 - BeInCrypto",
-      "source": "BeInCrypto",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRVmNKZll4Q1kyODNsa2xnckRhRUVpeXlGWlQxSVBBelQ1ZEdiV1ZaNTE2VTE1YW9DRUZpdWdZcFhET0FPdDVHd0psN2Y1Z2ktUVd2TjlvS1ZRbVFDRndOQUF1WGtMd20yQ19wY0xxTDR2WXc?oc=5"
+      "title": "하루 만에 4300조 증발…AI 규제 공포가 뉴욕증시 덮쳤다 - 전자신문",
+      "source": "전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9QdFVOTDlOa2dRUTlYc3R2N3dqdWdXV0dnSDZZSTJoOVpiUlNaQ0o2RF9CczlfRWMtNy05aXl1WGJOdjR0UUhST3JHY2xEdw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
