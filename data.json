@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-06T17:52:56Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.07 02:52 (한국시간)",
-  "us10y": 4.9,
-  "us30y": 5.28,
+  "updatedAtISO": "2026-11-06T22:58:35Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.07 07:58 (한국시간)",
+  "us10y": 4.84,
+  "us30y": 5.25,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1362.01,
-  "usdJpy": 158.19,
-  "jpyKrw100": 860.99,
+  "usdKrw": 1363.65,
+  "usdJpy": 158.43,
+  "jpyKrw100": 860.75,
   "indices": {
     "kospi": {
       "value": 5059.69,
@@ -20,16 +20,16 @@
       "changePct": -5.03
     },
     "sp500": {
-      "value": 7380.26,
-      "changePct": 0.36
+      "value": 7376.86,
+      "changePct": 0.32
     },
     "nasdaq": {
-      "value": 24530.88,
-      "changePct": 0.89
+      "value": 24579.42,
+      "changePct": 1.09
     },
     "sox": {
-      "value": 9243.67,
-      "changePct": 2.58
+      "value": 9390.25,
+      "changePct": 4.21
     }
   },
   "issues": [
@@ -38,6 +38,12 @@
       "title": "코스피, 미국 증시 강세 마감에도 3%대 하락...매도 사이드카 발동 - YTN",
       "source": "YTN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OQy1ZYlUzV3ViVXppNzRGR09VZXQzQ0RsVkhMdjR1S2gtcktVSGNMUDBuaTVwTXUtT0UwWDRBek5xOWx6eFdGZVZxRWtvUUtHeHNTRHdMVFZha2JaVmc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 증시 급락에 영국 FTSE 하락 마감 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80NXNGN0V3MUNmZ1FMWUFVUHdwVmdxaFhBUGlvRWJ6aGc5QVZTOWlwdU5IMlk5SGhSdTlmb0pPeVdQWThFajREOW94dFFGMzRfa0tzZUNtd0tMSGY5WXZqVUl3YkhmZlNmcFVwZWNpemk?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -56,12 +62,6 @@
       "title": "미국증시 마감 49분 前...4대지수 · 반도체주 · AI기술주 '폭락' - 초이스경제",
       "source": "초이스경제",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mQXRqVFpyVTdrSVYxZmtHV2tKN0Z2UE1MMXJlcmpPNDZ0WE1sTjRFZ2d2ZUExbjFkVDYxc1hVSXhjQS1mZHJoVUI5dXRtU2hVNkdFQ2wwa0hJZTZxYk03di0xQ2dZNlF4MU1KR1ZMMkXSAXNBVV95cUxORzdXdlRKanhnYVZsWlpPTjA4VEU2YmxiVTJDVzhNcjd2OVlFemY4bEx6V1VVeUEzeXdkcmctUU51bGdPcldEbExyNkEtUEdSUlZleEhfQ0hCY3FVRzNJUER4Y2RlUmx3T09ReWJCTk5ZakFR?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국증시 나스닥 1.65% 반등·다우 하락…엔비디아 6.56% 급등, 고용 호조에 금리 부담 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CVGFNZkFjYUZYV3JxOVhPOFVEcGE4Sm45dVJZVmtLV2NzU05GaU5pUFREbmtKXzB4RC16bTJGZkxBR2JjckRUdG9UcWdaMTAtdzh0Q1VoUnJXOHNZR1k0NHBzMEo3MGMycVJtbWpKQVVFZw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
