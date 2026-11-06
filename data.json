@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-06T10:41:52Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.06 19:41 (한국시간)",
+  "updatedAtISO": "2026-11-06T17:52:56Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.07 02:52 (한국시간)",
   "us10y": 4.9,
   "us30y": 5.28,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1353.92,
-  "usdJpy": 158.25,
-  "jpyKrw100": 855.55,
+  "usdKrw": 1362.01,
+  "usdJpy": 158.19,
+  "jpyKrw100": 860.99,
   "indices": {
     "kospi": {
       "value": 5059.69,
@@ -20,48 +20,48 @@
       "changePct": -5.03
     },
     "sp500": {
-      "value": 7353.73,
-      "changePct": -4.36
+      "value": 7380.26,
+      "changePct": 0.36
     },
     "nasdaq": {
-      "value": 24315.0,
-      "changePct": -5.52
+      "value": 24530.88,
+      "changePct": 0.89
     },
     "sox": {
-      "value": 9011.14,
-      "changePct": -12.25
+      "value": 9243.67,
+      "changePct": 2.58
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "'미국 증시 급락', 중간선거 이후 AI 성장 둔화 우려 커지나 - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01Y0NCUWtoTEZ0dHNmdnZyS2JiLVdOM0s5cldXOW5fUXUzaWViLXlGVnpBWHhBYWVIVEhvZ2VGRWtyeHk4OVM0eFpnR01ET3JaZzZPREQwN2VucHhhaHfSAWNBVV95cUxPMjd4SHBBN0x1RmhZXzlOdGV3c28zeXBVRk1Xc3I5SU5fMlhPWXRxeEgzSV8xMkN4c3JsVTM4NHI2b2FqRWt2VkVoVzF3WVZYYmNrcUFKX2tsZ1JSblF2R0hjR28?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "트럼프 중간선거 패배 후 미국 증시 깜짝 반등한 이유 - 녹색경제신문",
-      "source": "녹색경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hUncwZzYyVXlYU1RSdXBiU1d1d2lUdVlwMmJRNmVYTWcydlk0VDRPX0JWTVZzRXlnY1hCcHAtbXgwM3kyX2NRSjJNa0VmbDNDRnV6SlNKQjFmd3Q0NDdRU0E0LWNGbGgz?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국 증시, 데이터센터 규제 우려에 AI 투매로 급락…나스닥 5.52% 하락해 기술적 조정장 진입 - 와우넷 오늘장전략 - 한국경제TV",
-      "source": "한국경제TV",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56V3RzdXVKWHUwTTRTcXZNb1FRYkt5MHh0Mm1UMG40N3lhSDdaZkJjbGpyVWtUSlZaeEpFWEItalNIbnJ5WTNDT0xpMl9XS0hSaWY4UjF6UGpCR01hUEVoeWRLWlZMeFpQb2ZyNS1DbUUzX3pMSUZj?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "사규는 AI가 찾고 미국 증시는 AI가 요약한다…하나증권의 AI 실험 - 바이라인네트워크",
-      "source": "바이라인네트워크",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iakdQYzdNbWZlbU1tdWI0RHJ2ZVg5c1pYU3hZRFpsMTJWNmF2X21KRjN2aWFrakNOZTVEblZWWkh4dEtCOTJBVW9uMXo3MHR1?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "서킷브레이커 발동 등 폭락세...\"미 증시 하락 여파\" - YTN",
+      "title": "코스피, 미국 증시 강세 마감에도 3%대 하락...매도 사이드카 발동 - YTN",
       "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91V3BvaE9uZFItVTA4V3ZwTzkxbHFQVjhwa0N5dXlwb2ZQcWZxZ2lRSm1lT2R6RzhaWU1Rd2RiRUFFcFVDY1U5OV96STk3MDh1RXQzR2FtcV9tVG5PZnc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OQy1ZYlUzV3ViVXppNzRGR09VZXQzQ0RsVkhMdjR1S2gtcktVSGNMUDBuaTVwTXUtT0UwWDRBek5xOWx6eFdGZVZxRWtvUUtHeHNTRHdMVFZha2JaVmc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "AI 규제 우려에 미국 증시 급락…정부, 국내 금융시장 과민 반응 경계 - 데일리안",
+      "source": "데일리안",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNazMzU1pnVXVOSjFzZ1ItekRKZG40c0ltLUJPbDNxZTNVc3ZNUmljcjEzb3dLQzNMb3Zjc19ld0pOU25ESF9lNDVkLVp1UFY0REo4eXNWaXNrMFdoY3l4dVBQeUJ1VW5JQVNZMFRpODI0TWpkZVZRVU4wTnFqOThaSVZfZnktSE0xSFJTbl9xcVpqdVkwaVFMWFYxdXdCZDFmel9hblFVTmdSRnJMaDFkZ3YweWpjaTJ0TUJwYkJXUFY5NGZPNmkyY3djNm1jelowa0dhalVwaEsyTTZhbVpVa21UMUljSmw3elQ4bGJNZGxxQjQtTVFj?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "헤지펀드의 항복 선언인가? 폭락한 미국 증시 왜 - 매일경제",
+      "source": "매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nMTRpNktNU2JNakJyeXNBSi1WMHU0ekxyYUQwSEZCa1dJMGg5UWYxZWhNX3pQdEVRUHV1T2JrRE1tb3Y5RlpPYklBVjdJTTVfV2hwY01B?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시 마감 49분 前...4대지수 · 반도체주 · AI기술주 '폭락' - 초이스경제",
+      "source": "초이스경제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mQXRqVFpyVTdrSVYxZmtHV2tKN0Z2UE1MMXJlcmpPNDZ0WE1sTjRFZ2d2ZUExbjFkVDYxc1hVSXhjQS1mZHJoVUI5dXRtU2hVNkdFQ2wwa0hJZTZxYk03di0xQ2dZNlF4MU1KR1ZMMkXSAXNBVV95cUxORzdXdlRKanhnYVZsWlpPTjA4VEU2YmxiVTJDVzhNcjd2OVlFemY4bEx6V1VVeUEzeXdkcmctUU51bGdPcldEbExyNkEtUEdSUlZleEhfQ0hCY3FVRzNJUER4Y2RlUmx3T09ReWJCTk5ZakFR?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시 나스닥 1.65% 반등·다우 하락…엔비디아 6.56% 급등, 고용 호조에 금리 부담 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CVGFNZkFjYUZYV3JxOVhPOFVEcGE4Sm45dVJZVmtLV2NzU05GaU5pUFREbmtKXzB4RC16bTJGZkxBR2JjckRUdG9UcWdaMTAtdzh0Q1VoUnJXOHNZR1k0NHBzMEo3MGMycVJtbWpKQVVFZw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
