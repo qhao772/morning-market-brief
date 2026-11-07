@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-11-07T16:16:22Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.08 01:16 (한국시간)",
+  "updatedAtISO": "2026-11-07T20:46:33Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.08 05:46 (한국시간)",
   "us10y": 4.84,
   "us30y": 5.25,
   "fedFundsLow": 3.75,
@@ -35,18 +35,6 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "\"미국 주식 사라고?\"…'트럼프 카드'에 서학개미 놀랄 반전 전망 - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBobUhJWTVPd2RTQW1MeGhNQ0ppRS1DSlduejM1LVktcXNnN3JvZDJaQ3plZlN3MEVaUU44LVZPZWhsbGJxR1lqNFpkTDk2bVlsakYwTTc4SmxjUQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "AI 규제 우려에 미국 증시 급락…정부, 국내 금융시장 과민 반응 경계 - 데일리안",
-      "source": "데일리안",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNazMzU1pnVXVOSjFzZ1ItekRKZG40c0ltLUJPbDNxZTNVc3ZNUmljcjEzb3dLQzNMb3Zjc19ld0pOU25ESF9lNDVkLVp1UFY0REo4eXNWaXNrMFdoY3l4dVBQeUJ1VW5JQVNZMFRpODI0TWpkZVZRVU4wTnFqOThaSVZfZnktSE0xSFJTbl9xcVpqdVkwaVFMWFYxdXdCZDFmel9hblFVTmdSRnJMaDFkZ3YweWpjaTJ0TUJwYkJXUFY5NGZPNmkyY3djNm1jelowa0dhalVwaEsyTTZhbVpVa21UMUljSmw3elQ4bGJNZGxxQjQtTVFj?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "코스피, 미국 증시 강세 마감에도 3%대 하락...매도 사이드카 발동 - YTN",
       "source": "YTN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OQy1ZYlUzV3ViVXppNzRGR09VZXQzQ0RsVkhMdjR1S2gtcktVSGNMUDBuaTVwTXUtT0UwWDRBek5xOWx6eFdGZVZxRWtvUUtHeHNTRHdMVFZha2JaVmc?oc=5"
@@ -59,9 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "미국증시 마감 49분 前...4대지수 · 반도체주 · AI기술주 '폭락' - 초이스경제",
+      "source": "초이스경제",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yNHRKN0VhaG5mMFJPaWRwd1FpYklaNTFnY1FEZFJtZHo2MUE5WVlRVEtSTTB6bDg3d1E2OEdqRm5ZMmQ0bWdjVmE3UWthemhiUmw5ZlhqVk5RV29sSTM2ajRBbElWMloyM0EtWDYxTdIBc0FVX3lxTE5HN1d2VEpqeGdhVmxaWk9OMDhURTZibGJVMkNXOE1yN3Y5WUV6ZjhsTHpXVVV5QTN5d2RyZy1RTnVsZ09yV0RsTHI2QS1QR1JSVmV4SF9DSEJjcVVHM0lQRHhjZGVSbHdPT1F5YkJOTllqQVE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "미국증시 나스닥 1.09% 반등에도 다우 하락…AI·반도체 저가매수, 고용 호조에 금리 부담 - 톱스타뉴스",
       "source": "톱스타뉴스",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkYTdLalFCdm5POTVzSEtnVTNDbTNvT256aVhOZ1FDUnRNQlB3MzMyTm1qcHVIdS1NOWwzT3RZNXhPanhqZTNYaGRPVTUxVC02SEM1NzAyMkJodnlBNHRYSkdyVy1XbkUyU3diTC1JX3Zpdw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 증시 폭락 뒤에 지나 히노호사(Gina Hinojosa)가 있다? [이석우의 글로벌24] - 파이낸셜뉴스",
+      "source": "파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ncWVaWi01VTJZblNkTXJieGdJQ1BnemtjMWdkZWFaWE5JWjVCMzdIdjRhX19zZ0pEV2NtU21wWDBIN29VcHRiQjR2MTFLUWhBNWFSNUhWY1JOQQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
