@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-11-07T20:46:33Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.08 05:46 (한국시간)",
+  "updatedAtISO": "2026-11-08T00:22:53Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.08 09:22 (한국시간)",
   "us10y": 4.84,
   "us30y": 5.25,
   "fedFundsLow": 3.75,
@@ -47,21 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 마감 49분 前...4대지수 · 반도체주 · AI기술주 '폭락' - 초이스경제",
-      "source": "초이스경제",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yNHRKN0VhaG5mMFJPaWRwd1FpYklaNTFnY1FEZFJtZHo2MUE5WVlRVEtSTTB6bDg3d1E2OEdqRm5ZMmQ0bWdjVmE3UWthemhiUmw5ZlhqVk5RV29sSTM2ajRBbElWMloyM0EtWDYxTdIBc0FVX3lxTE5HN1d2VEpqeGdhVmxaWk9OMDhURTZibGJVMkNXOE1yN3Y5WUV6ZjhsTHpXVVV5QTN5d2RyZy1RTnVsZ09yV0RsTHI2QS1QR1JSVmV4SF9DSEJjcVVHM0lQRHhjZGVSbHdPT1F5YkJOTllqQVE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "미국증시 나스닥 1.09% 반등에도 다우 하락…AI·반도체 저가매수, 고용 호조에 금리 부담 - 톱스타뉴스",
       "source": "톱스타뉴스",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkYTdLalFCdm5POTVzSEtnVTNDbTNvT256aVhOZ1FDUnRNQlB3MzMyTm1qcHVIdS1NOWwzT3RZNXhPanhqZTNYaGRPVTUxVC02SEM1NzAyMkJodnlBNHRYSkdyVy1XbkUyU3diTC1JX3Zpdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 폭락 뒤에 지나 히노호사(Gina Hinojosa)가 있다? [이석우의 글로벌24] - 파이낸셜뉴스",
-      "source": "파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ncWVaWi01VTJZblNkTXJieGdJQ1BnemtjMWdkZWFaWE5JWjVCMzdIdjRhX19zZ0pEV2NtU21wWDBIN29VcHRiQjR2MTFLUWhBNWFSNUhWY1JOQQ?oc=5"
+      "title": "미국증시 마감 49분 前...4대지수 · 반도체주 · AI기술주 '폭락' - 초이스경제",
+      "source": "초이스경제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mQXRqVFpyVTdrSVYxZmtHV2tKN0Z2UE1MMXJlcmpPNDZ0WE1sTjRFZ2d2ZUExbjFkVDYxc1hVSXhjQS1mZHJoVUI5dXRtU2hVNkdFQ2wwa0hJZTZxYk03di0xQ2dZNlF4MU1KR1ZMMkXSAXNBVV95cUxORzdXdlRKanhnYVZsWlpPTjA4VEU2YmxiVTJDVzhNcjd2OVlFemY4bEx6V1VVeUEzeXdkcmctUU51bGdPcldEbExyNkEtUEdSUlZleEhfQ0hCY3FVRzNJUER4Y2RlUmx3T09ReWJCTk5ZakFR?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시 나스닥 1.65% 반등·다우 하락…엔비디아 6.56% 급등, 고용 호조에 금리 부담 - 톱스타뉴스",
+      "source": "톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CVGFNZkFjYUZYV3JxOVhPOFVEcGE4Sm45dVJZVmtLV2NzU05GaU5pUFREbmtKXzB4RC16bTJGZkxBR2JjckRUdG9UcWdaMTAtdzh0Q1VoUnJXOHNZR1k0NHBzMEo3MGMycVJtbWpKQVVFZw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
