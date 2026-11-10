@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-10T08:14:49Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.10 17:14 (한국시간)",
+  "updatedAtISO": "2026-11-10T16:57:08Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.11 01:57 (한국시간)",
   "us10y": 4.86,
   "us30y": 5.26,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1335.71,
-  "usdJpy": 157.97,
-  "jpyKrw100": 845.53,
+  "usdKrw": 1343.64,
+  "usdJpy": 158.77,
+  "jpyKrw100": 846.29,
   "indices": {
     "kospi": {
       "value": 5239.13,
@@ -20,24 +20,24 @@
       "changePct": 4.48
     },
     "sp500": {
-      "value": 7549.94,
-      "changePct": 2.35
+      "value": 7481.76,
+      "changePct": -0.9
     },
     "nasdaq": {
-      "value": 25253.14,
-      "changePct": 2.74
+      "value": 24915.19,
+      "changePct": -1.34
     },
     "sox": {
-      "value": 10033.93,
-      "changePct": 6.86
+      "value": 9802.1,
+      "changePct": -2.31
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 상승·유가 하락에 코스피 코스닥 반등 - YTN",
+      "title": "미 증시 강세·유가 하락...코스피, 4.4% 반등 마감 - YTN",
       "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lbDlmMTJzNkNqMDkyTEkzbUdTQ19lV1ZuZk52MVRidWFtUl9EMzVuZjFZMGVZeWhTWks5MUl1WWZmaUEzX0xOOGhiOUFfU09zN05WM0lyQ3RqYkMzRFE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DN2h6b29vRjE2QkdHS29MdG9qbXJnRVNpTU1Ub3RpTDZmRDZ4T1FJajlrRjRQNnI2V1c3dWhSS3dnU2ZtNjRJWEVYQUtpTC1DTUJzTW9CVVYxQ3lIeXc?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,21 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "기술주 반등 후 미국 증시 선물 보합세…CPI 발표 주목 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHSlNsd3hBV0JvSkttdU04NFpoRlpLanJ2d1N1ODJiOThjeDV3WDhXeURPVHZ3THBzOEtWbmUwOEhCY2xud1ROSW00VjdGRmNBcFZrOW1hRzdaeWNQdFA0UlZYV2pMb1RXMjhmejFVdG0?oc=5"
+      "title": "'미국 증시 급락', 중간선거 이후 AI 성장 둔화 우려 커지나 - BBC",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01Y0NCUWtoTEZ0dHNmdnZyS2JiLVdOM0s5cldXOW5fUXUzaWViLXlGVnpBWHhBYWVIVEhvZ2VGRWtyeHk4OVM0eFpnR01ET3JaZzZPREQwN2VucHhhaHfSAWNBVV95cUxPMjd4SHBBN0x1RmhZXzlOdGV3c28zeXBVRk1Xc3I5SU5fMlhPWXRxeEgzSV8xMkN4c3JsVTM4NHI2b2FqRWt2VkVoVzF3WVZYYmNrcUFKX2tsZ1JSblF2R0hjR28?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[亞증시-종합] AI 관련주 매수세에 일제히 상승 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ec1Q5eEFqWjVaMFBDYV8tY2xYb2FERjZLalNOU1FTbWJZa01zY09sa2I4R2h4Z2lBWm8wZXlsRGdfc1VjUzNhRmRaMmNwNVJVVGFSSEJZZGw3d3pRV0stT3JROTc1NmFVMjZhUU5US0FYdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "[서울데이터랩] 미국 증시, 기술주·반도체 강세에 일제히 급등 마감 - 서울신문",
       "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XeTNLbjc1akV2cVJXbTdObkJqZXFJZUVfMnREb0RtUm1GV0xfVXVsMFNaTkMtZFJ5bDJibEhqdkh1alNJSnpQWXFOTzVmWWNfZld0WE1hWF9oU1ZFV2RHdFl0TlNRbnotc2NuRk1jZw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[ETF 특징주] 증시 급락에도 미국 ETF 한 주간 141억달러 유입 - 뉴스핌",
-      "source": "뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NSXVoY1Racl9yd3Z0a2hhQ1lZelBFZVpkRVVFMmF3clhRbDRraDhRSmR6Mnh5YkNlNXc2YnNncmdNN2trcTFkcnByRlh0RWZsNXF6QU1NNW1lZTky?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
