@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-09T15:59:43Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.10 00:59 (한국시간)",
-  "us10y": 4.84,
-  "us30y": 5.25,
+  "updatedAtISO": "2026-11-10T00:11:02Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.10 09:11 (한국시간)",
+  "us10y": 4.86,
+  "us30y": 5.26,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1345.49,
-  "usdJpy": 158.12,
-  "jpyKrw100": 850.94,
+  "usdKrw": 1344.88,
+  "usdJpy": 158.04,
+  "jpyKrw100": 851.0,
   "indices": {
     "kospi": {
       "value": 5018.85,
@@ -20,19 +20,25 @@
       "changePct": -0.82
     },
     "sp500": {
-      "value": 7540.82,
-      "changePct": 2.22
+      "value": 7549.94,
+      "changePct": 2.35
     },
     "nasdaq": {
-      "value": 25268.17,
-      "changePct": 2.8
+      "value": 25253.14,
+      "changePct": 2.74
     },
     "sox": {
-      "value": 10036.7,
-      "changePct": 6.88
+      "value": 10033.93,
+      "changePct": 6.86
     }
   },
   "issues": [
+    {
+      "tag": "시장 뉴스",
+      "title": "[서울데이터랩] 미국 증시, 기술주·반도체 강세에 일제히 급등 마감 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XeTNLbjc1akV2cVJXbTdObkJqZXFJZUVfMnREb0RtUm1GV0xfVXVsMFNaTkMtZFJ5bDJibEhqdkh1alNJSnpQWXFOTzVmWWNfZld0WE1hWF9oU1ZFV2RHdFl0TlNRbnotc2NuRk1jZw?oc=5"
+    },
     {
       "tag": "시장 뉴스",
       "title": "Rollins 주가가 미국 증시 개장 전 오르는 이유는? - Investing.com 한국어",
@@ -41,27 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 반등해도 안심을 할 수 없는 이유 - 연합인포맥스",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRU21zOEtoR2RyQ0FHd2lpclotMGpZRGNGZnBsZ3dxOFctbnlZa3U0akd1YXhUTE9zaFFYZFlsNUpISkMwZXBfdE5XY3NCMlZlYkQ3RUZhQ011NEp4eE1UNDZpRzVRSDduc2xnZ1V3WkPSAXRBVV95cUxQUGUwYTk2WTZ0LW50TkJVSHFIdHJ2WUlhUWU5U1hKRDVCYzdjc3NrcEk2YlYteXpJY1dFdmJDV1c3VXZWMVVHeXJJWkhIRXpFcG14Sjc0eDRLS3JOSkFPVzlscFdXUVZjTmoyY0hFMDdweDEySg?oc=5"
+      "title": "[시황] 미국증시, 유가 급락과 반도체 반발매수에 상승 - 버핏연구소",
+      "source": "버핏연구소",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzLTJZZUV4X0Z6X1ZWcl9hdlk3WUhRXy1WR2xwRnFvcnZnRndObnljekJDbmxfd3IxSUJzY2ZOZDExcm5lV3NSdmVsOHIzS1NIeHlyWFVydktyVHcxX0dRRy1B?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[경제 포커스] 뉴욕 증시 출렁여도 달러는 강세… “AI 주도 美 경제로 머니무브” - Chosunbiz",
-      "source": "Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOX1FoVFBuRFoxMFNWa2hPRURfNGF3ckxtdHdzZGwzY0o0bDNWVXJVdlR4Vmc2MVFXaG9iYk9OZ3ExTE52NzFwSGUxWGdKTEROZ09OZ0R5dmRWSWh6NXNnMmtUWUJfeUp1eGlLN3lSZHdFM29FaEExUXhOME5GSzhfX3BiYkVaUdIBmgFBVV95cUxPSzNJS3E2UlpTbzE5UFltT0FOZU84VkgxWkNYVlJMT0FVdzNZbkVlMWlURms0OFpfY281dm9nMWMtZGY1LW5PeElyX0VjZkhTak9zU01hWFBNUlRIamcySDktTDhPbVZ0M2ZYbTBncTNEYVpWWTRGZ1pLak1IOS1yV3VrcGFGVzAxNmxBVm15cFptM0NHRGpzMFJR?oc=5"
+      "title": "엔비디아 4.3% 급락에도 S&P500 2.3% 상승…17년 만에 이례적 흐름 - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ac1c0YVRTWHlEemZoWUdWYjh2NGEyLVpBd1V0RVVfY1NlS3otc1RQRWJaR2RMUXd4Y3YtZ0hYNUZOQzJfWTNPTFNJUDRxSWd1?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 '중간선거 후폭풍' 하락세 지속 놓고 전망 엇갈려, 한국 증시에도 핵심 변수 - 비즈니스포스트",
-      "source": "비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xajR4UjFJY0ExSWJPdDJCN01SckFyMTVydmMwaTNITWU3WTNodWxmRUlZVlFiUHljUVJGMHBZMTVYWUpuMWR2b2c1NUhYcHYxSUd1dDhlb1VHbkhER1B3WDVfNW4tZ0hiUUxBY24xdG1zZ2s?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "'미국 증시 급락', 중간선거 이후 AI 성장 둔화 우려 커지나 - BBC",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01Y0NCUWtoTEZ0dHNmdnZyS2JiLVdOM0s5cldXOW5fUXUzaWViLXlGVnpBWHhBYWVIVEhvZ2VGRWtyeHk4OVM0eFpnR01ET3JaZzZPREQwN2VucHhhaHfSAWNBVV95cUxPMjd4SHBBN0x1RmhZXzlOdGV3c28zeXBVRk1Xc3I5SU5fMlhPWXRxeEgzSV8xMkN4c3JsVTM4NHI2b2FqRWt2VkVoVzF3WVZYYmNrcUFKX2tsZ1JSblF2R0hjR28?oc=5"
+      "title": "[3분증시] 뉴욕증시, 저가 매수에 3대 지수 상승 - 연합뉴스 한민족센터",
+      "source": "연합뉴스 한민족센터",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02TTlfMGpZOHAyMjUxa1J4S2tIRHBtTXlfZmxiZ3MxUEM3Mk5xQ3lGWTdWV1dabEliT0txVlZ6NGRfMGJWdE5ocmY2aXprUWROLUhnOEJEZTdRUjYtVUhhOEZJOFR0a0hTSVZGNTl3dVlDal80?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
