@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-11-10T00:11:02Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.10 09:11 (한국시간)",
+  "updatedAtISO": "2026-11-10T08:14:49Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.10 17:14 (한국시간)",
   "us10y": 4.86,
   "us30y": 5.26,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1344.88,
-  "usdJpy": 158.04,
-  "jpyKrw100": 851.0,
+  "usdKrw": 1335.71,
+  "usdJpy": 157.97,
+  "jpyKrw100": 845.53,
   "indices": {
     "kospi": {
-      "value": 5018.85,
-      "changePct": -0.81
+      "value": 5239.13,
+      "changePct": 4.39
     },
     "kosdaq": {
-      "value": 638.97,
-      "changePct": -0.82
+      "value": 667.61,
+      "changePct": 4.48
     },
     "sp500": {
       "value": 7549.94,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "미국 증시 상승·유가 하락에 코스피 코스닥 반등 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lbDlmMTJzNkNqMDkyTEkzbUdTQ19lV1ZuZk52MVRidWFtUl9EMzVuZjFZMGVZeWhTWks5MUl1WWZmaUEzX0xOOGhiOUFfU09zN05WM0lyQ3RqYkMzRFE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "씨티그룹, 미국 증시·기술주 '비중 확대'→'중립' 하향 왜 - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qLWIyWEJXMDZsUDBzQmJaVHdaREZRZURDY0V5a3ZwMzB5cmI0NDd0VjBabzA0ZUVGaXlsT2ZXODRVdnN0NGp1elBYX2ZwZE9EbmxlM0dBb2M5UQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "기술주 반등 후 미국 증시 선물 보합세…CPI 발표 주목 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHSlNsd3hBV0JvSkttdU04NFpoRlpLanJ2d1N1ODJiOThjeDV3WDhXeURPVHZ3THBzOEtWbmUwOEhCY2xud1ROSW00VjdGRmNBcFZrOW1hRzdaeWNQdFA0UlZYV2pMb1RXMjhmejFVdG0?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[서울데이터랩] 미국 증시, 기술주·반도체 강세에 일제히 급등 마감 - 서울신문",
       "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XeTNLbjc1akV2cVJXbTdObkJqZXFJZUVfMnREb0RtUm1GV0xfVXVsMFNaTkMtZFJ5bDJibEhqdkh1alNJSnpQWXFOTzVmWWNfZld0WE1hWF9oU1ZFV2RHdFl0TlNRbnotc2NuRk1jZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "Rollins 주가가 미국 증시 개장 전 오르는 이유는? - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnV1JESjBJbkE2aUZqMFBQMTFOZklOdHBaUmRQV0xUaVBiWGw1SlFLTDk0bGNuaE91QjRnaTMyNWpzSEhSTzc4X2JEZHpfRFhWWHZrclN5QklqZy1pQ09ZbUUzRmtRSHNtMFlCRXc2OXhwNEtHQ1hn?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[시황] 미국증시, 유가 급락과 반도체 반발매수에 상승 - 버핏연구소",
-      "source": "버핏연구소",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzLTJZZUV4X0Z6X1ZWcl9hdlk3WUhRXy1WR2xwRnFvcnZnRndObnljekJDbmxfd3IxSUJzY2ZOZDExcm5lV3NSdmVsOHIzS1NIeHlyWFVydktyVHcxX0dRRy1B?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "엔비디아 4.3% 급락에도 S&P500 2.3% 상승…17년 만에 이례적 흐름 - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ac1c0YVRTWHlEemZoWUdWYjh2NGEyLVpBd1V0RVVfY1NlS3otc1RQRWJaR2RMUXd4Y3YtZ0hYNUZOQzJfWTNPTFNJUDRxSWd1?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[3분증시] 뉴욕증시, 저가 매수에 3대 지수 상승 - 연합뉴스 한민족센터",
-      "source": "연합뉴스 한민족센터",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02TTlfMGpZOHAyMjUxa1J4S2tIRHBtTXlfZmxiZ3MxUEM3Mk5xQ3lGWTdWV1dabEliT0txVlZ6NGRfMGJWdE5ocmY2aXprUWROLUhnOEJEZTdRUjYtVUhhOEZJOFR0a0hTSVZGNTl3dVlDal80?oc=5"
+      "title": "[ETF 특징주] 증시 급락에도 미국 ETF 한 주간 141억달러 유입 - 뉴스핌",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9NSXVoY1Racl9yd3Z0a2hhQ1lZelBFZVpkRVVFMmF3clhRbDRraDhRSmR6Mnh5YkNlNXc2YnNncmdNN2trcTFkcnByRlh0RWZsNXF6QU1NNW1lZTky?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
