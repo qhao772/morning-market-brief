@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-10T16:57:08Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.11 01:57 (한국시간)",
-  "us10y": 4.86,
+  "updatedAtISO": "2026-11-10T22:16:54Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.11 07:16 (한국시간)",
+  "us10y": 4.88,
   "us30y": 5.26,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1343.64,
-  "usdJpy": 158.77,
-  "jpyKrw100": 846.29,
+  "usdKrw": 1342.51,
+  "usdJpy": 158.72,
+  "jpyKrw100": 845.84,
   "indices": {
     "kospi": {
       "value": 5239.13,
@@ -20,24 +20,30 @@
       "changePct": 4.48
     },
     "sp500": {
-      "value": 7481.76,
-      "changePct": -0.9
+      "value": 7520.93,
+      "changePct": -0.38
     },
     "nasdaq": {
-      "value": 24915.19,
-      "changePct": -1.34
+      "value": 25065.88,
+      "changePct": -0.74
     },
     "sox": {
-      "value": 9802.1,
-      "changePct": -2.31
+      "value": 9998.33,
+      "changePct": -0.35
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "[서울데이터랩] 미국 증시, 기술주 약세에 일제히 하락 마감…엔비디아 5%대 급락 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CZGpmbkFXSjZhdjhwZHljeThsMkt0NzN0U0FsN3Fxa0RhSDFFMGp4VVllc0VuYkVPbGdsWDJQcE5BRWJNTGhyZUhpamVXeVFseEdtUDU2ZTFWWHItVG9FMTFHTmFFVjFZQ3ZzdC1IMA?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "미 증시 강세·유가 하락...코스피, 4.4% 반등 마감 - YTN",
       "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DN2h6b29vRjE2QkdHS29MdG9qbXJnRVNpTU1Ub3RpTDZmRDZ4T1FJajlrRjRQNnI2V1c3dWhSS3dnU2ZtNjRJWEVYQUtpTC1DTUJzTW9CVVYxQ3lIeXc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qbnd0a1dLd1J3NmhLVk9tM3VVM3pOWnRidndyLWN4UGtyS1FaOEljNHc4a0c4MnhwdUV3T1NtMUs0eXdTaWZGNzV0NFBXeUdUdHU0V1pBbFpDRUVRUl9XbHlyM1M0VWF2T2VyTFpmcw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,21 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "美 증시 폭락 끝났나…월가 \"연말 랠리 온다\" - 연합인포맥스",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84QVpLa3JBQnpzSWt4MVJjcXhBX1FpV1BPWmVFdHltdWQ2YldhRWNiTmx4QlpyWElQSF9fblphTXkzeGpncnpNb0NGNlF0dnVQellrMFNsdExLbllEUnhjZFFvcXdvcXFKN2d0dDNEVnk?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "'미국 증시 급락', 중간선거 이후 AI 성장 둔화 우려 커지나 - BBC",
       "source": "BBC",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01Y0NCUWtoTEZ0dHNmdnZyS2JiLVdOM0s5cldXOW5fUXUzaWViLXlGVnpBWHhBYWVIVEhvZ2VGRWtyeHk4OVM0eFpnR01ET3JaZzZPREQwN2VucHhhaHfSAWNBVV95cUxPMjd4SHBBN0x1RmhZXzlOdGV3c28zeXBVRk1Xc3I5SU5fMlhPWXRxeEgzSV8xMkN4c3JsVTM4NHI2b2FqRWt2VkVoVzF3WVZYYmNrcUFKX2tsZ1JSblF2R0hjR28?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[亞증시-종합] AI 관련주 매수세에 일제히 상승 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ec1Q5eEFqWjVaMFBDYV8tY2xYb2FERjZLalNOU1FTbWJZa01zY09sa2I4R2h4Z2lBWm8wZXlsRGdfc1VjUzNhRmRaMmNwNVJVVGFSSEJZZGw3d3pRV0stT3JROTc1NmFVMjZhUU5US0FYdw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 기술주·반도체 강세에 일제히 급등 마감 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XeTNLbjc1akV2cVJXbTdObkJqZXFJZUVfMnREb0RtUm1GV0xfVXVsMFNaTkMtZFJ5bDJibEhqdkh1alNJSnpQWXFOTzVmWWNfZld0WE1hWF9oU1ZFV2RHdFl0TlNRbnotc2NuRk1jZw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
