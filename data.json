@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-11-12T01:27:06Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.12 10:27 (한국시간)",
+  "updatedAtISO": "2026-11-12T09:40:06Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.12 18:40 (한국시간)",
   "us10y": 4.88,
   "us30y": 5.26,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1336.39,
-  "usdJpy": 159.62,
-  "jpyKrw100": 837.22,
+  "usdKrw": 1331.74,
+  "usdJpy": 159.71,
+  "jpyKrw100": 833.87,
   "indices": {
     "kospi": {
-      "value": 5374.36,
-      "changePct": -0.02
+      "value": 5342.73,
+      "changePct": -0.61
     },
     "kosdaq": {
-      "value": 697.5,
-      "changePct": -1.08
+      "value": 696.53,
+      "changePct": -1.22
     },
     "sp500": {
       "value": 7619.38,
@@ -41,9 +41,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "SG \"S&P500 연말 8,000 간다\"…상승 여력 5%\" - KB Think",
+      "title": "[亞증시-종합] 엔비디아발 우려에 中·홍콩·臺 ↓…日 홀로 혼조 - KB Think",
       "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QRkZJRElRXzhTVnl3RGpsajE4Mi1VRHg1ZUl2WHZlNkJ2VkJfT3dyQnpQc2V6MGFlM3RXaS1oR1piT2pELUUzZ1Q0RUc2bFlBbDdEVV82WHdhR1d2dWZSaEh4a3JJakpnNEZKaDIwcEZHZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqaWg5cWRuVXJObzB5RVNiUld6elFTSEhMSDdWVVpXemxkeWZmLUVPVUoyRUtZRTZldkV4ZXIzVUZNRWNoSC1BR1I4eUlrV3BsUlRNcTlOV3RpcTRiYUIySDFzTmdsNTBfZFRYOEk1anVXQQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 AI주 랠리...코스피 사흘 연속 반등하나 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44amtlMzI2M1dfeHdHX1preFJZbHZUQ0ZfUnBFaWc3Vnkza05YbndUUDJVWWQzdTBKa0QwNVZESHpDTHlpbXFWX1FjcGNCSEsyVno5dGdJclFpWGhZYXM4Mml3YXNobWVRSm53Z0Z6Yw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "코어위브 호실적에 기술주 반등…뉴욕증시 주요 지수 일제히 상승 - 서울경제TV",
-      "source": "서울경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55SjBDOWtYdFI4OWJDNkxKa1oxOGFQSUlCaWc4Vnh0bmxfQXdXYVNKaHRXT3htNU5jMkNJd0tBM3ZDRzNjcW5ldmxmdlR1RjZvRlBvMk9PQzBPbU5VQnRfdHU0c0g?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[미국증시] 코어위브 왜 올랐나…미리 받은 90억 달러 - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBneVlnbkpLbjQwRlB5a2d4cXdZa2t2MTB3SkNrbnpyNkhFVDBvNnpocXppMG9yYS1LQW5mUjlleWxtWW91dWJIOWtyQVlQTVlhWDg4S3k4LTNIWUZLTlJwSll3emNxV1k?oc=5"
+      "title": "앤트로픽 두 배 레버리지 ETF까지 추진…AI 투자 위험 확산? [김주완의 글로벌머니 X파일] - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GTUs0d0l1dWVaM3NCNTdTZW9LX28wY3M5S0JYUWFmTUpUbHVFYkJwNTVRZ1NHQ0RhTkxTaVpwenlHX3dXb3JGVTY4aVE0MkpXN3JVQlVjd3E0QQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
