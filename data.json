@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-12T09:40:06Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.12 18:40 (한국시간)",
+  "updatedAtISO": "2026-11-12T18:06:38Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.13 03:06 (한국시간)",
   "us10y": 4.88,
   "us30y": 5.26,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1331.74,
-  "usdJpy": 159.71,
-  "jpyKrw100": 833.87,
+  "usdKrw": 1334.68,
+  "usdJpy": 159.79,
+  "jpyKrw100": 835.28,
   "indices": {
     "kospi": {
       "value": 5342.73,
@@ -20,16 +20,16 @@
       "changePct": -1.22
     },
     "sp500": {
-      "value": 7619.38,
-      "changePct": 1.31
+      "value": 7627.82,
+      "changePct": 0.11
     },
     "nasdaq": {
-      "value": 25466.19,
-      "changePct": 1.6
+      "value": 25470.15,
+      "changePct": 0.02
     },
     "sox": {
-      "value": 10564.11,
-      "changePct": 5.66
+      "value": 10525.83,
+      "changePct": -0.36
     }
   },
   "issues": [
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "미국 증시 상승·유가 하락에 코스피 코스닥 반등 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lbDlmMTJzNkNqMDkyTEkzbUdTQ19lV1ZuZk52MVRidWFtUl9EMzVuZjFZMGVZeWhTWks5MUl1WWZmaUEzX0xOOGhiOUFfU09zN05WM0lyQ3RqYkMzRFE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[亞증시-종합] 엔비디아발 우려에 中·홍콩·臺 ↓…日 홀로 혼조 - KB Think",
       "source": "KB Think",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqaWg5cWRuVXJObzB5RVNiUld6elFTSEhMSDdWVVpXemxkeWZmLUVPVUoyRUtZRTZldkV4ZXIzVUZNRWNoSC1BR1I4eUlrV3BsUlRNcTlOV3RpcTRiYUIySDFzTmdsNTBfZFRYOEk1anVXQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 AI주 랠리...코스피 사흘 연속 반등하나 - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44amtlMzI2M1dfeHdHX1preFJZbHZUQ0ZfUnBFaWc3Vnkza05YbndUUDJVWWQzdTBKa0QwNVZESHpDTHlpbXFWX1FjcGNCSEsyVno5dGdJclFpWGhZYXM4Mml3YXNobWVRSm53Z0Z6Yw?oc=5"
+      "title": "엔비디아, 젠슨 황 파장에 시총 장중 3위로 밀려···미국 증시 일제히 하락 - 경향신문",
+      "source": "경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qOEJIMmJpZDYtWE13WHE5Zmo0Z1Y0aWQxNjh2MVJlaTA0SEhHUG1xQU9KdlYzN3ZvWEZSdk1rWlExeXJFRHRDamh0dnRoNmhXd0FHQk02SnlBZ9IBX0FVX3lxTE1WclBWUU56YmEzbUdyVlBpdVJSek9NWTFOOThYY1kzeUlwZkxTWE9Mam44QkV5VUt4aUVrdnU3cHBiQ0lKUWFxM01XNW9ZVWh5Y0N6S3c3SDhManFaaFY4?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[시황] 미국증시, AI 기업 호실적·IPO 수요 호조에 기술주 주도 상승 마감 - 버핏연구소",
-      "source": "버핏연구소",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByM1YwSTNOdk5QeXdsWXZSZ1NkMmk0ZThnOEE4M1Y4Y3pIYkhUaTNXUUhjT2VHaHpXS0RhVTBBazFNLUVIdUliSTNjbG9STUY3dW43WHQwZVB3cWdDVmhseFB3?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "앤트로픽 두 배 레버리지 ETF까지 추진…AI 투자 위험 확산? [김주완의 글로벌머니 X파일] - 한국경제",
+      "title": "씨티그룹, 미국 증시·기술주 '비중 확대'→'중립' 하향 왜 - 한국경제",
       "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GTUs0d0l1dWVaM3NCNTdTZW9LX28wY3M5S0JYUWFmTUpUbHVFYkJwNTVRZ1NHQ0RhTkxTaVpwenlHX3dXb3JGVTY4aVE0MkpXN3JVQlVjd3E0QQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qLWIyWEJXMDZsUDBzQmJaVHdaREZRZURDY0V5a3ZwMzB5cmI0NDd0VjBabzA0ZUVGaXlsT2ZXODRVdnN0NGp1elBYX2ZwZE9EbmxlM0dBb2M5UQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
