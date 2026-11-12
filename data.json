@@ -1,67 +1,67 @@
 {
-  "updatedAtISO": "2026-11-11T18:33:54Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.12 03:33 (한국시간)",
+  "updatedAtISO": "2026-11-12T01:27:06Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.12 10:27 (한국시간)",
   "us10y": 4.88,
   "us30y": 5.26,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1337.88,
-  "usdJpy": 159.85,
-  "jpyKrw100": 836.96,
+  "usdKrw": 1336.39,
+  "usdJpy": 159.62,
+  "jpyKrw100": 837.22,
   "indices": {
     "kospi": {
-      "value": 5375.36,
-      "changePct": 2.6
+      "value": 5374.36,
+      "changePct": -0.02
     },
     "kosdaq": {
-      "value": 705.1,
-      "changePct": 5.62
+      "value": 697.5,
+      "changePct": -1.08
     },
     "sp500": {
-      "value": 7642.52,
-      "changePct": 1.62
+      "value": 7619.38,
+      "changePct": 1.31
     },
     "nasdaq": {
-      "value": 25629.17,
-      "changePct": 2.25
+      "value": 25466.19,
+      "changePct": 1.6
     },
     "sox": {
-      "value": 10745.73,
-      "changePct": 7.47
+      "value": 10564.11,
+      "changePct": 5.66
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "씨티그룹, 미국 증시·기술주 '비중 확대'→'중립' 하향 왜 - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qLWIyWEJXMDZsUDBzQmJaVHdaREZRZURDY0V5a3ZwMzB5cmI0NDd0VjBabzA0ZUVGaXlsT2ZXODRVdnN0NGp1elBYX2ZwZE9EbmxlM0dBb2M5UQ?oc=5"
+      "title": "美 증시 폭락 끝났나…월가 \"연말 랠리 온다\" - 연합인포맥스",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84QVpLa3JBQnpzSWt4MVJjcXhBX1FpV1BPWmVFdHltdWQ2YldhRWNiTmx4QlpyWElQSF9fblphTXkzeGpncnpNb0NGNlF0dnVQellrMFNsdExLbllEUnhjZFFvcXdvcXFKN2d0dDNEVnk?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "엔비디아만 빼고 다 상승... 달라진 미국 증시, 추세전환 시작인가 - 매일경제",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGMDBCV2xrMDA2NmY5bm5lMEp4WGUza19BN01nSmY1S0tOcllzSllockhUM21jNHlHRVhoc3cwc0s2dTJTdkpXMEtoSTFTc2xiSWR4SUJR?oc=5"
+      "title": "SG \"S&P500 연말 8,000 간다\"…상승 여력 5%\" - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QRkZJRElRXzhTVnl3RGpsajE4Mi1VRHg1ZUl2WHZlNkJ2VkJfT3dyQnpQc2V6MGFlM3RXaS1oR1piT2pELUUzZ1Q0RUc2bFlBbDdEVV82WHdhR1d2dWZSaEh4a3JJakpnNEZKaDIwcEZHZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 장초반 나스닥 1.53% 상승…코어위브 실적에 AI·반도체주 급등, SK하이닉스 7% 강세 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aVXpMOXd5dkN1cE9UOWZNTUNub3otOTNQVkdhVFhLd3doYkRfZDJENF9JOWJXZ1d0X2hGZktheUVLMjBFV2VWaDAyNWlTdTBsYzlGc0dNVGY0dkVqZjZSMjJ6S3hXR2t3aXFRU1QzYTYxQQ?oc=5"
+      "title": "[시황] 미국증시, AI 기업 호실적·IPO 수요 호조에 기술주 주도 상승 마감 - 버핏연구소",
+      "source": "버핏연구소",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByM1YwSTNOdk5QeXdsWXZSZ1NkMmk0ZThnOEE4M1Y4Y3pIYkhUaTNXUUhjT2VHaHpXS0RhVTBBazFNLUVIdUliSTNjbG9STUY3dW43WHQwZVB3cWdDVmhseFB3?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 하락 마감…CPI 충격에 나스닥 0.74%↓·엔비디아 5.47% 급락, 브로드컴은 상승 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YOV9ZQmx1WTNuLWZCcDE1ZnFwTUxINmd2WTZZVXlJakdsRDRUVjhlclNCZElOY1JuWVFKM0xQQWRObU9IWFo3SS1QVFV0QjZFU25TYTE4ODZ4RTVDVDhRYzBlaVlieXJZQ0FXYWEzNWhaZw?oc=5"
+      "title": "코어위브 호실적에 기술주 반등…뉴욕증시 주요 지수 일제히 상승 - 서울경제TV",
+      "source": "서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55SjBDOWtYdFI4OWJDNkxKa1oxOGFQSUlCaWc4Vnh0bmxfQXdXYVNKaHRXT3htNU5jMkNJd0tBM3ZDRzNjcW5ldmxmdlR1RjZvRlBvMk9PQzBPbU5VQnRfdHU0c0g?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 나스닥 2.74% 급등…유가 급락에 반도체 반등, 엔비디아는 홀로 하락 - 톱스타뉴스",
-      "source": "톱스타뉴스",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zVm8zdTJUazZYV1AyVFJ0Q2VYaU9nNkRLSmVwWUVMTXQ3RGZjOGxzTVhocGJSMkZTWmtOZWJMb0hwNTUxaU93S3N0SDZFTklfeUxIZDE1QzAxTWIxb1hsam1lZW1DRHZ4NDVVckltcUJPdw?oc=5"
+      "title": "[미국증시] 코어위브 왜 올랐나…미리 받은 90억 달러 - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBneVlnbkpLbjQwRlB5a2d4cXdZa2t2MTB3SkNrbnpyNkhFVDBvNnpocXppMG9yYS1LQW5mUjlleWxtWW91dWJIOWtyQVlQTVlhWDg4S3k4LTNIWUZLTlJwSll3emNxV1k?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
