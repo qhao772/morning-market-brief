@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-12T18:06:38Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.13 03:06 (한국시간)",
-  "us10y": 4.88,
-  "us30y": 5.26,
+  "updatedAtISO": "2026-11-13T00:04:34Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.13 09:04 (한국시간)",
+  "us10y": 4.98,
+  "us30y": 5.35,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1334.68,
-  "usdJpy": 159.79,
-  "jpyKrw100": 835.28,
+  "usdKrw": 1335.08,
+  "usdJpy": 159.88,
+  "jpyKrw100": 835.04,
   "indices": {
     "kospi": {
       "value": 5342.73,
@@ -20,48 +20,48 @@
       "changePct": -1.22
     },
     "sp500": {
-      "value": 7627.82,
-      "changePct": 0.11
+      "value": 7592.4,
+      "changePct": -0.35
     },
     "nasdaq": {
-      "value": 25470.15,
-      "changePct": 0.02
+      "value": 25366.09,
+      "changePct": -0.39
     },
     "sox": {
-      "value": 10525.83,
-      "changePct": -0.36
+      "value": 10506.67,
+      "changePct": -0.54
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "美 증시 폭락 끝났나…월가 \"연말 랠리 온다\" - 연합인포맥스",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84QVpLa3JBQnpzSWt4MVJjcXhBX1FpV1BPWmVFdHltdWQ2YldhRWNiTmx4QlpyWElQSF9fblphTXkzeGpncnpNb0NGNlF0dnVQellrMFNsdExLbllEUnhjZFFvcXdvcXFKN2d0dDNEVnk?oc=5"
+      "title": "[서울데이터랩]미국 증시, 주요 지수 일제히 하락 마감…반도체 약세 속 변동성 확대 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4d3pTeE1laDBDQkJPWmlTcmw1bEJoOEt0Nm0yRDVfbmpmeVRBZUgtb052MXBrbTg3dEtMZHJuSkVCUXdUTmZXdk00Qk5hdjVRX29NMDRuc1lNZDlVR2xPbXIxYVRWVW5HMlFBV0hvNA?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 상승·유가 하락에 코스피 코스닥 반등 - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lbDlmMTJzNkNqMDkyTEkzbUdTQ19lV1ZuZk52MVRidWFtUl9EMzVuZjFZMGVZeWhTWks5MUl1WWZmaUEzX0xOOGhiOUFfU09zN05WM0lyQ3RqYkMzRFE?oc=5"
+      "title": "미국 증시 일제 하락...'불륜' 젠슨 황 사임·유가도 말썽 - 스마트투데이",
+      "source": "스마트투데이",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KZHprT1ZqS1ZkUS1TaU9NVl9BcWRBNldTdXNmMmVHc1h5OWpJdXEteEZRNGhESGRyb3VsVXdrb2dqWHQ3VHdWai1oLTdUZzZUV3dSamtUYkVwdHJNcXow?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[亞증시-종합] 엔비디아발 우려에 中·홍콩·臺 ↓…日 홀로 혼조 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqaWg5cWRuVXJObzB5RVNiUld6elFTSEhMSDdWVVpXemxkeWZmLUVPVUoyRUtZRTZldkV4ZXIzVUZNRWNoSC1BR1I4eUlrV3BsUlRNcTlOV3RpcTRiYUIySDFzTmdsNTBfZFRYOEk1anVXQQ?oc=5"
+      "title": "“젠슨 황 사임에 삼전닉스 어쩌나”…코스피 4800선 경고도 [오늘 나온 보고서] - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aTGdxWEZFWHE5TXgwSjdpOHc1enA5UFJtNWctM2RyNnBLbDJXRVVMVmVkdks0alB5SHAtV1N4SXNFRnpPc0hlYV8xVnJKVzhqR3c?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "엔비디아, 젠슨 황 파장에 시총 장중 3위로 밀려···미국 증시 일제히 하락 - 경향신문",
-      "source": "경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qOEJIMmJpZDYtWE13WHE5Zmo0Z1Y0aWQxNjh2MVJlaTA0SEhHUG1xQU9KdlYzN3ZvWEZSdk1rWlExeXJFRHRDamh0dnRoNmhXd0FHQk02SnlBZ9IBX0FVX3lxTE1WclBWUU56YmEzbUdyVlBpdVJSek9NWTFOOThYY1kzeUlwZkxTWE9Mam44QkV5VUt4aUVrdnU3cHBiQ0lKUWFxM01XNW9ZVWh5Y0N6S3c3SDhManFaaFY4?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "씨티그룹, 미국 증시·기술주 '비중 확대'→'중립' 하향 왜 - 한국경제",
+      "title": "\"젠슨 황 불륜이 끝이 아니다\"…금리 인상 공포 겹친 증시 [월가 업&다운] - 한국경제",
       "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qLWIyWEJXMDZsUDBzQmJaVHdaREZRZURDY0V5a3ZwMzB5cmI0NDd0VjBabzA0ZUVGaXlsT2ZXODRVdnN0NGp1elBYX2ZwZE9EbmxlM0dBb2M5UQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZkk5NWZGTW4tNE52NjBuQnJHY01zemF5eVR2V0dOQmo0elN0ek9hbjRVSTdkWGN5TW05UmVQZzJvQW1WWnVTejdpUTB3ZWJ5em16bGF2MnNudw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국증시 반등해도 안심을 할 수 없는 이유 - 연합인포맥스",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRU21zOEtoR2RyQ0FHd2lpclotMGpZRGNGZnBsZ3dxOFctbnlZa3U0akd1YXhUTE9zaFFYZFlsNUpISkMwZXBfdE5XY3NCMlZlYkQ3RUZhQ011NEp4eE1UNDZpRzVRSDduc2xnZ1V3WkPSAXRBVV95cUxQUGUwYTk2WTZ0LW50TkJVSHFIdHJ2WUlhUWU5U1hKRDVCYzdjc3NrcEk2YlYteXpJY1dFdmJDV1c3VXZWMVVHeXJJWkhIRXpFcG14Sjc0eDRLS3JOSkFPVzlscFdXUVZjTmoyY0hFMDdweDEySg?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
