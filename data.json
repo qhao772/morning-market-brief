@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-13T16:06:10Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.14 01:06 (한국시간)",
-  "us10y": 4.98,
-  "us30y": 5.35,
+  "updatedAtISO": "2026-11-13T22:28:26Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.14 07:28 (한국시간)",
+  "us10y": 5.1,
+  "us30y": 5.43,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1336.85,
-  "usdJpy": 159.84,
-  "jpyKrw100": 836.36,
+  "usdKrw": 1335.11,
+  "usdJpy": 159.69,
+  "jpyKrw100": 836.08,
   "indices": {
     "kospi": {
       "value": 5290.53,
@@ -20,19 +20,25 @@
       "changePct": 0.45
     },
     "sp500": {
-      "value": 7511.49,
-      "changePct": -1.07
+      "value": 7561.67,
+      "changePct": -0.41
     },
     "nasdaq": {
-      "value": 24893.85,
-      "changePct": -1.86
+      "value": 25136.27,
+      "changePct": -0.91
     },
     "sox": {
-      "value": 9838.38,
-      "changePct": -6.36
+      "value": 10146.32,
+      "changePct": -3.43
     }
   },
   "issues": [
+    {
+      "tag": "시장 뉴스",
+      "title": "폭등할 때 지켜보다가 반토막 때 샀다...국민연금 3분기 3900억 지른 종목 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sTHFLMllmQk5UaGFZZ3JxQ1FuLUw5Tk9lb2I1LURBdjlrTk53OFZkUC12Q0pYRktxdFl5U29ZX1J6ZnMtcS1UWDU1R3g2bGZCeHc?oc=5"
+    },
     {
       "tag": "시장 뉴스",
       "title": "국민연금 미국 주식 평가액 36억 달러 늘어…빅테크 강세 - 연합뉴스TV",
@@ -41,27 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "미국 증시 상승·유가 하락에 코스피 코스닥 반등 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lbDlmMTJzNkNqMDkyTEkzbUdTQ19lV1ZuZk52MVRidWFtUl9EMzVuZjFZMGVZeWhTWks5MUl1WWZmaUEzX0xOOGhiOUFfU09zN05WM0lyQ3RqYkMzRFE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "뉴욕증시, 혼조세로 전환…나스닥 0.97%↓ - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3NU96RGdyOF9HazVqem9yVzlQZlVJOUFBYVhLa0x6eVVlMzg2LTdFUXFTOXdLRlhZdTJZRFFFZk53a3JVS0d3aHJKc0tTVlJU?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[서울데이터랩]미국 증시, 주요 지수 일제히 하락 마감…반도체 약세 속 변동성 확대 - 서울신문",
       "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4d3pTeE1laDBDQkJPWmlTcmw1bEJoOEt0Nm0yRDVfbmpmeVRBZUgtb052MXBrbTg3dEtMZHJuSkVCUXdUTmZXdk00Qk5hdjVRX29NMDRuc1lNZDlVR2xPbXIxYVRWVW5HMlFBV0hvNA?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "엔비디아 젠슨 황 사임 파장 제한적...미 국채금리는 부담 - 네이버페이 머니스토리",
-      "source": "네이버페이 머니스토리",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SX2lUYXFaRTVCWWctMmFtMkVwNUYtdzd4YmFXbzdnTzhHcVg1SzhfczhReGZuZTNxMHI2MnlWTDQ5cWVQcVp0bVNKR0RubEdpTzFydng2aGFHdw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "국민연금, 3분기에 가장 많이 산 건 샌디스크 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUYTNzTkhUcV9mWVhJZ2lXR2JpamQ5MVJuVm0zTHlfdjFFNnhTaUtYNXhWUDFfdW9fbEV6Q3NoeU9aTm00aFVQckxCVGpmTXp5ZWc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "하나증권 \"미국 증시 에너지주 강세, 에쓰오일 SK이노베이션 GS 주목\" - 비즈니스포스트",
-      "source": "비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLZlhkR2puNkFkamw4NGxheHNkTEEtMU9PNHU1dVFpUjlNWUVvNFRRLUtnMkZ5QTNuWXZRbUFQZnpjOGxpdlBKVm1sYWdtaW5YSXp4Y0pubTBnUWlXX1RUQVFJUUUwSWpYeHhwSGFRclM2WWM?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
