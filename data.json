@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-14T03:01:23Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.14 12:01 (한국시간)",
+  "updatedAtISO": "2026-11-14T11:21:12Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.14 20:21 (한국시간)",
   "us10y": 5.1,
   "us30y": 5.43,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1335.11,
+  "usdKrw": 1336.2,
   "usdJpy": 159.69,
-  "jpyKrw100": 836.08,
+  "jpyKrw100": 836.77,
   "indices": {
     "kospi": {
       "value": 5290.53,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "오늘 노동절로 미국 증시 하루 종일 휴장: 투자자가 알아야 할 사항 - TradingKey",
+      "source": "TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qN1BQb1ZhWE50WjhCRlJhNGh1eDhzN20xNEZXRktYVEY5RHFITVpqbnZmNnN0STZqRjhxMlFmUEw1Ukt1eDZVOTlZRURDUDZSVmFpd2FmTHppcmctYWVoX2R2czRIZjkzaWJCbkVQSDZPaWtH?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "\"내 계좌엔 언제 꽂혀요?\"…'121조 잭팟'에 개미들 들썩 [이수의 ETF 줌인] - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yTHJ6VUtuSzBSeFl0eXhIdWpCSEl0Q3h0S19ibGpWa29SM1JBbnhVdUJ5MzdBS2dRVnRXZWdzMWRtTnhRLV9rMEZfcDBnU1hMTEV6X3BMRnBUZw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "[11월 둘째 주 세계경제동향 브리핑] 코스피 5,200선 회복…한미 증시 동반 반등 - 기호일보",
       "source": "기호일보",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrMmFPX2F5bEN2cDNMMENjTklGeWVCc2VFbXBvRjhZUVh1U3cyX19kWkhZemhOMmV1TExuaGdya183VDZwaDBtS2dPUlNlWnExdFkzR3VSZlVhbFZKejRwSG5BR0hxUVJ5MjlmU0JCYw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국증시] 트럼프 \"황 지옥 같은 시간\"…증언대 서나 - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wODhMRU00M0VOZ3ZkZjJSaC1MXzNVcENOSG02VEVubmpGcDdIY1NYUFFFN2hkYTYyd0I4ZEpJcVI5QzN5QzN3dy1tbGYtQlZ6dm9hSFQ0Z25lTE9kSF9PNVBEVXlTZEk?oc=5"
+      "title": "미국 증시 상승·유가 하락에 코스피 코스닥 반등 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lbDlmMTJzNkNqMDkyTEkzbUdTQ19lV1ZuZk52MVRidWFtUl9EMzVuZjFZMGVZeWhTWks5MUl1WWZmaUEzX0xOOGhiOUFfU09zN05WM0lyQ3RqYkMzRFE?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "폭등할 때 지켜보다가 반토막 때 샀다...국민연금 3분기 3900억 지른 종목 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sTHFLMllmQk5UaGFZZ3JxQ1FuLUw5Tk9lb2I1LURBdjlrTk53OFZkUC12Q0pYRktxdFl5U29ZX1J6ZnMtcS1UWDU1R3g2bGZCeHc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "엔비디아 8.5% 급락에도 서학개미 1천억 매수…빚투 손실 우려 확산 - 산경투데이",
-      "source": "산경투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kNVFUSFN5QWQ1Vy1sX1RyaGhmQnVtRFVXdDR5TFE3bGJxM3BNS090WkF6amhFcDk5TVZ1X1pxT0tyaFZ1V09KN0M5Y2EtTlc5TkhaMXZfWXI1OTlGX3hDcWtfMkhEUUx1SmlxeUJmZkjSAXRBVV95cUxNYmRWamZsUEtfN0lPRE9EV2ZOZTY1ZENKeUNPeWhkNmExMjZaem9UTEZTMHQzaU1JeXZuOWhxdmNkS19pYXVVTGs4UGx0WFJHdnpBejlLVC1peEg4Q01mdmhiVlVuQTRLVkZ5WEJnNnloXzItcg?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "K-뷰티, 미국 증시 새 투자 테마로…전용 ETF 상장 - 파이낸셜포스트",
-      "source": "파이낸셜포스트",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtb3V2aWpZZzZDZXkzQ3RPMGlna1U3WmNsaHE2Y25KTjdJa1NjZzhBX1NOQWQ3Y2RSUlpCN29HVW10VGtIMmk2dVY5M0ZCYXFNbkhKSEtsTUdVRzZVVUphNEhMdW5rMm5XTGc1eGRVd1doclBo?oc=5"
+      "title": "[서울데이터랩]미국 증시, 주요 지수 일제히 하락 마감…반도체 약세 속 변동성 확대 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4d3pTeE1laDBDQkJPWmlTcmw1bEJoOEt0Nm0yRDVfbmpmeVRBZUgtb052MXBrbTg3dEtMZHJuSkVCUXdUTmZXdk00Qk5hdjVRX29NMDRuc1lNZDlVR2xPbXIxYVRWVW5HMlFBV0hvNA?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
