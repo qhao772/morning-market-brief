@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-11-14T11:21:12Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.14 20:21 (한국시간)",
+  "updatedAtISO": "2026-11-14T17:54:07Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.15 02:54 (한국시간)",
   "us10y": 5.1,
   "us30y": 5.43,
   "fedFundsLow": 3.75,
@@ -41,15 +41,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "\"내 계좌엔 언제 꽂혀요?\"…'121조 잭팟'에 개미들 들썩 [이수의 ETF 줌인] - 한국경제",
+      "title": "월가 IB가 꼽은 변동장 피난처…AT&T 등 5종목[월가 업&다운] - 한국경제",
       "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yTHJ6VUtuSzBSeFl0eXhIdWpCSEl0Q3h0S19ibGpWa29SM1JBbnhVdUJ5MzdBS2dRVnRXZWdzMWRtTnhRLV9rMEZfcDBnU1hMTEV6X3BMRnBUZw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[11월 둘째 주 세계경제동향 브리핑] 코스피 5,200선 회복…한미 증시 동반 반등 - 기호일보",
-      "source": "기호일보",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrMmFPX2F5bEN2cDNMMENjTklGeWVCc2VFbXBvRjhZUVh1U3cyX19kWkhZemhOMmV1TExuaGdya183VDZwaDBtS2dPUlNlWnExdFkzR3VSZlVhbFZKejRwSG5BR0hxUVJ5MjlmU0JCYw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vODVxVTZaT0E4YXpjbjhBRTNmZHR6SGl0ZzRCWDNsekd5TnRQdS1PNWxPM1p0Y3dNNlFFdFM2azQ3YVdMSHJ3M1VJUUlnTHBJQzliS1BITmpVdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -62,6 +56,12 @@
       "title": "[서울데이터랩]미국 증시, 주요 지수 일제히 하락 마감…반도체 약세 속 변동성 확대 - 서울신문",
       "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4d3pTeE1laDBDQkJPWmlTcmw1bEJoOEt0Nm0yRDVfbmpmeVRBZUgtb052MXBrbTg3dEtMZHJuSkVCUXdUTmZXdk00Qk5hdjVRX29NMDRuc1lNZDlVR2xPbXIxYVRWVW5HMlFBV0hvNA?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[11월 둘째 주 세계경제동향 브리핑] 코스피 5,200선 회복…한미 증시 동반 반등 - 기호일보",
+      "source": "기호일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrMmFPX2F5bEN2cDNMMENjTklGeWVCc2VFbXBvRjhZUVh1U3cyX19kWkhZemhOMmV1TExuaGdya183VDZwaDBtS2dPUlNlWnExdFkzR3VSZlVhbFZKejRwSG5BR0hxUVJ5MjlmU0JCYw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
