@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-11-15T22:43:14Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.16 07:43 (한국시간)",
+  "updatedAtISO": "2026-11-16T02:40:09Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.16 11:40 (한국시간)",
   "us10y": 5.1,
   "us30y": 5.43,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1335.66,
-  "usdJpy": 159.6,
-  "jpyKrw100": 836.86,
+  "usdKrw": 1335.08,
+  "usdJpy": 159.75,
+  "jpyKrw100": 835.75,
   "indices": {
     "kospi": {
-      "value": 5290.53,
-      "changePct": -0.98
+      "value": 5183.22,
+      "changePct": -2.03
     },
     "kosdaq": {
-      "value": 699.66,
-      "changePct": 0.45
+      "value": 675.79,
+      "changePct": -3.41
     },
     "sp500": {
       "value": 7561.67,
@@ -35,9 +35,21 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[중국증시 주간 포인트] APEC 미·중·러 정상회담, 엔비디아 실적·젠슨 황 의회 출석, 中 10월 실물경제 지표, 앤스로픽 IPO, 첨단 기술 이벤트, 中 4대 빅테크 실적 - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1naXEyYk9Qc3BTcWdGQTk2OHpPUmVOc0lfMldicVplVG1UQkI0bjVmTXp3MjBmSVV4akQzbU05aWNCN25OR3U4Ym9XSWlmbk1WUkhGa1RuZ0ZEUDdYcjZLV2E2TUZBWWhXekNNS19WcTJtenZOU29iemhJVQ?oc=5"
+      "title": "Nvidia 실적 발표 앞두고 미국 증시 선물 보합세 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TSkZGaGJXRnYtTF9NWWxGS0dGNk5sMlRlbXYzVzJNWFBPSzFEcjhHYk1FQTFKSFVVMU9fczBzWW1tVGlwelF5MnZBOUZiSC1jdmlyVHBMZ1MzNnhiM1B0OWVwenJ4eE52VkxXUDNIQUQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[시황] 미국증시, 엔비디아 경영진 교체 불확실성과 금리 인상 우려에 나스닥·S&P500 하락, 다우 소폭 상승 - 버핏연구소",
+      "source": "버핏연구소",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYNk5sX3lYOF95UGRQcDJGRkthelF4V3NMLXN3MEpONF9TUEJPVG43cEtFNW5TTlJleWUyQk13OTNvWThpM09NcGhUREhFdHhBbi1iRzNkWU5wUkQ0eGlIRjF3?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "\"2027년 S&P500 9,500선 전망…미국 증시 우위 지속\" - 뉴스투데이",
+      "source": "뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1dUZHMUlESldvQXF5eUxqNW5KTWlFLWV6SXJjQkVxM2J3QWRUSW5abGZJbHpvY2pseEJsNkpsOUJHQy1NNFRNdk92djJMTGFQSEQ2NjI1X2IxMHJaTUE?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,21 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "엔비디아 실적·앤트로픽 상장…AI주 운명 달린 한 주[이번주 美 증시는] - 머니투데이 - 머니투데이",
-      "source": "머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94RUozbVJma3hLNUhiRzBjNHFqWTNZOEdIdV80U05fTDlESXlMRTJTTDdwQ1RaWG5Xc19DU2FFeEdsR1oyZ1BhTGJVaExLRzktU01YaWpFLWNxRHB1WWNTdDQ1cFlaTndf0gFuQVVfeXFMTTRXVVV0a3R1bGVZSjFMRVV0MHFRZHE3b3VTaFNjbW8ycWRlOUtZWW81eEFGamo2c0xNQ3ljRXFxeGlkcUxlWEt0UFVIdXgwQmc2Yno1bTJPX0U1aVpLRVNaOXc3b3d4bWZ5TDJMTXc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시, 주요 지수 일제히 하락 마감…반도체 약세 속 변동성 확대 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4d3pTeE1laDBDQkJPWmlTcmw1bEJoOEt0Nm0yRDVfbmpmeVRBZUgtb052MXBrbTg3dEtMZHJuSkVCUXdUTmZXdk00Qk5hdjVRX29NMDRuc1lNZDlVR2xPbXIxYVRWVW5HMlFBV0hvNA?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "나스닥 23시간 거래 D-3주…\"美투자 확대\" \"국내 영향 제한적\" - 연합뉴스",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CLUc2OWJoU3c0NF9KYjVXSm5uRW1saU5UcXlKT3MwZXRRWjlpRFhRVWpDN2NyQlhYOWE0dDB1VkVIMGRkejJ2cG9OWUVTMzBObTBjOXd3NVhGMmvSAWBBVV95cUxNam1HV2QwTENuRzNaUzhoRzFFQVY3SVF1VXNEaG1fV2lhU1F6Sm1TMHpnV1hFVlZfUDIycXdqUjZMR2ZaM3J6M21qRnNSMmp3eGp4NjdrejdJQTRPOHdrNlE?oc=5"
+      "title": "어드반테스트 8.73% 급락…미 반도체 한파에 200일선 붕괴 - 초이스스탁US",
+      "source": "초이스스탁US",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UZmczeFBUQm94MUVSU3k4dVVTMDlmMk13V2U5YW1Mb0lJVlNPVG9aSUtnVnc0YkVOUGp5WDVqblgzeXZZY2ZmOVE0dnRuWnVIMVB4d3VWeUV6N3FQZ3E3Y214MTZQYUU?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
