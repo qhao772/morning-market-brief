@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-16T10:56:21Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.16 19:56 (한국시간)",
+  "updatedAtISO": "2026-11-16T20:54:57Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.17 05:54 (한국시간)",
   "us10y": 5.1,
   "us30y": 5.43,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1335.48,
-  "usdJpy": 159.67,
-  "jpyKrw100": 836.42,
+  "usdKrw": 1336.07,
+  "usdJpy": 159.5,
+  "jpyKrw100": 837.66,
   "indices": {
     "kospi": {
       "value": 5100.5,
@@ -20,48 +20,48 @@
       "changePct": -4.86
     },
     "sp500": {
-      "value": 7561.67,
-      "changePct": -0.41
+      "value": 7416.57,
+      "changePct": -1.92
     },
     "nasdaq": {
-      "value": 25136.27,
-      "changePct": -0.91
+      "value": 24522.35,
+      "changePct": -2.44
     },
     "sox": {
-      "value": 10146.32,
-      "changePct": -3.43
+      "value": 9637.07,
+      "changePct": -5.02
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "증시 덮친 ‘앤트로픽 수급 공포’···삼전닉스 2차 매물폭탄 쏟아지나 - 시사저널e",
-      "source": "시사저널e",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sMm42SEdYaEdrcVhOZjNJTzVfQ3pkT1V1WFVtVUNFRTdwdjFuZWNNMXBPUjhjVGFyOXZWc1oyUGpUWDc2blBCelA4X2l2Q002WnRNVDBIQXJmakJ1XzNCOW9wclFHc1FEVVp6cVBZNDdtd9IBdkFVX3lxTE5PRnZ5ZmVyU004alNQRlFsME9leGpKZ2dDQWZCU3Z1R29Qc3E3T0RsaDVrSjN1YUdrMWQ4LWlZY3RHWDMyYjFGaHhUS3V0MS0tLWp2bzFVZjdnS1M0c2RsVlRXQm5aSTRfZzJuOUUzQWNSVWY4VFE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "젠슨 황 불륜이 글로벌 증시 흔든다…美 금리·엔비디아 실적에 ‘촉각’ [글로벌 레이더] - 에너지경제신문",
-      "source": "에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVMHFJWk5PNUFrdUpBd0R3OUNpalZQbmt3bVNxMG0zc0JDaUZXT2ZRNnBTbWNhQWtIcEI1REo0aEE0cHRVYm5kT0ZabDh2c01aUXh1R2hob1pjOGc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[시황] 미국증시, 엔비디아 경영진 교체 불확실성과 금리 인상 우려에 나스닥·S&P500 하락, 다우 소폭 상승 - 버핏연구소",
-      "source": "버핏연구소",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYNk5sX3lYOF95UGRQcDJGRkthelF4V3NMLXN3MEpONF9TUEJPVG43cEtFNW5TTlJleWUyQk13OTNvWThpM09NcGhUREhFdHhBbi1iRzNkWU5wUkQ0eGlIRjF3?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "미국 주가지수 선물 하락…Nvidia 실적 발표 앞두고 관망 - Investing.com 한국어",
+      "title": "헤지펀드, 2주 연속 미국 주식 매도…골드만삭스 By Investing.com - Investing.com 한국어",
       "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TSkZGaGJXRnYtTF9NWWxGS0dGNk5sMlRlbXYzVzJNWFBPSzFEcjhHYk1FQTFKSFVVMU9fczBzWW1tVGlwelF5MnZBOUZiSC1jdmlyVHBMZ1MzNnhiM1B0OWVwenJ4eE52VkxXUDNIQUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xWUZBRlkzU0Ezb05pVk5YRTJiVnZnb2ZudDNISTFac3I3Vm5nVVIwVHlKWUNJcVVEeU9fMDVVeXVtVUhDa09YOG5LTVhHZTdfZm51aEZFd0FkaDFid1RPRU9INzZxTTk4QzZHVUFJTWtzTHdPejBN?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국 증시 오르면 수익 더…국민은행, S&P500 연동 ELD 첫선 - 매일경제",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iTjZKZkxZOGRJb2k5cFA4MWcyWnh5UTljR0tOd1czT0xmSmpmZ2ZiUUliYmNEcXA3RlJkcGZma1Y3Mk1CY2ZVdWtVN3pVLTZneVVLQg?oc=5"
+      "title": "뉴욕증시, 하락세로 전환…나스닥 2.26%↓ - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yUy16T1hnbmpjaHg3REoyRnoxcDJ4S2dwbVhlMXUwS1NkMEc4X2VjZUhFdXU2Q2hkWW5tS1F2bTFjX1ZuejN4OFRwbm5nSlVQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "오늘 노동절로 미국 증시 하루 종일 휴장: 투자자가 알아야 할 사항 - TradingKey",
+      "source": "TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qN1BQb1ZhWE50WjhCRlJhNGh1eDhzN20xNEZXRktYVEY5RHFITVpqbnZmNnN0STZqRjhxMlFmUEw1Ukt1eDZVOTlZRURDUDZSVmFpd2FmTHppcmctYWVoX2R2czRIZjkzaWJCbkVQSDZPaWtH?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "센토라 “미국 증시 급락일 92%에서 비트코인도 하락” - Korea IT Times",
+      "source": "Korea IT Times",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PS2pIemF3VVNvdDUtbENFNy1qdXZnUUgxMGdFY2JrbUZFaGRYWk55a25LM3ZoQXdqc3o3d2IxR3ptaktjOWd5R29xVHltVm1TNUgwYmtHeFRPUnR3VEdhTF9pMzlFbjlTT250d1R4MA?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[속보]미국증시 나스닥 1.42% 급락…다우·S&P500 동반 하락, 엔비디아 실적 앞두고 기술주 압박 - CBC뉴스",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtOXpqb3VROGpRUmx6NUZEWTNBUzgzVWFYU0dvZWRiOXpFbk85Z2VuNkFoSjZ6eFNCX0lYTTZoVnN4SGZxMV9lVHIzNnlUVndZTEhrcVVjYzZzdnl2cE0wNWlWNkUxVTBf?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
