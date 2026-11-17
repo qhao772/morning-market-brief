@@ -1,67 +1,67 @@
 {
-  "updatedAtISO": "2026-11-16T20:54:57Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.17 05:54 (한국시간)",
-  "us10y": 5.1,
-  "us30y": 5.43,
+  "updatedAtISO": "2026-11-17T03:39:46Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.17 12:39 (한국시간)",
+  "us10y": 5.15,
+  "us30y": 5.47,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1336.07,
-  "usdJpy": 159.5,
-  "jpyKrw100": 837.66,
+  "usdKrw": 1338.08,
+  "usdJpy": 159.37,
+  "jpyKrw100": 839.61,
   "indices": {
     "kospi": {
-      "value": 5100.5,
-      "changePct": -3.59
+      "value": 5070.57,
+      "changePct": -0.59
     },
     "kosdaq": {
-      "value": 665.65,
-      "changePct": -4.86
+      "value": 663.17,
+      "changePct": -0.37
     },
     "sp500": {
-      "value": 7416.57,
+      "value": 7416.59,
       "changePct": -1.92
     },
     "nasdaq": {
-      "value": 24522.35,
-      "changePct": -2.44
+      "value": 24509.76,
+      "changePct": -2.49
     },
     "sox": {
-      "value": 9637.07,
-      "changePct": -5.02
+      "value": 9610.65,
+      "changePct": -5.28
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "헤지펀드, 2주 연속 미국 주식 매도…골드만삭스 By Investing.com - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xWUZBRlkzU0Ezb05pVk5YRTJiVnZnb2ZudDNISTFac3I3Vm5nVVIwVHlKWUNJcVVEeU9fMDVVeXVtVUhDa09YOG5LTVhHZTdfZm51aEZFd0FkaDFid1RPRU9INzZxTTk4QzZHVUFJTWtzTHdPejBN?oc=5"
+      "title": "[서울데이터랩]미국 증시, 기술주·반도체주 급락에 일제히 하락 마감…나스닥 2%대 밀려 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeGtabjBQLVpnNFcwQ29KNlYtaWQyNENKSFpVTzJfTWdjNDV0TXBRdWNIMDV3X3U3ZTdZd21sSTFEeXNLOVhrZVVjMXBoOVJOdlU4S3E5NllHS1FNM2VzUlJvZmNLUUtYT3RoVkl3Y2xiM1VLTTliVWJCbl9DQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 하락세로 전환…나스닥 2.26%↓ - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yUy16T1hnbmpjaHg3REoyRnoxcDJ4S2dwbVhlMXUwS1NkMEc4X2VjZUhFdXU2Q2hkWW5tS1F2bTFjX1ZuejN4OFRwbm5nSlVQ?oc=5"
+      "title": "KB자산운용, 미국 초대형주·만기매칭형 회사채 ETF 2종 신규 상장 - 매일일보",
+      "source": "매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtZGFJb0RYWXp2WEpFNjhLdDhCb2UxbFdvS281Vy13aFNWdTIzdG9VekNiYVpuWDVzUHZFalhhUWQ5dFNKdE9VTEJYTC1uM2ROMjl0RGxoVDF5MG44WjZJMXhMY0Y?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "오늘 노동절로 미국 증시 하루 종일 휴장: 투자자가 알아야 할 사항 - TradingKey",
-      "source": "TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qN1BQb1ZhWE50WjhCRlJhNGh1eDhzN20xNEZXRktYVEY5RHFITVpqbnZmNnN0STZqRjhxMlFmUEw1Ukt1eDZVOTlZRURDUDZSVmFpd2FmTHppcmctYWVoX2R2czRIZjkzaWJCbkVQSDZPaWtH?oc=5"
+      "title": "[시황] 미국증시, 엔비디아 불확실성에 AI·반도체주 중심 급락 - 버핏연구소",
+      "source": "버핏연구소",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16Wk05aFBWVnJEd3ZHME9WSENoVE1lWnkzbU1VQlAwZlBvbHRSQVEzQWQwYUFHc0xDTDF6WWdLOHpoRFdrYkY3VnNVWHhSNjBxd2xaMkJxdERuVG9DMlAwaW9R?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "센토라 “미국 증시 급락일 92%에서 비트코인도 하락” - Korea IT Times",
-      "source": "Korea IT Times",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PS2pIemF3VVNvdDUtbENFNy1qdXZnUUgxMGdFY2JrbUZFaGRYWk55a25LM3ZoQXdqc3o3d2IxR3ptaktjOWd5R29xVHltVm1TNUgwYmtHeFRPUnR3VEdhTF9pMzlFbjlTT250d1R4MA?oc=5"
+      "title": "美 증시, AI 빅테크 7개 종목 일제히 하락…엔비디아 4.1% 급락에 나스닥 2.5%↓ - 인공지능신문",
+      "source": "인공지능신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SdWNjOWtMaHRiRnA5bnlrQzlJaFMtdk1XWkNlZmI2X3FRNEN5NEJ5aEFJcDlETFhwUHU4V3BDUGxiUXEtdVNsdmVXTElIOW1YRmU3XzFyWktjbHRBTE40ZEJOSEp3V0k?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[속보]미국증시 나스닥 1.42% 급락…다우·S&P500 동반 하락, 엔비디아 실적 앞두고 기술주 압박 - CBC뉴스",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtOXpqb3VROGpRUmx6NUZEWTNBUzgzVWFYU0dvZWRiOXpFbk85Z2VuNkFoSjZ6eFNCX0lYTTZoVnN4SGZxMV9lVHIzNnlUVndZTEhrcVVjYzZzdnl2cE0wNWlWNkUxVTBf?oc=5"
+      "title": "엔비디아 실적·앤트로픽 상장…AI주 운명 달린 한 주[이번주 美 증시는] - 머니투데이 - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94RUozbVJma3hLNUhiRzBjNHFqWTNZOEdIdV80U05fTDlESXlMRTJTTDdwQ1RaWG5Xc19DU2FFeEdsR1oyZ1BhTGJVaExLRzktU01YaWpFLWNxRHB1WWNTdDQ1cFlaTndf0gFuQVVfeXFMTTRXVVV0a3R1bGVZSjFMRVV0MHFRZHE3b3VTaFNjbW8ycWRlOUtZWW81eEFGamo2c0xNQ3ljRXFxeGlkcUxlWEt0UFVIdXgwQmc2Yno1bTJPX0U1aVpLRVNaOXc3b3d4bWZ5TDJMTXc?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
