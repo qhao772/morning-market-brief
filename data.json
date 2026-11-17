@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-11-17T03:39:46Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.17 12:39 (한국시간)",
+  "updatedAtISO": "2026-11-17T13:03:02Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.17 22:03 (한국시간)",
   "us10y": 5.15,
   "us30y": 5.47,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1338.08,
-  "usdJpy": 159.37,
-  "jpyKrw100": 839.61,
+  "usdKrw": 1335.98,
+  "usdJpy": 159.28,
+  "jpyKrw100": 838.74,
   "indices": {
     "kospi": {
-      "value": 5070.57,
-      "changePct": -0.59
+      "value": 4968.48,
+      "changePct": -2.59
     },
     "kosdaq": {
-      "value": 663.17,
-      "changePct": -0.37
+      "value": 650.06,
+      "changePct": -2.34
     },
     "sp500": {
       "value": 7416.59,
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "KB자산운용, 미국 초대형주·만기매칭형 회사채 ETF 2종 신규 상장 - 매일일보",
-      "source": "매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtZGFJb0RYWXp2WEpFNjhLdDhCb2UxbFdvS281Vy13aFNWdTIzdG9VekNiYVpuWDVzUHZFalhhUWQ5dFNKdE9VTEJYTC1uM2ROMjl0RGxoVDF5MG44WjZJMXhMY0Y?oc=5"
+      "title": "미국의 반도체 수출 규제 강화에 유럽 증시 하락 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tYk5vUWVOZG5tY25SQWl4SG5QUmNfQ2pLN1Z4OHhTUWFTTUlSaHR4UDVETHp6aTJYVEFqVHJ3UENyVzREUzl0dnFYT1JtOVJ0YmxiWVVXaEszekVlY01vdDE0dmJYb1FsUHVBMUdfMWs?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[시황] 미국증시, 엔비디아 불확실성에 AI·반도체주 중심 급락 - 버핏연구소",
-      "source": "버핏연구소",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16Wk05aFBWVnJEd3ZHME9WSENoVE1lWnkzbU1VQlAwZlBvbHRSQVEzQWQwYUFHc0xDTDF6WWdLOHpoRFdrYkY3VnNVWHhSNjBxd2xaMkJxdERuVG9DMlAwaW9R?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "美 증시, AI 빅테크 7개 종목 일제히 하락…엔비디아 4.1% 급락에 나스닥 2.5%↓ - 인공지능신문",
-      "source": "인공지능신문",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SdWNjOWtMaHRiRnA5bnlrQzlJaFMtdk1XWkNlZmI2X3FRNEN5NEJ5aEFJcDlETFhwUHU4V3BDUGxiUXEtdVNsdmVXTElIOW1YRmU3XzFyWktjbHRBTE40ZEJOSEp3V0k?oc=5"
+      "title": "미국증시를 흔든 주요 기업 주간 이슈 - 엔비디아 외 17종목 - 초이스스탁US",
+      "source": "초이스스탁US",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rdDVlVWk1MUY0NHhhdExtZTJUYkt1bFc2T25rOXJmc2Ixc1l1c2xwYUY1aXczQVhOT3B5a3FMNGJoWWdSVUtwN1pWYzhlU1lYVDBWQ2FYV3Q3MW16RzZDQjd4U2NVNWJ4X1E?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "엔비디아 실적·앤트로픽 상장…AI주 운명 달린 한 주[이번주 美 증시는] - 머니투데이 - 머니투데이",
       "source": "머니투데이",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94RUozbVJma3hLNUhiRzBjNHFqWTNZOEdIdV80U05fTDlESXlMRTJTTDdwQ1RaWG5Xc19DU2FFeEdsR1oyZ1BhTGJVaExLRzktU01YaWpFLWNxRHB1WWNTdDQ1cFlaTndf0gFuQVVfeXFMTTRXVVV0a3R1bGVZSjFMRVV0MHFRZHE3b3VTaFNjbW8ycWRlOUtZWW81eEFGamo2c0xNQ3ljRXFxeGlkcUxlWEt0UFVIdXgwQmc2Yno1bTJPX0U1aVpLRVNaOXc3b3d4bWZ5TDJMTXc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "KB자산운용, 미국 초대형주·만기매칭형 회사채 ETF 2종 신규 상장 - 매일일보",
+      "source": "매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtZGFJb0RYWXp2WEpFNjhLdDhCb2UxbFdvS281Vy13aFNWdTIzdG9VekNiYVpuWDVzUHZFalhhUWQ5dFNKdE9VTEJYTC1uM2ROMjl0RGxoVDF5MG44WjZJMXhMY0Y?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
