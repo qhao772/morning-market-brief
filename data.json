@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-11-17T22:09:46Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.18 07:09 (한국시간)",
+  "updatedAtISO": "2026-11-18T04:07:55Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.18 13:07 (한국시간)",
   "us10y": 5.12,
   "us30y": 5.46,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1334.9,
-  "usdJpy": 159.33,
-  "jpyKrw100": 837.83,
+  "usdKrw": 1329.98,
+  "usdJpy": 159.37,
+  "jpyKrw100": 834.55,
   "indices": {
     "kospi": {
-      "value": 4968.48,
-      "changePct": -2.59
+      "value": 5010.36,
+      "changePct": 0.84
     },
     "kosdaq": {
-      "value": 650.06,
-      "changePct": -2.34
+      "value": 656.61,
+      "changePct": 1.01
     },
     "sp500": {
       "value": 7340.53,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩] 미국 증시, 동반 약세 마감…다우 1.64% 하락·VIX 13% 급등 - www.twig24.com",
-      "source": "www.twig24.com",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hSW5YbWczWjVnS1hGdGNyanlheHhKYlZ3SFhrVjA0T2ZzZ05wT1oxY3VjaTl1MHRvWW5BeFBUdEZsM001eVRMd3RTcC1OZFh3RGhSNGFESkZFa3ZaVENmWWJGZw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시, 기술주·반도체주 급락에 일제히 하락 마감…나스닥 2%대 밀려 - 서울신문",
+      "title": "[서울데이터랩] 미국 증시, 동반 약세 마감…다우 1.64% 하락·VIX 13% 급등 - 서울신문",
       "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeGtabjBQLVpnNFcwQ29KNlYtaWQyNENKSFpVTzJfTWdjNDV0TXBRdWNIMDV3X3U3ZTdZd21sSTFEeXNLOVhrZVVjMXBoOVJOdlU4S3E5NllHS1FNM2VzUlJvZmNLUUtYT3RoVkl3Y2xiM1VLTTliVWJCbl9DQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pUGdhZzFyQUNvOUgwYVExN2l5a0V2SUZreUE3VkhYRy1PUkV3RTlKXzBuVV9udHRucmJTZGRPZGdsaWgtZTA3bUVCUHhteGFjWG95TU0ycGc3bVhKaWdlZTFUbXE3WlUwZFFEVHVoTQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "예상 못한 ‘블루 쓰나미’에 파랗게 질린 증시 … 빅데이터로 본 미래 주가는? - 매일경제",
-      "source": "매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1b1FKZldzZzF2a2tfMzFpM3VkeHNjVXdGWWN4WFd5Yk9Hck5jX3YwcHdPY3pNZDZfcHo2NnUwN1kzQy1DSlVob3ZOcFpUdWxSQlE?oc=5"
+      "title": "앤스로픽 IPO 끝나면 코스피 오른다?…“과거 8번 중 6번 반등” - 마켓인",
+      "source": "마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tckdHdDJVanJzNGdfZnNpcUIzLUxweGRZQVRHbnByM3d5ckxEN1JmbEpldmdYYjRNMjVKTTZKRWgwRldjazJVbkhSSlp0ZFpCOHdXLWUtRE4yTV91UHVvRGRGak1vLTM3RGlXSklyUk8yM3c?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시를 흔든 주요 기업 주간 이슈 - 엔비디아 외 17종목 - 초이스스탁US",
-      "source": "초이스스탁US",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rdDVlVWk1MUY0NHhhdExtZTJUYkt1bFc2T25rOXJmc2Ixc1l1c2xwYUY1aXczQVhOT3B5a3FMNGJoWWdSVUtwN1pWYzhlU1lYVDBWQ2FYV3Q3MW16RzZDQjd4U2NVNWJ4X1E?oc=5"
+      "title": "[미국증시] 엔비디아 성장 75%로…돈줄은 골라 푼다 - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yRXhkcVlBaFZvUzRZbk84OUVEZ2NGblFCQUdENE40eXVCRlRDT3hVbDdtc1hyRGsySkczRWZ2aW5BT0MwQW8wNEpOTzd2NWZvQXpNaEtxcVEtbksxenljdGlmdmk2UWM?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 하락세로 마감…나스닥 0.74%↓ - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJVGh1T3J4LS1nZ09YRGVmb3NXWS15NmJQdWdSc0ZkQjU4S1M2OXFqSDBBTkZtdUJfdEREMTRRbzRIYnA4MW9rN1lOdnhZNmI3?oc=5"
+      "title": "\"엔비디아도 됐고, 달러가 최고\" - 스마트투데이",
+      "source": "스마트투데이",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jVmFIb05lUzNNOGU0WWVJVEZyNkF4SVJIMVBSdjBZTW16WkpNRWdxSC1iMDN4aEdnSlRzOFR0eWJ4cVQyNmY4aGl3ZDlLbEVSWkJfdjFsVFQ3WlZWbnow?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "뉴욕증시, 엔비디아 실적 경계에 일제히 하락…다우 848P 급락 - 산경투데이",
+      "source": "산경투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXbTV5QUpGN1M0V1hoRjl2bW5VOG1yZXJKbFhwNDk1ZVd1cTVnbUVLMUFjMENhQXA3N3IzS0FOUmJLQm84VmpmdjRfbjRXLVRCNXJRRk5IWC1IVU1Bb3BnMmVka3BDb1d6TWFLcmVtMHXSAXRBVV95cUxPVnlWTF9yN0RCX0czQVhNcnkxM25sQzl3S2JuVUpRYXo1SXFBdklVME43NW5XdjJJQUFzTVZrTFl2RFBZRHhhTmZtRTdKZGExcTQ4YzkyZlA0VWltVFJxRDNKM1ZlYmZzM2ZoUHMxMmpYUTI2Vw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
