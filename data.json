@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-11-19T03:07:48Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.19 12:07 (한국시간)",
+  "updatedAtISO": "2026-11-19T12:47:23Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.19 21:47 (한국시간)",
   "us10y": 5.1,
   "us30y": 5.46,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1330.34,
-  "usdJpy": 159.47,
-  "jpyKrw100": 834.23,
+  "usdKrw": 1327.08,
+  "usdJpy": 159.92,
+  "jpyKrw100": 829.85,
   "indices": {
     "kospi": {
-      "value": 4992.82,
-      "changePct": -1.47
+      "value": 5137.89,
+      "changePct": 1.39
     },
     "kosdaq": {
-      "value": 654.84,
-      "changePct": -1.2
+      "value": 684.81,
+      "changePct": 3.32
     },
     "sp500": {
       "value": 7323.63,
@@ -41,9 +41,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "코인판된 증시에 뺨 맞은 진짜 코인판 - 조선일보",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTzg1alp3T25KWFhGTDRma2RlUmtnVFFmdVYtT0ZhYmV6bXh5N0RiOWlYOXBGUHVVcExjeW9RUEJ4cGcybjJGVG81cHpKZGxVd2RpNHZDeURDNnV6YXRFMWR4UFR3bVFjcHBCUTlMV202TmFuWVg1S0ZSd29vUmU2dFVVVlZ1Vzh4Z1g4?oc=5"
+      "title": "[서울데이터랩]미국 증시, 기술주·반도체주 급락에 일제히 하락 마감…나스닥 2%대 밀려 - 서울신문",
+      "source": "서울신문",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeGtabjBQLVpnNFcwQ29KNlYtaWQyNENKSFpVTzJfTWdjNDV0TXBRdWNIMDV3X3U3ZTdZd21sSTFEeXNLOVhrZVVjMXBoOVJOdlU4S3E5NllHS1FNM2VzUlJvZmNLUUtYT3RoVkl3Y2xiM1VLTTliVWJCbl9DQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "삼성운용, 'KODEX 미국S&P500' 연초 이후 개인 순매수 3조원 돌파 - 매일일보",
-      "source": "매일일보",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIQjZJRi16aTBNZ0dpcWFjRkRncXNlaHdobHQxNTRGZ1NXU2tPR1BfbWpmb1ZFaVh3RkI3RXNnMkxRQzBKa0RTbVo3dUk1R1I0cVQzNHRxZ0I1NG5PMUlSc1NYMnU?oc=5"
+      "title": "엔비디아 실적보다 AI 투자 부담…힘 못 쓰는 뉴욕증시 [월가 업&다운] - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10OTJBTVVhbVFCVXFla2tYX2tNUTVQWU5sdjRtaTQwTHFGeERwbTZYSjIwRkotdjBEYXF3cWdTeUt3VlpGUFFacFNOejI5Slk5RWtBbWZvdG0xdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시, 기술주·반도체주 급락에 일제히 하락 마감…나스닥 2%대 밀려 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeGtabjBQLVpnNFcwQ29KNlYtaWQyNENKSFpVTzJfTWdjNDV0TXBRdWNIMDV3X3U3ZTdZd21sSTFEeXNLOVhrZVVjMXBoOVJOdlU4S3E5NllHS1FNM2VzUlJvZmNLUUtYT3RoVkl3Y2xiM1VLTTliVWJCbl9DQQ?oc=5"
+      "title": "[1119개장체크] 美 증시, 엔비디아 호실적에도 연준 추가 금리 인상 경계에 혼조 - 인포스탁데일리",
+      "source": "인포스탁데일리",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tWDRMNkoza002NzRIX0wteGJUOTNCeHpQU1V6aTlPYUc3b0dDZ0ZYQkhjZ3hWaUhtX2xiUnhQQ3ZHV1p1Z2JTdjZQNVhkcmxrSWJteEpzbzVKRzZ3bjhTRnBiQmlzNWRtbW55azFZeFZ0TGZQd2c?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
