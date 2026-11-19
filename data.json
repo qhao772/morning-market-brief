@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-11-18T21:47:08Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.19 06:47 (한국시간)",
+  "updatedAtISO": "2026-11-19T03:07:48Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.19 12:07 (한국시간)",
   "us10y": 5.1,
   "us30y": 5.46,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1331.68,
-  "usdJpy": 159.38,
-  "jpyKrw100": 835.55,
+  "usdKrw": 1330.34,
+  "usdJpy": 159.47,
+  "jpyKrw100": 834.23,
   "indices": {
     "kospi": {
-      "value": 5067.44,
-      "changePct": 1.99
+      "value": 4992.82,
+      "changePct": -1.47
     },
     "kosdaq": {
-      "value": 662.81,
-      "changePct": 1.96
+      "value": 654.84,
+      "changePct": -1.2
     },
     "sp500": {
       "value": 7323.63,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "AI 증시 한파에 명품주 일제히 급락…미국 부유층 소비 심리 직격탄 - 글로벌이코노믹",
-      "source": "글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRXlseF9Temd0MkJnX1JCaUVMc2JRNjJpX1F4Z3VwNHNMdlFZdTE0UWVxLXN1RWFUa2ZZVnQxc3E5SWRTdmVPcE1JNFZGbHJ2d3h6LXBQWFJDZmZmLVVnbTBaMXVoNXBxRGNCY3Iwc0NpLTA2OXhUYU1Zd3BSbFlGMG0yZ0NNdUMt?oc=5"
+      "title": "앤트로픽 IPO 기대감, 나스닥 반등 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TcklIMElZUDA0WWQ0WVM1NEFYZlozeTZJOVJKMHdCVzV5dUx4b18tdzNpUFRjcGhwdnE5UmpJcVlUemhqdG1vWktMYVpYQlpva0UwdmgycDQzZkxsdTU2Y0tIVUR0dXNEcUt3ZQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "코인판된 증시에 뺨 맞은 진짜 코인판 - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTzg1alp3T25KWFhGTDRma2RlUmtnVFFmdVYtT0ZhYmV6bXh5N0RiOWlYOXBGUHVVcExjeW9RUEJ4cGcybjJGVG81cHpKZGxVd2RpNHZDeURDNnV6YXRFMWR4UFR3bVFjcHBCUTlMV202TmFuWVg1S0ZSd29vUmU2dFVVVlZ1Vzh4Z1g4?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[미국증시] 빅스텝론에도 장기금리는 오히려 내렸다 - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iQWpVMkR6bGZlTkpjQVozOUZMaHFmQWJ4cHpoTWpCbnNuYURhb3JVR2luOHlmSHNIZlBCeURORHB1bkI5QlFSRjFyUGFtNWNEVkdPZWFCLThMV01jN3FubmhRRTZ3MVE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "삼성운용, 'KODEX 미국S&P500' 연초 이후 개인 순매수 3조원 돌파 - 매일일보",
+      "source": "매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIQjZJRi16aTBNZ0dpcWFjRkRncXNlaHdobHQxNTRGZ1NXU2tPR1BfbWpmb1ZFaVh3RkI3RXNnMkxRQzBKa0RTbVo3dUk1R1I0cVQzNHRxZ0I1NG5PMUlSc1NYMnU?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "[서울데이터랩]미국 증시, 기술주·반도체주 급락에 일제히 하락 마감…나스닥 2%대 밀려 - 서울신문",
       "source": "서울신문",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeGtabjBQLVpnNFcwQ29KNlYtaWQyNENKSFpVTzJfTWdjNDV0TXBRdWNIMDV3X3U3ZTdZd21sSTFEeXNLOVhrZVVjMXBoOVJOdlU4S3E5NllHS1FNM2VzUlJvZmNLUUtYT3RoVkl3Y2xiM1VLTTliVWJCbl9DQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "젠슨 황 복귀설에 흔들린 뉴욕증시…유가도 급락 - 네이버페이 머니스토리",
-      "source": "네이버페이 머니스토리",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MYmJLZENVVTB1aFBadWlwLUpQT3BfNHF2YXVlN0FXal9sbjZtUDJMS0NsMVpUdW5FUlVZMjFXR0tGbHhiTWdYbDZXOW9LemlaSUE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "\"흔들리는 코스피…주식 농부처럼 버티면 수확할 때가 옵니다\" - 뉴시스",
-      "source": "뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JcUVjTmlvMzFCdVpMcmtHUGo2bWZLVjc4Sm9yMG50SnV5Q3pKVFJhVzNHWjNLNVV4azdjNzI1Yjl3ZGpnSU1ha2tUenJUd2tzRDN2emZ5MUFndk9td2o0ZNIBeEFVX3lxTE05MkExNGtqLUlMZC1IV3BlNzRLUDI2M2tLMnBYWGhNZTdDbDB1V2p4bG4zczFwaWlNd0I2VnFpRWR0Z0x4QkE3ek4wTHRXVzZkVTRWZlNUS3d0Q3h5R0RZVjRxcGNXMUxLUm1KT1hucGp4bUxBcVlURg?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "뉴욕증시, 혼조세로 전환…나스닥 0.78%↑ - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yT3MzODZ2M1Zvcm11TjFiNTlEOS1rME5SejA2TFVRcGc0aDBOX1ZvSTdibGhLUWhjMkpLQ2l5NjVMS3oyZUNwQm9rSDM2Q0Yx?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
