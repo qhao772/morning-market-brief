@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-19T12:47:23Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.19 21:47 (한국시간)",
-  "us10y": 5.1,
-  "us30y": 5.46,
+  "updatedAtISO": "2026-11-19T21:20:10Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.20 06:20 (한국시간)",
+  "us10y": 5.07,
+  "us30y": 5.41,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1327.08,
-  "usdJpy": 159.92,
-  "jpyKrw100": 829.85,
+  "usdKrw": 1334.24,
+  "usdJpy": 159.68,
+  "jpyKrw100": 835.59,
   "indices": {
     "kospi": {
       "value": 5137.89,
@@ -20,24 +20,30 @@
       "changePct": 3.32
     },
     "sp500": {
-      "value": 7323.63,
-      "changePct": -0.23
+      "value": 7175.83,
+      "changePct": -2.02
     },
     "nasdaq": {
-      "value": 24429.88,
-      "changePct": 0.42
+      "value": 23879.2,
+      "changePct": -2.25
     },
     "sox": {
-      "value": 9652.8,
-      "changePct": 0.1
+      "value": 9419.72,
+      "changePct": -2.42
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "앤트로픽 IPO 기대감, 나스닥 반등 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TcklIMElZUDA0WWQ0WVM1NEFYZlozeTZJOVJKMHdCVzV5dUx4b18tdzNpUFRjcGhwdnE5UmpJcVlUemhqdG1vWktMYVpYQlpva0UwdmgycDQzZkxsdTU2Y0tIVUR0dXNEcUt3ZQ?oc=5"
+      "title": "한눈에 보는 오늘의 뉴스 (11월 19일) - 데일리바이트(DAILY BYTE)",
+      "source": "데일리바이트(DAILY BYTE)",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPbnA2QXZESkR2QVdIQzdRQVRza1lvLVBMUXRkQk5UUGZlaV9rQzJiLXIwV29aTF90dU1lNFZJMU5VYWFRRDVJb1A2dDFKODNUNGh2RnA5ZnJ6cG5hNW1Rdzh3?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "앤트로픽 상장에도 웃지 못한 美 증시…AI 관련주 하락세 - 지디넷코리아",
+      "source": "지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lWlVFWW5KSGlsRHZFWER1TS1rcVZGLVBvZzVNNllTRGdBbUpNLXdnbUNnbEZqaE5lM0xqdm1adDN1M2VuR3ZIQXVjd2pXUDYtVkZBSDJn?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -47,21 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국증시] 빅스텝론에도 장기금리는 오히려 내렸다 - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iQWpVMkR6bGZlTkpjQVozOUZMaHFmQWJ4cHpoTWpCbnNuYURhb3JVR2luOHlmSHNIZlBCeURORHB1bkI5QlFSRjFyUGFtNWNEVkdPZWFCLThMV01jN3FubmhRRTZ3MVE?oc=5"
+      "title": "엔비디아 호실적도 못 넘은 금리 인상 우려, 뉴욕증시 혼조 - 네이버페이 머니스토리",
+      "source": "네이버페이 머니스토리",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NeVRpVFQzOWlHcV8zQ0tNQ0l3cFQ4VTUzX0hCV05GODMwTGx6eHAwV1NoZUxaSjU3amlFNWg4NWhFWUI3eHJ1STZpQVE2TjlIZkJSVno2N2w?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "엔비디아 실적보다 AI 투자 부담…힘 못 쓰는 뉴욕증시 [월가 업&다운] - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10OTJBTVVhbVFCVXFla2tYX2tNUTVQWU5sdjRtaTQwTHFGeERwbTZYSjIwRkotdjBEYXF3cWdTeUt3VlpGUFFacFNOejI5Slk5RWtBbWZvdG0xdw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[1119개장체크] 美 증시, 엔비디아 호실적에도 연준 추가 금리 인상 경계에 혼조 - 인포스탁데일리",
-      "source": "인포스탁데일리",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tWDRMNkoza002NzRIX0wteGJUOTNCeHpQU1V6aTlPYUc3b0dDZ0ZYQkhjZ3hWaUhtX2xiUnhQQ3ZHV1p1Z2JTdjZQNVhkcmxrSWJteEpzbzVKRzZ3bjhTRnBiQmlzNWRtbW55azFZeFZ0TGZQd2c?oc=5"
+      "title": "뉴욕증시, 하락세로 마감…나스닥 2.25%↓ - 블루밍비트",
+      "source": "블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzMHB6Y2FYNHdjc0NibWhvNUl3VHhhSFJRNlZBMFJCU1FUOUNRNXgzMWYtaXBtdDRabzJLTmZCc1NZZFpHTTZnU0xDalRraGxj?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
