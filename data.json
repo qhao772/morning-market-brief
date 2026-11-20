@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-20T11:21:06Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.20 20:21 (한국시간)",
+  "updatedAtISO": "2026-11-20T19:56:58Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.21 04:56 (한국시간)",
   "us10y": 5.07,
   "us30y": 5.41,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1338.85,
-  "usdJpy": 158.74,
-  "jpyKrw100": 843.45,
+  "usdKrw": 1345.0,
+  "usdJpy": 158.56,
+  "jpyKrw100": 848.25,
   "indices": {
     "kospi": {
       "value": 4869.96,
@@ -20,16 +20,16 @@
       "changePct": -5.71
     },
     "sp500": {
-      "value": 7175.83,
-      "changePct": -2.02
+      "value": 6976.16,
+      "changePct": -2.78
     },
     "nasdaq": {
-      "value": 23879.2,
-      "changePct": -2.25
+      "value": 22861.61,
+      "changePct": -4.26
     },
     "sox": {
-      "value": 9419.72,
-      "changePct": -2.42
+      "value": 8553.2,
+      "changePct": -9.2
     }
   },
   "issues": [
@@ -47,21 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "오늘 노동절로 미국 증시 하루 종일 휴장: 투자자가 알아야 할 사항 - TradingKey",
-      "source": "TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qN1BQb1ZhWE50WjhCRlJhNGh1eDhzN20xNEZXRktYVEY5RHFITVpqbnZmNnN0STZqRjhxMlFmUEw1Ukt1eDZVOTlZRURDUDZSVmFpd2FmTHppcmctYWVoX2R2czRIZjkzaWJCbkVQSDZPaWtH?oc=5"
+      "title": "앤트로픽 143조 돈잔치 열렸는데 세계증시 폭락‥AI거품 공포 확산? - MBC 뉴스",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RY3RicnRldGVQMTl3eHVqVjdBbjhsbnRPczhmRy1jVXRJSFctZ1JaSlVqT2xncFJweTVNQkRKXzBFVXFoaWwteXYzT3ZESTZDSzB1UjhleXl1YTVaakFOdURZazM0ZnBRM1BvRjUzbDVKVWxlU0ZtQtIBeEFVX3lxTE9VT1ZwWHNiSV9fYmtGdzFCTDQ1aGh6dlJuUW9mX2ppTDlqb0dSd1pTZGJFbnhQa0NxTEhOTWtpQkFUXzhJcm0wQ25rZXJXM1NkbWFlajllQTZwU3ZvY3RLU3hBdWdlaVY4X1JUMjVNMldGYzFIYXRJdg?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[중국증시-마감] 검은 금요일…기술주 중심 하락 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLNnE5T0VWV2JQMkI3WXFydUp5SUZyQVMwbXpZQ1dhRW5fRzF3NjlfWXVzNDBQVjlPdlhpaXRvSHhJNDZwbXhiQkVVQlFSaDRQYzJNR1JNVUk4bjJRTFYxOTdITEVSY1VMblA4NUVBZlhzdw?oc=5"
+      "title": "앤트로픽 상장은 '마지막 불꽃놀이'...FT의 경고 [월가 업&다운] - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtbjJjTzFETGt1RXAzbkRBX01RS0UzQjNEaWFRZHlmOFZnZ2RDMHB3ZnNQWWJxMDJDV3dfcENSSXY2czVtdV9mWkRsVnpJUkpWNzFta0ozUTJkUQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "코스피에 이어 코스닥도 5% 급락...대표 주가 지수 나란히 ‘매도 사이드카’ - 조선일보",
+      "title": "10개월 전으로 돌아간 코스피 - 조선일보",
       "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVZkUGo0UXhlLThsVzRacWVVYXZPSFYwVjUtMkJEaDBIUDNqQ2FtV3hMS3NDSFg5T0JwTUhhSzNtbHFsRlZJWHFSWVRqZVBHazd5VjVaZk5nbGRXZTBrVWQzd2FCU1hjRWk1YjA2V3JKdk43WWJMejcxQ1NtTzM2VA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM1VHTEVvRzcwV2VnSzZreXNqeUFtVVFwTFpCYXdRaUtoRk10UVFQenFBczZCR0d5bzdTdHc3bWpXRTFYWjEzNnRIUTVHRHJ3elpHdVgxMERqTmttU2ppeHlISUMzS0szXzRBdmFfeVc3MGJ5N3BVa0R6U3ktZldxZ0J0OXA4VzhWcE0wYzdn?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
