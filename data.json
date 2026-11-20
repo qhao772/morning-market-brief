@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-11-20T02:57:42Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.20 11:57 (한국시간)",
+  "updatedAtISO": "2026-11-20T11:21:06Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.20 20:21 (한국시간)",
   "us10y": 5.07,
   "us30y": 5.41,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1338.88,
-  "usdJpy": 159.24,
-  "jpyKrw100": 840.8,
+  "usdKrw": 1338.85,
+  "usdJpy": 158.74,
+  "jpyKrw100": 843.45,
   "indices": {
     "kospi": {
-      "value": 4899.44,
-      "changePct": -4.64
+      "value": 4869.96,
+      "changePct": -5.21
     },
     "kosdaq": {
-      "value": 655.81,
-      "changePct": -4.24
+      "value": 645.68,
+      "changePct": -5.71
     },
     "sp500": {
       "value": 7175.83,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "한눈에 보는 오늘의 뉴스 (11월 19일) - 데일리바이트(DAILY BYTE)",
-      "source": "데일리바이트(DAILY BYTE)",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPbnA2QXZESkR2QVdIQzdRQVRza1lvLVBMUXRkQk5UUGZlaV9rQzJiLXIwV29aTF90dU1lNFZJMU5VYWFRRDVJb1A2dDFKODNUNGh2RnA5ZnJ6cG5hNW1Rdzh3?oc=5"
+      "title": "[뉴욕증시] 앤트로픽 상장은 매도 신호였나…2%대 급락 마감 - 연합인포맥스",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsM1UySkQ1YmdONUNYZV82VjczODNrVU1GZVVKa3pKSGJ6Ym1COGdFaUJjOUpMb0RQVF81X0o1QjlaZGZnYWM4RlVrNmt4aG5VVFUwdkF5U2tJT3JQamxuR0FoQ0N0aF9FRGwyaTBFemQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "앤트로픽 상장에도 웃지 못한 美 증시…AI 관련주 하락세 - 지디넷코리아",
-      "source": "지디넷코리아",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lWlVFWW5KSGlsRHZFWER1TS1rcVZGLVBvZzVNNllTRGdBbUpNLXdnbUNnbEZqaE5lM0xqdm1adDN1M2VuR3ZIQXVjd2pXUDYtVkZBSDJn?oc=5"
+      "title": "미국발 삭풍에 증시 약세...양 시장 매도 사이드카 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lMXNhaVdiak5MM2ozNUhMdjl3QmlJWFBRUDJwa2RmOUdreFVKdjItcXRoME8zN2Nqc21EQ2JJeW85cnVuSi1adHNZWFNsUGp1TlFTbDFvOEpiMlhybGU1SjB0Q3B5dmNlZ0xpRzNmcw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[서울데이터랩]미국 증시, 기술주·반도체주 급락에 일제히 하락 마감…나스닥 2%대 밀려 - 서울신문",
-      "source": "서울신문",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EeGtabjBQLVpnNFcwQ29KNlYtaWQyNENKSFpVTzJfTWdjNDV0TXBRdWNIMDV3X3U3ZTdZd21sSTFEeXNLOVhrZVVjMXBoOVJOdlU4S3E5NllHS1FNM2VzUlJvZmNLUUtYT3RoVkl3Y2xiM1VLTTliVWJCbl9DQQ?oc=5"
+      "title": "오늘 노동절로 미국 증시 하루 종일 휴장: 투자자가 알아야 할 사항 - TradingKey",
+      "source": "TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qN1BQb1ZhWE50WjhCRlJhNGh1eDhzN20xNEZXRktYVEY5RHFITVpqbnZmNnN0STZqRjhxMlFmUEw1Ukt1eDZVOTlZRURDUDZSVmFpd2FmTHppcmctYWVoX2R2czRIZjkzaWJCbkVQSDZPaWtH?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "엔비디아 호실적도 못 넘은 금리 인상 우려, 뉴욕증시 혼조 - 네이버페이 머니스토리",
-      "source": "네이버페이 머니스토리",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NeVRpVFQzOWlHcV8zQ0tNQ0l3cFQ4VTUzX0hCV05GODMwTGx6eHAwV1NoZUxaSjU3amlFNWg4NWhFWUI3eHJ1STZpQVE2TjlIZkJSVno2N2w?oc=5"
+      "title": "[중국증시-마감] 검은 금요일…기술주 중심 하락 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLNnE5T0VWV2JQMkI3WXFydUp5SUZyQVMwbXpZQ1dhRW5fRzF3NjlfWXVzNDBQVjlPdlhpaXRvSHhJNDZwbXhiQkVVQlFSaDRQYzJNR1JNVUk4bjJRTFYxOTdITEVSY1VMblA4NUVBZlhzdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "뉴욕증시, 하락세로 마감…나스닥 2.25%↓ - 블루밍비트",
-      "source": "블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzMHB6Y2FYNHdjc0NibWhvNUl3VHhhSFJRNlZBMFJCU1FUOUNRNXgzMWYtaXBtdDRabzJLTmZCc1NZZFpHTTZnU0xDalRraGxj?oc=5"
+      "title": "코스피에 이어 코스닥도 5% 급락...대표 주가 지수 나란히 ‘매도 사이드카’ - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVZkUGo0UXhlLThsVzRacWVVYXZPSFYwVjUtMkJEaDBIUDNqQ2FtV3hMS3NDSFg5T0JwTUhhSzNtbHFsRlZJWHFSWVRqZVBHazd5VjVaZk5nbGRXZTBrVWQzd2FCU1hjRWk1YjA2V3JKdk43WWJMejcxQ1NtTzM2VA?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
