@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-11-21T17:18:21Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.22 02:18 (한국시간)",
+  "updatedAtISO": "2026-11-21T23:00:22Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.22 08:00 (한국시간)",
   "us10y": 5.04,
   "us30y": 5.4,
   "fedFundsLow": 3.75,
@@ -41,9 +41,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "나스닥 5.3% 폭락 '검은 금요일'‥올해 상승분 모두 반납 - MBC 뉴스",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKNkV1Q0RiaXMxcExVQlM3Z3hnWlJaN2lRdC01VzlHeUsxcVR1VDYxa0JKaElNUGxrai0ySmpSM2VwMjJyc0tuQXc0UEMzR25uSDROOEdCX0ZIeWxfS2JTcUlDc29Id0tTVmh6MjItUGFpUUJhYVN1b9IBeEFVX3lxTE1QZzJmTXlJZllUNGFzSFZlbk41dWVqY184VGpoZ2dFVkRVMnFlYXNwVnNJajV0YzdUMldBclBnUk9rSFpnMnhTNE1QWW1ZN3JmbkFQd0VkcjZrd0R6RFlTS2Y5ZFdVSTVIT0tQdjF6STBwN0Y0WVo3NQ?oc=5"
+      "title": "'5천피' 무너지고 美증시 급락…'AI 투매' 추가 충격오나 - 연합뉴스",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sSVlQR3NzWjNIdEpnZF9KVVNnOEFYVnM0cVppaXZfSjZXSHl6UlNYRnB1UUFtYU5PV0xUQmtDSWgtMjRvdmdWUzA2dzl5eFk1M3JxUS1kWHJsblnSAWBBVV95cUxNV1puVTNuemZya3lBTnF3ci1jZ1pxSW0yVXp6NTBGQlRXZmtjZGxFczgta21UV2hpVWVSVGV6Mzd5cTdoVk56VEZ5RmNPblM1eTV2OGJ1X3NQREZDUU5LTWg?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[뉴욕증시] 앤트로픽 상장은 매도 신호였나…2%대 급락 마감 - 연합인포맥스",
+      "source": "연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsM1UySkQ1YmdONUNYZV82VjczODNrVU1GZVVKa3pKSGJ6Ym1COGdFaUJjOUpMb0RQVF81X0o1QjlaZGZnYWM4RlVrNmt4aG5VVFUwdkF5U2tJT3JQamxuR0FoQ0N0aF9FRGwyaTBFemQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -56,12 +62,6 @@
       "title": "나스닥 5.3% 폭락, 올해 상승분 다 날렸다…월요일이 두려운 개미들 - 주간조선",
       "source": "주간조선",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsMWE0eGVaN0ZQSXMxZWtaVTVNZlEwVEhjUnZ3LUphOGdVQVVxdTMtSUxEaU5mMllDZGlUNTJSQUFac2NHbnlkU0lhaEdrYklDTk5HZ2pDdFpVdnk5TkNMZ1JLLWJBR05aZ0HSAW5BVV95cUxOWlk5SFN0YWZVQ1pJZTNtN1pGbkVjN0VKMnFwVnZFTDQ3bDVqbzRJdUE0OTczM0lkckxHakN0WDJsb01rVEpMcXpIeGhNWkdLbWNBNk8xOW1Ec3Q3OXFxRjduSHpVcy1ueHdJdlhiQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[뉴욕증시] 앤트로픽 상장은 매도 신호였나…2%대 급락 마감 - 연합인포맥스",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsM1UySkQ1YmdONUNYZV82VjczODNrVU1GZVVKa3pKSGJ6Ym1COGdFaUJjOUpMb0RQVF81X0o1QjlaZGZnYWM4RlVrNmt4aG5VVFUwdkF5U2tJT3JQamxuR0FoQ0N0aF9FRGwyaTBFemQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
