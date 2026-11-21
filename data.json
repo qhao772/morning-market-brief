@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-11-21T01:22:03Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.21 10:22 (한국시간)",
+  "updatedAtISO": "2026-11-21T09:33:47Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.21 18:33 (한국시간)",
   "us10y": 5.04,
   "us30y": 5.4,
   "fedFundsLow": 3.75,
@@ -41,6 +41,12 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "4,900선 무너진 코스피...다음 주 미국 물가·금통위 주목 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tVDRZT0xPbnYtbXFGVGdWRlRHUEFucUdQRDBFOG5wN05QUWRYY0VLdGhwdU5fNWs3Y3JNdWIyTUhVVlVqYWFRZDA4WUJOY2lMMlZyMHBzVmVyNG0wT0E?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "나스닥 '준공황', 반도체지수 10% 폭락 … 韓 증시 '중대 위기' - 뉴데일리",
       "source": "뉴데일리",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JakhwY0ItSUU4cnR1c1JyLWJZLTZILXE5em9xUXczcTBTMU92ZmVvV3JqUGxPT2ROT3h5TXlyMW0xSWlLaFRVaWJmaWJ1akpzbmJ5cGpEM0pGVW5SWkJBOXVOeml2amN1NmJiZF9NWk4zM2ZuSUgwNzVkONIBgAFBVV95cUxObDNpcldTclJNMG41WHRmZHBjbUp1QTk0VGxqMjFRbjRNc0tjT01kN3E4emhjYVNhMDEzSHhoN3ZNMzlRc0J4bm5mczRfNDhIcjV6bjNKeC1xNzY3MFJBekFOZGkyOUt6dXFaVVMwcGhxaFU3SXpjV0RtV2hKZFFkUQ?oc=5"
@@ -53,15 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "엔비디아 13% 폭락…7주 연속 하락, 금융위기 이후 최장 - 마켓인",
-      "source": "마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMM0YyMVF6OFB6NnpQVWRIWFhxbjcwdk9aeUJ4Y3VLQlJGemdwbjd3S3hTa2pEU0dGbWg4YzFYLVprcUE1NUJfMDdkNkMzRDhzZ1l6MUxhUEt5SHREcVZGZ3lnNVpvVWZUQVllOXRtYmlrRms?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "뉴욕증시 'AI 투매'에 폭락…나스닥 5.28% 급락 - 산경투데이",
-      "source": "산경투데이",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lQll1d1RRNE9GRDJhRTdUMGRRMGFMR1F5SnR6ZDktRHdhblNjYVJNdkRpZkUyNVk3WVY2enBHUlI3YjMxUml6WmZLNGFRajV1RjQtdnRPRk5oak5SMXNoeWtoR1dSQ1J0UlpvMVZiZWTSAXRBVV95cUxNLTd3N2x4eWdDYlFzM0JtUGdQMEZXYnBEaVUwTl9OamtZNl9OZ2pQQ3RVenhlbW5vYmVXalBKTlRDNGlWZGY5ZGx3d28tY3dqQ290SlFNTTByODhRM1RzTDF5Q1h5cy1QMzZMaW5tMXM4VFAzMA?oc=5"
+      "title": "뉴욕증시 'AI 투자 공포'에 폭락...나스닥 5.28%↓·엔비디아 14% 급락 - M이코노미뉴스",
+      "source": "M이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MUzFhVDF3MnVjLXVwdmpHdHo2c1VrZlk1UV9DT21LaVJQbGJ3RjR3a3VmYmFocmJpZG91Um1Fd2taUElIY2lfZVgxQUw0eTV4NEVuZ2VIZnFqRFZVOXh3bDYyNHFNbjg?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
