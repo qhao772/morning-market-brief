@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-20T19:56:58Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.21 04:56 (한국시간)",
-  "us10y": 5.07,
-  "us30y": 5.41,
+  "updatedAtISO": "2026-11-21T01:22:03Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.21 10:22 (한국시간)",
+  "us10y": 5.04,
+  "us30y": 5.4,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1345.0,
-  "usdJpy": 158.56,
-  "jpyKrw100": 848.25,
+  "usdKrw": 1346.13,
+  "usdJpy": 158.51,
+  "jpyKrw100": 849.23,
   "indices": {
     "kospi": {
       "value": 4869.96,
@@ -20,19 +20,31 @@
       "changePct": -5.71
     },
     "sp500": {
-      "value": 6976.16,
-      "changePct": -2.78
+      "value": 6910.39,
+      "changePct": -3.7
     },
     "nasdaq": {
-      "value": 22861.61,
-      "changePct": -4.26
+      "value": 22617.73,
+      "changePct": -5.28
     },
     "sox": {
-      "value": 8553.2,
-      "changePct": -9.2
+      "value": 8408.59,
+      "changePct": -10.73
     }
   },
   "issues": [
+    {
+      "tag": "시장 뉴스",
+      "title": "엔비디아 14% 추락에 나스닥 5.3% 폭락…미국 증시 덮친 'AI 쇼크' - 진일보 | 전남일보",
+      "source": "진일보 | 전남일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzdm5aWGdGdDd6Q3U5T3JEZ0FVTmFlSV9UaDZKWVVqXzl5VURUYUcybXRRUjNyNkFoT0dJY2o3TmIzcmJkbVlkdjBtT2E1YnZXY2N6WElPaU51cE9EUEpGQXladWozOFZfOFctUEVabw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "나스닥 '준공황', 반도체지수 10% 폭락 … 韓 증시 '중대 위기' - 뉴데일리",
+      "source": "뉴데일리",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JakhwY0ItSUU4cnR1c1JyLWJZLTZILXE5em9xUXczcTBTMU92ZmVvV3JqUGxPT2ROT3h5TXlyMW0xSWlLaFRVaWJmaWJ1akpzbmJ5cGpEM0pGVW5SWkJBOXVOeml2amN1NmJiZF9NWk4zM2ZuSUgwNzVkONIBgAFBVV95cUxObDNpcldTclJNMG41WHRmZHBjbUp1QTk0VGxqMjFRbjRNc0tjT01kN3E4emhjYVNhMDEzSHhoN3ZNMzlRc0J4bm5mczRfNDhIcjV6bjNKeC1xNzY3MFJBekFOZGkyOUt6dXFaVVMwcGhxaFU3SXpjV0RtV2hKZFFkUQ?oc=5"
+    },
     {
       "tag": "시장 뉴스",
       "title": "[뉴욕증시] 앤트로픽 상장은 매도 신호였나…2%대 급락 마감 - 연합인포맥스",
@@ -41,27 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국발 삭풍에 증시 약세...양 시장 매도 사이드카 - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lMXNhaVdiak5MM2ozNUhMdjl3QmlJWFBRUDJwa2RmOUdreFVKdjItcXRoME8zN2Nqc21EQ2JJeW85cnVuSi1adHNZWFNsUGp1TlFTbDFvOEpiMlhybGU1SjB0Q3B5dmNlZ0xpRzNmcw?oc=5"
+      "title": "엔비디아 13% 폭락…7주 연속 하락, 금융위기 이후 최장 - 마켓인",
+      "source": "마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMM0YyMVF6OFB6NnpQVWRIWFhxbjcwdk9aeUJ4Y3VLQlJGemdwbjd3S3hTa2pEU0dGbWg4YzFYLVprcUE1NUJfMDdkNkMzRDhzZ1l6MUxhUEt5SHREcVZGZ3lnNVpvVWZUQVllOXRtYmlrRms?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "앤트로픽 143조 돈잔치 열렸는데 세계증시 폭락‥AI거품 공포 확산? - MBC 뉴스",
-      "source": "MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RY3RicnRldGVQMTl3eHVqVjdBbjhsbnRPczhmRy1jVXRJSFctZ1JaSlVqT2xncFJweTVNQkRKXzBFVXFoaWwteXYzT3ZESTZDSzB1UjhleXl1YTVaakFOdURZazM0ZnBRM1BvRjUzbDVKVWxlU0ZtQtIBeEFVX3lxTE9VT1ZwWHNiSV9fYmtGdzFCTDQ1aGh6dlJuUW9mX2ppTDlqb0dSd1pTZGJFbnhQa0NxTEhOTWtpQkFUXzhJcm0wQ25rZXJXM1NkbWFlajllQTZwU3ZvY3RLU3hBdWdlaVY4X1JUMjVNMldGYzFIYXRJdg?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "앤트로픽 상장은 '마지막 불꽃놀이'...FT의 경고 [월가 업&다운] - 한국경제",
-      "source": "한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtbjJjTzFETGt1RXAzbkRBX01RS0UzQjNEaWFRZHlmOFZnZ2RDMHB3ZnNQWWJxMDJDV3dfcENSSXY2czVtdV9mWkRsVnpJUkpWNzFta0ozUTJkUQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "10개월 전으로 돌아간 코스피 - 조선일보",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM1VHTEVvRzcwV2VnSzZreXNqeUFtVVFwTFpCYXdRaUtoRk10UVFQenFBczZCR0d5bzdTdHc3bWpXRTFYWjEzNnRIUTVHRHJ3elpHdVgxMERqTmttU2ppeHlISUMzS0szXzRBdmFfeVc3MGJ5N3BVa0R6U3ktZldxZ0J0OXA4VzhWcE0wYzdn?oc=5"
+      "title": "뉴욕증시 'AI 투매'에 폭락…나스닥 5.28% 급락 - 산경투데이",
+      "source": "산경투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lQll1d1RRNE9GRDJhRTdUMGRRMGFMR1F5SnR6ZDktRHdhblNjYVJNdkRpZkUyNVk3WVY2enBHUlI3YjMxUml6WmZLNGFRajV1RjQtdnRPRk5oak5SMXNoeWtoR1dSQ1J0UlpvMVZiZWTSAXRBVV95cUxNLTd3N2x4eWdDYlFzM0JtUGdQMEZXYnBEaVUwTl9OamtZNl9OZ2pQQ3RVenhlbW5vYmVXalBKTlRDNGlWZGY5ZGx3d28tY3dqQ290SlFNTTByODhRM1RzTDF5Q1h5cy1QMzZMaW5tMXM4VFAzMA?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
