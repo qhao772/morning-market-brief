@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-11-21T09:33:47Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.21 18:33 (한국시간)",
+  "updatedAtISO": "2026-11-21T17:18:21Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.22 02:18 (한국시간)",
   "us10y": 5.04,
   "us30y": 5.4,
   "fedFundsLow": 3.75,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "개미들 덮친 170조 폭탄…패닉셀 부른 '숨은 리스크' 있었다 - 한국경제",
+      "source": "한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Rc0lWeW0tYlVtSDVBWk9HejVJWG0zUlp2eGxLQnZ6ZzZiRERZUUJaNVNxOFRfNmY3Rll5N2VlSTRqUF8zendtX01uQTJVT3J3SWh4cS1aRS1MUQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "나스닥 5.3% 폭락 '검은 금요일'‥올해 상승분 모두 반납 - MBC 뉴스",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKNkV1Q0RiaXMxcExVQlM3Z3hnWlJaN2lRdC01VzlHeUsxcVR1VDYxa0JKaElNUGxrai0ySmpSM2VwMjJyc0tuQXc0UEMzR25uSDROOEdCX0ZIeWxfS2JTcUlDc29Id0tTVmh6MjItUGFpUUJhYVN1b9IBeEFVX3lxTE1QZzJmTXlJZllUNGFzSFZlbk41dWVqY184VGpoZ2dFVkRVMnFlYXNwVnNJajV0YzdUMldBclBnUk9rSFpnMnhTNE1QWW1ZN3JmbkFQd0VkcjZrd0R6RFlTS2Y5ZFdVSTVIT0tQdjF6STBwN0Y0WVo3NQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "엔비디아 14% 추락에 나스닥 5.3% 폭락…미국 증시 덮친 'AI 쇼크' - 진일보 | 전남일보",
       "source": "진일보 | 전남일보",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzdm5aWGdGdDd6Q3U5T3JEZ0FVTmFlSV9UaDZKWVVqXzl5VURUYUcybXRRUjNyNkFoT0dJY2o3TmIzcmJkbVlkdjBtT2E1YnZXY2N6WElPaU51cE9EUEpGQXladWozOFZfOFctUEVabw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "4,900선 무너진 코스피...다음 주 미국 물가·금통위 주목 - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tVDRZT0xPbnYtbXFGVGdWRlRHUEFucUdQRDBFOG5wN05QUWRYY0VLdGhwdU5fNWs3Y3JNdWIyTUhVVlVqYWFRZDA4WUJOY2lMMlZyMHBzVmVyNG0wT0E?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "나스닥 '준공황', 반도체지수 10% 폭락 … 韓 증시 '중대 위기' - 뉴데일리",
-      "source": "뉴데일리",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JakhwY0ItSUU4cnR1c1JyLWJZLTZILXE5em9xUXczcTBTMU92ZmVvV3JqUGxPT2ROT3h5TXlyMW0xSWlLaFRVaWJmaWJ1akpzbmJ5cGpEM0pGVW5SWkJBOXVOeml2amN1NmJiZF9NWk4zM2ZuSUgwNzVkONIBgAFBVV95cUxObDNpcldTclJNMG41WHRmZHBjbUp1QTk0VGxqMjFRbjRNc0tjT01kN3E4emhjYVNhMDEzSHhoN3ZNMzlRc0J4bm5mczRfNDhIcjV6bjNKeC1xNzY3MFJBekFOZGkyOUt6dXFaVVMwcGhxaFU3SXpjV0RtV2hKZFFkUQ?oc=5"
+      "title": "나스닥 5.3% 폭락, 올해 상승분 다 날렸다…월요일이 두려운 개미들 - 주간조선",
+      "source": "주간조선",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsMWE0eGVaN0ZQSXMxZWtaVTVNZlEwVEhjUnZ3LUphOGdVQVVxdTMtSUxEaU5mMllDZGlUNTJSQUFac2NHbnlkU0lhaEdrYklDTk5HZ2pDdFpVdnk5TkNMZ1JLLWJBR05aZ0HSAW5BVV95cUxOWlk5SFN0YWZVQ1pJZTNtN1pGbkVjN0VKMnFwVnZFTDQ3bDVqbzRJdUE0OTczM0lkckxHakN0WDJsb01rVEpMcXpIeGhNWkdLbWNBNk8xOW1Ec3Q3OXFxRjduSHpVcy1ueHdJdlhiQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
       "title": "[뉴욕증시] 앤트로픽 상장은 매도 신호였나…2%대 급락 마감 - 연합인포맥스",
       "source": "연합인포맥스",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsM1UySkQ1YmdONUNYZV82VjczODNrVU1GZVVKa3pKSGJ6Ym1COGdFaUJjOUpMb0RQVF81X0o1QjlaZGZnYWM4RlVrNmt4aG5VVFUwdkF5U2tJT3JQamxuR0FoQ0N0aF9FRGwyaTBFemQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "뉴욕증시 'AI 투자 공포'에 폭락...나스닥 5.28%↓·엔비디아 14% 급락 - M이코노미뉴스",
-      "source": "M이코노미뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MUzFhVDF3MnVjLXVwdmpHdHo2c1VrZlk1UV9DT21LaVJQbGJ3RjR3a3VmYmFocmJpZG91Um1Fd2taUElIY2lfZVgxQUw0eTV4NEVuZ2VIZnFqRFZVOXh3bDYyNHFNbjg?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
