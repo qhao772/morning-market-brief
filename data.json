@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-22T15:11:32Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.23 00:11 (한국시간)",
+  "updatedAtISO": "2026-11-22T21:39:50Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.23 06:39 (한국시간)",
   "us10y": 5.04,
   "us30y": 5.4,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1346.13,
-  "usdJpy": 158.51,
-  "jpyKrw100": 849.23,
+  "usdKrw": 1346.04,
+  "usdJpy": 158.55,
+  "jpyKrw100": 848.96,
   "indices": {
     "kospi": {
       "value": 4869.96,
@@ -35,9 +35,21 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "주말 美증시도 ‘패닉 투매’... 韓 “월요일 개장이 두렵다” - 조선일보",
-      "source": "조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMU52c0RGUGxhc3BKQk5YQ0ZrWWdhNGVROFJHaWQ5TFJsaTZTME5vcng1Q3dZc3NfSjh4RXpSQk52VTRpM1A5dzZFU3FycTEySjNZNzFDSEY5MzRKbmdQT3NpRVVpeDJtcS1RNWlwX2R1UlY2V2xYRGxtYXA5RHp4NnRQT2N3VFVuMFBj?oc=5"
+      "title": "'검은 월요일' 공포에 긴급 대응…18년 만에 증시안정펀드 가동 준비 - 주간조선",
+      "source": "주간조선",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04UmNoVkMxUEc1cjIxbHJHRlNaM3F6U2c1VEtsSUFrU2VEUVc3Vm40Sm9OV1ROeUJrNWlJemVtTUlrd2ZrVmpEMG83ZkgtNGpPbzd5Y0N3eDRpcEhULVRwcjFqSllJRk9IdnfSAW5BVV95cUxNM0xZNGpzWE9Ra05rYkh3U09LTTM2NGtIRTA2NWZkWXh3Uk05NU1hLWJlRmxUQWFzUEd3M1dvM0NIZkhCbzk4Y2xaQzgxeWVkb0FGQzNSMmR3S0dLTks1VDFnUmRUSElXZ2pjQnNyQQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "'블랙먼데이' 공포에 정부 긴급 대응…18년 만에 증시안정펀드 가동 준비 - KBC광주방송",
+      "source": "KBC광주방송",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41SG1aM2k1OGhJSW5KQlUyTjZ4R3VkWjM1OTQ2Z242bnpudlFpbUxqdFAyQ0dUeEdxVWdEWUdlSjFGbzZJSVlSVWpMMHBhSVhHYXlwM0pvcVpGeWlubGZWZw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "'검은 월요일' 우려에 정부 긴급 대응‥증시안정펀드 가동 준비 - MBC 뉴스",
+      "source": "MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DRkNyQmdrYUtGWWtrbEQtLW1qMk5vTXF0MFNQQVpRSzN1b00wcm1aZDVmbzdtNDdpRTBneWRqTzdnZnJyRzBRZldkNWZDSDZva0t2MFluRHljb19OcTZSNUJSckR5U1JDUFg3eGlCenI3TDUyTnFHQtIBeEFVX3lxTE1qS0NmaGMzOUFrTXM4Wk4tdWxzdXVQTDJNTzlPMHlwWlVYd19DbTlWQlVrWm5RVVhZelk2bHE2NEtXUmxUbjNOd3EtQng4OS1UZFZJWmlGdlNWRGNSS0tHTVhaSkplRXJJVGgxa2JlNTdBRmh6cmwydQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -50,18 +62,6 @@
       "title": "미국發 증시 폭락 우려에 정부 긴급 F4 소집 … 국내 안정 대책 논의 - 뉴데일리 경제",
       "source": "뉴데일리 경제",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrcDdLMkxZWlZNdzNyVjVvUnVkTVV0NGxzeW0zYThFNUxkaGN5UHRFaGtFTGE4a3pHRmdUbkdZZVVjWkwzcWcxZ0NHYXRxcU81RlU2bk9tS2w4eFFvbWRSeXFLd1hjdm1LOUtEZkpWZ2xWeEM3SHVibkluVdIBgAFBVV95cUxOMXVjLWdvcmQxcmxscmhvZEdhRGZvamdpM0EyN0pOd1pyZHRnR3lzMk4zcW03dFBmR0NXekZ6TEluZmtTcjIwUW9vc1dvZTliR3BqSXRwdmdEeFF2ajNOYjAxeXRkYTV0YWMxUXNvNVQ5enBoMjBvaHMxU0ltcVRJaw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "엔비디아 회계조사-수출 규제 강화…美증시 다시금 ‘패닉 셀’ - 동아일보",
-      "source": "동아일보",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TRHF2Mmt6N2UyT1IwcnBzdjFzZlI3ZWtJVkxOWlJfUWo4bnRCM09kV3BsbVB4NXBHT2hCbXN3eU5DbWwzZWY1eVVDc25CNTd4MEphQktzc3U3dmZNR0lrcDVDTnZuVTJvNmxjcEJLNnZWV01rLVHSAWZBVV95cUxQRF9HNkdTV2xQenFnbDlmNWhxRk85aS1TZUR2VDZaV1VfbnFoeE1Yb2FRc0ZSRWxvRkV5dUFTV1dXX1hGZHZkbnA3V3ZIcWhnSVdpQ1VxLVJtYkVmWkFwXzA2Y2NtVWc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "오늘 노동절로 미국 증시 하루 종일 휴장: 투자자가 알아야 할 사항 - TradingKey",
-      "source": "TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qN1BQb1ZhWE50WjhCRlJhNGh1eDhzN20xNEZXRktYVEY5RHFITVpqbnZmNnN0STZqRjhxMlFmUEw1Ukt1eDZVOTlZRURDUDZSVmFpd2FmTHppcmctYWVoX2R2czRIZjkzaWJCbkVQSDZPaWtH?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
