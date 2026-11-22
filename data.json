@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-22T06:25:41Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.22 15:25 (한국시간)",
+  "updatedAtISO": "2026-11-22T15:11:32Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.23 00:11 (한국시간)",
   "us10y": 5.04,
   "us30y": 5.4,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1337.8,
+  "usdKrw": 1346.13,
   "usdJpy": 158.51,
-  "jpyKrw100": 843.97,
+  "jpyKrw100": 849.23,
   "indices": {
     "kospi": {
       "value": 4869.96,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "주말 美증시도 ‘패닉 투매’... 韓 “월요일 개장이 두렵다” - 조선일보",
+      "source": "조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMU52c0RGUGxhc3BKQk5YQ0ZrWWdhNGVROFJHaWQ5TFJsaTZTME5vcng1Q3dZc3NfSjh4RXpSQk52VTRpM1A5dzZFU3FycTEySjNZNzFDSEY5MzRKbmdQT3NpRVVpeDJtcS1RNWlwX2R1UlY2V2xYRGxtYXA5RHp4NnRQT2N3VFVuMFBj?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "블랙먼데이 우려에 증안펀드 18년만에 가동되나…F4 \"준비 착수\"(종합) - 연합뉴스",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fcndpbmpMc1ZTZE54ME5UVEpic2NaUUpxeUx2c1lyQS1zZElQenZmUFJJbl80bXMwZGQ0SHlHZWwxOVJhZnlDY2pZMWdlZWlWRGFzWFd2eGk0bmfSAWBBVV95cUxNLTg0UjVEVDVUdmI2VklWTHZKMERvbDRJT1RpY1U0aVl4OHZkVjNrSFR1ckU4Skh2X2JsUlVCOThiakhfMzNja3NlN0FVcXVnVVV3NFFTTTBEaHNDVzcxbkQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "미국發 증시 폭락 우려에 정부 긴급 F4 소집 … 국내 안정 대책 논의 - 뉴데일리 경제",
+      "source": "뉴데일리 경제",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrcDdLMkxZWlZNdzNyVjVvUnVkTVV0NGxzeW0zYThFNUxkaGN5UHRFaGtFTGE4a3pHRmdUbkdZZVVjWkwzcWcxZ0NHYXRxcU81RlU2bk9tS2w4eFFvbWRSeXFLd1hjdm1LOUtEZkpWZ2xWeEM3SHVibkluVdIBgAFBVV95cUxOMXVjLWdvcmQxcmxscmhvZEdhRGZvamdpM0EyN0pOd1pyZHRnR3lzMk4zcW03dFBmR0NXekZ6TEluZmtTcjIwUW9vc1dvZTliR3BqSXRwdmdEeFF2ajNOYjAxeXRkYTV0YWMxUXNvNVQ5enBoMjBvaHMxU0ltcVRJaw?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "엔비디아 회계조사-수출 규제 강화…美증시 다시금 ‘패닉 셀’ - 동아일보",
+      "source": "동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TRHF2Mmt6N2UyT1IwcnBzdjFzZlI3ZWtJVkxOWlJfUWo4bnRCM09kV3BsbVB4NXBHT2hCbXN3eU5DbWwzZWY1eVVDc25CNTd4MEphQktzc3U3dmZNR0lrcDVDTnZuVTJvNmxjcEJLNnZWV01rLVHSAWZBVV95cUxQRF9HNkdTV2xQenFnbDlmNWhxRk85aS1TZUR2VDZaV1VfbnFoeE1Yb2FRc0ZSRWxvRkV5dUFTV1dXX1hGZHZkbnA3V3ZIcWhnSVdpQ1VxLVJtYkVmWkFwXzA2Y2NtVWc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "오늘 노동절로 미국 증시 하루 종일 휴장: 투자자가 알아야 할 사항 - TradingKey",
       "source": "TradingKey",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qN1BQb1ZhWE50WjhCRlJhNGh1eDhzN20xNEZXRktYVEY5RHFITVpqbnZmNnN0STZqRjhxMlFmUEw1Ukt1eDZVOTlZRURDUDZSVmFpd2FmTHppcmctYWVoX2R2czRIZjkzaWJCbkVQSDZPaWtH?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "'5천피' 무너지고 美증시 급락…'AI 투매' 추가 충격오나 - 연합뉴스",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sSVlQR3NzWjNIdEpnZF9KVVNnOEFYVnM0cVppaXZfSjZXSHl6UlNYRnB1UUFtYU5PV0xUQmtDSWgtMjRvdmdWUzA2dzl5eFk1M3JxUS1kWHJsblnSAWBBVV95cUxNV1puVTNuemZya3lBTnF3ci1jZ1pxSW0yVXp6NTBGQlRXZmtjZGxFczgta21UV2hpVWVSVGV6Mzd5cTdoVk56VEZ5RmNPblM1eTV2OGJ1X3NQREZDUU5LTWg?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "美 증시 폭락에 월요일 코스피 ‘비상’···정부 대응 나설까 - 시사저널e",
-      "source": "시사저널e",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fTnpBMzNHU01JNUVKRXptaUdWdnJLbFVCNkRCckVJWXRTMzFGQ2p2ZXgwNy1rYlp3Y0lYbkxmTGZua0QyY05ZbUZrS2xEMTU0X2dVUVBoeEZYVlA3VDlGOGxHem1XaXhSRzczd056LW1Kd9IBdkFVX3lxTFBZNU5iRmtLSl9hRzVoc0NpUDdkV054d3lUX2FzLUp3Y1AzeTFHbjV1bjFLTVNnZFpFQVUzLTJ4ZExFenhoX05wS2tpS0lxbXZBdm1neklVdXFYMHllY3dMR2ZCcGVySHdJVzBsWnc1dGpNTUhRUUE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "금융위기 오나요? 반등 가능한가요? 다음주 국내증시, 미국증시 전망 (feat. 22년, 25년 하락 차이점) - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVDBBSm10V1ZBcUFLVUpCWnBCT0lOcHFXQU51QlR0cVl1cm1yUC1melhZRnRjdGFidHBEa3VnRjc3R0ZHVFhpa01xOVBtWER2N1dnNnhMV3o4cVJEb0lhYTVBM0R2c0NvOXhNdFB0b2tQVXN4MWtzakdxeVFwQkhTYldtcw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "한미 증시 급락…'AI 투매' 추가 충격 오나 - 연합뉴스 한민족센터",
-      "source": "연합뉴스 한민족센터",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tQnJNYnpoV01IenR4YndiTzlYMWdoTkRDbHViN3VDSnc0MkNycTB5cVNlS2VGTmlEZ2dfTGswM2hVaW1wWlRjaWtNUkZkQk9fa2FLUmdzcndSMGxDY1FoaHNNd1B1UUVidVNsbEFqR1hjSW1s?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
