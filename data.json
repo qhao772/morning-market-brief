@@ -1,49 +1,49 @@
 {
-  "updatedAtISO": "2026-11-23T12:10:20Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.23 21:10 (한국시간)",
-  "us10y": 5.04,
-  "us30y": 5.4,
+  "updatedAtISO": "2026-11-24T00:42:36Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.24 09:42 (한국시간)",
+  "us10y": 4.92,
+  "us30y": 5.31,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1346.48,
-  "usdJpy": 159.09,
-  "jpyKrw100": 846.35,
+  "usdKrw": 1342.58,
+  "usdJpy": 159.06,
+  "jpyKrw100": 844.09,
   "indices": {
     "kospi": {
-      "value": 4708.54,
-      "changePct": -3.31
+      "value": 4988.16,
+      "changePct": 5.94
     },
     "kosdaq": {
-      "value": 635.45,
-      "changePct": -1.58
+      "value": 664.64,
+      "changePct": 4.59
     },
     "sp500": {
-      "value": 6910.39,
-      "changePct": -3.7
+      "value": 7237.17,
+      "changePct": 4.73
     },
     "nasdaq": {
-      "value": 22617.73,
-      "changePct": -5.28
+      "value": 24089.56,
+      "changePct": 6.51
     },
     "sox": {
-      "value": 8408.59,
-      "changePct": -10.73
+      "value": 9588.05,
+      "changePct": 14.03
     }
   },
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "[속보]靑 \"증시 불안정, 미국 증시와 연동 측면…경제부총리, 간담회서 증안펀드 관련 설명할 것\" - 머니투데이 - 머니투데이",
-      "source": "머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zQ2VXVE5mOU9DYTQ1VndmTzBEcEQtXzhXNHNpUlRzNDBDLTJxaEpsZXBFQnU3TndGalhBWUhaQmxSYV9vYkZlVGNDSk5TQXhudjRBOGZ3Qy1mSndHU0ZFdGlVLXRqS2xobVI2dtIBckFVX3lxTFAwSkNZQTl0eEdYNlFBNUpac2VScG1GR3hGeG4zRjQxMVZFalhzMS00TGlKRnRmNzBNcWZSRlZqNWlObEllSndBWEtMWk1IRmFwQmtfVGo1X1VDYmV0eU9aRm1ZR1ZBWFpLX3IxSlhmMTZmQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "코스피, 장중 4,600대로 후퇴...미국 증시 급락 여파 - YTN",
       "source": "YTN",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5SVY1X3pZS29ES1BGeGNJMWZXRHlxcjJOYnBwcWg3ZTFXRkpjSFRmUzVtTGpCTXFiQnZzWVNScWJKbHZTS1NYZklqVGRYUzhRYTNjUUZaSklDLW53WEE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "[속보]靑 \"증시 불안정, 미국 증시와 연동 측면…경제부총리, 간담회서 증안펀드 관련 설명할 것\" - 머니투데이 - 머니투데이",
+      "source": "머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zQ2VXVE5mOU9DYTQ1VndmTzBEcEQtXzhXNHNpUlRzNDBDLTJxaEpsZXBFQnU3TndGalhBWUhaQmxSYV9vYkZlVGNDSk5TQXhudjRBOGZ3Qy1mSndHU0ZFdGlVLXRqS2xobVI2dtIBckFVX3lxTFAwSkNZQTl0eEdYNlFBNUpac2VScG1GR3hGeG4zRjQxMVZFalhzMS00TGlKRnRmNzBNcWZSRlZqNWlObEllSndBWEtMWk1IRmFwQmtfVGo1X1VDYmV0eU9aRm1ZR1ZBWFpLX3IxSlhmMTZmQQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -53,15 +53,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "‘AI 거품론’ 확산에 미국·국내 증시 급락 ‘도미노’ - 부산일보",
-      "source": "부산일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BX01heFJIUEl0Q1pGLW4tWVVRVkh2LUU0dzR6UE1kN19SaG9IalVjR1NUQm5vXzE4WjBKLVhmZldvZGx6blhDdk85eHZWTVNVX0t5SVVXWmhyUFdCWFBVVGEzWlAyN3V4dXNzV3kzT0lTSkp6?oc=5"
+      "title": "‘황 어게인’ 31.5% 급등한 엔비디아…미국 증시 ‘술렁’ - 농민신문",
+      "source": "농민신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Pc2F1V3EwV1RhNm5Dc29CQVJZRHctRWFlTjhHcmUxZVhsZ2tIMGZDQmZ4MXpMdHRzc1RWeUlxVWdteFFoejFTRXZOR0ZXYld4S3NHUFZVYy1VZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "금융위기 오나요? 반등 가능한가요? 다음주 국내증시, 미국증시 전망 (feat. 22년, 25년 하락 차이점) - 네이버 프리미엄콘텐츠",
-      "source": "네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVDBBSm10V1ZBcUFLVUpCWnBCT0lOcHFXQU51QlR0cVl1cm1yUC1melhZRnRjdGFidHBEa3VnRjc3R0ZHVFhpa01xOVBtWER2N1dnNnhMV3o4cVJEb0lhYTVBM0R2c0NvOXhNdFB0b2tQVXN4MWtzakdxeVFwQkhTYldtcw?oc=5"
+      "title": "골드만삭스, 미국증시 주간 10% 급락 \"매력적 매수 기회\" - 이코노미스트",
+      "source": "이코노미스트",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LVUZiSHJRMFc3OEdIendDVWdTckh4N3BUQ050RldoRndKTnRaeUI0VGVZSktXdm93STBNdjBqNTNXSS1XWk5iSW9Db282SGs1dV93c1NVcXo2UFp2TjhROTF3?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
