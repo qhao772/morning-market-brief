@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-11-24T00:42:36Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.24 09:42 (한국시간)",
+  "updatedAtISO": "2026-11-24T10:48:00Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.24 19:48 (한국시간)",
   "us10y": 4.92,
   "us30y": 5.31,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1342.58,
-  "usdJpy": 159.06,
-  "jpyKrw100": 844.09,
+  "usdKrw": 1343.17,
+  "usdJpy": 159.43,
+  "jpyKrw100": 842.49,
   "indices": {
     "kospi": {
-      "value": 4988.16,
-      "changePct": 5.94
+      "value": 5006.03,
+      "changePct": 6.32
     },
     "kosdaq": {
-      "value": 664.64,
-      "changePct": 4.59
+      "value": 665.88,
+      "changePct": 4.79
     },
     "sp500": {
       "value": 7237.17,
@@ -35,21 +35,9 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "코스피, 장중 4,600대로 후퇴...미국 증시 급락 여파 - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5SVY1X3pZS29ES1BGeGNJMWZXRHlxcjJOYnBwcWg3ZTFXRkpjSFRmUzVtTGpCTXFiQnZzWVNScWJKbHZTS1NYZklqVGRYUzhRYTNjUUZaSklDLW53WEE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[속보]靑 \"증시 불안정, 미국 증시와 연동 측면…경제부총리, 간담회서 증안펀드 관련 설명할 것\" - 머니투데이 - 머니투데이",
-      "source": "머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zQ2VXVE5mOU9DYTQ1VndmTzBEcEQtXzhXNHNpUlRzNDBDLTJxaEpsZXBFQnU3TndGalhBWUhaQmxSYV9vYkZlVGNDSk5TQXhudjRBOGZ3Qy1mSndHU0ZFdGlVLXRqS2xobVI2dtIBckFVX3lxTFAwSkNZQTl0eEdYNlFBNUpac2VScG1GR3hGeG4zRjQxMVZFalhzMS00TGlKRnRmNzBNcWZSRlZqNWlObEllSndBWEtMWk1IRmFwQmtfVGo1X1VDYmV0eU9aRm1ZR1ZBWFpLX3IxSlhmMTZmQQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "靑 “국내 증시 불안정, 미국 증시와 연동되는 측면 있어” - 헤럴드경제",
-      "source": "헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82UTNXQ2xmb21rZWZ4RTYyYTE5bERyZUFtSDJCSFlsSklLNXo0NkVzbVFQSEpvb3lmdkRTSk1uaDMtOUswSnBoSHVlcG0zSktNWTBVR0pR?oc=5"
+      "title": "미국 증시 급락, 아직 바닥이 아니라고요? - 네이버페이 머니스토리",
+      "source": "네이버페이 머니스토리",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nbDlJQnV4bzlYbE5RaExkUFpkOEpCcjFuRWlCV2EzYjlKVmxIc2lYclIzaXE5bDYwVEZWZU9UX3ctVGV6VWRfWDF0UnVGaEhubkk5aEJCRGE?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "골드만삭스, 미국증시 주간 10% 급락 \"매력적 매수 기회\" - 이코노미스트",
-      "source": "이코노미스트",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LVUZiSHJRMFc3OEdIendDVWdTckh4N3BUQ050RldoRndKTnRaeUI0VGVZSktXdm93STBNdjBqNTNXSS1XWk5iSW9Db282SGs1dV93c1NVcXo2UFp2TjhROTF3?oc=5"
+      "title": "“만원으로 美 대표지수 3종에 투자”…미래에셋, ‘4·4·2 ETF’ 내놓는다 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01bk53M0N5aVVWMVdyeERhal92V1VuOUk2OG9VaHhKekRXTlBiRmxhWnRZZkJqRm8tM3Q0V1NDenp1amdlWGd0dVZSSlR3bUZmNmc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "코스피, 장중 4,600대로 후퇴...미국 증시 급락 여파 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5SVY1X3pZS29ES1BGeGNJMWZXRHlxcjJOYnBwcWg3ZTFXRkpjSFRmUzVtTGpCTXFiQnZzWVNScWJKbHZTS1NYZklqVGRYUzhRYTNjUUZaSklDLW53WEE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "\"글로벌 주식, 사실상 美기술주 베팅…유럽증시 비중 15% 불과\" - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CZEpMZVFSM2EtVVVxWk9vZWw5LWxfQ2tGUDZycVBMbWNveXRod3FQNi01eXVwS0JCb3lhTXRQdUhYRzJtWExQLWZUN1JmRndpUkNIaGNvSnJoZkhjeE1DOUpUVXV5ME9aeE9Pc01FTWdhdw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
