@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-24T10:48:00Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.24 19:48 (한국시간)",
+  "updatedAtISO": "2026-11-24T21:03:59Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.25 06:03 (한국시간)",
   "us10y": 4.92,
   "us30y": 5.31,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1343.17,
-  "usdJpy": 159.43,
-  "jpyKrw100": 842.49,
+  "usdKrw": 1341.31,
+  "usdJpy": 159.24,
+  "jpyKrw100": 842.34,
   "indices": {
     "kospi": {
       "value": 5006.03,
@@ -20,16 +20,16 @@
       "changePct": 4.79
     },
     "sp500": {
-      "value": 7237.17,
-      "changePct": 4.73
+      "value": 7201.09,
+      "changePct": -0.5
     },
     "nasdaq": {
-      "value": 24089.56,
-      "changePct": 6.51
+      "value": 23733.53,
+      "changePct": -1.48
     },
     "sox": {
-      "value": 9588.05,
-      "changePct": 14.03
+      "value": 8832.5,
+      "changePct": -7.88
     }
   },
   "issues": [
@@ -41,15 +41,15 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "‘황 어게인’ 31.5% 급등한 엔비디아…미국 증시 ‘술렁’ - 농민신문",
-      "source": "농민신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Pc2F1V3EwV1RhNm5Dc29CQVJZRHctRWFlTjhHcmUxZVhsZ2tIMGZDQmZ4MXpMdHRzc1RWeUlxVWdteFFoejFTRXZOR0ZXYld4S3NHUFZVYy1VZw?oc=5"
+      "title": "[미국 특징주] \"S&P 500, 2027년 말 8150 간다\"… 전략가들, 조정 딛고 12.6% 상승 전망 - 뉴스핌",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kYmtTZXVsTER6ajdMUUdydThxTktYdW9FNm1aSDNKRWVaY1NMcUJVUk9ISHJRczBwQWd4NnVNUjMwMTRnQ0FWYVZHQWVmVFF2cXRHVThiOUxUd0tl?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "“만원으로 美 대표지수 3종에 투자”…미래에셋, ‘4·4·2 ETF’ 내놓는다 - 매일경제 마켓",
-      "source": "매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01bk53M0N5aVVWMVdyeERhal92V1VuOUk2OG9VaHhKekRXTlBiRmxhWnRZZkJqRm8tM3Q0V1NDenp1amdlWGd0dVZSSlR3bUZmNmc?oc=5"
+      "title": "美 국채가, 전반적 강세…증시 하락에 안전 선호↑ - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WbTBrZ3VIV1YwaFlFaUNHVlpjdkFsdVBCZDhYNVNQcjZhTnV0QVlTWFZRaHliZkNlbGpHRWNmNkFGLVJmZC0wb24wREZNeXNwd29xbUVKMnpTTXlDOHo4bl9zSzNiZUlVQ200N3F0MllWdw?oc=5"
     },
     {
       "tag": "시장 뉴스",
@@ -59,9 +59,9 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "\"글로벌 주식, 사실상 美기술주 베팅…유럽증시 비중 15% 불과\" - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CZEpMZVFSM2EtVVVxWk9vZWw5LWxfQ2tGUDZycVBMbWNveXRod3FQNi01eXVwS0JCb3lhTXRQdUhYRzJtWExQLWZUN1JmRndpUkNIaGNvSnJoZkhjeE1DOUpUVXV5ME9aeE9Pc01FTWdhdw?oc=5"
+      "title": "‘황 어게인’ 31.5% 급등한 엔비디아…미국 증시 ‘술렁’ - 농민신문",
+      "source": "농민신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Pc2F1V3EwV1RhNm5Dc29CQVJZRHctRWFlTjhHcmUxZVhsZ2tIMGZDQmZ4MXpMdHRzc1RWeUlxVWdteFFoejFTRXZOR0ZXYld4S3NHUFZVYy1VZw?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
