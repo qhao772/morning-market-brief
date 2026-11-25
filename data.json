@@ -1,38 +1,44 @@
 {
-  "updatedAtISO": "2026-11-25T04:50:34Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.25 13:50 (한국시간)",
+  "updatedAtISO": "2026-11-25T15:25:34Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.26 00:25 (한국시간)",
   "us10y": 4.92,
   "us30y": 5.29,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1342.98,
-  "usdJpy": 159.35,
-  "jpyKrw100": 842.76,
+  "usdKrw": 1347.74,
+  "usdJpy": 159.16,
+  "jpyKrw100": 846.78,
   "indices": {
     "kospi": {
-      "value": 4729.71,
-      "changePct": -5.52
+      "value": 4697.51,
+      "changePct": -6.16
     },
     "kosdaq": {
-      "value": 653.42,
-      "changePct": -1.87
+      "value": 650.64,
+      "changePct": -2.29
     },
     "sp500": {
-      "value": 7201.09,
-      "changePct": -0.5
+      "value": 6999.11,
+      "changePct": -2.81
     },
     "nasdaq": {
-      "value": 23733.53,
-      "changePct": -1.48
+      "value": 22760.06,
+      "changePct": -4.1
     },
     "sox": {
-      "value": 8832.5,
-      "changePct": -7.88
+      "value": 8202.11,
+      "changePct": -7.14
     }
   },
   "issues": [
+    {
+      "tag": "시장 뉴스",
+      "title": "미국 증시 급락, 아직 바닥이 아니라고요? - 네이버페이 머니스토리",
+      "source": "네이버페이 머니스토리",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nbDlJQnV4bzlYbE5RaExkUFpkOEpCcjFuRWlCV2EzYjlKVmxIc2lYclIzaXE5bDYwVEZWZU9UX3ctVGV6VWRfWDF0UnVGaEhubkk5aEJCRGE?oc=5"
+    },
     {
       "tag": "시장 뉴스",
       "title": "트럼프 추가관세·젠슨 황 복귀효과 소진에 미국 증시 부진···엔트로픽 공모가 밑돌아 - 경향신문",
@@ -41,27 +47,21 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "삼성전자 SK하이닉스 주가 장중 6%대 내려, 미국 증시 하락에 반도체주 약세 - 비즈니스포스트",
-      "source": "비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mVUtiZlB2QUxLdmlkY0hNci1KRlExY0lWZF9UZ3FuZXNBUzFZSVBPTVVvLW5UX2xjMXJ5QW1FVlRiMkJicThEWEp4X3plRXdvT1U2SUFLUEktRlBGbUFIZVItenpSeWVjUkl1TlZHc3pzemc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "트럼프 관세 엄포에도…\"증시 가격 결정권은 AI 불확실성이 좌우\" - KB Think",
+      "title": "[亞증시-종합] 리스크 오프 심리 확산 - KB Think",
       "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZT1VCYzhQV3YyNkxMdkxrWk9mNGw2NzhWOS1DdEg2a210T1duWHQ5SkNHNzRuTTMya0Q3UFk5UVFnMnRsRzYyVVpMM2ZtaENIdmlhand2UkJLNm1Rb0RCRDd5U1RCUDdMS1B3dEowRGljUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96d0JXLTdnX2NDeEVMRm9Pemp4NFZFbkNmdTIwYU9ZRm9GU2tyNWxNMDJIVDdIR3ZJTzFUcXlJS0NMXzFrak1NVm9PbVc2RTNiLVpwMHhFMEhNNGNNVTJRTFpnQTNvTUlnMHZ3bm9ZdjloZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "미국증시 '혼조'...엔비디아·앤트로픽·나스닥 '뚝' - 초이스경제",
-      "source": "초이스경제",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WdmhsM3pxdW9waHBBaDA2SEMwV0JGbTVJNWUyVzNRQWczdVFiX0QzUmpNZjNnYmZwdjZHMkxwWXc2QWVtS0F1X0t3UVNpYWtDSE1PNTk5Y01tZldiUmRzOE1HaE1yQVVvcWpBZkM5QdIBc0FVX3lxTE5NRmJmd19nc2NTVmxOUGpCUm1VVEhKaF96MW44MXBpNFdmNXdyMjRqQkV5Z0U1RGhsSklOQXBlMl9sQWVWbDBsUVE2TU5fM1lHRWtGTm8yaGlZSlcydzFlcEhnUVk1MEJ5ZHBOUVdSbzRaOTA?oc=5"
+      "title": "HSBC \"최근 증시 조정으로 내년 위험 대비 기대 수익 개선\" - 마켓인",
+      "source": "마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zY05JWHdMSXNIQ2pmeXpOY0MzMDhnNDU0UVVpMk9RQ0xOTWloYVhUU2xRSVc1TV9aRFlCZDB2NEdsTVZiVzd2VUkwQzhSSVFZX2F2VVYzNTNtVDZfbkpmQUxUR1NzMFFTZGpCdHljMlo1TFk?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "11월 25일 오전 브리핑(미국 증시) - 데일리바이트(DAILY BYTE)",
-      "source": "데일리바이트(DAILY BYTE)",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUk53aXQtWmVWNUZjdWJYWjJjSFR2T0VwSFhtT0t1TjV6cV9JTE1UQllIUEVxNHVGM2VGdWZja2czQzItYXhGUEF6WEpzNWg1TGd3dV9XOGFhOTZBVGxZWlNwdEtYTGVWMGxsWldpZHhKdFZGaDBTTDNfLTBYUmlyOXBB?oc=5"
+      "title": "코스피, 장중 4,600대로 후퇴...미국 증시 급락 여파 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5SVY1X3pZS29ES1BGeGNJMWZXRHlxcjJOYnBwcWg3ZTFXRkpjSFRmUzVtTGpCTXFiQnZzWVNScWJKbHZTS1NYZklqVGRYUzhRYTNjUUZaSklDLW53WEE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
