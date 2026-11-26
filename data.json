@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-11-26T00:08:25Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.26 09:08 (한국시간)",
+  "updatedAtISO": "2026-11-26T09:20:17Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.26 18:20 (한국시간)",
   "us10y": 4.91,
   "us30y": 5.3,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1343.63,
-  "usdJpy": 159.13,
-  "jpyKrw100": 844.35,
+  "usdKrw": 1343.45,
+  "usdJpy": 159.16,
+  "jpyKrw100": 844.08,
   "indices": {
     "kospi": {
-      "value": 4697.51,
-      "changePct": -6.16
+      "value": 4711.21,
+      "changePct": 0.29
     },
     "kosdaq": {
-      "value": 650.64,
-      "changePct": -2.29
+      "value": 655.71,
+      "changePct": 0.78
     },
     "sp500": {
       "value": 7182.78,
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "한화증권 \"연말 美증시 박스권…우호적 여건 내년 1분기 이후\" - 연합뉴스",
+      "title": "널뛰는 코스피에 개미 투자금은 미국 대표지수 ETF로 '쏠림' - 연합뉴스",
       "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qMnhKa0xLNnVQbnFZZVNHbHJMY0pTMFowWU5rcTBlb3FrRmlzc3dpbi1MMFJpaUNQQkpYVGZXdElybFA4R19qUnVReS1vc3lvSXkwcVp4OFRBek3SAWBBVV95cUxQU25wRG1mRmNwUTVYVU42R3pfVEJORHlST3JsT19GQlJtbnhPSGdFYS1kbUJ6TzlMY0tSQUJIRElmYmVsa3F3Y1hfQy1BdVZmWTJmQVJUWFJrNUU2NjZYVXY?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nY2NCSzdFVFZGNC0ybU5ETEh1aTdyeDBtV1ZUbEpJR0RZb1pTaHY1bnlVQU1LeS1jdzBKcEppVlQ5TndXNnhPUnFMaDhqVkVIbmJHb0Y1WjdGVEXSAWBBVV95cUxQRUwtZkNCUTNmemhnNEpIbEVsVEFWYjhDMlp2MHJBMzZSRFExbmVFeF8tSklMRlRJbThRSE9vTl9WWmUwRXQtS3lyOEFQNmFuem9QNGJfS3VxcEhFUEM4TkE?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "SK증권 \"미국 증시, 조정과 약세장 가를 단서는 11월 신용잔고\" - 팝콘뉴스",
-      "source": "팝콘뉴스",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pNS1iR1FybXJjdVdzTDQtODNoWmRySmFldTFpUE4xQWFEa1p1NFJzam15VjM0aVdmS3ZYRDFPbjJaZzN6ejA4TXVJODNRemQySEdYck9fSGE0U01kUlJOdXo4MXBocEkzYS1qVWNGRQ?oc=5"
+      "title": "[중국증시-마감] 美 추가 관세·AI 투자 우려 속 혼조 - KB Think",
+      "source": "KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Fd2JMWWVsa013Zmxubmd3WU40c2IxU0N5MUhmOHhTNXJfZXRGZUFGSWJZRnk5aU1kUHZEZ2xtN0FYQkNGRzk2a2FWa0tMVS1senNuM3JrYzE3RHJ2RFZYYXhCMko3cVFnblpDcXN6WllsZw?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "트럼프 추가관세·젠슨 황 복귀효과 소진에 미국 증시 부진···엔트로픽 공모가 밑돌아 - 경향신문",
-      "source": "경향신문",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15N01tYjgwNnAtaGx5WUtQOVRKcGVNUi00Nk43WGNKcXQ0UlExV3JkbXpXVGtuajFqZ0szS2o2a18xRm9ibGk4cWR2dE9SLWp3N2Fld1ZkdUpsd9IBX0FVX3lxTE1vUGZVbGtOZG5RQUtkZWhja3Y2dTdxcGpSQlRyejVjYngzc1dhMFFlY0xxZ2dna3FfTm1ZYUNyVGFRSzJ5bXVYVXljbnhrZEVpRk8tOXRjeHpoYVk3Mi1z?oc=5"
+      "title": "[미국 증시] 美 주식 11월 26일 휴장일, 왜?…뉴욕증시 언제 재개되나 - CBC뉴스",
+      "source": "CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UaGhtU2Z0RkpHM1F3b2NyZ1VQUm5xX3NkbjVvVzMtcXJ3UFd4Yzl3SU55VWFpQjFSallNS3VZZC1Tek1zSXlNa0VCUEIxWHB5bjBydU9FNFZYVzJ0X2V4N2hqeUZBcW9s?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국증시] 골드만 '매수 기회' 진단…버리도 '일시적 롱' 전환 - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nQU5LR0NVZl9LS2N0SmE4Y2lXVXByRWstSFEwVl8xTkFLWEoxamZXTHpKcDd2TDdtOUwxNXV1Wl9CNnNiMkY5ZXJkbURQVlA4ODVWOHZncW5MeWIyNFp4RzNYQW4ySkU?oc=5"
+      "title": "금리·AI 수익성 우려에 관세까지…여의도 족집게 “반등 시그널 이때 나온다” [머니닥터 시장진단] - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwVVFnSEZVYlNhUE5Jb0tBckZrT1RJRGIzSEx3YnRUWWhodFE1R2dRNjNYUndaMW54Rm1obG1aRWE2Y1pWLU5icERHM2lyYjdmSVE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
