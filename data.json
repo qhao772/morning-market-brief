@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-25T15:25:34Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.26 00:25 (한국시간)",
-  "us10y": 4.92,
-  "us30y": 5.29,
+  "updatedAtISO": "2026-11-26T00:08:25Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.26 09:08 (한국시간)",
+  "us10y": 4.91,
+  "us30y": 5.3,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1347.74,
-  "usdJpy": 159.16,
-  "jpyKrw100": 846.78,
+  "usdKrw": 1343.63,
+  "usdJpy": 159.13,
+  "jpyKrw100": 844.35,
   "indices": {
     "kospi": {
       "value": 4697.51,
@@ -20,16 +20,16 @@
       "changePct": -2.29
     },
     "sp500": {
-      "value": 6999.11,
-      "changePct": -2.81
+      "value": 7182.78,
+      "changePct": -0.25
     },
     "nasdaq": {
-      "value": 22760.06,
-      "changePct": -4.1
+      "value": 23585.8,
+      "changePct": -0.62
     },
     "sox": {
-      "value": 8202.11,
-      "changePct": -7.14
+      "value": 8774.86,
+      "changePct": -0.65
     }
   },
   "issues": [
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "한화증권 \"연말 美증시 박스권…우호적 여건 내년 1분기 이후\" - 연합뉴스",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qMnhKa0xLNnVQbnFZZVNHbHJMY0pTMFowWU5rcTBlb3FrRmlzc3dpbi1MMFJpaUNQQkpYVGZXdElybFA4R19qUnVReS1vc3lvSXkwcVp4OFRBek3SAWBBVV95cUxQU25wRG1mRmNwUTVYVU42R3pfVEJORHlST3JsT19GQlJtbnhPSGdFYS1kbUJ6TzlMY0tSQUJIRElmYmVsa3F3Y1hfQy1BdVZmWTJmQVJUWFJrNUU2NjZYVXY?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "SK증권 \"미국 증시, 조정과 약세장 가를 단서는 11월 신용잔고\" - 팝콘뉴스",
+      "source": "팝콘뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pNS1iR1FybXJjdVdzTDQtODNoWmRySmFldTFpUE4xQWFEa1p1NFJzam15VjM0aVdmS3ZYRDFPbjJaZzN6ejA4TXVJODNRemQySEdYck9fSGE0U01kUlJOdXo4MXBocEkzYS1qVWNGRQ?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "트럼프 추가관세·젠슨 황 복귀효과 소진에 미국 증시 부진···엔트로픽 공모가 밑돌아 - 경향신문",
       "source": "경향신문",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15N01tYjgwNnAtaGx5WUtQOVRKcGVNUi00Nk43WGNKcXQ0UlExV3JkbXpXVGtuajFqZ0szS2o2a18xRm9ibGk4cWR2dE9SLWp3N2Fld1ZkdUpsd9IBX0FVX3lxTE1vUGZVbGtOZG5RQUtkZWhja3Y2dTdxcGpSQlRyejVjYngzc1dhMFFlY0xxZ2dna3FfTm1ZYUNyVGFRSzJ5bXVYVXljbnhrZEVpRk8tOXRjeHpoYVk3Mi1z?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[亞증시-종합] 리스크 오프 심리 확산 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96d0JXLTdnX2NDeEVMRm9Pemp4NFZFbkNmdTIwYU9ZRm9GU2tyNWxNMDJIVDdIR3ZJTzFUcXlJS0NMXzFrak1NVm9PbVc2RTNiLVpwMHhFMEhNNGNNVTJRTFpnQTNvTUlnMHZ3bm9ZdjloZw?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "HSBC \"최근 증시 조정으로 내년 위험 대비 기대 수익 개선\" - 마켓인",
-      "source": "마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zY05JWHdMSXNIQ2pmeXpOY0MzMDhnNDU0UVVpMk9RQ0xOTWloYVhUU2xRSVc1TV9aRFlCZDB2NEdsTVZiVzd2VUkwQzhSSVFZX2F2VVYzNTNtVDZfbkpmQUxUR1NzMFFTZGpCdHljMlo1TFk?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "코스피, 장중 4,600대로 후퇴...미국 증시 급락 여파 - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5SVY1X3pZS29ES1BGeGNJMWZXRHlxcjJOYnBwcWg3ZTFXRkpjSFRmUzVtTGpCTXFiQnZzWVNScWJKbHZTS1NYZklqVGRYUzhRYTNjUUZaSklDLW53WEE?oc=5"
+      "title": "[미국증시] 골드만 '매수 기회' 진단…버리도 '일시적 롱' 전환 - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nQU5LR0NVZl9LS2N0SmE4Y2lXVXByRWstSFEwVl8xTkFLWEoxamZXTHpKcDd2TDdtOUwxNXV1Wl9CNnNiMkY5ZXJkbURQVlA4ODVWOHZncW5MeWIyNFp4RzNYQW4ySkU?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
