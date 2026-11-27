@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-11-27T02:44:43Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.27 11:44 (한국시간)",
+  "updatedAtISO": "2026-11-27T11:58:47Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.27 20:58 (한국시간)",
   "us10y": 4.91,
   "us30y": 5.3,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1340.49,
-  "usdJpy": 159.17,
-  "jpyKrw100": 842.16,
+  "usdKrw": 1335.18,
+  "usdJpy": 159.4,
+  "jpyKrw100": 837.64,
   "indices": {
     "kospi": {
-      "value": 4827.6,
-      "changePct": 2.47
+      "value": 4915.68,
+      "changePct": 4.34
     },
     "kosdaq": {
-      "value": 693.76,
-      "changePct": 5.8
+      "value": 708.99,
+      "changePct": 8.13
     },
     "sp500": {
       "value": 7182.78,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
-      "title": "간밤 미국 증시 휴장...\"저가 매수세 유입 기대\" - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVMkJFMlJrazlISThzay1hWlFMWFNib2NDUTdmbkJydlQwR3ZEbHdQYjdUVUt2RlNmSTM1S1pPeXExSnVWOXp4d1EwUTlnMWxsejdGdGFZR3VsTDlpaGc?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
       "title": "미국 증시 급락, 아직 바닥이 아니라고요? - 네이버페이 머니스토리",
       "source": "네이버페이 머니스토리",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nbDlJQnV4bzlYbE5RaExkUFpkOEpCcjFuRWlCV2EzYjlKVmxIc2lYclIzaXE5bDYwVEZWZU9UX3ctVGV6VWRfWDF0UnVGaEhubkk5aEJCRGE?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "국민의힘 \"李대통령, 코스피 5000 외치고 미국 탓만…증시·집값 대책 내놔야\" - 뉴스핌",
-      "source": "뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rc2hKNWxjeFlGWG1pbGhxb1E4WTBYcTFfdk1KTXZhSEtWcXJfbkN0aUpfeFUtT0RxV212M1I2NHZFNWptSGZNelJRbWtCQm0wMTJudHRoMGJtZEhs?oc=5"
+      "title": "간밤 미국 증시 휴장...\"저가 매수세 유입 기대\" - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVMkJFMlJrazlISThzay1hWlFMWFNib2NDUTdmbkJydlQwR3ZEbHdQYjdUVUt2RlNmSTM1S1pPeXExSnVWOXp4d1EwUTlnMWxsejdGdGFZR3VsTDlpaGc?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국증시] '역 부의 효과' 우려…1조 달러 소비 시험대 - 자본시장뉴스",
-      "source": "자본시장뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsSTZtSjFPajhLZDdMZnZya2gwcjk1OVJQSnVQdUplcFJYU2FRZGd5ZFJIUWM3NkR6VDhiZUVLYzFUb3lhY1ZROWwwcDBfSlcxcGJMRUdEY04wblNSUFdFNzRoVERocWM?oc=5"
+      "title": "지수 선물 시황 - 미국 증시 휴장한 가운데 회복된 글로벌 위험선호 심리 - Investing.com 한국어",
+      "source": "Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5naTZZX29YYWJKRkRNMkxpQmoydmpLUFVoemJObVdNMkI0NVBCa2E5UDJjRV9EMTVwV0kwWk9JQ2xoTGhWTFR0MDhnYVV3al9lYVdiNWhuTWdVWW8xbnVjRQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "日 증시, 美 휴장 속 유럽 강세장·배당 재투자에 상승 출발 - KB Think",
-      "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GN3pGS0lmazRfaE9Fd1hzNFRKYzItYWp4WUtxVnl2MlFlT1l3ZlZKZVljb2FyOWRTaWhscHJUVFhsQjFKMXlqVzU5TEFxdmlSQy1heGRZR2tWb1pRcWRyTTU5OERFMkZsaVJTdlg3U2VxUQ?oc=5"
+      "title": "증시 ‘들었다 놨다’ 외국인 “하루 만에 1조 넘게 샀다”…코스피 4900선 회복 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4VHhvMHJlT3l6SGd0RzZlSVdiN0lRVnRtLXkydjYtaldRWElDc1BCbERyMXJyV0RabjFMSWdVdG1rcnpsN0ZSNjFSSjBTSUkwZlE?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "닷컴버블보다 큰 충격?…경제지표로 본 AI발 증시 급락 - 딜사이트",
+      "source": "딜사이트",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yM1QwZ1NRbWM4cFZoR013MGo0ZE1NeU1TcWZyN3I5eVhPa2FaTEZUYkpKdWZpWG1RRG5fWWNsT1dKY1ZVakVCMXdIRW1PU1E?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
