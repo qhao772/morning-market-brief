@@ -1,23 +1,23 @@
 {
-  "updatedAtISO": "2026-11-26T19:29:07Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.27 04:29 (한국시간)",
+  "updatedAtISO": "2026-11-27T02:44:43Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.27 11:44 (한국시간)",
   "us10y": 4.91,
   "us30y": 5.3,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1343.31,
-  "usdJpy": 159.28,
-  "jpyKrw100": 843.36,
+  "usdKrw": 1340.49,
+  "usdJpy": 159.17,
+  "jpyKrw100": 842.16,
   "indices": {
     "kospi": {
-      "value": 4711.21,
-      "changePct": 0.29
+      "value": 4827.6,
+      "changePct": 2.47
     },
     "kosdaq": {
-      "value": 655.71,
-      "changePct": 0.78
+      "value": 693.76,
+      "changePct": 5.8
     },
     "sp500": {
       "value": 7182.78,
@@ -35,33 +35,33 @@
   "issues": [
     {
       "tag": "시장 뉴스",
+      "title": "간밤 미국 증시 휴장...\"저가 매수세 유입 기대\" - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVMkJFMlJrazlISThzay1hWlFMWFNib2NDUTdmbkJydlQwR3ZEbHdQYjdUVUt2RlNmSTM1S1pPeXExSnVWOXp4d1EwUTlnMWxsejdGdGFZR3VsTDlpaGc?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "미국 증시 급락, 아직 바닥이 아니라고요? - 네이버페이 머니스토리",
       "source": "네이버페이 머니스토리",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nbDlJQnV4bzlYbE5RaExkUFpkOEpCcjFuRWlCV2EzYjlKVmxIc2lYclIzaXE5bDYwVEZWZU9UX3ctVGV6VWRfWDF0UnVGaEhubkk5aEJCRGE?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "美 금융시장, 26일 추수감사절로 휴장 - 연합인포맥스",
-      "source": "연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKU1lNZzFwa0VuTXVzRFp5Zm5Wd1ZrbUFUcEhDS1ZnZldNOTJWLTVfaFFWazJaaFVtR182Z3hjZHJONmVsZmpKb2xURFl6dlYyZFJkMzh6b09JUzRCVUdUQnhVWmZEOG9vZG5JUUtoLWo?oc=5"
+      "title": "국민의힘 \"李대통령, 코스피 5000 외치고 미국 탓만…증시·집값 대책 내놔야\" - 뉴스핌",
+      "source": "뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rc2hKNWxjeFlGWG1pbGhxb1E4WTBYcTFfdk1KTXZhSEtWcXJfbkN0aUpfeFUtT0RxV212M1I2NHZFNWptSGZNelJRbWtCQm0wMTJudHRoMGJtZEhs?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "[미국 증시] 美 주식 11월 26일 휴장일, 왜?…뉴욕증시 언제 재개되나 - CBC뉴스",
-      "source": "CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UaGhtU2Z0RkpHM1F3b2NyZ1VQUm5xX3NkbjVvVzMtcXJ3UFd4Yzl3SU55VWFpQjFSallNS3VZZC1Tek1zSXlNa0VCUEIxWHB5bjBydU9FNFZYVzJ0X2V4N2hqeUZBcW9s?oc=5"
+      "title": "[미국증시] '역 부의 효과' 우려…1조 달러 소비 시험대 - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsSTZtSjFPajhLZDdMZnZya2gwcjk1OVJQSnVQdUplcFJYU2FRZGd5ZFJIUWM3NkR6VDhiZUVLYzFUb3lhY1ZROWwwcDBfSlcxcGJMRUdEY04wblNSUFdFNzRoVERocWM?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "널뛰는 코스피에 개미 투자금은 미국 대표지수 ETF로 '쏠림' - 연합뉴스",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nY2NCSzdFVFZGNC0ybU5ETEh1aTdyeDBtV1ZUbEpJR0RZb1pTaHY1bnlVQU1LeS1jdzBKcEppVlQ5TndXNnhPUnFMaDhqVkVIbmJHb0Y1WjdGVEXSAWBBVV95cUxQRUwtZkNCUTNmemhnNEpIbEVsVEFWYjhDMlp2MHJBMzZSRFExbmVFeF8tSklMRlRJbThRSE9vTl9WWmUwRXQtS3lyOEFQNmFuem9QNGJfS3VxcEhFUEM4TkE?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[亞증시-종합] 기술주 반등 속 日·臺·홍콩↑…중국 혼조 - KB Think",
+      "title": "日 증시, 美 휴장 속 유럽 강세장·배당 재투자에 상승 출발 - KB Think",
       "source": "KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UMEE4YjJiblBLZFBmY2VzQUJhZnNnRFFOZUFCQmtFNmpkZ0YxdmVRLUxGOHk0MFdZOVhkTko2RnlXc3dRUWNYUzZfNmwyQ2NGelNJdE5nbVRxWmxwZ2JwbElmWTcyR051TTJxNDV1ME1adw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GN3pGS0lmazRfaE9Fd1hzNFRKYzItYWp4WUtxVnl2MlFlT1l3ZlZKZVljb2FyOWRTaWhscHJUVFhsQjFKMXlqVzU5TEFxdmlSQy1heGRZR2tWb1pRcWRyTTU5OERFMkZsaVJTdlg3U2VxUQ?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
