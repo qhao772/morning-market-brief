@@ -1,15 +1,15 @@
 {
-  "updatedAtISO": "2026-11-27T21:05:21Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.28 06:05 (한국시간)",
-  "us10y": 4.91,
-  "us30y": 5.3,
+  "updatedAtISO": "2026-11-28T03:49:25Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.28 12:49 (한국시간)",
+  "us10y": 4.85,
+  "us30y": 5.24,
   "fedFundsLow": 3.75,
   "fedFundsHigh": 4.0,
   "krBase": 3.0,
   "krBaseNote": "한국은행 금융통화위원회 (변경 시 이 파일의 krBase 값을 직접 수정)",
-  "usdKrw": 1333.33,
-  "usdJpy": 159.57,
-  "jpyKrw100": 835.59,
+  "usdKrw": 1333.9,
+  "usdJpy": 159.51,
+  "jpyKrw100": 836.22,
   "indices": {
     "kospi": {
       "value": 4915.68,
@@ -41,27 +41,27 @@
     },
     {
       "tag": "시장 뉴스",
-      "title": "간밤 미국 증시 휴장...\"저가 매수세 유입 기대\" - YTN",
-      "source": "YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVMkJFMlJrazlISThzay1hWlFMWFNib2NDUTdmbkJydlQwR3ZEbHdQYjdUVUt2RlNmSTM1S1pPeXExSnVWOXp4d1EwUTlnMWxsejdGdGFZR3VsTDlpaGc?oc=5"
+      "title": "주식시장 새내기인데 첫날 몸값이 6.6조원…개미가 만나는 美 기업 달라졌다 - 매일경제 마켓",
+      "source": "매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PNWthNF9sMUhYbktpOURSODd6ZDV5cFNJZWt4TEtrSk45Nkd6VGxNcDBaMmFwVFZ0cWR2OTdOYkRIMVpQdlROdUh2b1AwTXltVnc?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "타격을 입었던 AI 관련주들이 선방을 이어가면서 미국 증시는 주간 상승세를 기록할 전망이다 - TradingView",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwQi1lVC1kZjMyUnhEaXZTcUtETHR6VDRNX1doYU9FNXRMQ0M3b2lRNXJRcHo2MWswQ2RNTG1KbmowTGxfcV9WYWNoVzlhNGg1dDVpREtTR1RLTzdGYlBlSzFiWlRHdkpoNnI0WnhmYjVtT1JOV1Rr?oc=5"
+      "title": "[미국증시] 추수감사절 주간 반등…골드만은 매도 경고 - 자본시장뉴스",
+      "source": "자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSU2Yya2xYemI1MnVTbVItWkd2Q0hrMHlQQ1JSY3JRNW1rMzB0ZmRPcEkwUVN4a1BJal9mSHlITGpTRmh6VFlOakM5M3hRbGRwYW15THlNZDVKMkJSaTVyanloazI0YVU?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "오를 때는 '코스피 5000', 내릴 때는 '미국 탓'? - 한국NGO신문",
-      "source": "한국NGO신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91SkhZRzA4cnkwTExtM0hfY0RjcnpNRjl4UENDN3g2YUkyaDJxSXdQUDlaWFhwUy1vZHZjLWw5OXIzTzZxanRJenMyU1JjVXJMeXg1MHNhQ0hBaEpsdzlhYUZqMkUyRkNW?oc=5"
+      "title": "[마켓엑세스] 시장지수 아래에 숨어있는 미국 증시의 새로운 기회 - 이데일리",
+      "source": "이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVZLRWtkcV9mcGxaemV1RFV4OWZJTEFmUTktUXJieGwzX3ZONmZUdHpmRmVfZ1cyQy1NSlFNTDZucGpLV2RfeUczbjQzWjc2THMzanpDZFNrNExkUDhUUlVFLXVWcmprY09mUkN4Ym5vakJWZHlYLTlmLVZORy1CWQ?oc=5"
     },
     {
       "tag": "시장 뉴스",
-      "title": "지수 선물 시황 - 미국 증시 휴장한 가운데 회복된 글로벌 위험선호 심리 - Investing.com 한국어",
-      "source": "Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5naTZZX29YYWJKRkRNMkxpQmoydmpLUFVoemJObVdNMkI0NVBCa2E5UDJjRV9EMTVwV0kwWk9JQ2xoTGhWTFR0MDhnYVV3al9lYVdiNWhuTWdVWW8xbnVjRQ?oc=5"
+      "title": "美증시 에너지업종 올들어 37% 상승…AI에 가려진 주도주 - 연합뉴스",
+      "source": "연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PR1FqN3JDS1VpOVBhSWFPckxtaWVJUDd2eDUtb2ZVQ043ZFhGTmZmYnNBUGFSVFNleGEtekhPcHhPTW9pNVdJQUh5ZUNhYkZhYzI2Y3pkd0lCRTTSAWBBVV95cUxPeFdwRmFWZWRoT3JWS3ZSS0FPYWY5YzRiN0t3VEFoQXB4QTNDZ3pPMkg0YWNUWFhkRXNxcjFKWkoyY2NJRTBSU2Rxa0JlWkN4ajdxRTNaTDYyaDBJc3ZMOTE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
