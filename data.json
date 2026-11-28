@@ -1,6 +1,6 @@
 {
-  "updatedAtISO": "2026-11-28T03:49:25Z",
-  "updatedAtLabel": "자동 갱신: 2026.11.28 12:49 (한국시간)",
+  "updatedAtISO": "2026-11-28T12:51:11Z",
+  "updatedAtLabel": "자동 갱신: 2026.11.28 21:51 (한국시간)",
   "us10y": 4.85,
   "us30y": 5.24,
   "fedFundsLow": 3.75,
@@ -41,6 +41,18 @@
     },
     {
       "tag": "시장 뉴스",
+      "title": "26년 12월 이달의 ETF: 요즘 증시 너무 어렵다면? 알아서 분산투자 해주는 ETF가 있어요 📊 - 뉴닉",
+      "source": "뉴닉",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yQ0VNZUctbW05aDkxZlJaNU9GYXRkTWNhMExFNGV0ZDlTNTVqbG16YzZmX3VyNWh5MkhtMmpVX1FZY1ZzYkxWanRzVl9uRzlqRkZOU3Fn?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
+      "title": "예년만 못한 미국 쇼핑 대목 블랙프라이데이...'롤러코스터' 증시 영향 - YTN",
+      "source": "YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzYU4tZVI5czJ5Q0FrQTktVjhjV3VwdldzTFNobC04UFhLR1NyRWQ5SVl1V0FYRk55bk5VMnhablVYR2h1czlWMGJhSmw1X0VibFd0RS1hUnJSY0J6V0E?oc=5"
+    },
+    {
+      "tag": "시장 뉴스",
       "title": "주식시장 새내기인데 첫날 몸값이 6.6조원…개미가 만나는 美 기업 달라졌다 - 매일경제 마켓",
       "source": "매일경제 마켓",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PNWthNF9sMUhYbktpOURSODd6ZDV5cFNJZWt4TEtrSk45Nkd6VGxNcDBaMmFwVFZ0cWR2OTdOYkRIMVpQdlROdUh2b1AwTXltVnc?oc=5"
@@ -50,18 +62,6 @@
       "title": "[미국증시] 추수감사절 주간 반등…골드만은 매도 경고 - 자본시장뉴스",
       "source": "자본시장뉴스",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSU2Yya2xYemI1MnVTbVItWkd2Q0hrMHlQQ1JSY3JRNW1rMzB0ZmRPcEkwUVN4a1BJal9mSHlITGpTRmh6VFlOakM5M3hRbGRwYW15THlNZDVKMkJSaTVyanloazI0YVU?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "[마켓엑세스] 시장지수 아래에 숨어있는 미국 증시의 새로운 기회 - 이데일리",
-      "source": "이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVZLRWtkcV9mcGxaemV1RFV4OWZJTEFmUTktUXJieGwzX3ZONmZUdHpmRmVfZ1cyQy1NSlFNTDZucGpLV2RfeUczbjQzWjc2THMzanpDZFNrNExkUDhUUlVFLXVWcmprY09mUkN4Ym5vakJWZHlYLTlmLVZORy1CWQ?oc=5"
-    },
-    {
-      "tag": "시장 뉴스",
-      "title": "美증시 에너지업종 올들어 37% 상승…AI에 가려진 주도주 - 연합뉴스",
-      "source": "연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PR1FqN3JDS1VpOVBhSWFPckxtaWVJUDd2eDUtb2ZVQ043ZFhGTmZmYnNBUGFSVFNleGEtekhPcHhPTW9pNVdJQUh5ZUNhYkZhYzI2Y3pkd0lCRTTSAWBBVV95cUxPeFdwRmFWZWRoT3JWS3ZSS0FPYWY5YzRiN0t3VEFoQXB4QTNDZ3pPMkg0YWNUWFhkRXNxcjFKWkoyY2NJRTBSU2Rxa0JlWkN4ajdxRTNaTDYyaDBJc3ZMOTE?oc=5"
     }
   ],
   "sourceNote": "자료: FRED(연준), Yahoo Finance(환율·지수), 구글 뉴스 등 공개 데이터를 자동으로 모은 참고용 정보이며 실제 거래·투자 판단 전에는 각 기관의 공식 고시를 확인하세요."
